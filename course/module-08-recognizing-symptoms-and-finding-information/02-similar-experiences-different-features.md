@@ -1,6 +1,6 @@
 # When the Familiar Explanation Doesn't Quite Fit
 
-> **Working draft:** Person section human-approved November 5, 2026; Supporter and Clinician sections remain generated seeds awaiting human authoring and further review.
+> **Working draft:** Person and Clinician sections human-approved November 6, 2026; Supporter section remains a generated seed awaiting human authoring and further review.
 
 Lesson 25 follows Natalie as an unfamiliar episode leads to a medical finding, showing how observations, test results, interpretations and unanswered questions differ. The Person section is human-authored; the other audience sections remain generated drafts.
 
@@ -241,28 +241,105 @@ Sudden stroke-like changes, serious breathing difficulty, injuries or other urge
 
 ## For Clinicians and the Care Team
 
-### Differential diagnosis is a disciplined comparison—not an exclusion ritual
+### When an earlier explanation follows the patient
 
-The patient should learn to distinguish observable *features*, while clinicians retain responsibility for assessing *causes*. Functional signs and other medical conditions may coexist. An examination sign is meaningful only where it has sufficient specificity and reliability for the presentation under investigation. (*citations* [1](#citation-1), [2](#citation-2))
+In the *For the Person With FND* section, Natalie experiences an unfamiliar episode of near-faintness and learns that a medical finding can answer one question while leaving others open. This clinical discussion can also be read independently.
 
-Use a short case with incomplete information and ask three questions: **What is observed? What remains unknown? What would change assessment or urgent management?** Avoid giving a correct diagnosis based on a story alone.
+Natalie lives alone with longstanding FND, severe functional seizures, variable walking difficulties and a continuous migraine. Her current clinicians inherited her care; none participated in her original diagnosis or early treatment.
 
-### Three teachable cases
+Her medical history includes years of headache, accompanied by disabling light and sound sensitivity. In an earlier clinical record, migraine appeared among the symptoms listed under FND.
 
-**Case A — A movement called “shaking.”** A person reports repeated hand movements, sudden jerks and occasional limb stiffening. Neurology may need to distinguish tremor, jerks, tic-like phenomena, dystonia or another movement disorder, based on phenomenology, medications, examination and appropriate tests. Movement-disorders clinicians can interpret positive findings in context; PT/OT then use the confirmed presentation and functional goals to select corresponding recovery techniques. A rhythmic task response alone does not classify all movements.
+Natalie has lived with several diagnoses and explanations over the years. She's learned more about FND, but remains uncertain about some of the reasoning behind her earlier care.
 
-**Case B — An episode called “passing out.”** The person has falls, apparent unresponsiveness and uncertain recall. Evaluate syncope (including potential cardiac causes), epileptic events, functional seizures, drop attacks and other relevant medical explanations using the whole event and targeted tests. A reported warning, silence or remembered speech cannot by itself confirm any one category. An event in water, abnormal breathing, injury, new focal deficit or medical instability changes immediate safety decisions; individualized episode instructions do not replace acute medical care.
+During an appointment, she asks:
 
-**Case C — “Dizzy, foggy, and can't see properly.”** Describe rotation versus faintness versus disequilibrium, upright/motion/visual triggers, headache, light sensitivity, visual phenomena and cognitive complaints. Possible contributing disorders include vestibular conditions, PPPD, migraine, autonomic/cardiac illness, visual disease, FCD or several together. Vestibular PT, OT and ophthalmology/neurology may be needed; psychotherapeutic support cannot substitute for omitted ocular or cardiovascular assessment.
+"If my migraine was listed as an FND symptom, does that mean treating FND is the only way it can improve?"
 
-### Make teaching the differential safer and more useful
+It's a reasonable question. If Natalie believes that her migraine is simply another functional symptom, she may not realize that there are other treatment possibilities worth discussing.
 
-After each case, describe why a *particular kind of information* is clinically useful. For example, knowing whether a fall followed standing is useful for a blood-pressure/rhythm work-up; it does not mean every standing fall is syncope. Knowing a tremor changes with rhythm is an examination observation; it does not establish the person's control over it.
+For the clinician who has inherited her care, the question reveals an ambiguity in the historical symptom list.
 
-**Psychologists** can help with the burden of uncertainty and repeated medical experiences. They should not be tasked with deciding neurological etiology based on a person's stress history. **OT and PT** can provide access and injury reduction while the diagnostic process continues.
+**Did the earlier clinician consider migraine a separate condition that interacted with FND, or was the headache itself being attributed to FND?**
 
-**Evidence boundary:** The specific 17 presentation pages in [Diagnostic Signs](../../reference/diagnostic-signs/README.md) and current source-guided neurological assessment govern interpretation; the fictional cases are pedagogical, not validated triage algorithms. [1](#citation-1) · [2](#citation-2).
+Those possibilities aren't equivalent, and the distinction matters to Natalie.
 
+### When association becomes an explanation
+
+Migraine is a recognized neurological disorder with established diagnostic criteria and treatment approaches.
+
+It can coexist with FND. Migraine attacks may precipitate or worsen functional symptoms in some people, and living with both conditions may increase the overall burden of illness.
+
+Stone and colleagues (2025) reviewed the relationship between migraine and FND, including evidence of comorbidity and possible interactions. Their review does not establish that all migraine occurring alongside FND shares a single mechanism with functional symptoms.
+
+This helps explain why migraine appearing on a list of FND symptoms can carry several meanings.
+
+The list might reflect an observed relationship between migraine and functional symptom exacerbations. It might simply record that both conditions were present. Or it might reflect an earlier understanding of how the conditions were related.
+
+The listing alone cannot distinguish these possibilities.
+
+Importantly, this doesn't establish that the original clinician was mistaken. Their assessment may have rested on observations or information that aren't apparent in the available records. The wording may also reflect how the relationship between migraine and FND was understood at the time of diagnosis.
+
+But the symptom list itself cannot tell Natalie what those observations were, or whether her migraine has treatment possibilities independent of her FND care.
+
+For Natalie, the practical significance is considerable. Her persistent headache affects communication, mobility, social participation and her ability to engage with treatment.
+
+Even when migraine influences functional symptoms, its own characteristics, disabling effects and treatment possibilities remain relevant.
+
+**Recognizing an association between conditions is not the same as establishing that they share a cause or must be treated as one disorder.**
+
+### What can a new finding change?
+
+During a recent appointment, Natalie also describes a different experience: her vision dimmed after standing, and she felt close to fainting.
+
+A subsequent examination identifies a fall in blood pressure when she stands.
+
+That finding may help explain the unfamiliar episode. It doesn't automatically explain her longstanding unsteadiness, migraine or functional seizures.
+
+The same reasoning applies to the earlier headache attribution.
+
+Identifying an interaction between two conditions doesn't establish that one condition causes the other. Finding a separate explanation for one symptom doesn't necessarily invalidate an existing diagnosis.
+
+For a clinician inheriting Natalie's care, this raises a useful distinction between what previous assessments established, what was subsequently inferred and what current evidence adds.
+
+The clinical significance of new information depends partly on which earlier conclusions it actually bears upon.
+
+### Understanding the explanation together
+
+Natalie's question about her migraine opens a conversation that might otherwise never have occurred.
+
+She isn't necessarily challenging her original diagnosis. She's trying to understand what it means for her care today.
+
+An explanation that distinguishes migraine as a neurological disorder from its possible interactions with FND can help clarify why both conditions may deserve attention.
+
+It also allows room for the earlier clinician's reasoning to have been appropriate, even if the symptom list left Natalie with an incomplete understanding.
+
+The distinction may be especially valuable when different clinicians have used different terminology over the years.
+
+For example, Natalie may have interpreted migraine's place on the FND symptom list to mean that her headache couldn't be addressed separately. The earlier clinician may instead have intended to record an interaction between conditions.
+
+Clarifying that difference can change what Natalie understands about her treatment possibilities without requiring her to reject an established diagnosis.
+
+Her cognitive difficulties and severe sensory sensitivity also make accessible explanations important. Information she can understand and revisit is more useful than terminology whose meaning remains uncertain.
+
+### Understanding an inherited history
+
+A clinician taking over Natalie's care encounters established diagnoses, longstanding symptoms and explanations developed by other professionals.
+
+Some conclusions may remain well supported. Others may need clarification as new information becomes available.
+
+Recognizing that distinction doesn't require questioning every previous decision or beginning the diagnostic process again.
+
+It means that **a diagnosis and an interpretation of how several conditions relate to one another are not necessarily the same thing**.
+
+Natalie's migraine may coexist with her FND, influence particular functional symptoms or involve relationships that remain incompletely understood. None of these possibilities removes the importance of understanding and addressing the migraine itself.
+
+Similarly, the new blood-pressure finding may help explain one episode without determining the cause of every previous experience of dizziness.
+
+For Natalie, a clearer explanation could mean recognizing care options she hadn't previously considered. For her clinician, it creates an opportunity to understand which historical conclusions remain relevant and which questions deserve renewed attention.
+
+**The clinical insight is that inherited explanations become more useful when we distinguish what was established, what was inferred and what the current evidence actually changes.**
+
+That distinction supports continuity of care while allowing new information—and the patient's own questions—to contribute meaningfully to clinical understanding.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
