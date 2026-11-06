@@ -2,7 +2,7 @@
 
 **Prepared:** November 4, 2026; **editorial direction revised November 5, 2026** · **Repository:** `FND-Education-Project/FND-Education` · **Historical Module 7 PR:** [#198](https://github.com/FND-Education-Project/FND-Education/pull/198) (merged November 5). **Current Module 8 editorial branch:** `editorial/module-08-syllabus-handoff-20261105`.
 
-**Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person sections** (Lessons 24–26) and **Clinician sections for Lessons 24 and 25** are human-approved and committed in draft PR #200; the remaining **four Supporter/Clinician sections are generated seeds**, unapproved. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. No lesson audits, page revisions or publication are authorized by this handoff. Preserve Modules 6–7 and all already approved material.
+**Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person sections** and **all three Clinician sections** (Lessons 24–26) are approved and committed in draft PR #200; only the **three Supporter sections** remain unapproved. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. No lesson audits, page revisions or publication are authorized by this handoff. Preserve Modules 6–7 and all already approved material.
 
 ## Verification follow-up — November 5, 2026
 
@@ -51,6 +51,11 @@ Module 8 remains a generated editorial seed requiring the existing section-by-se
 **Historical verification note (October 2026):** The following wording describes the original preparation stage. The November 5 verification update above supersedes it: the two Person quotes were subsequently source-checked, but their fit to the redesigned lessons has **not** been approved. They are seeded into *draft* lessons with explicit qualification, source links and source-table rows. The new editing chat should verify exact wording, author perspective, omission context, post availability, and whether the excerpt earns its place; replace/remove if not. Review older quotes as part of the final source audit too. Source table rows now place Figure 1 in Person and Figure 2 in Supporter for each lesson. No clinically meaningful claim should rely on an individual's quote.
 
 ## Approved audience decisions — November 5, 2026
+
+### Lesson 26 Clinician approval — November 6, 2026
+
+Approved by the project lead without textual changes and committed as [a8f88de](https://github.com/FND-Education-Project/FND-Education/commit/a8f88ded5725ec75b1668db949bec2b76854d5c2). The approved lesson discusses inherited functional-seizure diagnostic language, the distress caused by earlier terminology, what the available evidence does and does not establish, and research-informed, patient-centred care. No Supporter text or research table was changed. All three Supporter sections are next for editorial discussion and human authoring.
+
 
 ### Lesson 25 / Clinician — approved with two final clarifications, committed November 6, 2026
 
