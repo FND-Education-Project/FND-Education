@@ -1,7 +1,7 @@
 # Module 8 — Recognizing Symptoms and Finding Information
 
 **Part Two: Understanding Attention, Action, and Body Signals**  
-**Status:** Owner-approved **editorial direction** (November 5, 2026). **All three Person sections**—Lesson 24 (commit 2885888), Lesson 25 (commit 6934b16), and Lesson 26 (commit baea81a)—are human-approved and committed in draft PR #200; **Clinician sections for Lessons 24 and 25** (commits edafd4d and de83f55) are also human-approved and committed; the remaining **four** Supporter/Clinician sections are generated seeds pending human authoring. This syllabus specifies direction; approved prose lives in the lesson files. No audits or merge have occurred.  
+**Status:** Owner-approved **editorial direction** (November 5, 2026). **All three Person sections**—Lesson 24 (commit 2885888), Lesson 25 (commit 6934b16), and Lesson 26 (commit baea81a)—are human-approved and committed in draft PR #200; **All three Clinician sections** (commits edafd4d, de83f55 and a8f88de) are human-approved and committed; only the **three Supporter sections** remain generated drafts pending human authoring. This syllabus specifies direction; approved prose lives in the lesson files. No audits or merge have occurred.  
 **Current lesson numbers:** 24–26 (local Module 8 IDs 1–3). Earlier internal drafts have legacy numbering.  
 **Authoring instructions:** [Module 8 editorial handoff and nine section prompts](../../../reference/_internal/course/module-08-human-authoring-handoff-2026-11-04.md).
 
