@@ -2,7 +2,7 @@
 
 **Prepared:** November 4, 2026; **editorial direction revised November 5, 2026** · **Repository:** `FND-Education-Project/FND-Education` · **Historical Module 7 PR:** [#198](https://github.com/FND-Education-Project/FND-Education/pull/198) (merged November 5). **Current Module 8 editorial branch:** `editorial/module-08-syllabus-handoff-20261105`.
 
-**Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person sections** (Lessons 24–26) and **Lesson 24 / Clinician** are human-approved and committed in draft PR #200; the remaining **five Supporter/Clinician sections are generated seeds**, unapproved. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. No lesson audits, page revisions or publication are authorized by this handoff. Preserve Modules 6–7 and all already approved material.
+**Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person sections** (Lessons 24–26) and **Clinician sections for Lessons 24 and 25** are human-approved and committed in draft PR #200; the remaining **four Supporter/Clinician sections are generated seeds**, unapproved. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. No lesson audits, page revisions or publication are authorized by this handoff. Preserve Modules 6–7 and all already approved material.
 
 ## Verification follow-up — November 5, 2026
 
@@ -51,6 +51,14 @@ Module 8 remains a generated editorial seed requiring the existing section-by-se
 **Historical verification note (October 2026):** The following wording describes the original preparation stage. The November 5 verification update above supersedes it: the two Person quotes were subsequently source-checked, but their fit to the redesigned lessons has **not** been approved. They are seeded into *draft* lessons with explicit qualification, source links and source-table rows. The new editing chat should verify exact wording, author perspective, omission context, post availability, and whether the excerpt earns its place; replace/remove if not. Review older quotes as part of the final source audit too. Source table rows now place Figure 1 in Person and Figure 2 in Supporter for each lesson. No clinically meaningful claim should rely on an individual's quote.
 
 ## Approved audience decisions — November 5, 2026
+
+### Lesson 25 / Clinician — approved with two final clarifications, committed November 6, 2026
+
+**Owner approval:** The project lead described the revised Lesson 25 Clinician section as "excellent and valuable" with two specific changes, both incorporated in the committed version: (1) the older record **listed migraine among FND symptoms**, rather than explicitly asserting that migraine "was part of FND"; (2) the old interpretation may reflect **how the relationship was understood at the time of diagnosis**, as well as observations or documentation not now apparent. **Committed:** [de83f55](https://github.com/FND-Education-Project/FND-Education/commit/de83f555a7656a2cf83987d636e1fe0f903d95d2), in draft PR #200. Only the Clinician section and draft-status metadata were replaced; Person, Supporter and unreviewed citations/source table remain untouched.
+
+**Teaching logic to preserve:** The case turns on Natalie's understandable question, "If my migraine was listed as an FND symptom, does that mean treating FND is the only way it can improve?" This grounds the clinical distinction **before** discussing whether prior clinicians were right or wrong. Migraine is a diagnosable neurological disorder with treatment possibilities in its own right; Stone et al. (2025) is a narrative/review source on overlap and possible interactions, **not** proof of a shared mechanism or historical error. A brief observation of a standing blood-pressure fall from the Person lesson adds a second example of why new evidence has a scope; no POTS digression or procedures for clinicians. An inherited *symptom list* does not automatically establish symptom causation. The Clinician section remains self-contained and collegial, with the non-prescriptive explanatory voice. **Next Clinician audience: Lesson 26 when directed**. Reconcile the unreviewed local sources during the publication-readiness citation audit: Stone 2025 needs a local citation/source entry, old figures may be orphaned, and evidence claims must retain the relevant research class and limitations.
+
+
 
 ### Lesson 24 / Clinician — owner approved and committed (November 5, 2026)
 
