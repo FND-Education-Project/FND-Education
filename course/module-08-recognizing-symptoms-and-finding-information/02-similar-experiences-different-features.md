@@ -1,10 +1,10 @@
 # When the Familiar Explanation Doesn't Quite Fit
 
-> **Working draft:** Person, Supporter and Clinician sections human-approved November 6, 2026; subsequent lesson audits and publication checks remain pending.
+> **Working draft:** All three audience sections human-approved; Audit 1 editorial corrections approved and applied November 7, 2026. Original-source verification, subsequent audits and publication review remain pending.
 
 Lesson 25 follows Natalie as an unfamiliar episode leads to a medical finding, showing how observations, test results, interpretations and unanswered questions differ. All three audience sections are human-authored and approved.
 
-*Last reviewed: October 26, 2026*
+*Editorial Audit 1: November 7, 2026 · Original-source verification pending Work*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -44,7 +44,7 @@ It's a reasonable thought. She's already been diagnosed with FND, and her sympto
 
 But there's something important about having an established diagnosis.
 
-**Knowing the cause of some symptoms doesn't automatically tell us the cause of every symptom we experience.**
+**Having an explanation for some symptoms doesn't automatically explain every symptom we experience.**
 
 Natalie's existing FND diagnosis remains an important part of her health history, even though she still has questions about how some symptoms were assessed and explained. It doesn't prevent her from developing other health problems, and it doesn't tell her whether this particular episode had the same explanation as her familiar dizziness.
 
@@ -279,7 +279,7 @@ Those little exchanges can be easy to take for granted. One community member des
 
 > “I know having a partner to just believe and support them is extremely helpful.”
 
-*Community experience — person describing the value of support for someone with FND.* [Original public comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Previously collected in the project's caregiver quotation bank, October 25, 2026. (*citation* [7](#citation-7))
+*Figure 1* — Community experience: person describing the value of support for someone with FND. [Original public comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Previously collected in the project's caregiver quotation bank, October 25, 2026. (*citation* [4](#citation-4))
 
 A person with no dependable supporter may have to manage every part of the process alone, from recognizing an unfamiliar experience to arranging follow-up care. If cognitive difficulties make remembering information challenging, there may be nobody to help carry the conversation forward. If movement difficulties make travelling exhausting, nobody may be available to offer assistance.
 
@@ -289,7 +289,7 @@ Perhaps you've noticed a theme emerging across these lessons. We often see the a
 
 The difficulty isn't necessarily a lack of determination. Someone may be doing everything reasonably within their ability and still have important needs that aren't being met.
 
-A small Canadian interview study published in 2026 explored the experiences of people with FND and their care partners. Participants described difficulties obtaining information, navigating healthcare services and advocating for appropriate care. The study involved only 11 people with FND and two care partners, so it cannot tell us how common these experiences are, but it helps show why obtaining care can involve considerably more work than attending an appointment. [Read the study](https://doi.org/10.1017/cjn.2026.10629). (*citation* [6](#citation-6))
+A small Canadian interview study published in 2026 explored the experiences of people with FND and their care partners. Participants described difficulties obtaining information, navigating healthcare services and advocating for appropriate care. The study involved only 11 people with FND and two care partners, so it cannot tell us how common these experiences are, but it helps show why obtaining care can involve considerably more work than attending an appointment. [Read the study](https://doi.org/10.1017/cjn.2026.10629). (*citation* [3](#citation-3))
 
 For supporters, understanding that effort can change the conversation. Instead of assuming that someone who attended an appointment has everything under control, we might appreciate how much they accomplished just by getting there.
 
@@ -311,7 +311,7 @@ An Australian report collecting experiences from people with FND and their careg
 
 > “With the right level of support, I still believe I could thrive.”
 
-*Community experience — person living with FND, reported in the Australian National Mental Health Commission's [Experiences of Functional Neurological Disorder](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf), 2019.* (*citation* [8](#citation-8))
+*Figure 2* — Community experience: person living with FND, reported in the Australian National Mental Health Commission's [Experiences of Functional Neurological Disorder](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf), 2019.* (*citation* [5](#citation-5))
 
 It's a hopeful statement, but notice what makes that hope possible. The person isn't waiting to become completely symptom-free before imagining a better life. They're recognizing that appropriate support might allow them to do more with the abilities and opportunities they already have.
 ***
@@ -352,7 +352,7 @@ Migraine is a recognized neurological disorder with established diagnostic crite
 
 It can coexist with FND. Migraine attacks may precipitate or worsen functional symptoms in some people, and living with both conditions may increase the overall burden of illness.
 
-Stone and colleagues (2025) reviewed the relationship between migraine and FND, including evidence of comorbidity and possible interactions. Their review does not establish that all migraine occurring alongside FND shares a single mechanism with functional symptoms.
+Stone and colleagues (2025) reviewed the relationship between migraine and FND, including evidence of comorbidity and possible interactions. Their review does not establish that all migraine occurring alongside FND shares a single mechanism with functional symptoms. (*citation* [2](#citation-2))
 
 This helps explain why migraine appearing on a list of FND symptoms can carry several meanings.
 
@@ -433,18 +433,14 @@ That distinction supports continuity of care while allowing new information—an
 
 ## Research and Sources
 
-General neuroscience, FND research findings, proposed mechanisms, professional consensus and treatment trials are distinguished in this lesson. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
+Research sources are identified by their evidence type and scope. The references below have been **reconciled editorially with the human-authored lesson**, using existing project citation records; **original-source/claim verification remains assigned to Work**. Community quotations describe individual experiences and are not clinical or prevalence evidence. The stories and conversations in this lesson are fictional teaching examples, not research cases or tested treatment protocols.
 
-| Citation | Figure | Full citation |
+| Citation | Figure | Full citation and relevant use |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
-| <a id="citation-2"></a>**[2]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee.** Neurology. 2026;106:e214466; online December 10, 2025. doi:10.1212/WNL.0000000000214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41370742/). [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
-| <a id="citation-3"></a>**[3]** | — | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) [FND-CIT-0027](../../research/citation-index.md#fnd-cit-0027). |
-| <a id="citation-4"></a>**[4]** | Figure 2 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/16iyjst/dad_helping_recently_diagnosed_daughter/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0314](../../research/citation-index.md#fnd-cit-0314). |
-| <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND, “What are you main symptoms?” Comment by a person describing their own FND diagnosis and symptom changes. Exact excerpt, speaker perspective and surrounding context checked November 5, 2026. [Original](https://www.reddit.com/r/FND/comments/1pmq119/comment/nu24zyl/). Individual account, not clinical evidence. [FND-CIT-0330](../../research/citation-index.md#fnd-cit-0330). |
+| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** *Clinical Medicine*. 2021;21:28–36. [Original](https://doi.org/10.7861/clinmed.2020-0987) · [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). Clinical review on positive FND diagnosis and consideration of coexisting conditions. |
+| <a id="citation-2"></a>**[2]** | — | Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. **Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap.** *Brain Communications*. 2025;7(4):fcaf288. [Original](https://doi.org/10.1093/braincomms/fcaf288) · [FND-CIT-0049](../../research/citation-index.md#fnd-cit-0049). Review of comorbidity and possible interactions; not proof of one common mechanism. |
+| <a id="citation-3"></a>**[3]** | — | Leochico CFG, Kashif D, Bhatt H, et al. **Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study.** *Canadian Journal of Neurological Sciences*. Published online July 23, 2026. [Original](https://doi.org/10.1017/cjn.2026.10629) · [FND-CIT-0082](../../research/citation-index.md#fnd-cit-0082). Small Ontario qualitative study; not a prevalence estimate. |
+| <a id="citation-4"></a>**[4]** | Figure 1 | Community quotation Q002 / source S01, public r/FND comment by a community member describing the value of being believed and supported. [Original public comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Previously collected October 25, 2026; **original comment and speaker perspective require Work recheck**. Individual account, not clinical evidence. **Central citation ID registration pending source verification.** |
+| <a id="citation-5"></a>**[5]** | Figure 2 | Australian National Mental Health Commission. **Experiences of Functional Neurological Disorder — Summary Report.** July 2019. [Original public report](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf). Anonymous **person living with FND** quoted in a self-selected survey; not a representative prognosis or estimate of support availability. **Original quotation reconfirmation and central citation ID registration assigned to Work.** |
 
-| <a id="citation-6"></a>**[6]** | — | Leochico CFG, Kashif D, Bhatt H, et al. **Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study.** *Canadian Journal of Neurological Sciences*. Published online July 23, 2026. [Original](https://doi.org/10.1017/cjn.2026.10629). Ontario focus groups: 11 people with FND and two care partners; not a prevalence estimate. [FND-CIT-0082](../../research/citation-index.md#fnd-cit-0082). |
-| <a id="citation-7"></a>**[7]** | — | Community quotation Q002 / source S01, public r/FND comment by a person describing the value of believing and supporting someone with FND. [Original](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Exact wording and source link retained in *FND-Caregiver-Quotation-Bank-Lessons-13-75.docx*, collected October 25, 2026. The original public comment was not freshly reverified in this turn; individual experience, not clinical evidence. |
-| <a id="citation-8"></a>**[8]** | — | Australian National Mental Health Commission. *Experiences of Functional Neurological Disorder — Summary Report*. July 2019. [Original public report](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf). Survey-collected quotation by an anonymous person with FND; self-selected survey, not a representative prognosis or proof of support availability. |
-
-*Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
+*Editorial Audit 1: November 7, 2026; owner-approved citation alignment. Original research, quotation, and link verification, later audits and independent clinical review have **not** been completed or claimed.*
