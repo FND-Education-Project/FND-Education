@@ -4,6 +4,12 @@
 
 **Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person**, **three Clinician**, and **three Supporter sections** are human-approved and committed to PR #200 as of November 7, 2026. All nine audience sections have completed human authoring. Lesson audits, source/link review, merge and publication remain pending. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. No lesson audits, page revisions or publication are authorized by this handoff. Preserve Modules 6–7 and all already approved material.
 
+## Audit 1 — editorial findings and pending decisions (November 7, 2026)
+
+**Review recorded, lesson revisions awaiting owner discussion:** [Audit 1 findings report](module-08-audit-01-editorial-findings-2026-11-07.md) covers all nine approved audience sections of Lessons 24–26 in draft PR #200. The report separates required citation/status reconciliation, optional pacing and teaching-scope refinements, original-source/quotation checks for Work, and approved material to preserve. **No new Audit 1 proposals have yet been approved by the project lead; no lesson prose was changed by this audit record.**
+
+**Decisions awaiting Robert:** (1) authorization of status/citation cleanup with Work performing real evidence and quotation verification; (2) possible precise wording clarification in Lesson 25 Person; (3) whether to preserve Lesson 25 Clinician's deliberately approved migraine-focused case unchanged or modestly extend its orthostatic-finding inference; (4) whether to make small pacing-only adjustments in Lesson 24 Person and Lesson 26 Supporter. The already approved 2026-11-05–07 human-authored sections remain approved. Do not mark original sources verified on the basis of editorial review, mark Audit 2 complete, or merge this draft PR.
+
 ## Research and community-voice update — November 6, 2026
 
 Robert asked Work Mode to provide Chat Mode with fuller evidence and better quotation options following its proposed additions to Lessons 24 and 25. Read the **[detailed research and quotation supplement](module-08-lessons-24-25-evidence-and-community-voices-2026-11-06.md)** before proposing those additions.
