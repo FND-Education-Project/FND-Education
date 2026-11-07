@@ -195,6 +195,27 @@ You could also ask what the next step is intended to clarify.
 You don't need to investigate every possibility yourself or remember every detail of the conversation. An explanation in ordinary language, or a brief written summary when helpful, may be enough.
 
 The goal is to understand the information that matters to your care, one question at a time.
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-25" aria-label="Browse Lesson 25 crossword"><img src="{{ '/assets/puzzles/thumbnails/similar-experiences-different-features-m8-25-normal.svg' | relative_url }}" alt="Preview of the Lesson 25 crossword grid" loading="lazy" decoding="async"><span>When the Familiar Explanation Doesn't Quite Fit</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 25 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-25-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-25-coloring-book.png' | relative_url }}" alt="Outline colouring-page preview of Natalie discussing her health with a clinician and referring to a note." style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-25-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 25 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-25">browse the colouring collection</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
