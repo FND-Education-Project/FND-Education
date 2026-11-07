@@ -8,6 +8,9 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 
 ## Course editorial handoffs
 
+- [Crossword clue-authoring standard](course/crossword-clue-authoring-standard.md) — internal writing and review guide for person-facing lesson clue banks; separate from puzzle PDF formatting.
+
+
 - [Module 7 Audit 2](course/audit-02-module-07-2026-11-04.md) — Lessons 18–23 editorial completion, media and puzzle checks, and the outstanding separate tracker reconciliation.
 
 - [Module 7 accepted Audit 1 corrections](course/module-07-accepted-audit-1-corrections-2026-11-04.md) — source, authorship and link corrections applied with brief, positive qualifications; Audit 2 pending.
