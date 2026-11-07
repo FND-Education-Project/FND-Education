@@ -391,6 +391,8 @@ Use this source for its broad clinical overview, diagnostic-pitfall table, posit
 
 **Module 7 current use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
 
+**Module 8 current use (citation alignment only; original-source/claim verification pending Work):** [Lesson 25](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
+
 ## FND-CIT-0002
 
 Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
@@ -448,6 +450,8 @@ Use this source for the International League Against Epilepsy task force’s 202
 
 **Module 7 current use:** [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md).
 
+**Module 8 current use (citation alignment only; original-source/claim verification pending Work):** [Lesson 26](../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md).
+
 ## FND-CIT-0010
 
 Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466)
@@ -464,6 +468,8 @@ Use this source for current American Academy of Neurology evidence-based guidanc
 **Concepts-first course use:** [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
 
 **Module 7 current use:** [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
+
+**Module 8 current use (citation alignment only; original-source/claim verification pending Work):** [Lesson 26](../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md).
 
 ## FND-CIT-0011
 
@@ -484,11 +490,15 @@ Use this consensus source for flexible, person-chosen functional goals and its d
 
 **Module 7 current use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
+**Module 8 current use (citation alignment only; original-source/claim verification pending Work):** [Lesson 24](../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+
 ## FND-CIT-0012
 
 Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9)
 
 Use this source for the importance of patient-centred outcomes that include symptoms, emotional wellbeing, daily activities, independence and quality of life. It reports the views of a purposively sampled UK group and should not be treated as a population estimate or individual prognosis.
+
+**Module 8 current use (citation alignment only; original-source/claim verification pending Work):** [Lesson 24](../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
 
 ## FND-CIT-0013
 
@@ -678,6 +688,8 @@ Use this source for mixed evidence on dissociative-seizure-specific CBT. The pri
 
 **Concepts-first course use:** [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
 
+**Module 8 current use (citation alignment only; original-source/claim verification pending Work):** [Lesson 26](../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md).
+
 ## FND-CIT-0034
 
 Duncan R, Berlowitz DJ, Mullen S, et al. Breathing control training for functional seizures: a multi-site, open-label pilot study. *Epilepsy & Behavior*. 2024;154:109745. [https://doi.org/10.1016/j.yebeh.2024.109745](https://doi.org/10.1016/j.yebeh.2024.109745)
@@ -777,6 +789,8 @@ Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and fu
 Use this source for the relationship between migraine and FND. The review found clearer evidence of increased migraine frequency in functional seizures than in functional motor or wider FND groups; it should not be used alone to establish a general family of functional disorders.
 
 **Additional current use — co-occurring conditions:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md); [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md).
+
+**Module 8 current use (citation alignment only; original-source/claim verification pending Work):** [Lesson 24](../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 25](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
 
 ## FND-CIT-0050
 
@@ -918,6 +932,8 @@ Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional ne
 
 Use this source for the limited validation of FND-specific outcome measures, the need to capture several outcome domains, and the strengths and limitations of patient-reported, clinician-rated and objective measures. Do not describe the course’s personal symptom map as a validated outcome measure or diagnostic instrument.
 
+**Module 8 current use (citation alignment only; original-source/claim verification pending Work):** [Lesson 24](../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+
 ## FND-CIT-0068
 
 Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263)
@@ -1035,11 +1051,15 @@ Leochico CFG, Kashif D, Bhatt H, et al. Challenges and care recommendations of p
 
 Use this Ontario focus-group study for accounts of delayed or dismissed diagnosis, fragmented services, forced self-advocacy, costs and participants' care recommendations. The sample comprised 11 people with FND and only two care partners in one Canadian province; it cannot represent all patients, supporters or health systems.
 
+**Module 8 current use (citation alignment only; original-source/claim verification pending Work):** [Lesson 25](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
+
 ## FND-CIT-0083
 
 Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826)
 
 Use this review of 15 quantitative studies for reported acceptance, understanding and satisfaction after diagnostic communication. Only four studies entered the pooled acceptance estimate, heterogeneity was substantial and comparative evidence was weak; structured, empathic explanation and follow-up are reasonable practices, but superiority for acceptance or recovery is not established.
+
+**Module 8 current use (citation alignment only; original-source/claim verification pending Work):** [Lesson 26](../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md).
 
 ## FND-CIT-0084
 
