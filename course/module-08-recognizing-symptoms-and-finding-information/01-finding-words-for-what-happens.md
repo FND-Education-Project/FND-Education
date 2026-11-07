@@ -56,6 +56,14 @@ Natalie smiles.
 
 And she has.
 
+<figure class="image-60center" markdown="1">
+
+![Natalie and her friend Leah enjoy a conversation in a softly lit living room, with curtains drawn and a small bakery bag nearby.](../../assets/images/lesson-24-illustration.png)
+
+<figcaption>A good afternoon can be real progress, even when symptoms and support needs remain.</figcaption>
+
+</figure>
+
 ### The part Leah didn't see
 
 After Leah leaves, Natalie settles back into her chair.
