@@ -52,6 +52,14 @@ The clinician doesn't need Natalie to choose between believing in her FND diagno
 
 As we explored in Module 5, meaningful changes in familiar symptoms deserve appropriate assessment. Here, though, we're going to look at something more: what happens when that assessment begins producing information.
 
+<figure class="image-60center" markdown="1">
+
+![An attentive doctor speaks with Natalie during a medical appointment. Natalie holds a personal symptom note while they talk.](../../assets/images/lesson-25-illustration.png)
+
+<figcaption>Understanding what was found—and what remains uncertain—can make a medical conversation more useful.</figcaption>
+
+</figure>
+
 ### A finding that changes the conversation
 
 During the appointment, the clinician checks Natalie's blood pressure. First, it's measured while she's resting. Then, with appropriate assistance because her balance can be unreliable, it's checked after she stands.
