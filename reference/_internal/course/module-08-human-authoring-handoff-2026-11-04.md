@@ -35,7 +35,7 @@
 - **Four new SVG crossword thumbnails** were generated from the uploaded `*-sources.json` grid coordinates (not guessed layouts): one for each lesson and one for the module review. These are grid previews, not the PDFs themselves.
 - A repository path check found **no missing Module 8 target assets** among the new references. Live website rendering, PDF contents, full artwork accessibility and production build status have **not** been independently confirmed.
 
-**Colour illustration files exist but remain unplaced** until the project lead selects the captions/alt text. We have the original design briefs and scene descriptions but the actual binary images could not be visually inspected in the GitHub connector; the final accessibility wording should be checked against the actual artwork. No illustration caption or alt option below is owner-approved yet.
+**Colour illustration choices approved and committed by the project lead:** Lesson 24 **Option A**, Lesson 25 **Option B**, Lesson 26 **Option B**. Each original colour image is now placed in its Person section at the specified narrative break, using the approved caption and alt text. This is an integration edit only; the existing story paragraphs, clinician reasoning, and citation tables remain intact. The GitHub connector did not provide visually inspectable versions of the uploaded PNG artwork; a visual alt-text/accessibility check and live preview check remain outstanding.
 
 ### Lesson 24 — Natalie and Leah visiting in the adapted living room
 
@@ -58,7 +58,11 @@
 - **Option A (recommended):** Caption: “A little reliable information can lead to a much more useful question.” Alt: “Natalie uses a laptop showing the FND Education Project logo while sitting comfortably in her softly lit living room.”
 - **Option B:** Caption: “Natalie doesn't need every answer today. She's found a way to begin the next conversation.” Alt: “In a quiet room with closed curtains, Natalie sits with her laptop open to the FND Education Project, concentrating on what she is learning.”
 
-**Next project-lead decision:** Select Option A or B (or edits) for each illustration. Then add the approved colour images at their agreed narrative points using proper figure/caption markup, check the actual image against alt text, and verify rendering in the preview. **No source verification, Audit 2 or merge** is implied by asset integration.
+**Selections implemented and commits:** Lesson 24 Option A [6344c05](https://github.com/FND-Education-Project/FND-Education/commit/6344c05f538fedde851b574cd35fb4d8eea83b8f), placed before “The part Leah didn't see”; Lesson 25 Option B [6426cf2](https://github.com/FND-Education-Project/FND-Education/commit/6426cf2bea865f0946a451b98b4db22bf72fd367), placed before “A finding that changes the conversation”; Lesson 26 Option B [3c0b501](https://github.com/FND-Education-Project/FND-Education/commit/3c0b501888019101e2429e6e8af8066c496b4354), placed before “When a description feels familiar.” The text labelled Option A/B above is preserved as the editorial choice record; alternatives not selected must not be inserted.
+
+**Continuity observation requiring a future editorial decision:** The first paragraph of Lesson 26 Person describes a **tablet**, whereas the approved illustration's Option B alt text identifies a **laptop**. Do not silently rewrite human-approved story prose or change approved image alt text without the project lead's decision. Confirm which device is shown in the actual artwork and resolve the mismatch before publication.
+
+**Next validation gates:** Inspect the actual artwork against alt text, verify image dimensions/appearance and placement on the site preview, and check PDF and thumbnail display. **Original-source verification remains assigned to Work**; Audit 2, clinical signoff, merge and publication have not been completed by this illustration integration.
 
 ## Research and community-voice update — November 6, 2026
 
