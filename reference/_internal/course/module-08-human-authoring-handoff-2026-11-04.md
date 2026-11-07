@@ -4,6 +4,10 @@
 
 **Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person**, **three Clinician**, and **three Supporter sections** are human-approved and committed to PR #200 as of November 7, 2026. All nine audience sections have completed human authoring. Audit 1 editorial review and owner-approved wording, metadata and citation-alignment changes were committed November 7; **original-source/quotation/link verification remains assigned to Work**, with later audits, merge and publication still pending. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. Recording Audit 1 does not authorize unapproved lesson revisions or publication. Preserve Modules 6–7 and all already approved material.
 
+## Current Work audit implementation — November 7, 2026
+
+The project lead approved all required corrections and worthwhile items from the Work review. They are implemented as documented in the [Work audit and source verification record](module-08-work-audit-2026-11-07.md). This update supersedes older pending-source and tablet/laptop continuity notes below. Approved narrative, captions and quotation wording are preserved apart from the authorized focus-group correction and laptop continuity change. Q002 remains explicitly unverified and has not been removed or assigned a verified source ID. Independent clinical review and publication approval remain pending. No merge or deployment.
+
 ## Audit 1 — owner decisions, applied changes and Work handoff (November 7, 2026)
 
 **Editorial review:** [Audit 1 findings report](module-08-audit-01-editorial-findings-2026-11-07.md), covering all nine human-authored audience sections in Lessons 24–26.

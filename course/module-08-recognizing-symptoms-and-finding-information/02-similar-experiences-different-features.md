@@ -1,10 +1,10 @@
 # When the Familiar Explanation Doesn't Quite Fit
 
-> **Working draft:** All three audience sections human-approved; Audit 1 editorial corrections approved and applied November 7, 2026. Original-source verification, subsequent audits and publication review remain pending.
+> **Working draft:** All three audience sections are human authored and approved. Editorial Audit 1 and owner-approved Work audit corrections applied November 7, 2026. Independent clinical review and publication review remain pending. One community quotation remains unverified.
 
 Lesson 25 follows Natalie as an unfamiliar episode leads to a medical finding, showing how observations, test results, interpretations and unanswered questions differ. All three audience sections are human-authored and approved.
 
-*Editorial Audit 1: November 7, 2026 · Original-source verification pending Work*
+*Editorial Audit 1 and Work evidence review: November 7, 2026 · Independent clinical review pending*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -76,7 +76,7 @@ The clinician hasn't established why her blood pressure fell. Nor does this one 
 
 That's a useful distinction.
 
-The blood pressure reading is a **finding**: something measured during the examination. Whether that finding explains an episode is an **interpretation**. It involves considering the person's experience, examination and other relevant medical information together.
+The blood pressure reading is a **finding**: something measured during the examination. Whether that finding explains an episode is an **interpretation**. It involves considering the person's experience, examination and other relevant medical information together. (*citations* [6](#citation-6))
 
 Sometimes a finding provides strong evidence for an explanation. Sometimes it's only part of the picture.
 
@@ -90,7 +90,7 @@ Would that mean she'd imagined the episode at home?
 
 No. It would mean that the particular change the clinician was looking for hadn't been found during that measurement. The result might still be useful, but it wouldn't answer every possible question about what Natalie experienced last week.
 
-After all, a measurement taken during an appointment tells us what was happening when it was taken. Some health problems come and go, and a single examination may not capture them.
+After all, a measurement taken during an appointment tells us what was happening when it was taken. Some health problems come and go, and a single examination may not capture them. (*citations* [6](#citation-6))
 
 This doesn't mean normal results are unimportant. Sometimes they provide strong reassurance about the specific problem being investigated. Other times, they help narrow the possibilities without providing a complete explanation.
 
@@ -294,7 +294,7 @@ But a person doesn't need to understand the cause of an unfamiliar symptom befor
 
 Their description, the circumstances and whatever the clinician can establish during an appropriate assessment can all contribute to understanding the problem.
 
-A medical review published by Bennett and colleagues in 2021 explains that people with FND can also have other neurological or medical conditions. An existing FND diagnosis remains relevant, but it doesn't automatically explain every new experience. [Read the research](https://doi.org/10.7861/clinmed.2020-0987). (*citation* [1](#citation-1))
+A medical review published by Bennett and colleagues in 2021 explains that people with FND can also have other neurological or medical [conditions](../../glossary/README.md#coexisting-condition--comorbidity). An existing FND diagnosis remains relevant, but it doesn't automatically explain every new experience. [Read the research](https://doi.org/10.7861/clinmed.2020-0987). (*citations* [1](#citation-1))
 
 This is worth remembering because people with FND may have spent years learning to recognize their familiar difficulties. When something feels different, they shouldn't have to decide for themselves whether it's another FND symptom or something unrelated before receiving appropriate care.
 
@@ -308,7 +308,7 @@ Those little exchanges can be easy to take for granted. One community member des
 
 > “I know having a partner to just believe and support them is extremely helpful.”
 
-*Figure 1* — Community experience: person describing the value of support for someone with FND. [Original public comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Previously collected in the project's caregiver quotation bank, October 25, 2026. (*citation* [4](#citation-4))
+*Figure 1* — Community experience: person describing the value of support for someone with FND. [Original public comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Previously collected in the project's caregiver quotation bank, October 25, 2026. (*citations* [4](#citation-4))
 
 A person with no dependable supporter may have to manage every part of the process alone, from recognizing an unfamiliar experience to arranging follow-up care. If cognitive difficulties make remembering information challenging, there may be nobody to help carry the conversation forward. If movement difficulties make travelling exhausting, nobody may be available to offer assistance.
 
@@ -318,7 +318,7 @@ Perhaps you've noticed a theme emerging across these lessons. We often see the a
 
 The difficulty isn't necessarily a lack of determination. Someone may be doing everything reasonably within their ability and still have important needs that aren't being met.
 
-A small Canadian interview study published in 2026 explored the experiences of people with FND and their care partners. Participants described difficulties obtaining information, navigating healthcare services and advocating for appropriate care. The study involved only 11 people with FND and two care partners, so it cannot tell us how common these experiences are, but it helps show why obtaining care can involve considerably more work than attending an appointment. [Read the study](https://doi.org/10.1017/cjn.2026.10629). (*citation* [3](#citation-3))
+A small Canadian focus-group study published in 2026 explored the experiences of people with FND and their care partners. Participants described difficulties obtaining information, navigating healthcare services and advocating for appropriate care. The study involved only 11 people with FND and two care partners, so it cannot tell us how common these experiences are, but it helps show why obtaining care can involve considerably more work than attending an appointment. [Read the study](https://doi.org/10.1017/cjn.2026.10629). (*citations* [3](#citation-3))
 
 For supporters, understanding that effort can change the conversation. Instead of assuming that someone who attended an appointment has everything under control, we might appreciate how much they accomplished just by getting there.
 
@@ -340,7 +340,7 @@ An Australian report collecting experiences from people with FND and their careg
 
 > “With the right level of support, I still believe I could thrive.”
 
-*Figure 2* — Community experience: person living with FND, reported in the Australian National Mental Health Commission's [Experiences of Functional Neurological Disorder](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf), 2019.* (*citation* [5](#citation-5))
+*Figure 2* — Community experience: person living with FND, reported in the Australian National Mental Health Commission's [Experiences of Functional Neurological Disorder](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf), 2019. (*citations* [5](#citation-5))
 
 It's a hopeful statement, but notice what makes that hope possible. The person isn't waiting to become completely symptom-free before imagining a better life. They're recognizing that appropriate support might allow them to do more with the abilities and opportunities they already have.
 ***
@@ -381,7 +381,7 @@ Migraine is a recognized neurological disorder with established diagnostic crite
 
 It can coexist with FND. Migraine attacks may precipitate or worsen functional symptoms in some people, and living with both conditions may increase the overall burden of illness.
 
-Stone and colleagues (2025) reviewed the relationship between migraine and FND, including evidence of comorbidity and possible interactions. Their review does not establish that all migraine occurring alongside FND shares a single mechanism with functional symptoms. (*citation* [2](#citation-2))
+Stone and colleagues (2025) reviewed the relationship between migraine and FND, including evidence of comorbidity and possible interactions. Their review does not establish that all migraine occurring alongside FND shares a single mechanism with functional symptoms. (*citations* [2](#citation-2))
 
 This helps explain why migraine appearing on a list of FND symptoms can carry several meanings.
 
@@ -405,7 +405,7 @@ During a recent appointment, Natalie also describes a different experience: her 
 
 A subsequent examination identifies a fall in blood pressure when she stands.
 
-That finding may help explain the unfamiliar episode. It doesn't automatically explain her longstanding unsteadiness, migraine or functional seizures.
+That finding may help explain the unfamiliar episode. It doesn't automatically explain her longstanding unsteadiness, migraine or functional seizures. (*citations* [6](#citation-6))
 
 The same reasoning applies to the earlier headache attribution.
 
@@ -462,14 +462,15 @@ That distinction supports continuity of care while allowing new information—an
 
 ## Research and Sources
 
-Research sources are identified by their evidence type and scope. The references below have been **reconciled editorially with the human-authored lesson**, using existing project citation records; **original-source/claim verification remains assigned to Work**. Community quotations describe individual experiences and are not clinical or prevalence evidence. The stories and conversations in this lesson are fictional teaching examples, not research cases or tested treatment protocols.
+Research sources are identified by their evidence type and scope. The references below were checked against accessible original publications or their abstracts on November 7, 2026; access limits are recorded in the internal Work audit. Independent clinical review remains pending. Citation 4 remains independently unverified. Community quotations describe individual experiences and are not clinical or prevalence evidence. The stories and conversations in this lesson are fictional teaching examples, not research cases or tested treatment protocols.
 
 | Citation | Figure | Full citation and relevant use |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** *Clinical Medicine*. 2021;21:28–36. [Original](https://doi.org/10.7861/clinmed.2020-0987) · [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). Clinical review on positive FND diagnosis and consideration of coexisting conditions. |
 | <a id="citation-2"></a>**[2]** | — | Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. **Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap.** *Brain Communications*. 2025;7(4):fcaf288. [Original](https://doi.org/10.1093/braincomms/fcaf288) · [FND-CIT-0049](../../research/citation-index.md#fnd-cit-0049). Review of comorbidity and possible interactions; not proof of one common mechanism. |
 | <a id="citation-3"></a>**[3]** | — | Leochico CFG, Kashif D, Bhatt H, et al. **Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study.** *Canadian Journal of Neurological Sciences*. Published online July 23, 2026. [Original](https://doi.org/10.1017/cjn.2026.10629) · [FND-CIT-0082](../../research/citation-index.md#fnd-cit-0082). Small Ontario qualitative study; not a prevalence estimate. |
-| <a id="citation-4"></a>**[4]** | Figure 1 | Community quotation Q002 / source S01, public r/FND comment by a community member describing the value of being believed and supported. [Original public comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Previously collected October 25, 2026; **original comment and speaker perspective require Work recheck**. Individual account, not clinical evidence. **Central citation ID registration pending source verification.** |
-| <a id="citation-5"></a>**[5]** | Figure 2 | Australian National Mental Health Commission. **Experiences of Functional Neurological Disorder — Summary Report.** July 2019. [Original public report](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf). Anonymous **person living with FND** quoted in a self-selected survey; not a representative prognosis or estimate of support availability. **Original quotation reconfirmation and central citation ID registration assigned to Work.** |
+| <a id="citation-4"></a>**[4]** | Figure 1 | Community quotation Q002 / source S01, public r/FND comment by a community member describing the value of being believed and supported. [Original public comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Previously collected October 25, 2026; **independent retrieval unsuccessful November 7, 2026; wording and speaker perspective remain unverified**. Individual account, not clinical evidence. **Central citation ID registration pending source verification.** |
+| <a id="citation-5"></a>**[5]** | Figure 2 | Australian National Mental Health Commission. **Experiences of Functional Neurological Disorder — Summary Report.** July 2019. [Original public report](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf). Anonymous **person living with FND** quoted in a self-selected survey; not a representative prognosis or estimate of support availability. Exact excerpt and FND Consumer attribution verified on page 6, November 7, 2026. [FND-CIT-0332](../../research/citation-index.md#fnd-cit-0332). |
+| <a id="citation-6"></a>**[6]** | — | Wieling W, Kaufmann H, Claydon VE, et al. **Diagnosis and treatment of orthostatic hypotension.** *The Lancet Neurology*. 2022;21(8):735–746. [Original](https://doi.org/10.1016/S1474-4422(22)00169-7) · [FND-CIT-0333](../../research/citation-index.md#fnd-cit-0333). Clinical review: interpret standing blood-pressure measurements with symptoms, timing and clinical context; a normal bedside measurement does not exclude intermittent orthostatic hypotension. The fictional finding does not establish a diagnosis. |
 
-*Editorial Audit 1: November 7, 2026; owner-approved citation alignment. Original research, quotation, and link verification, later audits and independent clinical review have **not** been completed or claimed.*
+*Editorial Audit 1 and owner-approved Work corrections: November 7, 2026. Evidence access limits and validation results are recorded in the internal audit. Independent clinical review and publication approval remain pending. Community quotation Q002 remains unverified.*

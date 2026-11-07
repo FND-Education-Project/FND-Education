@@ -1,10 +1,10 @@
 # Finding Your Way Through the Reference Library
 
-> **Working draft:** All three audience sections human-approved; Audit 1 editorial corrections approved and applied November 7, 2026. Original-source verification, subsequent audits and publication review remain pending.
+> **Working draft:** All three audience sections are human authored and approved. Editorial Audit 1 and owner-approved Work audit corrections applied November 7, 2026. Independent clinical review and publication review remain pending.
 
 Lesson 26 follows Natalie as she uses the Reference Library to better understand her previously diagnosed functional seizures, clarify terminology and assessment, and identify useful questions about ongoing care. All three audience sections are human-authored and approved.
 
-*Editorial Audit 1: November 7, 2026 · Original-source verification pending Work*
+*Editorial Audit 1 and Work evidence review: November 7, 2026 · Independent clinical review pending*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -18,7 +18,7 @@ Lesson 26 follows Natalie as she uses the Reference Library to better understand
 
 ### Someone has actually described this!
 
-Natalie is sitting in her favourite chair, her tablet resting on a cushion beside her.
+Natalie is sitting in her favourite chair, her laptop resting on a cushion beside her.
 
 She's been thinking about something that has bothered her for years: the explanation she was given for her functional seizures.
 
@@ -112,7 +112,7 @@ The [Functional Seizures diagnostic page](../../reference/diagnostic-signs/06-fu
 
 It also discusses how video recordings and, when appropriate, a test called *video-EEG* can help.
 
-> **Video-EEG:** A test that records the brain's electrical activity while video records what is happening to the person. When a typical episode is captured, clinicians can examine the two recordings together.
+> **[Video-EEG](../../glossary/README.md#video-eeg):** A test that records the brain's electrical activity while video records what is happening to the person. When a typical episode is captured, clinicians can examine the two recordings together.
 
 Natalie finds that interesting. She'd always thought of an EEG as a test that either found epilepsy or came back normal.
 
@@ -234,7 +234,7 @@ But she has a direction.
 
 ### More than a collection of information
 
-Natalie closes her tablet.
+Natalie closes her laptop.
 
 Her migraine still hurts, and she doesn't know how much her seizures might improve.
 
@@ -316,7 +316,7 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 ### When someone is left to find their own answers
 
-Leah has come over for another visit, and Natalie has her tablet sitting beside her chair. She's been reading about functional seizures in the FND Reference Library, and there's something she'd like to share.
+Leah has come over for another visit, and Natalie has her laptop sitting beside her chair. She's been reading about functional seizures in the FND Reference Library, and there's something she'd like to share.
 
 "Remember how I told you the neurologist compared my seizures to panic attacks?"
 
@@ -332,7 +332,7 @@ Natalie laughs.
 
 "Oh, I don't think I'd even know how to do that! It's more that I've found the words to explain what confused me. And now I know what I want to ask my doctor."
 
-Natalie picks up her tablet and tries to find the paragraph she'd been reading. She opens one page, then another. After a few moments, she's forgotten which part she wanted to show Leah.
+Natalie picks up her laptop and tries to find the paragraph she'd been reading. She opens one page, then another. After a few moments, she's forgotten which part she wanted to show Leah.
 
 "Oh, for goodness' sake. I was just looking at it!"
 
@@ -406,7 +406,7 @@ One community member described how little guidance followed a loved one's FND di
 
 > “My partner has an FND diagnosis. He was basically told “you’ve got FND, go look it up.””
 
-*Figure 1* — Community experience: person describing a loved one's diagnosis in an [FND discussion](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/). The wider discussion concerns swallowing difficulties; the quotation illustrates difficulty obtaining understandable guidance, not the cause of those symptoms.* (*citation* [4](#citation-4))
+*Figure 1* — Community experience: person describing a loved one's diagnosis in an [FND discussion](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/). The wider discussion concerns swallowing difficulties; the quotation illustrates difficulty obtaining understandable guidance, not the cause of those symptoms. (*citations* [4](#citation-4))
 
 Imagine receiving a diagnosis for symptoms that have dramatically changed your life, then being left to work out what the diagnosis means.
 
@@ -430,7 +430,7 @@ Those questions still belong in a conversation with her care team.
 
 And the responsibility for providing a clear medical explanation shouldn't fall entirely on Natalie simply because she's willing to learn.
 
-Research supports taking diagnostic communication seriously. A 2026 review examined 15 studies concerning how people understand and respond to an FND diagnosis. The findings highlighted the importance of explanations and follow-up, although the studies were too varied to establish that one particular way of explaining FND improves recovery. [Read the research](https://doi.org/10.1016/j.pec.2026.109826). (*citation* [5](#citation-5))
+Research supports taking diagnostic communication seriously. A 2026 review examined 15 studies concerning how people understand and respond to an FND diagnosis. The findings highlighted the importance of explanations and follow-up, although the studies were too varied to establish that one particular way of explaining FND improves recovery. [Read the research](https://doi.org/10.1016/j.pec.2026.109826). (*citations* [5](#citation-5))
 
 The lesson for supporters is a fairly human one: someone may need help understanding what they've been told, without needing another person to decide what they should believe or do.
 
@@ -482,7 +482,7 @@ Natalie thinks for a moment.
 
 "Fair enough," Leah says. "I brought coffee, not homework."
 
-They put the tablet away.
+They put the laptop away.
 
 Natalie still has questions, but she doesn't need to answer them all today. She's found information that's helped her understand what she wants to discuss with her care team, and that's enough for now.
 
@@ -575,7 +575,7 @@ The terminology surrounding functional seizures has changed over time, reflectin
 
 More recently, *functional seizures* has increasingly been used, emphasizing the neurological presentation without assuming a specific psychological cause.
 
-Hingray and colleagues (2025), writing for an International League Against Epilepsy task force, proposed the term *functional/dissociative seizures*. Their publication contributes to the discussion of terminology and definition; it is not evidence that one particular psychological mechanism explains every patient's episodes. (*citation* [2](#citation-2))
+Hingray and colleagues (2025), writing for an International League Against Epilepsy task force, proposed the term *functional/dissociative seizures*. Their publication contributes to the discussion of terminology and definition; it is not evidence that one particular psychological mechanism explains every patient's episodes. (*citations* [2](#citation-2))
 
 These differences in language matter because terminology carries meaning beyond its formal definition.
 
@@ -609,7 +609,7 @@ Natalie experiences different kinds of episodes. Some involve considerable movem
 
 Those descriptions are important, but none establishes a diagnosis by itself.
 
-The 2026 American Academy of Neurology functional-seizure guideline addresses diagnostic evaluation, communication, coexisting conditions and continuing care. Its recommendations recognize the importance of distinguishing functional seizures from other episodic conditions, including possible coexisting epilepsy. (*citation* [1](#citation-1))
+The 2026 American Academy of Neurology functional-seizure guideline addresses diagnostic evaluation, communication, coexisting conditions and continuing care. Its recommendations recognize the importance of distinguishing functional seizures from other episodic conditions, including possible coexisting epilepsy. (*citations* [1](#citation-1))
 
 For Natalie's current clinician, this raises a more specific question than whether the old terminology was appropriate:
 
@@ -657,7 +657,7 @@ The evidence for those interventions also deserves careful interpretation.
 
 Goldstein and colleagues (2020), in the multicentre randomized CODES trial, examined cognitive behavioural therapy specifically adapted for dissociative seizures alongside standardized medical care.
 
-The study did not find a statistically significant improvement in its primary outcome of seizure frequency at 12 months, although several secondary outcomes favoured the CBT group. (*citation* [3](#citation-3))
+The study did not find a statistically significant improvement in its primary outcome of seizure frequency at 12 months, although several secondary outcomes favoured the CBT group. (*citations* [3](#citation-3))
 
 That distinction is important.
 
@@ -740,14 +740,14 @@ For a clinician inheriting a complex FND history, that understanding can be an i
 
 ## Research and Sources
 
-Research sources are identified by their evidence type and scope. The references below have been **reconciled editorially with the human-authored lesson**, using existing project citation records; **original-source/claim verification remains assigned to Work**. Community quotations describe individual experiences and are not clinical or prevalence evidence. The stories and conversations in this lesson are fictional teaching examples, not research cases or tested treatment protocols.
+Research sources are identified by their evidence type and scope. The references below were checked against accessible original publications or their abstracts on November 7, 2026; access limits are recorded in the internal Work audit. Independent clinical review remains pending. Community quotations describe individual experiences and are not clinical or prevalence evidence. The stories and conversations in this lesson are fictional teaching examples, not research cases or tested treatment protocols.
 
 | Citation | Figure | Full citation and relevant use |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee.** *Neurology*. 2026;106(1):e214466. [Original](https://doi.org/10.1212/WNL.0000000000214466) · [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). Evidence-based guideline on functional seizure assessment, communication and care; not a universal algorithm. |
 | <a id="citation-2"></a>**[2]** | — | Hingray C, Popkirov S, Kozlowska K, et al.; ILAE Functional/Dissociative Seizures Task Force. **Functional/dissociative seizures: Proposal for a new diagnostic label and definition by the ILAE task force.** *Epilepsia*. 2025;66(11):4162–4182. [Original](https://doi.org/10.1111/epi.18574) · [FND-CIT-0009](../../research/citation-index.md#fnd-cit-0009). Task-force terminology proposal, not proof of a universal psychological cause. |
-| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. **Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial.** *The Lancet Psychiatry*. 2020;7(6):491–505. [Original](https://doi.org/10.1016/S2215-0366(20)30128-0) · [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). Mixed outcomes: primary 12-month seizure-frequency result and several secondary outcomes must be distinguished. |
-| <a id="citation-4"></a>**[4]** | Figure 1 | Community quotation Q007 / source S03, r/FND discussion **Choking Hazard**, written by a **partner** about someone with FND. [Original discussion](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/) · [FND-CIT-0331](../../research/citation-index.md#fnd-cit-0331). Earlier exact-word/context check recorded November 5, 2026; **Work to recheck original**. Quotation concerns access to explanation, not the medical cause of swallowing symptoms. |
+| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. **Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial.** *The Lancet Psychiatry*. 2020;7(6):491–505. [Original](https://doi.org/10.1016/S2215-0366(20)30128-0) · [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). Mixed outcomes: primary 12-month seizure-frequency result and several secondary outcomes must be distinguished. Secondary outcomes were tested without adjustment for multiple comparisons. |
+| <a id="citation-4"></a>**[4]** | Figure 1 | Community quotation Q007 / source S03, r/FND discussion **Choking Hazard**, written by a **partner** about someone with FND. [Original discussion](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/) · [FND-CIT-0331](../../research/citation-index.md#fnd-cit-0331). Exact opening wording, partner perspective and surrounding context independently rechecked November 7, 2026. Quotation concerns access to explanation, not the medical cause of swallowing symptoms. |
 | <a id="citation-5"></a>**[5]** | — | Silva AF, Silva B. **Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes.** *Patient Education and Counseling*. 2026;152:109826. [Original](https://doi.org/10.1016/j.pec.2026.109826) · [FND-CIT-0083](../../research/citation-index.md#fnd-cit-0083). Heterogeneous studies with limited comparative evidence; not proof that any particular explanation improves recovery. |
 
-*Editorial Audit 1: November 7, 2026; owner-approved citation alignment. Original research, quotation, and link verification, later audits and independent clinical review have **not** been completed or claimed.*
+*Editorial Audit 1 and owner-approved Work corrections: November 7, 2026. Evidence access limits and validation results are recorded in the internal audit. Independent clinical review and publication approval remain pending.*

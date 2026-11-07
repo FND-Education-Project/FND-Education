@@ -1,6 +1,6 @@
 # Recognizing Symptoms and Finding Information
 
-> **Working draft:** All three lessons are human-authored and have completed the editorial Audit 1. Original-source verification and publication review remain pending.
+> **Working draft:** All three lessons are human-authored and have completed the editorial Audit 1. Work evidence corrections are applied; one community quotation, independent clinical review and publication approval remain pending.
 
 Module 8 of the current course. Explore the lessons in order or choose the topic most useful to you.
 

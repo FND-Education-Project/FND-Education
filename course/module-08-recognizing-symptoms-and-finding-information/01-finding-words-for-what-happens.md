@@ -1,10 +1,10 @@
 # When Better Doesn't Mean Symptom-Free
 
-> **Working draft:** All three audience sections human-approved; Audit 1 editorial corrections approved and applied November 7, 2026. Original-source verification, subsequent audits and publication review remain pending.
+> **Working draft:** All three audience sections are human authored and approved. Editorial Audit 1 and owner-approved Work audit corrections applied November 7, 2026. Independent clinical review and publication review remain pending.
 
 Lesson 24 explores how someone can make meaningful progress in participation and quality of life even when severe symptoms and support needs remain. All three audience sections are human-authored and approved.
 
-*Editorial Audit 1: November 7, 2026 · Original-source verification pending Work*
+*Editorial Audit 1 and Work evidence review: November 7, 2026 · Independent clinical review pending*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -575,7 +575,7 @@ For a clinician inheriting her care, this raises a separate question about the h
 
 Migraine is a neurological disorder with its own diagnostic criteria and evidence-based treatment options. It can coexist with FND, and the conditions may influence one another, but their relationship isn't fully understood.
 
-Stone and colleagues (2025) reviewed the evidence concerning migraine and FND, describing comorbidity and possible interactions. The findings don't establish that migraine is simply another manifestation of FND or that both disorders arise from one shared mechanism. (*citation* [1](#citation-1))
+Stone and colleagues (2025) reviewed the evidence concerning migraine and FND, describing comorbidity and possible interactions. The findings don't establish that migraine is simply another manifestation of FND or that both disorders arise from one shared mechanism. (*citations* [1](#citation-1))
 
 This matters when earlier medical records have grouped several symptoms under a broad FND diagnosis.
 
@@ -593,7 +593,7 @@ Conversely, improvement in social participation shouldn't be taken as evidence t
 
 Rutten and colleagues (2025) examined how people with FND, caregivers and healthcare professionals understand treatment outcomes.
 
-Their qualitative study involved interviews with 22 patients, 18 caregivers and 21 healthcare professionals. The findings highlighted the importance of considering outcomes beyond neurological symptoms, including daily activities, independence, emotional wellbeing and quality of life. (*citation* [2](#citation-2))
+Their qualitative study involved interviews with 22 patients, 18 caregivers and 21 healthcare professionals. The findings highlighted the importance of considering outcomes beyond neurological symptoms, including daily activities, independence, emotional wellbeing and quality of life. (*citations* [2](#citation-2))
 
 These perspectives are relevant because different participants in care may recognize different forms of progress.
 
@@ -603,7 +603,7 @@ Each perspective can contribute useful information without necessarily describin
 
 The study offers insight into stakeholder priorities, but its selected sample doesn't establish population-wide preferences or demonstrate treatment effectiveness.
 
-Pick and colleagues (2020), in a systematic review of FND outcome measurement, identified limitations in existing measures and emphasized the need to consider multiple domains. (*citation* [3](#citation-3))
+Pick and colleagues (2020), in a systematic review of FND outcome measurement, identified limitations in existing measures and emphasized the need to consider multiple domains. (*citations* [3](#citation-3))
 
 Together, these studies raise an important methodological question: **Does the selected measure capture the change that matters to this person?**
 
@@ -611,7 +611,7 @@ A seizure-frequency measure could miss Natalie's improved participation. A parti
 
 Neither measure is inherently wrong. They answer different questions.
 
-Professional occupational therapy consensus recommendations by Nicholson and colleagues (2020) similarly emphasize meaningful daily activities and individually relevant goals. These recommendations provide a clinical framework for understanding participation, rather than proof that a particular adaptation produces neurological recovery. (*citation* [4](#citation-4))
+Professional occupational therapy consensus recommendations by Nicholson and colleagues (2020) similarly emphasize meaningful daily activities and individually relevant goals. These recommendations provide a clinical framework for understanding participation, rather than proof that a particular adaptation produces neurological recovery. (*citations* [4](#citation-4))
 
 ### How might this change the clinical conversation?
 
@@ -682,7 +682,7 @@ That distinction can make both the interpretation of outcomes and subsequent con
 
 ## Research and Sources
 
-Research sources are identified by their evidence type and scope. The references below have been **reconciled editorially with the human-authored lesson**, using existing project citation records; **original-source/claim verification remains assigned to Work**. Community quotations describe individual experiences and are not clinical or prevalence evidence. The stories and conversations in this lesson are fictional teaching examples, not research cases or tested treatment protocols.
+Research sources are identified by their evidence type and scope. The references below were checked against accessible original publications or their abstracts on November 7, 2026; access limits are recorded in the internal Work audit. Independent clinical review remains pending. Community quotations describe individual experiences and are not clinical or prevalence evidence. The stories and conversations in this lesson are fictional teaching examples, not research cases or tested treatment protocols.
 
 | Citation | Figure | Full citation and relevant use |
 |---|---|---|
@@ -691,4 +691,4 @@ Research sources are identified by their evidence type and scope. The references
 | <a id="citation-3"></a>**[3]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. **Outcome measurement in functional neurological disorder: a systematic review and recommendations.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [Original](https://doi.org/10.1136/jnnp-2019-322180) · [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). Review of measure selection and limitations, not proof of an individual intervention’s effectiveness. |
 | <a id="citation-4"></a>**[4]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [Original](https://doi.org/10.1136/jnnp-2019-322281) · [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). Professional consensus supporting individualized participation goals; not a treatment-efficacy trial. |
 
-*Editorial Audit 1: November 7, 2026; owner-approved citation alignment. Original research, quotation, and link verification, later audits and independent clinical review have **not** been completed or claimed.*
+*Editorial Audit 1 and owner-approved Work corrections: November 7, 2026. Evidence access limits and validation results are recorded in the internal audit. Independent clinical review and publication approval remain pending.*
