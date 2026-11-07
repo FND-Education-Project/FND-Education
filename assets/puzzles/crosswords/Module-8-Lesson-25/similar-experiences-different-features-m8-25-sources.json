@@ -1,0 +1,386 @@
+{
+  "title": "Similar Experiences, Different Features",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 529,
+    "lesson": 25,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 8,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 75.54,
+  "included": [
+    {
+      "answer": "INTERPRETATION",
+      "borrowed": false,
+      "clue": "What a\n  medical test result might mean.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 5,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "INTERPRETATION",
+      "priority": 1,
+      "row": 775
+    },
+    {
+      "answer": "FOLLOWUP",
+      "borrowed": false,
+      "clue": "Another\n  appointment, not just a cliffhanger.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 4,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "FOLLOWUP",
+      "priority": 2,
+      "row": 796
+    },
+    {
+      "answer": "HUNCH",
+      "borrowed": false,
+      "clue": "A\n  suspicion that still needs evidence.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 3,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "HUNCH",
+      "priority": 2,
+      "row": 784
+    },
+    {
+      "answer": "BLOODPRESSURE",
+      "borrowed": false,
+      "clue": "Force\n  of blood pushing against artery walls.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 10,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "BLOODPRESSURE",
+      "priority": 1,
+      "row": 774
+    },
+    {
+      "answer": "EPISODE",
+      "borrowed": false,
+      "clue": "A spell\n  of symptoms with a beginning and end.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 7,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "EPISODE",
+      "priority": 1,
+      "row": 772
+    },
+    {
+      "answer": "PROOF",
+      "borrowed": false,
+      "clue": "Evidence\n  strong enough to settle a claim.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 8,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "PROOF",
+      "priority": 2,
+      "row": 783
+    },
+    {
+      "answer": "FAINT",
+      "borrowed": false,
+      "clue": "Feeling\n  close to blacking out.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 1,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "FAINT",
+      "priority": 1,
+      "row": 765
+    },
+    {
+      "answer": "STAND",
+      "borrowed": false,
+      "clue": "Get\n  onto your feet, not for applause.",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 12,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "STAND",
+      "priority": 2,
+      "row": 778
+    },
+    {
+      "answer": "DATA",
+      "borrowed": false,
+      "clue": "Measurements\n  or observations collected as evidence.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 2,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "DATA",
+      "priority": 1,
+      "row": 767
+    },
+    {
+      "answer": "STEPS",
+      "borrowed": false,
+      "clue": "Individual\n  actions that make up a follow-up plan.",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 3,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "STEPS",
+      "priority": 2,
+      "row": 787
+    },
+    {
+      "answer": "HISTORY",
+      "borrowed": false,
+      "clue": "Past\n  health details relevant to assessment.",
+      "direction": "down",
+      "grid_col": 4,
+      "grid_row": 0,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "HISTORY",
+      "priority": 2,
+      "row": 794
+    },
+    {
+      "answer": "REASSURE",
+      "borrowed": false,
+      "clue": "Offer\n  comfort, as in 'Don't worry.'",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 10,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "REASSURE",
+      "priority": 3,
+      "row": 799
+    },
+    {
+      "answer": "MEASURE",
+      "borrowed": false,
+      "clue": "Find a\n  quantity using a tool.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 17,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "MEASURE",
+      "priority": 2,
+      "row": 791
+    },
+    {
+      "answer": "READING",
+      "borrowed": false,
+      "clue": "A\n  number from a cuff, not a book.",
+      "direction": "down",
+      "grid_col": 4,
+      "grid_row": 15,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "READING",
+      "priority": 2,
+      "row": 790
+    },
+    {
+      "answer": "CONTRAST",
+      "borrowed": false,
+      "clue": "A clear\n  difference between two experiences.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 20,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "CONTRAST",
+      "priority": 2,
+      "row": 792
+    },
+    {
+      "answer": "CAUSE",
+      "borrowed": false,
+      "clue": "What an\n  investigation seeks beyond the symptom.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 20,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "CAUSE",
+      "priority": 1,
+      "row": 769
+    },
+    {
+      "answer": "FINDING",
+      "borrowed": false,
+      "clue": "Something\n  observed or measured during an examination.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 1,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "FINDING",
+      "priority": 1,
+      "row": 771
+    },
+    {
+      "answer": "COEXIST",
+      "borrowed": false,
+      "clue": "Be\n  present together, as two health conditions can.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 24,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "COEXIST",
+      "priority": 1,
+      "row": 773
+    },
+    {
+      "answer": "RELEVANT",
+      "borrowed": false,
+      "clue": "Connected\n  to the question being investigated.",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 16,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "RELEVANT",
+      "priority": 2,
+      "row": 795
+    },
+    {
+      "answer": "QUERY",
+      "borrowed": false,
+      "clue": "A\n  question worth asking, no search engine required.",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 15,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "QUERY",
+      "priority": 2,
+      "row": 782
+    },
+    {
+      "answer": "SNAPSHOT",
+      "borrowed": false,
+      "clue": "One\n  test's view of a moment, not the whole movie.",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 14,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "SNAPSHOT",
+      "priority": 2,
+      "row": 793
+    },
+    {
+      "answer": "FND",
+      "borrowed": false,
+      "clue": "A\n  diagnosis that doesn't explain every new symptom.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 0,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "FND",
+      "priority": 1,
+      "row": 770
+    },
+    {
+      "answer": "LOW",
+      "borrowed": false,
+      "clue": "A\n  pressure reading can be high or ___.",
+      "direction": "down",
+      "grid_col": 4,
+      "grid_row": 9,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "LOW",
+      "priority": 2,
+      "row": 785
+    },
+    {
+      "answer": "CHECK",
+      "borrowed": false,
+      "clue": "Examine\n  a possibility rather than assume.",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 19,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "CHECK",
+      "priority": 2,
+      "row": 788
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "DROP",
+      "clue": "A\n  blood-pressure fall, not a misplaced object.",
+      "row": 766
+    },
+    {
+      "answer": "ONSET",
+      "clue": "The\n  point when a symptom first begins.",
+      "row": 768
+    },
+    {
+      "answer": "INVESTIGATION",
+      "clue": "A\n  search for medical causes, not a crime drama.",
+      "row": 776
+    },
+    {
+      "answer": "UNCERTAINTY",
+      "clue": "What\n  remains when evidence hasn't settled a question.",
+      "row": 777
+    },
+    {
+      "answer": "CUFF",
+      "clue": "Inflatable\n  sleeve for checking pressure, not fashion.",
+      "row": 779
+    },
+    {
+      "answer": "DIZZY",
+      "clue": "Lightheaded\n  or unsteady on your feet.",
+      "row": 780
+    },
+    {
+      "answer": "NOTE",
+      "clue": "A\n  reminder for the doctor, not a novel.",
+      "row": 781
+    },
+    {
+      "answer": "RISE",
+      "clue": "What a\n  pressure reading can do besides fall.",
+      "row": 786
+    },
+    {
+      "answer": "FIT",
+      "clue": "What a\n  good explanation must do with the evidence.",
+      "row": 789
+    },
+    {
+      "answer": "SCAN",
+      "clue": "Medical\n  imaging, not a grocery checkout.",
+      "row": 797
+    },
+    {
+      "answer": "DIM",
+      "clue": "What\n  vision may become just before fainting.",
+      "row": 798
+    }
+  ]
+}
