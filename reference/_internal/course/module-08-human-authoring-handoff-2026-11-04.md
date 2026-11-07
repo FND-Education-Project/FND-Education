@@ -24,6 +24,42 @@
 
 **Remaining gates:** Work source verification, further lesson audit(s), relevant course/module publication-readiness review and owner decision to merge. PR #200 remains a draft; no merge or deployment was authorized.
 
+## Module 8 illustration and puzzle integration — November 7, 2026
+
+**Additional integration check after Audit 1:** The three colour illustrations and all Module 8 puzzle files had been uploaded to PR #200 but were **not embedded or linked in the human-authored lessons** at the end of Audit 1. The project lead asked to see two caption/alt-text options for each colour illustration and to verify that crosswords, colouring books and image previews are connected correctly.
+
+**Puzzle/resource integration completed, without altering approved narratives:**
+- Every Lesson 24–26 Person section now has an **Optional crossword** card with a grid thumbnail and Easy / Normal / Answer key PDF links, plus an **Optional colouring activity** linked through its uploaded PNG preview and PDF.
+- The Module 8 overview now links its **review crossword** and uses the current human-approved lesson titles.
+- The puzzle browser `assets/puzzles/catalog.json` now contains **seven Module 8 entries** (four crosswords, three colouring activities); the `assets/puzzles/README.md` fallback contains matching links and image previews.
+- **Four new SVG crossword thumbnails** were generated from the uploaded `*-sources.json` grid coordinates (not guessed layouts): one for each lesson and one for the module review. These are grid previews, not the PDFs themselves.
+- A repository path check found **no missing Module 8 target assets** among the new references. Live website rendering, PDF contents, full artwork accessibility and production build status have **not** been independently confirmed.
+
+**Colour illustration files exist but remain unplaced** until the project lead selects the captions/alt text. We have the original design briefs and scene descriptions but the actual binary images could not be visually inspected in the GitHub connector; the final accessibility wording should be checked against the actual artwork. No illustration caption or alt option below is owner-approved yet.
+
+### Lesson 24 — Natalie and Leah visiting in the adapted living room
+
+**Suggested placement:** after the opening “You seem so much better!” scene, before “The part Leah didn't see,” so enjoyment comes before the explanation of its hidden cost.
+
+- **Option A (recommended):** Caption: “A good afternoon can be real progress, even when symptoms and support needs remain.” Alt: “Natalie and her friend Leah enjoy a conversation in a softly lit living room, with curtains drawn and a small bakery bag nearby.”
+- **Option B:** Caption: “Leah sees a happy afternoon. Natalie knows how much preparation helped make it possible.” Alt: “Two friends sit talking comfortably in Natalie's adapted living room. The curtains are closed, and everyday essentials are within easy reach.”
+
+### Lesson 25 — Natalie discussing a note with a clinician
+
+**Suggested placement:** after “But I already have FND,” leading into “A finding that changes the conversation.”
+
+- **Option A (recommended):** Caption: “A new finding can help answer one question without explaining every symptom.” Alt: “Natalie sits with a clinician in a gently dimmed examination room, referring to a small written note as they discuss her symptoms.”
+- **Option B:** Caption: “Understanding what was found—and what remains uncertain—can make a medical conversation more useful.” Alt: “An attentive doctor speaks with Natalie during a medical appointment. Natalie holds a personal symptom note while they talk.”
+
+### Lesson 26 — Natalie using the FND Education Project on her laptop
+
+**Suggested placement:** after “Someone has actually described this!”, before “When a description feels familiar.”
+
+- **Option A (recommended):** Caption: “A little reliable information can lead to a much more useful question.” Alt: “Natalie uses a laptop showing the FND Education Project logo while sitting comfortably in her softly lit living room.”
+- **Option B:** Caption: “Natalie doesn't need every answer today. She's found a way to begin the next conversation.” Alt: “In a quiet room with closed curtains, Natalie sits with her laptop open to the FND Education Project, concentrating on what she is learning.”
+
+**Next project-lead decision:** Select Option A or B (or edits) for each illustration. Then add the approved colour images at their agreed narrative points using proper figure/caption markup, check the actual image against alt text, and verify rendering in the preview. **No source verification, Audit 2 or merge** is implied by asset integration.
+
 ## Research and community-voice update — November 6, 2026
 
 Robert asked Work Mode to provide Chat Mode with fuller evidence and better quotation options following its proposed additions to Lessons 24 and 25. Read the **[detailed research and quotation supplement](module-08-lessons-24-25-evidence-and-community-voices-2026-11-06.md)** before proposing those additions.
