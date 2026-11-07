@@ -1,0 +1,768 @@
+{
+  "title": "FND Education — Module 8 Review",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 0,
+    "lesson": null,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "module",
+    "module": 8,
+    "seed": 1,
+    "selected_question_count": 105
+  },
+  "score": 76.37,
+  "included": [
+    {
+      "answer": "BLOODPRESSURE",
+      "borrowed": false,
+      "clue": "Force\n  of blood pushing against artery walls.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 12,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "BLOODPRESSURE",
+      "priority": 1,
+      "row": 774
+    },
+    {
+      "answer": "OUTCOMES",
+      "borrowed": false,
+      "clue": "Results\n  that matter beyond symptom counts.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 5,
+      "lesson": 24,
+      "module": 8,
+      "original_answer": "OUTCOMES",
+      "priority": 1,
+      "row": 739
+    },
+    {
+      "answer": "TRIAL",
+      "borrowed": false,
+      "clue": "A study\n  testing treatment, not courtroom drama.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 8,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "TRIAL",
+      "priority": 2,
+      "row": 823
+    },
+    {
+      "answer": "STAND",
+      "borrowed": false,
+      "clue": "Get\n  onto your feet, not for applause.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 8,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "STAND",
+      "priority": 2,
+      "row": 778
+    },
+    {
+      "answer": "ONSET",
+      "borrowed": false,
+      "clue": "The\n  point when a symptom first begins.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 9,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "ONSET",
+      "priority": 1,
+      "row": 768
+    },
+    {
+      "answer": "INVISIBLE",
+      "borrowed": false,
+      "clue": "Hidden,\n  like the effort behind an easy-looking visit.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 10,
+      "lesson": 24,
+      "module": 8,
+      "original_answer": "INVISIBLE",
+      "priority": 2,
+      "row": 759
+    },
+    {
+      "answer": "CONSERVE",
+      "borrowed": false,
+      "clue": "Save\n  energy for something worth doing.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 4,
+      "lesson": 24,
+      "module": 8,
+      "original_answer": "CONSERVE",
+      "priority": 2,
+      "row": 760
+    },
+    {
+      "answer": "HUNCH",
+      "borrowed": false,
+      "clue": "A\n  suspicion that still needs evidence.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 6,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "HUNCH",
+      "priority": 2,
+      "row": 784
+    },
+    {
+      "answer": "PARTICIPATION",
+      "borrowed": false,
+      "clue": "Taking\n  part in life, even with symptoms.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 4,
+      "lesson": 24,
+      "module": 8,
+      "original_answer": "PARTICIPATION",
+      "priority": 1,
+      "row": 740
+    },
+    {
+      "answer": "SAVOUR",
+      "borrowed": false,
+      "clue": "Enjoy a\n  good moment rather than rush past it.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 3,
+      "lesson": 24,
+      "module": 8,
+      "original_answer": "SAVOUR",
+      "priority": 3,
+      "row": 763
+    },
+    {
+      "answer": "RELEVANT",
+      "borrowed": false,
+      "clue": "Connected\n  to the question being investigated.",
+      "direction": "down",
+      "grid_col": 19,
+      "grid_row": 11,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "RELEVANT",
+      "priority": 2,
+      "row": 795
+    },
+    {
+      "answer": "FAINT",
+      "borrowed": false,
+      "clue": "Feeling\n  close to blacking out.",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 7,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "FAINT",
+      "priority": 1,
+      "row": 765
+    },
+    {
+      "answer": "EPILEPSY",
+      "borrowed": false,
+      "clue": "A\n  neurological condition that can cause seizures.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 11,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "EPILEPSY",
+      "priority": 1,
+      "row": 809
+    },
+    {
+      "answer": "FINDING",
+      "borrowed": false,
+      "clue": "Something\n  observed or measured during an examination.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 0,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "FINDING",
+      "priority": 1,
+      "row": 771
+    },
+    {
+      "answer": "NOTE",
+      "borrowed": false,
+      "clue": "A\n  reminder for the doctor, not a novel.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 15,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "NOTE",
+      "priority": 2,
+      "row": 781
+    },
+    {
+      "answer": "PANIC",
+      "borrowed": false,
+      "clue": "An\n  intense alarm response, not a seizure synonym.",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 16,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "PANIC",
+      "priority": 1,
+      "row": 802
+    },
+    {
+      "answer": "AWARE",
+      "borrowed": false,
+      "clue": "Conscious\n  of what's happening around you.",
+      "direction": "across",
+      "grid_col": 15,
+      "grid_row": 14,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "AWARE",
+      "priority": 2,
+      "row": 820
+    },
+    {
+      "answer": "CLEAR",
+      "borrowed": false,
+      "clue": "Easy to\n  understand, like a good explanation.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 1,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "CLEAR",
+      "priority": 1,
+      "row": 803
+    },
+    {
+      "answer": "STEPS",
+      "borrowed": false,
+      "clue": "Individual\n  actions that make up a follow-up plan.",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 17,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "STEPS",
+      "priority": 2,
+      "row": 787
+    },
+    {
+      "answer": "RISE",
+      "borrowed": false,
+      "clue": "What a\n  pressure reading can do besides fall.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 9,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "RISE",
+      "priority": 2,
+      "row": 786
+    },
+    {
+      "answer": "PACE",
+      "borrowed": false,
+      "clue": "Speed\n  adjusted to what you can manage.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 12,
+      "lesson": 24,
+      "module": 8,
+      "original_answer": "PACE",
+      "priority": 1,
+      "row": 731
+    },
+    {
+      "answer": "SEARCH",
+      "borrowed": false,
+      "clue": "Hunt\n  for information without a magnifying glass.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 10,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "SEARCH",
+      "priority": 2,
+      "row": 821
+    },
+    {
+      "answer": "FOLLOWUP",
+      "borrowed": false,
+      "clue": "Another\n  appointment, not just a cliffhanger.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 0,
+      "lesson": 25,
+      "module": 8,
+      "original_answer": "FOLLOWUP",
+      "priority": 2,
+      "row": 796
+    },
+    {
+      "answer": "COMFORT",
+      "borrowed": false,
+      "clue": "Ease\n  created by changing the surroundings.",
+      "direction": "across",
+      "grid_col": 15,
+      "grid_row": 5,
+      "lesson": 24,
+      "module": 8,
+      "original_answer": "COMFORT",
+      "priority": 2,
+      "row": 757
+    },
+    {
+      "answer": "FUN",
+      "borrowed": false,
+      "clue": "Enjoyment,\n  even on a difficult day.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 2,
+      "lesson": 24,
+      "module": 8,
+      "original_answer": "FUN",
+      "priority": 2,
+      "row": 751
+    },
+    {
+      "answer": "WARNING",
+      "borrowed": false,
+      "clue": "A sign\n  before an episode, when one occurs.",
+      "direction": "down",
+      "grid_col": 20,
+      "grid_row": 3,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "WARNING",
+      "priority": 1,
+      "row": 808
+    },
+    {
+      "answer": "PAGE",
+      "borrowed": false,
+      "clue": "One\n  stop on a reference website.",
+      "direction": "across",
+      "grid_col": 18,
+      "grid_row": 9,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "PAGE",
+      "priority": 2,
+      "row": 814
+    },
+    {
+      "answer": "EFFORT",
+      "borrowed": false,
+      "clue": "Work a\n  task takes, even when completed.",
+      "direction": "down",
+      "grid_col": 21,
+      "grid_row": 9,
+      "lesson": 24,
+      "module": 8,
+      "original_answer": "EFFORT",
+      "priority": 1,
+      "row": 732
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "REST",
+      "clue": "A quiet\n  break to regain energy.",
+      "row": 730
+    },
+    {
+      "answer": "GOAL",
+      "clue": "The\n  finish line you choose for yourself.",
+      "row": 733
+    },
+    {
+      "answer": "NEEDS",
+      "clue": "Support\n  requirements that don't vanish after a good day.",
+      "row": 734
+    },
+    {
+      "answer": "HOPE",
+      "clue": "Optimism\n  that isn't a crystal ball.",
+      "row": 735
+    },
+    {
+      "answer": "RELIABLE",
+      "clue": "Possible\n  to do consistently, not just once.",
+      "row": 736
+    },
+    {
+      "answer": "ENJOYMENT",
+      "clue": "Pleasure\n  in an activity, even with symptoms.",
+      "row": 737
+    },
+    {
+      "answer": "QUALITY",
+      "clue": "First\n  word in the phrase '___ of life.'",
+      "row": 738
+    },
+    {
+      "answer": "ADJUSTMENTS",
+      "clue": "Practical\n  changes that make an activity manageable.",
+      "row": 741
+    },
+    {
+      "answer": "IMPROVEMENT",
+      "clue": "A\n  change for the better, however small.",
+      "row": 742
+    },
+    {
+      "answer": "DROP",
+      "clue": "A\n  blood-pressure fall, not a misplaced object.",
+      "row": 766
+    },
+    {
+      "answer": "DATA",
+      "clue": "Measurements\n  or observations collected as evidence.",
+      "row": 767
+    },
+    {
+      "answer": "CAUSE",
+      "clue": "What an\n  investigation seeks beyond the symptom.",
+      "row": 769
+    },
+    {
+      "answer": "FND",
+      "clue": "A\n  diagnosis that doesn't explain every new symptom.",
+      "row": 770
+    },
+    {
+      "answer": "EPISODE",
+      "clue": "A spell\n  of symptoms with a beginning and end.",
+      "row": 772
+    },
+    {
+      "answer": "COEXIST",
+      "clue": "Be\n  present together, as two health conditions can.",
+      "row": 773
+    },
+    {
+      "answer": "INTERPRETATION",
+      "clue": "What a\n  medical test result might mean.",
+      "row": 775
+    },
+    {
+      "answer": "INVESTIGATION",
+      "clue": "A\n  search for medical causes, not a crime drama.",
+      "row": 776
+    },
+    {
+      "answer": "UNCERTAINTY",
+      "clue": "What\n  remains when evidence hasn't settled a question.",
+      "row": 777
+    },
+    {
+      "answer": "LABEL",
+      "clue": "A\n  diagnosis's name tag, not its life story.",
+      "row": 800
+    },
+    {
+      "answer": "EEG",
+      "clue": "Initials\n  for a test of brain electrical activity.",
+      "row": 801
+    },
+    {
+      "answer": "REVIEW",
+      "clue": "A\n  second look, not a film critic's job.",
+      "row": 804
+    },
+    {
+      "answer": "CARE",
+      "clue": "What a\n  diagnosis should help guide, not end.",
+      "row": 805
+    },
+    {
+      "answer": "LIBRARY",
+      "clue": "Information\n  collection; overdue fines not included.",
+      "row": 806
+    },
+    {
+      "answer": "SEIZURE",
+      "clue": "An\n  episode that may involve shaking or stillness.",
+      "row": 807
+    },
+    {
+      "answer": "VIDEOEEG",
+      "clue": "Brainwave\n  test with a camera rolling.",
+      "row": 810
+    },
+    {
+      "answer": "DISSOCIATIVE",
+      "clue": "Term\n  sometimes used before 'seizures' to mean functional.",
+      "row": 811
+    },
+    {
+      "answer": "ASSESSMENT",
+      "clue": "Careful\n  clinical evaluation, not a quick guess.",
+      "row": 812
+    },
+    {
+      "answer": "INDIVIDUALIZED",
+      "clue": "Tailored\n  to the person's needs, not one-size-fits-all.",
+      "row": 813
+    },
+    {
+      "answer": "GLARE",
+      "clue": "Bright\n  light that's hard on the eyes.",
+      "row": 743
+    },
+    {
+      "answer": "SHADE",
+      "clue": "What\n  closed curtains provide on a sunny day.",
+      "row": 744
+    },
+    {
+      "answer": "VISIT",
+      "clue": "A\n  friendly drop-in, no clipboard required.",
+      "row": 745
+    },
+    {
+      "answer": "LAUGH",
+      "clue": "The\n  reward for a wonderfully dreadful joke.",
+      "row": 746
+    },
+    {
+      "answer": "CHAT",
+      "clue": "An\n  informal talk without an agenda.",
+      "row": 747
+    },
+    {
+      "answer": "SMILE",
+      "clue": "A happy\n  face, not a symptom chart.",
+      "row": 748
+    },
+    {
+      "answer": "GAINS",
+      "clue": "Small\n  improvements, no victory parade required.",
+      "row": 749
+    },
+    {
+      "answer": "TWEAK",
+      "clue": "Make a\n  small, useful change.",
+      "row": 750
+    },
+    {
+      "answer": "HELP",
+      "clue": "Assistance\n  still useful on a better day.",
+      "row": 752
+    },
+    {
+      "answer": "PAIN",
+      "clue": "A\n  migraine's stubborn plus-one.",
+      "row": 753
+    },
+    {
+      "answer": "VARY",
+      "clue": "Refuse\n  to behave identically each day, as symptoms can.",
+      "row": 754
+    },
+    {
+      "answer": "COMPANY",
+      "clue": "Being\n  with others instead of alone.",
+      "row": 755
+    },
+    {
+      "answer": "RECHARGE",
+      "clue": "Refill\n  your batteries without plugging in.",
+      "row": 756
+    },
+    {
+      "answer": "ROUTINE",
+      "clue": "A\n  familiar daily pattern you might adjust.",
+      "row": 758
+    },
+    {
+      "answer": "EXHAUSTION",
+      "clue": "Extreme\n  tiredness even after an enjoyable activity.",
+      "row": 761
+    },
+    {
+      "answer": "CUFF",
+      "clue": "Inflatable\n  sleeve for checking pressure, not fashion.",
+      "row": 779
+    },
+    {
+      "answer": "DIZZY",
+      "clue": "Lightheaded\n  or unsteady on your feet.",
+      "row": 780
+    },
+    {
+      "answer": "QUERY",
+      "clue": "A\n  question worth asking, no search engine required.",
+      "row": 782
+    },
+    {
+      "answer": "PROOF",
+      "clue": "Evidence\n  strong enough to settle a claim.",
+      "row": 783
+    },
+    {
+      "answer": "LOW",
+      "clue": "A\n  pressure reading can be high or ___.",
+      "row": 785
+    },
+    {
+      "answer": "CHECK",
+      "clue": "Examine\n  a possibility rather than assume.",
+      "row": 788
+    },
+    {
+      "answer": "FIT",
+      "clue": "What a\n  good explanation must do with the evidence.",
+      "row": 789
+    },
+    {
+      "answer": "READING",
+      "clue": "A\n  number from a cuff, not a book.",
+      "row": 790
+    },
+    {
+      "answer": "MEASURE",
+      "clue": "Find a\n  quantity using a tool.",
+      "row": 791
+    },
+    {
+      "answer": "CONTRAST",
+      "clue": "A clear\n  difference between two experiences.",
+      "row": 792
+    },
+    {
+      "answer": "SNAPSHOT",
+      "clue": "One\n  test's view of a moment, not the whole movie.",
+      "row": 793
+    },
+    {
+      "answer": "HISTORY",
+      "clue": "Past\n  health details relevant to assessment.",
+      "row": 794
+    },
+    {
+      "answer": "LINK",
+      "clue": "A\n  clickable web shortcut, no chain required.",
+      "row": 815
+    },
+    {
+      "answer": "VIDEO",
+      "clue": "Moving\n  pictures recorded alongside an EEG.",
+      "row": 816
+    },
+    {
+      "answer": "SHAKE",
+      "clue": "Move\n  back and forth, as some seizures involve.",
+      "row": 817
+    },
+    {
+      "answer": "STILL",
+      "clue": "Motionless,\n  as some seizure episodes appear.",
+      "row": 818
+    },
+    {
+      "answer": "FUZZY",
+      "clue": "How\n  memory of an episode may feel afterward.",
+      "row": 819
+    },
+    {
+      "answer": "SPEAK",
+      "clue": "Use\n  words, sometimes impossible during an episode.",
+      "row": 822
+    },
+    {
+      "answer": "RECORD",
+      "clue": "Capture\n  an event on camera.",
+      "row": 824
+    },
+    {
+      "answer": "REFERRAL",
+      "clue": "A\n  request to see another healthcare professional.",
+      "row": 825
+    },
+    {
+      "answer": "OPTIONS",
+      "clue": "Possible\n  approaches to discuss with a care team.",
+      "row": 826
+    },
+    {
+      "answer": "EXPLAIN",
+      "clue": "Do this\n  after naming a diagnosis, please.",
+      "row": 827
+    },
+    {
+      "answer": "QUESTIONS",
+      "clue": "What\n  you take to appointments besides a health card.",
+      "row": 828
+    },
+    {
+      "answer": "RESEARCH",
+      "clue": "Careful\n  study, not a scroll through comments.",
+      "row": 829
+    },
+    {
+      "answer": "DETAILS",
+      "clue": "Small\n  differences that matter when assessing episodes.",
+      "row": 830
+    },
+    {
+      "answer": "NEUROLOGIST",
+      "clue": "Doctor\n  specializing in the nervous system.",
+      "row": 831
+    },
+    {
+      "answer": "GUEST",
+      "clue": "An\n  invited visitor, not a surprise inspection.",
+      "row": 762
+    },
+    {
+      "answer": "STAMINA",
+      "clue": "Endurance\n  needed to keep an activity going.",
+      "row": 764
+    },
+    {
+      "answer": "SCAN",
+      "clue": "Medical\n  imaging, not a grocery checkout.",
+      "row": 797
+    },
+    {
+      "answer": "DIM",
+      "clue": "What\n  vision may become just before fainting.",
+      "row": 798
+    },
+    {
+      "answer": "REASSURE",
+      "clue": "Offer\n  comfort, as in 'Don't worry.'",
+      "row": 799
+    },
+    {
+      "answer": "SCROLL",
+      "clue": "Move\n  down a webpage without walking.",
+      "row": 832
+    },
+    {
+      "answer": "CLICK",
+      "clue": "Open a\n  web link, no doorbell needed.",
+      "row": 833
+    },
+    {
+      "answer": "GUIDE",
+      "clue": "A\n  source that helps you find your way.",
+      "row": 834
+    }
+  ]
+}
