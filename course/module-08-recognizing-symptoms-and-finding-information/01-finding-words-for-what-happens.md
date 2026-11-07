@@ -263,6 +263,27 @@ Or perhaps your symptoms really have improved, and that's what you'd most like t
 You don't need to measure every change or keep another record.
 
 Sometimes, understanding **what has improved, what hasn't, and what matters most to you** can make a conversation much more useful.
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-24" aria-label="Browse Lesson 24 crossword"><img src="{{ '/assets/puzzles/thumbnails/finding-words-for-what-happens-m8-24-normal.svg' | relative_url }}" alt="Preview of the Lesson 24 crossword grid" loading="lazy" decoding="async"><span>When Better Doesn't Mean Symptom-Free</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 24 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-24-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-24-coloring-book.png' | relative_url }}" alt="Outline colouring-page preview of Natalie and Leah enjoying a visit in a quiet, curtained living room." style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-24-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 24 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-24">browse the colouring collection</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
