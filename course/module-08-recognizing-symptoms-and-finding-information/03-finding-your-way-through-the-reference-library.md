@@ -1,8 +1,8 @@
 # Finding Your Way Through the Reference Library
 
-> **Working draft:** Person and Clinician sections human-approved by November 6, 2026; Supporter section remains a generated draft awaiting human authoring and further review.
+> **Working draft:** Person, Supporter and Clinician sections human-approved by November 7, 2026; lesson audits and publication review remain pending.
 
-Lesson 26 follows Natalie as she uses the Reference Library to better understand her previously diagnosed functional seizures, clarify terminology and assessment, and identify useful questions about ongoing care. The Person and Clinician sections are human-authored; the Supporter section remains a generated seed.
+Lesson 26 follows Natalie as she uses the Reference Library to better understand her previously diagnosed functional seizures, clarify terminology and assessment, and identify useful questions about ongoing care. All three audience sections are human-authored and approved.
 
 *Last reviewed: October 26, 2026*
 
@@ -285,34 +285,227 @@ Or perhaps simply discovering that your experience is recognized and understood 
 
 ## For Family, Friends, and Other Supporters
 
-### The best help isn't always finding the answer
+### When someone is left to find their own answers
 
-You search for a symptom and discover five pages that sound almost right. You may want to pick one and say, “This is what's going on.”
+Leah has come over for another visit, and Natalie has her tablet sitting beside her chair. She's been reading about functional seizures in the FND Reference Library, and there's something she'd like to share.
 
-But the Reference Library is designed to **teach and organize questions**, not to diagnose by resemblance. Reading it together can help the person prepare for a more useful appointment.
+"Remember how I told you the neurologist compared my seizures to panic attacks?"
 
-### Read the page the person wants to read
+Leah remembers. Natalie had mentioned it before, although neither of them understood exactly what the neurologist had meant.
 
-Ask first whether they'd like company, help reading, a written summary or to explore alone. The **Person** section is usually the most accessible starting point. You may find useful practical material in the **Supporter** section, and the **Clinician** section can help the care team evaluate assessment or treatment—not replace that team. (*citations* [1](#citation-1), [2](#citation-2))
+"Well, I've learned that dissociative seizures is another name for functional seizures," Natalie explains. "But panic attacks aren't the same thing. I still don't know whether the neurologist was comparing them or saying that's what I was having."
 
-Look at **Refers to** and the scope boundaries. If two different pages seem relevant, keep both as possibilities. Help form one question, such as “Which symptom presentation has been diagnosed, and which techniques fit that finding?”
+Leah thinks for a moment.
 
-Never use a recovery-technique page to coach unsupervised risky movement, breathing, swallowing or seizure interruption.
+"So, were you able to work out whether they diagnosed you correctly?"
 
-### Decide when the reading should stop
+Natalie laughs.
 
-A few helpful pages may be enough. Repeated searching can exhaust both of you without resolving uncertainty. If you find conflicting information or an unclear diagnosis, bring the question to the appropriate clinician instead of searching until one explanation wins.
+"Oh, I don't think I'd even know how to do that! It's more that I've found the words to explain what confused me. And now I know what I want to ask my doctor."
 
-An **OT or PT** can help adapt an activity or select symptom-specific rehabilitation; an **SLT** can guide communication/swallowing work; **neurology/primary care** can clarify diagnosis and other medical questions; **psychology** can support adjustment or appropriate treatment where chosen.
+Natalie picks up her tablet and tries to find the paragraph she'd been reading. She opens one page, then another. After a few moments, she's forgotten which part she wanted to show Leah.
 
-> “I will check when we meet her OT next week when/if neuro physio is planned. If not I’ll request it.”
+"Oh, for goodness' sake. I was just looking at it!"
 
-*Figure 2. Community experience.* A parent plans a question about referral; the account does not establish which referral another person needs. [Original public source](https://www.reddit.com/r/FND/comments/1ruqxh5/comment/oatunoa/). (*citations* [4](#citation-4))
+Leah laughs gently. She's seen Natalie lose her place in a conversation before, and there's no reason to make a fuss about this either.
 
-**Something to discuss together:** “Should we find one useful page, write down one question, or leave it for now?”
+"Would you like me to help you find it?"
 
-**One small thing:** With consent, choose one relevant Reference page and make a bookmark or a one-sentence appointment question. There is no assignment to complete the library.
+"Yes, please. I think it was near the part about recording seizures."
 
+Together, they find the [Functional Seizures diagnostic page](../../reference/diagnostic-signs/06-functional-seizures.md). Leah reads a short passage aloud while Natalie follows along.
+
+Natalie recognizes what she was looking for. The page explains how clinicians consider what happens during an episode, including changes in movement, awareness and recovery. It also describes how recordings and other clinical information can sometimes help establish a diagnosis.
+
+"That's it," Natalie says. "I want to know which findings supported my diagnosis."
+
+Leah looks at the page again. She's beginning to understand what Natalie has been trying to accomplish. Her friend isn't looking for a website to decide whether the neurologist was right or wrong. She wants to understand what the earlier assessment established and how that relates to her own experiences.
+
+Natalie has found information that helps her understand a diagnosis she's already been given, and she's beginning to recognize which questions belong with her care team.
+
+And Leah hasn't needed to become an expert. She's helped Natalie find a paragraph and listened while she worked out what she wanted to ask.
+
+But consider how much of that effort Natalie has already managed during the hours Leah wasn't there.
+
+### The work behind finding an answer
+
+Imagine someone with FND who wants to understand an explanation they were given several years ago.
+
+Perhaps a clinician used an unfamiliar term during an appointment. The person remembers the term, or something that sounds like it, but not the explanation that followed.
+
+They decide to look it up.
+
+At first, it seems simple enough. They search for the term and find several pages discussing FND. Some use different names for the same condition. Others describe symptoms that sound familiar but don't quite match their own experiences.
+
+They open another page to understand a word they don't recognize. Then another to learn about a treatment that's mentioned.
+
+Before long, they've got several pages open and can't remember which question they were trying to answer.
+
+Perhaps you've experienced something like that yourself, even without cognitive difficulties. You look up one thing, follow a few interesting links, and half an hour later you're wondering how you ended up reading about something entirely different.
+
+Now imagine trying to follow those links while managing a continuous migraine, difficulties concentrating and unreliable memory.
+
+The person reads a paragraph, then realizes they haven't understood it. They read it again. A few sentences make sense, but by the end they've lost track of the beginning.
+
+They may find themselves going over the same information several times.
+
+Eventually, they put the device down because their head hurts and they're exhausted.
+
+They still have the question they started with.
+
+And tomorrow, when they return to the page, they may have difficulty remembering what they'd already learned.
+
+This isn't necessarily a lack of interest or ability to understand. The effort required to read, organize and remember information can become a considerable task in its own right.
+
+Someone with a dependable supporter may be able to share some of that work. Another person might read a passage aloud, help find the page again or remember a question the person wanted to ask.
+
+But what happens when there is nobody available?
+
+The person may have to do the reading, remember the explanation, organize the questions and arrange the medical follow-up entirely on their own.
+
+Memory isn't always the difficulty, either. Someone may understand and remember information perfectly well but find that reading from a screen aggravates their migraine or light sensitivity. Another person might struggle with spoken explanations because of noise sensitivity or have speech difficulties that make phoning for clarification exhausting. For others, fatigue or persistent pain may limit how long they can comfortably concentrate on reading. The desire to understand is there, but the usual ways of obtaining information don't always fit their needs.
+
+And all of that happens alongside the ordinary responsibilities of daily life.
+
+### A diagnosis should come with an explanation
+
+There's another side to this worth considering.
+
+Sometimes people are searching for information because the explanations they originally received were difficult to understand, incomplete or simply hard to remember.
+
+One community member described how little guidance followed a loved one's FND diagnosis:
+
+> “My partner has an FND diagnosis. He was basically told “you’ve got FND, go look it up.””
+
+*Community experience — person describing a loved one's diagnosis in an [FND discussion](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/). The wider discussion concerns swallowing difficulties; the quotation illustrates difficulty obtaining understandable guidance, not the cause of those symptoms.* (*citation* [5](#citation-5))
+
+Imagine receiving a diagnosis for symptoms that have dramatically changed your life, then being left to work out what the diagnosis means.
+
+Perhaps you have difficulties walking, episodes when you can't respond or problems with memory. You're trying to understand why these things happen and whether anything might help.
+
+You search online and discover that different websites use unfamiliar terminology. Some explanations seem helpful, while others leave you with even more questions.
+
+What are you supposed to make of all that?
+
+A supporter may feel tempted to take over the research, especially when they can see how much difficulty the person is having. They might find several articles, print information or begin recommending possible treatments.
+
+Those efforts may come from a place of genuine care.
+
+But the person with FND may not want every article or every possible treatment. They may have one particular question that matters to them, and they deserve to decide where the conversation begins.
+
+Natalie, for example, isn't looking for someone to choose a treatment on her behalf. She wants to understand why her seizures were diagnosed the way they were and what care might still help her.
+
+That's where the Reference Library can be useful. Its pages bring together descriptions, research and treatment information, while explaining important limitations. But the library can't know which findings were recorded during Natalie's appointments or which treatments are appropriate for her.
+
+Those questions still belong in a conversation with her care team.
+
+And the responsibility for providing a clear medical explanation shouldn't fall entirely on Natalie simply because she's willing to learn.
+
+Research supports taking diagnostic communication seriously. A 2026 review examined 15 studies concerning how people understand and respond to an FND diagnosis. The findings highlighted the importance of explanations and follow-up, although the studies were too varied to establish that one particular way of explaining FND improves recovery. [Read the research](https://doi.org/10.1016/j.pec.2026.109826). (*citation* [6](#citation-6))
+
+The lesson for supporters is a fairly human one: someone may need help understanding what they've been told, without needing another person to decide what they should believe or do.
+
+And when there's no supporter, accessible explanations from healthcare professionals become even more important.
+
+### When nobody is there to help carry the information
+
+Think about someone who attends an appointment alone.
+
+They've spent the morning getting ready, arranging transportation and managing their symptoms. By the time they reach the examination room, they're already tired.
+
+The clinician explains something about their condition. It makes sense while they're listening, and they have a question they'd like to ask. But before they can bring the words together, the conversation moves on. They try to remember the question while listening to the next explanation, and soon they're struggling to hold both things in mind.
+
+At the end of the appointment, they thank the clinician and make their way home. Later, sitting in their familiar chair, they remember that there was something important they wanted to ask, but the question itself won't come back. They can remember parts of the conversation, just not enough to reconstruct everything.
+
+Perhaps you've experienced that yourself after an ordinary medical appointment. It's surprisingly easy to leave a consultation and remember the question you meant to ask only once you're back in the car. For someone with cognitive difficulties, the problem may be much more persistent.
+
+A supporter who attends with the person's agreement might help remember a question or listen to an explanation. But they can forget things too, and not everyone wants another person present during private medical conversations.
+
+And someone who has no dependable supporter cannot simply arrange for another person to attend.
+
+This is where the way information is provided can make a real difference.
+
+Imagine our person asking the clinician to write down the main explanation and the next step. Perhaps the clinic can provide a short written summary or information in a format the person finds easier to use.
+
+They may still need to read it more than once, but at least the explanation is there when they return to it.
+
+That won't solve every problem with memory or concentration. Nor will every clinic have the same resources.
+
+But it means the person doesn't have to rely entirely on remembering a conversation that took place during an already demanding day.
+
+And perhaps, when they return to the Reference Library later, they can begin with a clearer understanding of what they want to learn.
+
+### The difference between learning and carrying everything alone
+
+Let's return to Natalie and Leah.
+
+Leah has finished reading the paragraph aloud, and Natalie has written a short question on a piece of paper.
+
+"What findings supported my functional-seizure diagnosis?"
+
+She also wants to ask whether there are treatments or other forms of care worth considering now, particularly because her seizures remain severe and sometimes begin without a warning she can use.
+
+Leah asks whether she'd like help finding that information in the library.
+
+Natalie thinks for a moment.
+
+"Actually, I've already found the [Recovery Techniques page](../../reference/recovery-techniques/06-functional-seizures.md). There are a few things I'd like to ask the doctor about. I just don't want to spend the whole afternoon reading about seizures."
+
+"Fair enough," Leah says. "I brought coffee, not homework."
+
+They put the tablet away.
+
+Natalie still has questions, but she doesn't need to answer them all today. She's found information that's helped her understand what she wants to discuss with her care team, and that's enough for now.
+
+Now imagine someone who has no Leah.
+
+They may have to find the pages, understand the unfamiliar words and organize their own questions. If they become confused or exhausted, there may be nobody to help them pick up where they left off.
+
+They might also be managing difficulties that make reading online impractical on some days, or they may not have dependable access to suitable technology.
+
+It's important that we don't turn independence into another expectation someone must struggle to meet.
+
+A person shouldn't need to become an expert in FND to receive appropriate care, and having no personal supporter shouldn't mean they're expected to manage every healthcare responsibility without assistance.
+
+Depending on what's available, accessible written information, professional follow-up or help navigating services may reduce some of that burden. Some people may find community organizations or peer connections useful as well, although those aren't substitutes for individualized medical assessment and care.
+
+Such options aren't available equally everywhere, and obtaining them may present difficulties of its own.
+
+But recognizing the difference between someone's willingness to learn and the amount of work they're being left to do can change how we understand their needs.
+
+### A question worth asking
+
+Imagine our person returning to a medical appointment with a small piece of paper.
+
+They've managed to find an explanation they understand a little better. They still have questions, and some of the reading has been difficult, but they've worked out what matters most to them.
+
+The note contains one question about their diagnosis and another about what help might be available.
+
+Perhaps the clinician can explain the findings that supported the original diagnosis. Perhaps there are gaps in the old records, or a question that needs further consideration.
+
+The person may leave with a clearer explanation, a plan for follow-up or written information they can return to when their memory is unreliable.
+
+Not every appointment will go that well, and not every question will have an immediate answer. Some people will continue to encounter barriers to care even when they know exactly what they want to ask.
+
+But there's something hopeful about the possibility of being able to understand a little more without having to carry the entire responsibility for finding answers.
+
+Natalie's experience shows how learning can change a conversation. She began with several confusing terms and an old explanation that didn't make sense to her. Now she has a clearer understanding of what those terms mean and a question her clinician can help her explore.
+
+Someone without Leah may have a harder journey toward that same conversation. They may need information presented differently, more time to understand it or assistance that isn't currently available.
+
+Yet the goal remains worthwhile.
+
+**A person doesn't have to solve every question about their condition before they can take part in decisions about their care.**
+
+There's another difficulty we should acknowledge. Someone might read about a promising recovery technique, only to discover that nobody in their area has the training to provide it. There may be no local FND specialist, and travelling to another community may be beyond what they can manage. Remote appointments are sometimes possible, but not every treatment can be delivered remotely, and access is far from guaranteed. Imagine finally understanding that there may be an approach worth trying, then discovering there's nobody available to help you pursue it. That's a real disappointment. The Reference Library can help someone understand the possibilities and ask informed questions, but reading about a specialized treatment doesn't make it available or turn it into something they should attempt without appropriate guidance.
+
+And while we've spent much of these lessons considering people without dependable support, there's one other relationship difficulty worth mentioning. Sometimes a spouse or close friend wants something different for the person with FND than the person wants for themselves. Imagine someone who's eager to help Natalie tolerate sunlight again. They remember how much she used to enjoy being outdoors, and they would love to see her return to those activities. Natalie understands their hope, but what matters most to her right now is reducing the severity or frequency of her functional seizures. Neither wish is unreasonable. The difficulty begins when the supporter's preferred goal becomes the one everyone works toward, while Natalie's own priority receives less attention. The person living with the condition should have a meaningful say in what improvement would make the greatest difference to their life, while supporters can be honest about what assistance they're able to provide.
+
+Perhaps that's one of the most useful things these lessons can leave us with. Better information doesn't guarantee an available specialist, an effective treatment or agreement between everyone involved. But it can help people describe what they're experiencing, understand the choices that may exist and explain what matters most to them. Whether someone has a devoted caregiver, an occasional friend or nobody dependable at all, their own priorities deserve to be heard.
+
+Sometimes the next useful step is simply having one question understood, one explanation made clearer or one possibility for care brought into view.
+
+For someone who's spent a long time trying to make sense of their experiences alone, that can be a meaningful beginning.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -526,6 +719,7 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee.** Neurology. 2026;106:e214466; online December 10, 2025. doi:10.1212/WNL.0000000000214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41370742/). [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
 | <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-4"></a>**[4]** | Figure 2 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1ruqxh5/comment/oatunoa/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0315](../../research/citation-index.md#fnd-cit-0315). |
-| <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution by a partner, “Choking Hazard,” r/FND. Quotation-bank identifier Q007 / source S03, compiled October 25, 2026. Exact excerpt, partner perspective and surrounding context checked November 5, 2026. The excerpt concerns access to guidance; the wider post also describes swallowing concerns and is not used to attribute those concerns to FND. [Original](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/). Individual account, not clinical evidence. [FND-CIT-0331](../../research/citation-index.md#fnd-cit-0331). |
+| <a id="citation-5"></a>**[5]** | — | Public Reddit contribution by a partner, “Choking Hazard,” r/FND. Quotation-bank identifier Q007 / source S03, compiled October 25, 2026. Exact excerpt, partner perspective and surrounding context checked November 5, 2026. The excerpt concerns access to guidance; the wider post also describes swallowing concerns and is not used to attribute those concerns to FND. [Original](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/). Individual account, not clinical evidence. [FND-CIT-0331](../../research/citation-index.md#fnd-cit-0331). |
+| <a id="citation-6"></a>**[6]** | — | Silva AF, Silva B. **Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes.** *Patient Education and Counseling*. 2026;152:109826. [Original](https://doi.org/10.1016/j.pec.2026.109826). Review of 15 quantitative studies; substantial variation between studies and weak comparative evidence limit conclusions about the effects of particular explanations. [FND-CIT-0083](../../research/citation-index.md#fnd-cit-0083). |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
