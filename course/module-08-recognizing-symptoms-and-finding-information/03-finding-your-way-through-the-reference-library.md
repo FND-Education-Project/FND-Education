@@ -275,6 +275,27 @@ Perhaps you want to understand what findings supported your diagnosis. Perhaps y
 Or perhaps simply discovering that your experience is recognized and understood would be enough for today.
 
 **You don't need to become an expert in FND to take a more informed part in your care.**
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-26" aria-label="Browse Lesson 26 crossword"><img src="{{ '/assets/puzzles/thumbnails/the-reference-library-m8-26-normal.svg' | relative_url }}" alt="Preview of the Lesson 26 crossword grid" loading="lazy" decoding="async"><span>Finding Your Way Through the Reference Library</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 26 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-26-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-26-coloring-book.png' | relative_url }}" alt="Outline colouring-page preview of Natalie using a laptop in her adapted living room." style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-26-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 26 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-26">browse the colouring collection</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
