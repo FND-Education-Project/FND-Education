@@ -54,6 +54,14 @@ She's read personal accounts before, but now she's seeing those experiences desc
 
 For a moment, Natalie feels a little less alone.
 
+<figure class="image-60center" markdown="1">
+
+![In a quiet room with closed curtains, Natalie sits with her laptop open to the FND Education Project, concentrating on what she is learning.](../../assets/images/lesson-26-illustration.png)
+
+<figcaption>Natalie doesn't need every answer today. She's found a way to begin the next conversation.</figcaption>
+
+</figure>
+
 ### When a description feels familiar
 
 Imagine living with something that's difficult to explain. Perhaps you've never met anyone who experiences it quite the way you do, and even the people treating you seem to have trouble understanding it.
