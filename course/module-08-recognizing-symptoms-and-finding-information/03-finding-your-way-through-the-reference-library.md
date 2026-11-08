@@ -1,6 +1,6 @@
 # Finding Your Way Through the Reference Library
 
-> **Working draft:** All three audience sections are human authored and approved. Editorial Audit 1 and owner-approved Work audit corrections applied November 7, 2026. Independent clinical review and publication review remain pending.
+> **Working draft:** All three audience sections are human authored and approved. Editorial Audit 1 and owner-approved Work audit corrections applied November 7, 2026. Publication-readiness review completed November 8, 2026; independent clinical review and the project lead’s publication decision remain pending.
 
 Lesson 26 follows Natalie as she uses the Reference Library to better understand her previously diagnosed functional seizures, clarify terminology and assessment, and identify useful questions about ongoing care. All three audience sections are human-authored and approved.
 
@@ -750,4 +750,4 @@ Research sources are identified by their evidence type and scope. The references
 | <a id="citation-4"></a>**[4]** | Figure 1 | Community quotation Q007 / source S03, r/FND discussion **Choking Hazard**, written by a **partner** about someone with FND. [Original discussion](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/) · [FND-CIT-0331](../../research/citation-index.md#fnd-cit-0331). Exact opening wording, partner perspective and surrounding context independently rechecked November 7, 2026. Quotation concerns access to explanation, not the medical cause of swallowing symptoms. |
 | <a id="citation-5"></a>**[5]** | — | Silva AF, Silva B. **Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes.** *Patient Education and Counseling*. 2026;152:109826. [Original](https://doi.org/10.1016/j.pec.2026.109826) · [FND-CIT-0083](../../research/citation-index.md#fnd-cit-0083). Heterogeneous studies with limited comparative evidence; not proof that any particular explanation improves recovery. |
 
-*Editorial Audit 1 and owner-approved Work corrections: November 7, 2026. Evidence access limits and validation results are recorded in the internal audit. Independent clinical review and publication approval remain pending.*
+*Editorial Audit 1 and owner-approved Work corrections: November 7, 2026. Evidence access limits and validation results are recorded in the internal audit. Publication-readiness review completed November 8, 2026; independent clinical review and the project lead’s publication decision remain pending.*

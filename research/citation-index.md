@@ -179,7 +179,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0329](#fnd-cit-0329) | American Psychiatric Association | Professional guidance | Dissociation and DID | [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) |
 | [FND-CIT-0330](#fnd-cit-0330) | Community contributor | Individual lived experience | Historical symptom account | Not currently used in Module 8; historical verification retained |
 | [FND-CIT-0331](#fnd-cit-0331) | Partner, Choking Hazard | Individual supporter experience | Access to diagnostic explanation | [Lesson 26, Figure 1](../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md) |
-| [FND-CIT-0332](#fnd-cit-0332) | National Mental Health Commission, 2019 | Consumer/carer consultation | individual support needs and conditional hope | [Lesson 25, Figure 2](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md) |
+| [FND-CIT-0332](#fnd-cit-0332) | National Mental Health Commission, 2019 | Consumer/carer consultation | individual support needs and conditional hope | [Lesson 25, Figure 1](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md) |
 | [FND-CIT-0333](#fnd-cit-0333) | Wieling et al., 2022 | Clinical review | interpreting orthostatic blood pressure | [Lesson 25](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md) |
 
 ## Functional speech and voice detailed-page citation use map
@@ -3263,7 +3263,7 @@ Australian National Mental Health Commission. **Experiences of Functional Neurol
 
 **Verification:** Exact “With the right level of support, I still believe I could thrive.” excerpt and anonymous FND Consumer attribution independently checked November 7, 2026. The surrounding account describes severe disability and unmet support needs; the excerpt preserves its conditional hope.
 
-**Current use:** [Lesson 25, Figure 2](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
+**Current use:** [Lesson 25, Figure 1](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
 
 ## FND-CIT-0333
 
@@ -3274,6 +3274,6 @@ Wieling W, Kaufmann H, Claydon VE, van Wijnen VK, Harms MPM, Juraschek SP, Thijs
 **Current use:** [Lesson 25, Person and Clinician](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
 
 
-## Pending Module 8 community-source registration
+## Historical Module 8 community source — not in current lessons
 
-Q002 / S01 is used in [Lesson 25, Figure 1 and citation 4](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md). [Original comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Independent retrieval unsuccessful November 7, 2026; exact wording and speaker perspective remain unverified. Retained with the project lead's approval pending verification. No permanent citation ID allocated and no verified-source claim made.
+Q002 / S01 was removed from Lesson 25 during publication-readiness review on November 8, 2026. [Original comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Retrieval remained unsuccessful; exact wording and speaker perspective are **unverified**. No permanent citation ID was allocated. The historical excerpt and retrieval record remain in the internal publication-readiness report. Removal closes the publication dependency without claiming verification; no current lesson uses this source.

@@ -1,6 +1,6 @@
 # When Better Doesn't Mean Symptom-Free
 
-> **Working draft:** All three audience sections are human authored and approved. Editorial Audit 1 and owner-approved Work audit corrections applied November 7, 2026. Independent clinical review and publication review remain pending.
+> **Working draft:** All three audience sections are human authored and approved. Editorial Audit 1 and owner-approved Work audit corrections applied November 7, 2026. Publication-readiness review completed November 8, 2026; independent clinical review and the project lead’s publication decision remain pending.
 
 Lesson 24 explores how someone can make meaningful progress in participation and quality of life even when severe symptoms and support needs remain. All three audience sections are human-authored and approved.
 
@@ -691,4 +691,4 @@ Research sources are identified by their evidence type and scope. The references
 | <a id="citation-3"></a>**[3]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. **Outcome measurement in functional neurological disorder: a systematic review and recommendations.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [Original](https://doi.org/10.1136/jnnp-2019-322180) · [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). Review of measure selection and limitations, not proof of an individual intervention’s effectiveness. |
 | <a id="citation-4"></a>**[4]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [Original](https://doi.org/10.1136/jnnp-2019-322281) · [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). Professional consensus supporting individualized participation goals; not a treatment-efficacy trial. |
 
-*Editorial Audit 1 and owner-approved Work corrections: November 7, 2026. Evidence access limits and validation results are recorded in the internal audit. Independent clinical review and publication approval remain pending.*
+*Editorial Audit 1 and owner-approved Work corrections: November 7, 2026. Evidence access limits and validation results are recorded in the internal audit. Publication-readiness review completed November 8, 2026; independent clinical review and the project lead’s publication decision remain pending.*

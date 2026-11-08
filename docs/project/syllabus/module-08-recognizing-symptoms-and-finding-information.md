@@ -1,7 +1,7 @@
 # Module 8 — Recognizing Symptoms and Finding Information
 
 **Part Two: Understanding Attention, Action, and Body Signals**  
-**Status:** Owner-approved **editorial direction** (November 5, 2026). **All three Person sections**—Lesson 24 (commit 2885888), Lesson 25 (commit 6934b16), and Lesson 26 (commit baea81a)—are human-approved and committed in draft PR #200; **All three Clinician sections** (commits edafd4d, de83f55 and a8f88de) are human-approved and committed; **All three Supporter sections** (commits 0a8cabe, 528ca44 and 3929e66) are human-approved and committed. **All nine Module 8 audience sections are now human-authored**; publication-readiness audits and merge remain pending. This syllabus specifies direction; approved prose lives in the lesson files. Audit 1 editorial findings and project-lead approvals were recorded November 7, 2026; approved wording/metadata/citation-alignment changes are committed. **Original-source and quotation verification remains assigned to Work**, with further audits, merge and publication pending.  
+**Status:** All nine audience sections in Lessons 24–26 are human authored and owner-approved. Editorial Audit 1, approved Work evidence/citation corrections and publication-readiness review are complete. Q002 was removed after unsuccessful verification; retained research was not reassessed. Independent clinical review, full assistive-technology acceptance and the project lead's merge/publication decision remain separate and pending. See the [publication-readiness report](../../../reference/_internal/course/module-08-publication-readiness-2026-11-08.md). Earlier authoring prompts below are historical instructions; approved prose lives in the lesson files.
 **Current lesson numbers:** 24–26 (local Module 8 IDs 1–3). Earlier internal drafts have legacy numbering.  
 **Authoring instructions:** [Module 8 editorial handoff and nine section prompts](../../../reference/_internal/course/module-08-human-authoring-handoff-2026-11-04.md).
 
@@ -53,7 +53,7 @@ Natalie's stage resembles someone who has moved beyond the shock of diagnosis, h
 
 **Supporter:** A friend notices a difference but cannot classify it. Illustrate respect for Natalie's knowledge, useful consensual observation, and the limits of memory and secondhand accounts. The friend is neither a clinician nor a 24/7 monitor.
 
-**Audit 1 owner decision (November 7):** The already human-approved Clinician narrative intentionally centers the historical migraine/FND symptom-list ambiguity, using the observed standing blood-pressure change only as a supporting example. Keep that approved case; the original syllabus prompt's stronger emphasis on orthostatic inference has been superseded for this audience. Source-to-claim verification is still assigned to Work.
+**Audit 1 owner decision (November 7):** The already human-approved Clinician narrative intentionally centers the historical migraine/FND symptom-list ambiguity, using the observed standing blood-pressure change only as a supporting example. Keep that approved case; the original syllabus prompt's stronger emphasis on orthostatic inference has been superseded for this audience. Source-to-claim verification was completed in the Work audit, with recorded access limits.
 
 
 **Distinctive result:** The reader recognizes **a good question to ask about medical information**, not a symptom-matching trick.
@@ -87,13 +87,13 @@ Default authoring sequence is Lesson 24 Person → Clinician → Supporter, then
 
 ### Canonical pages and reference paths
 
-- [Lesson 24 (old generated seed)](../../../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md)
-- [Lesson 25 (old generated seed)](../../../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md)
-- [Lesson 26 (old generated seed)](../../../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md)
+- [Lesson 24 (human-authored lesson)](../../../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md)
+- [Lesson 25 (human-authored lesson)](../../../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md)
+- [Lesson 26 (human-authored lesson)](../../../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md)
 - [FND seizure assessment overview](../../../reference/diagnostic-signs/06-functional-seizures.md#for-the-person-with-fnd)
 - [FND tremor overview](../../../reference/diagnostic-signs/02-functional-tremor.md#for-the-person-with-fnd)
 - [Functional jerks overview](../../../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md#for-the-person-with-fnd)
 - [FCD overview](../../../reference/diagnostic-signs/12-functional-cognitive-disorder.md#for-the-person-with-fnd)
-- [Research and citation policy](research-and-citation-policy.md)
+- [Research and citation policy](../research-and-citation-policy.md)
 
 Historical research briefs, drafts and references remain available through the editorial handoff; they are **not** human-approved replacements for this redesigned syllabus.

@@ -1,10 +1,10 @@
 # Recognizing Symptoms and Finding Information
 
-> **Working draft:** All three lessons are human-authored and have completed the editorial Audit 1. Work evidence corrections are applied; one community quotation, independent clinical review and publication approval remain pending.
+> **Working draft:** All three lessons are human-authored and have completed the editorial Audit 1. Work evidence corrections and publication-readiness review are complete. Independent clinical review and the project lead’s publication decision remain pending.
 
 Module 8 of the current course. Explore the lessons in order or choose the topic most useful to you.
 
-*Editorial integration review: November 7, 2026*
+*Publication-readiness review: November 8, 2026*
 
 - [Lesson 24: When Better Doesn't Mean Symptom-Free](01-finding-words-for-what-happens.md)
 - [Lesson 25: When the Familiar Explanation Doesn't Quite Fit](02-similar-experiences-different-features.md)

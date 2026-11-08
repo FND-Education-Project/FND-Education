@@ -44,7 +44,7 @@ A clinician or care-team member should be better able to:
 
 # Course Modules — 19-Module Curriculum
 
-**Curriculum release preparation: October 26, 2026.** PR #191 now prepares the 19-module reading pathway for publication as automatically generated working content. New teaching uses `/course/v2/`; retained content keeps its original routes and identity. Earlier-edition reading and puzzles remain at their original addresses. See the [publication audit](../../reference/_internal/course/prepublication-audit-191-2026-10-26.md). [Work implementation and migration handoff](../../reference/_internal/course/syllabus-redesign-handoff-2026-10-26.md).
+**Current curriculum:** 19 modules and 59 lessons use canonical `/course/mN/L/` routes. Superseded lesson editions were removed; there is no production learner history to migrate. The October 26 [publication audit](../../reference/_internal/course/prepublication-audit-191-2026-10-26.md) and [migration handoff](../../reference/_internal/course/syllabus-redesign-handoff-2026-10-26.md) are historical records. Module 8's nine audience sections are human authored and approved; see its [publication-readiness report](../../reference/_internal/course/module-08-publication-readiness-2026-11-08.md) for review status and remaining separate acceptance work.
 
 Our teaching pathway is: **FND foundations → safety → understanding attention and body-brain processes → describing and distinguishing symptoms → rehabilitation → pacing → broader treatment and everyday life → longer-term management**.
 
@@ -66,11 +66,11 @@ The sequence is an educational route, not a required order of treatment. Readers
 
 6. [**Module 6 — Attention and Automatic Control**](syllabus/module-06-attention-and-automatic-control.md) — Selective and divided attention; internal/external focus; automatic movement, conscious effort, distraction, context and variability. *Planned lessons 15–17.*
 7. [**Module 7 — Prediction, Body Signals, and Agency**](syllabus/module-07-prediction-interoception-and-agency.md) — Predictions and evidence; interoception, proprioception and exteroception; salience, arousal, feedback, agency and adaptable practice. *Current lessons 18–23.*
-8. [**Module 8 — Recognizing Symptoms and Finding Information**](syllabus/module-08-recognizing-symptoms-and-finding-information.md) — Describe features of symptoms, compare superficially similar experiences without self-diagnosing, and follow the three-audience Reference Library. *Current lessons 24–26.*
+8. [**Module 8 — Recognizing Symptoms and Finding Information**](syllabus/module-08-recognizing-symptoms-and-finding-information.md) — Distinguish participation from symptom improvement, interpret unfamiliar experiences and medical findings, and use the Reference Library to prepare informed questions. *Current lessons 24–26.*
 
 **Current curriculum adjustment (October 30, 2026):** Module 7 now has six lessons, including [Cognitive Difficulties in FND](../../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) (Lesson 21), before [Emotional Regulation and Involuntary Symptoms](../../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md) (Lesson 22). [Agency](../../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md) is Lesson 23. Cognition includes a short distinction between cognitive difficulties, FCD and dissociation; diagnosis-specific techniques remain in the Reference Library. Emotion explores what happens when cognitive access and strong emotions interact, without reteaching all of memory. Shared relationship negotiations remain for Module 14. The canonical course is **19 modules / 59 lessons**, with no preserved superseded course edition and no production learner history to migrate. The learner-progress draft PR #154 is independently owned and must reconcile six Module 7 slots before its release.
 
-The earlier symptom-by-symptom Module 6–12 drafts are superseded as the *planned course structure*, but their content and URLs remain intact pending review and migration. Symptom-specific diagnosis, rehabilitation methods and detailed care belong primarily in [Diagnostic Signs](../../reference/diagnostic-signs/README.md), [Recovery Techniques](../../reference/recovery-techniques/README.md) and [Co-occurring Conditions](../../reference/co-occurring-conditions/README.md).
+The earlier symptom-by-symptom Module 6–12 syllabus drafts are historical; superseded course pages and routes are no longer part of the current course. Symptom-specific diagnosis, rehabilitation methods and detailed care belong primarily in [Diagnostic Signs](../../reference/diagnostic-signs/README.md), [Recovery Techniques](../../reference/recovery-techniques/README.md) and [Co-occurring Conditions](../../reference/co-occurring-conditions/README.md).
 
 ## Part Three — Applying What You Have Learned
 
@@ -81,7 +81,7 @@ Rehabilitation and pacing come directly after the concepts and symptom-navigatio
 
 ## Part Four — Treatment and Living With FND
 
-**Keep the following subjects for now**, including their existing detail and possible overlap. Their linked syllabus files still carry their **legacy module numbers**; Work will create/rename approved files and move lesson content during a separate migration.
+**Keep the following subjects for now**, including their existing detail and possible overlap. Their linked syllabus files still carry their **legacy module numbers**; the canonical course migration is complete.
 
 11. **Building Your Individual Treatment Team** — Care roles, coordination and gaps where specialists are unavailable. [Existing Module 13 syllabus](syllabus/module-13-building-an-individual-treatment-team.md).
 12. **Psychological Treatment Without Blame** — Therapy options, consent, evidence and the difference between mental-health support and assigning a cause to FND. [Existing Module 16 syllabus](syllabus/module-16-psychological-treatment-without-blame.md).

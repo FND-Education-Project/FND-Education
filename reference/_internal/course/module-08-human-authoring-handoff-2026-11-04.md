@@ -2,7 +2,9 @@
 
 **Prepared:** November 4, 2026; **editorial direction revised November 5, 2026** · **Repository:** `FND-Education-Project/FND-Education` · **Historical Module 7 PR:** [#198](https://github.com/FND-Education-Project/FND-Education/pull/198) (merged November 5). **Current Module 8 editorial branch:** `editorial/module-08-syllabus-handoff-20261105`.
 
-**Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person**, **three Clinician**, and **three Supporter sections** are human-approved and committed to PR #200 as of November 7, 2026. All nine audience sections have completed human authoring. Audit 1 editorial review and owner-approved wording, metadata and citation-alignment changes were committed November 7; **original-source/quotation/link verification remains assigned to Work**, with later audits, merge and publication still pending. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. Recording Audit 1 does not authorize unapproved lesson revisions or publication. Preserve Modules 6–7 and all already approved material.
+**Current status — November 8, 2026:** All nine audience sections are human authored and owner-approved. Editorial Audit 1, approved Work corrections and publication-readiness review are complete. The [publication-readiness report](module-08-publication-readiness-2026-11-08.md) supersedes pending-source, asset-check and publication-audit notes below. Q002 could not be verified and was removed from current Lesson 25, with its history preserved. The Australian quotation is now Figure 1 / citation 4; Wieling is citation 5. Independent clinical review and full assistive-technology/physical-device acceptance are not complete. The project lead retains the merge decision; no merge or deployment occurred.
+
+Earlier dated sections below preserve the decision history, including the original decision to retain Q002 pending verification; they are not the current publication status.
 
 ## Current Work audit implementation — November 7, 2026
 
