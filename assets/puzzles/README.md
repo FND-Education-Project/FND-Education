@@ -36,7 +36,7 @@ Choose a collection, module and lesson. These optional activities offer a lighte
 
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
 
-**Jump to a crossword:** [Lesson 15](#lesson-15-crossword) · [Lesson 16](#lesson-16-crossword) · [Lesson 17](#lesson-17-crossword) · [Module 4 review](#module-4-review-crossword) · [Module 5 review](#module-5-review-crossword) · [Module 6 review](#module-6-review-crossword) · [Lesson 12](#lesson-12-crossword) · [Lesson 13](#lesson-13-crossword) · [Lesson 14](#lesson-14-crossword) · [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword) · [Lesson 18](#lesson-18-crossword) · [Lesson 19](#lesson-19-crossword) · [Lesson 20](#lesson-20-crossword) · [Lesson 21](#lesson-21-crossword) · [Lesson 22](#lesson-22-crossword) · [Lesson 23](#lesson-23-crossword) · [Module 7 review](#module-7-review-crossword)
+**Jump to a crossword:** [Lesson 15](#lesson-15-crossword) · [Lesson 16](#lesson-16-crossword) · [Lesson 17](#lesson-17-crossword) · [Module 4 review](#module-4-review-crossword) · [Module 5 review](#module-5-review-crossword) · [Module 6 review](#module-6-review-crossword) · [Lesson 12](#lesson-12-crossword) · [Lesson 13](#lesson-13-crossword) · [Lesson 14](#lesson-14-crossword) · [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword) · [Lesson 18](#lesson-18-crossword) · [Lesson 19](#lesson-19-crossword) · [Lesson 20](#lesson-20-crossword) · [Lesson 21](#lesson-21-crossword) · [Lesson 22](#lesson-22-crossword) · [Lesson 23](#lesson-23-crossword) · [Module 7 review](#module-7-review-crossword) · [Lesson 24](#lesson-24-crossword) · [Lesson 25](#lesson-25-crossword) · [Lesson 26](#lesson-26-crossword) · [Module 8 review](#module-8-review-crossword)
 
 ## Crosswords
 
@@ -569,11 +569,78 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 <a href="{{ '/course/m7/' | relative_url }}">Read the module</a>
 
+<span id="lesson-24-crossword"></span>
+
+### When Better Doesn't Mean Symptom-Free
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-24" aria-label="Browse When Better Doesn't Mean Symptom-Free crossword"><img src="{{ '/assets/puzzles/thumbnails/finding-words-for-what-happens-m8-24-normal.svg' | relative_url }}" alt="Preview of When Better Doesn't Mean Symptom-Free crossword grid" loading="lazy" decoding="async"><span>When Better Doesn't Mean Symptom-Free</span></a>
+<div class="puzzle-downloads" role="group" aria-label="When Better Doesn't Mean Symptom-Free PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m8/1/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-25-crossword"></span>
+
+### When the Familiar Explanation Doesn't Quite Fit
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-25" aria-label="Browse When the Familiar Explanation Doesn't Quite Fit crossword"><img src="{{ '/assets/puzzles/thumbnails/similar-experiences-different-features-m8-25-normal.svg' | relative_url }}" alt="Preview of When the Familiar Explanation Doesn't Quite Fit crossword grid" loading="lazy" decoding="async"><span>When the Familiar Explanation Doesn't Quite Fit</span></a>
+<div class="puzzle-downloads" role="group" aria-label="When the Familiar Explanation Doesn't Quite Fit PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m8/2/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-26-crossword"></span>
+
+### Finding Your Way Through the Reference Library
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-26" aria-label="Browse Finding Your Way Through the Reference Library crossword"><img src="{{ '/assets/puzzles/thumbnails/the-reference-library-m8-26-normal.svg' | relative_url }}" alt="Preview of Finding Your Way Through the Reference Library crossword grid" loading="lazy" decoding="async"><span>Finding Your Way Through the Reference Library</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Finding Your Way Through the Reference Library PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m8/3/' | relative_url }}">Read the lesson</a>
+
+<span id="module-8-review-crossword"></span>
+
+### FND Education — Module 8 Review
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=module-8-review" aria-label="Browse FND Education — Module 8 Review crossword"><img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-8-review-m8-normal.svg' | relative_url }}" alt="Preview of FND Education — Module 8 Review crossword grid" loading="lazy" decoding="async"><span>FND Education — Module 8 Review</span></a>
+<div class="puzzle-downloads" role="group" aria-label="FND Education — Module 8 Review PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Summary/fnd-education-module-8-review-m8-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Summary/fnd-education-module-8-review-m8-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-8-Summary/fnd-education-module-8-review-m8-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m8/' | relative_url }}">Read the module</a>
+
 ## Colouring pages
 
 Choose a preview to open the printable PDF. Select landscape orientation and fit to page when printing.
 
 <div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-24-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-24-coloring-book.png' | relative_url }}" alt="Outline colouring preview of Natalie and Leah in a quiet living room" loading="lazy" decoding="async"><span>Lesson 24: When Better Doesn't Mean Symptom-Free <small>PDF</small></span></a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-25-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-25-coloring-book.png' | relative_url }}" alt="Outline colouring preview of Natalie speaking with a clinician" loading="lazy" decoding="async"><span>Lesson 25: When the Familiar Explanation Doesn't Quite Fit <small>PDF</small></span></a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-26-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-26-coloring-book.png' | relative_url }}" alt="Outline colouring preview of Natalie using her laptop" loading="lazy" decoding="async"><span>Lesson 26: Finding Your Way Through the Reference Library <small>PDF</small></span></a>
 <a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-18-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-18-coloring-book.png' | relative_url }}" alt="Lesson 18 colouring-page preview" loading="lazy" decoding="async"><span>Lesson 18: The Predictive Brain <small>PDF</small></span></a>
 <a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-19-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-19-coloring-book.png' | relative_url }}" alt="Lesson 19 colouring-page preview" loading="lazy" decoding="async"><span>Lesson 19: Interoception, Proprioception, and Outside Senses <small>PDF</small></span></a>
 <a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-20-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-20-coloring-book.png' | relative_url }}" alt="Lesson 20 colouring-page preview" loading="lazy" decoding="async"><span>Lesson 20: Salience, Arousal, and Feedback Loops <small>PDF</small></span></a>

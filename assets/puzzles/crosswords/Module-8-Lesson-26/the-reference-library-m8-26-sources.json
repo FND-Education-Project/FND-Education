@@ -1,0 +1,386 @@
+{
+  "title": "Finding Your Way Through the Reference Library",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 550,
+    "lesson": 26,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 8,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 75.78,
+  "included": [
+    {
+      "answer": "WARNING",
+      "borrowed": false,
+      "clue": "A sign\n  before an episode, when one occurs.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 12,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "WARNING",
+      "priority": 1,
+      "row": 808
+    },
+    {
+      "answer": "OPTIONS",
+      "borrowed": false,
+      "clue": "Possible\n  approaches to discuss with a care team.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 9,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "OPTIONS",
+      "priority": 2,
+      "row": 826
+    },
+    {
+      "answer": "REVIEW",
+      "borrowed": false,
+      "clue": "A\n  second look, not a film critic's job.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 12,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "REVIEW",
+      "priority": 1,
+      "row": 804
+    },
+    {
+      "answer": "SEARCH",
+      "borrowed": false,
+      "clue": "Hunt\n  for information without a magnifying glass.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 15,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "SEARCH",
+      "priority": 2,
+      "row": 821
+    },
+    {
+      "answer": "CLICK",
+      "borrowed": false,
+      "clue": "Open a\n  web link, no doorbell needed.",
+      "direction": "down",
+      "grid_col": 18,
+      "grid_row": 12,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "CLICK",
+      "priority": 3,
+      "row": 833
+    },
+    {
+      "answer": "DISSOCIATIVE",
+      "borrowed": false,
+      "clue": "Term\n  sometimes used before 'seizures' to mean functional.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 9,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "DISSOCIATIVE",
+      "priority": 1,
+      "row": 811
+    },
+    {
+      "answer": "CARE",
+      "borrowed": false,
+      "clue": "What a\n  diagnosis should help guide, not end.",
+      "direction": "across",
+      "grid_col": 18,
+      "grid_row": 12,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "CARE",
+      "priority": 1,
+      "row": 805
+    },
+    {
+      "answer": "RECORD",
+      "borrowed": false,
+      "clue": "Capture\n  an event on camera.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 4,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "RECORD",
+      "priority": 2,
+      "row": 824
+    },
+    {
+      "answer": "EPILEPSY",
+      "borrowed": false,
+      "clue": "A\n  neurological condition that can cause seizures.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 3,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "EPILEPSY",
+      "priority": 1,
+      "row": 809
+    },
+    {
+      "answer": "LIBRARY",
+      "borrowed": false,
+      "clue": "Information\n  collection; overdue fines not included.",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 5,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "LIBRARY",
+      "priority": 1,
+      "row": 806
+    },
+    {
+      "answer": "LINK",
+      "borrowed": false,
+      "clue": "A\n  clickable web shortcut, no chain required.",
+      "direction": "across",
+      "grid_col": 16,
+      "grid_row": 6,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "LINK",
+      "priority": 2,
+      "row": 815
+    },
+    {
+      "answer": "INDIVIDUALIZED",
+      "borrowed": false,
+      "clue": "Tailored\n  to the person's needs, not one-size-fits-all.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 16,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "INDIVIDUALIZED",
+      "priority": 1,
+      "row": 813
+    },
+    {
+      "answer": "VIDEOEEG",
+      "borrowed": false,
+      "clue": "Brainwave\n  test with a camera rolling.",
+      "direction": "down",
+      "grid_col": 21,
+      "grid_row": 6,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "VIDEOEEG",
+      "priority": 1,
+      "row": 810
+    },
+    {
+      "answer": "REFERRAL",
+      "borrowed": false,
+      "clue": "A\n  request to see another healthcare professional.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 3,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "REFERRAL",
+      "priority": 2,
+      "row": 825
+    },
+    {
+      "answer": "CLEAR",
+      "borrowed": false,
+      "clue": "Easy to\n  understand, like a good explanation.",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 8,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "CLEAR",
+      "priority": 1,
+      "row": 803
+    },
+    {
+      "answer": "LABEL",
+      "borrowed": false,
+      "clue": "A\n  diagnosis's name tag, not its life story.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 14,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "LABEL",
+      "priority": 1,
+      "row": 800
+    },
+    {
+      "answer": "GUIDE",
+      "borrowed": false,
+      "clue": "A\n  source that helps you find your way.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 14,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "GUIDE",
+      "priority": 3,
+      "row": 834
+    },
+    {
+      "answer": "AWARE",
+      "borrowed": false,
+      "clue": "Conscious\n  of what's happening around you.",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 5,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "AWARE",
+      "priority": 2,
+      "row": 820
+    },
+    {
+      "answer": "PAGE",
+      "borrowed": false,
+      "clue": "One\n  stop on a reference website.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 0,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "PAGE",
+      "priority": 2,
+      "row": 814
+    },
+    {
+      "answer": "SPEAK",
+      "borrowed": false,
+      "clue": "Use\n  words, sometimes impossible during an episode.",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 2,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "SPEAK",
+      "priority": 2,
+      "row": 822
+    },
+    {
+      "answer": "ASSESSMENT",
+      "borrowed": false,
+      "clue": "Careful\n  clinical evaluation, not a quick guess.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 8,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "ASSESSMENT",
+      "priority": 1,
+      "row": 812
+    },
+    {
+      "answer": "VIDEO",
+      "borrowed": false,
+      "clue": "Moving\n  pictures recorded alongside an EEG.",
+      "direction": "down",
+      "grid_col": 4,
+      "grid_row": 16,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "VIDEO",
+      "priority": 2,
+      "row": 816
+    },
+    {
+      "answer": "SHAKE",
+      "borrowed": false,
+      "clue": "Move\n  back and forth, as some seizures involve.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 19,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "SHAKE",
+      "priority": 2,
+      "row": 817
+    },
+    {
+      "answer": "EEG",
+      "borrowed": false,
+      "clue": "Initials\n  for a test of brain electrical activity.",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 11,
+      "lesson": 26,
+      "module": 8,
+      "original_answer": "EEG",
+      "priority": 1,
+      "row": 801
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "PANIC",
+      "clue": "An\n  intense alarm response, not a seizure synonym.",
+      "row": 802
+    },
+    {
+      "answer": "SEIZURE",
+      "clue": "An\n  episode that may involve shaking or stillness.",
+      "row": 807
+    },
+    {
+      "answer": "STILL",
+      "clue": "Motionless,\n  as some seizure episodes appear.",
+      "row": 818
+    },
+    {
+      "answer": "FUZZY",
+      "clue": "How\n  memory of an episode may feel afterward.",
+      "row": 819
+    },
+    {
+      "answer": "TRIAL",
+      "clue": "A study\n  testing treatment, not courtroom drama.",
+      "row": 823
+    },
+    {
+      "answer": "EXPLAIN",
+      "clue": "Do this\n  after naming a diagnosis, please.",
+      "row": 827
+    },
+    {
+      "answer": "QUESTIONS",
+      "clue": "What\n  you take to appointments besides a health card.",
+      "row": 828
+    },
+    {
+      "answer": "RESEARCH",
+      "clue": "Careful\n  study, not a scroll through comments.",
+      "row": 829
+    },
+    {
+      "answer": "DETAILS",
+      "clue": "Small\n  differences that matter when assessing episodes.",
+      "row": 830
+    },
+    {
+      "answer": "NEUROLOGIST",
+      "clue": "Doctor\n  specializing in the nervous system.",
+      "row": 831
+    },
+    {
+      "answer": "SCROLL",
+      "clue": "Move\n  down a webpage without walking.",
+      "row": 832
+    }
+  ]
+}

@@ -6,7 +6,8 @@
     "4": "Map Your FND and Other Health Conditions",
     "5": "Medical Safety and New Symptoms",
     "6": "Attention and Automatic Control",
-    "7": "Prediction, Body Signals, and Agency"
+    "7": "Prediction, Body Signals, and Agency",
+    "8": "Recognizing Symptoms and Finding Information"
   },
   "items": [
     {
@@ -714,6 +715,98 @@
         "Easy": "/assets/puzzles/crosswords/Module-7-Summary/fnd-education-module-7-review-m7-easy.pdf",
         "Normal": "/assets/puzzles/crosswords/Module-7-Summary/fnd-education-module-7-review-m7-normal.pdf",
         "Answer key": "/assets/puzzles/crosswords/Module-7-Summary/fnd-education-module-7-review-m7-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-24",
+      "module": 8,
+      "lesson": 24,
+      "title": "When Better Doesn't Mean Symptom-Free",
+      "image": "/assets/puzzles/thumbnails/finding-words-for-what-happens-m8-24-normal.svg",
+      "course": "/course/m8/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-24",
+      "module": 8,
+      "lesson": 24,
+      "title": "When Better Doesn't Mean Symptom-Free",
+      "image": "/assets/puzzles/colouring/lesson-24-coloring-book.png",
+      "course": "/course/m8/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-24-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-25",
+      "module": 8,
+      "lesson": 25,
+      "title": "When the Familiar Explanation Doesn't Quite Fit",
+      "image": "/assets/puzzles/thumbnails/similar-experiences-different-features-m8-25-normal.svg",
+      "course": "/course/m8/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-25",
+      "module": 8,
+      "lesson": 25,
+      "title": "When the Familiar Explanation Doesn't Quite Fit",
+      "image": "/assets/puzzles/colouring/lesson-25-coloring-book.png",
+      "course": "/course/m8/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-25-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-26",
+      "module": 8,
+      "lesson": 26,
+      "title": "Finding Your Way Through the Reference Library",
+      "image": "/assets/puzzles/thumbnails/the-reference-library-m8-26-normal.svg",
+      "course": "/course/m8/3/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-26",
+      "module": 8,
+      "lesson": 26,
+      "title": "Finding Your Way Through the Reference Library",
+      "image": "/assets/puzzles/colouring/lesson-26-coloring-book.png",
+      "course": "/course/m8/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-26-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "module-8-review",
+      "module": 8,
+      "lesson": null,
+      "title": "FND Education — Module 8 Review",
+      "image": "/assets/puzzles/thumbnails/fnd-education-module-8-review-m8-normal.svg",
+      "course": "/course/m8/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-8-Summary/fnd-education-module-8-review-m8-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-8-Summary/fnd-education-module-8-review-m8-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-8-Summary/fnd-education-module-8-review-m8-answer-key.pdf"
       },
       "collection": "crosswords"
     }
