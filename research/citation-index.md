@@ -177,6 +177,8 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0327](#fnd-cit-0327) | Johnson et al., 1993 | Review | Memory source monitoring | [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) |
 | [FND-CIT-0328](#fnd-cit-0328) | NICE, 2022 | Guideline | Medication withdrawal | [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md) |
 | [FND-CIT-0329](#fnd-cit-0329) | American Psychiatric Association | Professional guidance | Dissociation and DID | [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) |
+| [FND-CIT-0330](#fnd-cit-0330) | Community contributor | Individual lived experience | Historical symptom account | Not currently used in Module 8; historical verification retained |
+| [FND-CIT-0331](#fnd-cit-0331) | Partner, Choking Hazard | Individual supporter experience | Access to diagnostic explanation | [Lesson 26, Figure 1](../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md) |
 | [FND-CIT-0332](#fnd-cit-0332) | National Mental Health Commission, 2019 | Consumer/carer consultation | individual support needs and conditional hope | [Lesson 25, Figure 2](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md) |
 | [FND-CIT-0333](#fnd-cit-0333) | Wieling et al., 2022 | Clinical review | interpreting orthostatic blood pressure | [Lesson 25](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md) |
 

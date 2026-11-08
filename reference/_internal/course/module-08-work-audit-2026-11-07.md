@@ -60,9 +60,36 @@ All three colour illustrations visually match their approved A/B/B captions and 
 - Generated-source validator: passed.
 - Browser test JavaScript syntax: passed.
 - Original-head GitHub run 42415669033 failed on outdated authorship expectations; no build/deploy occurred.
-- Corrected-head GitHub build and desktop/mobile results: pending push and CI; final result will be recorded below.
+- Corrected implementation head: [GitHub CI run 42417497864](https://github.com/FND-Education-Project/FND-Education/actions/runs/42417497864) passed, including Jekyll build, Pagefind, built-site validation and 78 desktop/mobile page and puzzle checks. All six Module 8 illustration screenshots (1280/360 viewports) were also visually inspected.
 - Local Ruby/Bundler unavailable; use the PR CI artifact for actual Jekyll and browser verification.
 - Manual screen-reader and physical-device testing not performed. This audit does not certify full accessibility compliance.
 - **Outstanding:** Q002 independent verification; independent clinical review; subsequent publication-readiness review and owner merge decision.
 
-Implementation commit and final CI record will be appended after the corrected head has been checked. No merge or deployment.
+Final validation recorded 2026-11-08. The implementation commit is recorded below; this documentation follow-up completes the audit record and source-index summary. No merge or deployment.
+
+
+## Changed files
+
+- `assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-answer-key.pdf`
+- `assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-easy.pdf`
+- `assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-normal.pdf`
+- `assets/puzzles/crosswords/Module-8-Lesson-24/finding-words-for-what-happens-m8-24-sources.json`
+- `assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-answer-key.pdf`
+- `assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-easy.pdf`
+- `assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-normal.pdf`
+- `assets/puzzles/crosswords/Module-8-Lesson-25/similar-experiences-different-features-m8-25-sources.json`
+- `assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-answer-key.pdf`
+- `assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-easy.pdf`
+- `assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-normal.pdf`
+- `assets/puzzles/crosswords/Module-8-Lesson-26/the-reference-library-m8-26-sources.json`
+- `course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md`
+- `course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md`
+- `course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md`
+- `course/module-08-recognizing-symptoms-and-finding-information/README.md`
+- `reference/_internal/course/module-08-human-authoring-handoff-2026-11-04.md`
+- `reference/_internal/course/module-08-work-audit-2026-11-07.md`
+- `research/citation-index.md`
+- `tools/site/tests/test_curriculum_revision.py`
+- `tools/site/tests/verify_rendered_course.cjs`
+
+Implementation commit: `4c9ec118a18ae0072ecdd8b21c8dedec3f4ae6d4`. All nine reflection sections and all community block quotations match the audited starting head exactly. All 13 crossword-builder regression tests pass.
