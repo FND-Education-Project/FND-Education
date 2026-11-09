@@ -16,6 +16,20 @@ Lesson 28 explores choosing Practice That Fits Your Life through everyday exampl
 
 ## For the Person With FND
 
+<!-- MODULE 9 HUMAN-AUTHORING SEED — 2026-11-09
+Person section below is an unapproved working draft, NOT a completed human-authored lesson.
+Approved three-lesson restructuring: Lesson 28 teaches applying neuroplastic learning
+through personally meaningful, safe, adaptable rehabilitation. Develop a sustained story
+that tests retention (use later) and transfer (use in ordinary life); preserve autonomy,
+recovery aids, accommodation, fatigue and delayed effects. Jenna's parent experience
+(progression including setbacks) is allocated to this lesson. Do not import detailed
+treatment trial summaries; those are assigned to Lesson 29. Preserve existing
+Supporter, Clinician and source text pending their own authoring and audits.
+Full source allocations and research handoff:
+../../reference/_internal/course/module-09-three-lesson-redistribution-handoff-2026-11-09.md
+Do not mark human authored/reviewed until the project lead approves new prose.
+-->
+
 ### A goal is more than an exercise
 
 Imagine that washing dishes is difficult. Someone might suggest strengthening an arm. But your actual problem may involve standing, dizziness, attention, grip, pain, fatigue or a mixture.
