@@ -1,6 +1,6 @@
 # How Rehabilitation Uses Learning
 
-> **Editorial status — November 9, 2026:** The project lead approved the Person narrative and **One small step**. The heart question is approved provisionally; the thought question is pending approval; Supporter and Clinician sections remain working drafts. Research/citation integration, audits and independent clinical review remain pending.
+> **Editorial status — November 9, 2026:** The project lead approved the complete Person section, including the three end-of-lesson prompts. Supporter and Clinician sections remain working drafts. Research/citation integration, audits and independent clinical review remain pending.
 
 Lesson 27 explores how rehabilitation uses neuroplastic learning through everyday examples and FND-related processes.
 
@@ -14,9 +14,8 @@ Lesson 27 explores how rehabilitation uses neuroplastic learning through everyda
 
 ## For the Person With FND
 
-<!-- Human-authored narrative and One small step approved by project lead, November 9, 2026.
-The two reflection questions "Something to think about" and "How might that feel?"
-remain under review and must not be marked approved or published as complete. -->
+<!-- Person section human-authored and approved by project lead, November 9, 2026.
+Research/source reconciliation and later editorial and independent clinical reviews remain pending. -->
 
 ### Learning something without realizing it
 
@@ -380,8 +379,11 @@ Then she remembers the bread.
 
 Perhaps there's still a little learning left to do.
 
-<!-- PENDING HUMAN REVIEW: insert the revised "Something to think about" question here
-after project-lead approval. Consider a later course-wide review for repetitive reflection prompts. -->
+### Something to think about
+
+Since developing FND, have you learned to recognize a body signal, respond differently to a symptom, or adapt an everyday activity?
+
+**Can you recognize how neuroplastic learning might have contributed to that change?**
 
 ### How might that feel?
 
