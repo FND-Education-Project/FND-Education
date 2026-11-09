@@ -16,6 +16,24 @@ Lesson 29 explores when Someone Promises to Rewire Your Brain through everyday e
 
 ## For the Person With FND
 
+<!-- MODULE 9 HUMAN-AUTHORING SEED — 2026-11-09
+Person section below is an unapproved working draft, NOT a completed human-authored lesson.
+Approved three-lesson restructuring: Lesson 29 is the evidence-and-treatment-claims
+lesson, not simply a warning about advertising. Retain treatment evidence and material
+limitations for movement (Physio4FMD, combined rehab), functional seizures (CODES,
+ReACT, AAN), functional voice/speech, FCD cognition, and functional visual loss,
+plus limited mechanistic neuroimaging. Bring in Helen's functional seizure account,
+a community speech recovery report and the FCD study-participant quote.
+Distinguish symptom reduction, function/participation, individual experience and
+proposed neuroplastic mechanisms. Give numbers where meaningful and age-14-level
+explanations with adult research depth. Verify quote context; a mixed-outcome Reddit
+post was not accessible and must not be quoted without verification.
+Do not remove existing research/source material, Supporter or Clinician drafts.
+Full allocations and source details:
+../../reference/_internal/course/module-09-three-lesson-redistribution-handoff-2026-11-09.md
+Do not mark human authored/reviewed until the project lead approves new prose.
+-->
+
 ### The word “rewiring” can sound wonderful
 
 Imagine an advertisement: *Retrain your brain. Follow this programme. Get your old life back.*
