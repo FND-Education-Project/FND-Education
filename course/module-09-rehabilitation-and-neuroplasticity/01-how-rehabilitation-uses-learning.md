@@ -1,6 +1,6 @@
 # How Rehabilitation Uses Learning
 
-> **Editorial status — November 9, 2026:** The project lead approved the Person narrative and **One small step**. The two Person reflection questions are pending approval; Supporter and Clinician sections remain working drafts. Research/citation integration, audits and independent clinical review remain pending.
+> **Editorial status — November 9, 2026:** The project lead approved the Person narrative and **One small step**. The heart question is approved provisionally; the thought question is pending approval; Supporter and Clinician sections remain working drafts. Research/citation integration, audits and independent clinical review remain pending.
 
 Lesson 27 explores how rehabilitation uses neuroplastic learning through everyday examples and FND-related processes.
 
@@ -380,8 +380,12 @@ Then she remembers the bread.
 
 Perhaps there's still a little learning left to do.
 
-<!-- PENDING HUMAN REVIEW: insert approved "Something to think about" and
-"How might that feel?" text here before considering the Person section complete. -->
+<!-- PENDING HUMAN REVIEW: insert the revised "Something to think about" question here
+after project-lead approval. Consider a later course-wide review for repetitive reflection prompts. -->
+
+### How might that feel?
+
+How might you feel if rehabilitation helped you regain an ability or made something important easier, even while other symptoms remained difficult?
 
 ### One small step
 
