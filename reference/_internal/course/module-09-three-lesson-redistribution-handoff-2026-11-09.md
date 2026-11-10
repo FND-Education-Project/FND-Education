@@ -1,8 +1,10 @@
 # Module 9 — Three-lesson redistribution and authoring handoff
 
+> **CURRENT STATUS — November 10, 2026:** All nine audience sections across Lessons 27–29 are human-authored, project-lead approved and committed to draft [PR #205](https://github.com/FND-Education-Project/FND-Education/pull/205). **Editorial and Work audits remain pending.** For the active review scope, approved decisions, prompts and open source/asset checks, read the [Module 9 Chat + Work audit handoff](module-09-audit-handoff-2026-11-10.md). The dated authoring seeds and prior “pending approval” restrictions below are preserved as **historical decisions**, not instructions to restore superseded drafts. Independent clinical review and publication/merge are not approved.
+
 **9–10 November 2026 · Owner-approved structure, Person sections and clinician direction**
 
-**Decision:** Keep the existing **three lessons (27–29)**. Do not introduce Lesson 30 or change course numbering, navigation or progress IDs. Redistribute, do not discard, the deeper November 8 Lesson 27 research, examples and community voices. The Person sections for Lessons 27–29 have since been human-authored, approved and committed to draft PR #205. Their source reconciliation and audits remain outstanding. Supporter and Clinician prose still awaits human approval; the current work is rewriting Clinician 27 in Chat before any public-lesson change.
+**Decision:** Keep the existing **three lessons (27–29)**. Do not introduce Lesson 30 or change course numbering, navigation or progress IDs. Redistribute, do not discard, the deeper November 8 Lesson 27 research, examples and community voices. All nine Person, Supporter and Clinician sections in Lessons 27–29 were subsequently approved and committed to draft PR #205. Original-source reconciliation and lesson/module audits remain outstanding; the current audit instructions are in the dedicated November 10 audit handoff.
 
 **Source of truth for evidence and exact community-excerpt provenance:** [November 8 Lesson 27 editorial handoff](module-09-lesson-27-editorial-handoff-2026-11-08.md). The existing course pages are [27](../../../course/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md), [28](../../../course/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md), and [29](../../../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md). Follow the [research and citation policy](../../../docs/project/research-and-citation-policy.md) and current [Module 9 syllabus](../../../docs/project/syllabus/module-09-rehabilitation-and-neuroplasticity.md).
 
@@ -188,16 +190,9 @@ For the second pair, Natalie and Leah, use a **different situation**—for examp
 3. Agree on distinct Supporter teaching goals and voice before drafting; keep Supporter prose uncommitted until human approval.
 4. Work verifies original claims and quotes, source mappings and citation IDs and performs the lesson/module audits. Independent clinical review and final publication approval are separate.
 
-## What has not been authorized
+## Current audit and publication boundaries — November 10, 2026
 
-- No addition of a fourth Module 9 lesson; no renumbering or syllabus/progress-ID changes.
-- No overwrite of any existing Supporter or Clinician sections.
-- No representation that owner-reviewed prose, independent clinical review, full source reconfirmation or publication readiness are complete.
-- No publication/merge without explicit project-lead decision.
-
-## Next work
-
-1. Review **Lesson 27 Clinician** with the project lead in Chat, following the prior-knowledge audit and reducing repetition. Do not commit revised Clinician prose until approved.
-2. Then develop **Lesson 28 and Lesson 29 Clinician** with distinct clinical questions and the same assumptions about what practitioners already know.
-3. Develop and review the Supporter sections without duplicating the Person or Clinician content.
-4. Work checks all original sources, quotation context, study details, citation numbers and stable source IDs, then performs the planned lesson and module audits. Independent clinical review and publication approval remain separate.
+- All nine audience sections have **already** been owner-approved and committed. Do not restore earlier seed text or reopen whole-lesson authoring without new owner direction.
+- No fourth Module 9 lesson, renumbering, route/key changes or tracker enablement is authorized.
+- Chat Audit 1 reviews editorial quality and records proposed changes for the owner's decision. Work then verifies original claims, source IDs, figures, media, navigation and final-head checks, applying only authorized substantive edits. See the [dedicated audit handoff](module-09-audit-handoff-2026-11-10.md).
+- Neither editorial nor Work audits, independent clinical review, full assistive-technology acceptance, or a publication-readiness/merge decision has occurred as a result of authoring. The project lead alone decides whether to merge.
