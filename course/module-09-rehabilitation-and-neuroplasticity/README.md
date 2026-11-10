@@ -1,6 +1,6 @@
 # Rehabilitation and Neuroplasticity
 
-> **Working draft:** This module overview is generated. Lessons 27–29 have all nine audience sections human-authored and approved by the project lead (November 10, 2026). Editorial and Work audits, evidence/asset integration, and independent clinical review remain pending.
+> **Working draft:** This module overview is automatically generated. Lessons 27–29 have all nine audience sections human-authored and approved by the project lead (November 10, 2026). Editorial and Work audits, evidence/asset integration, and independent clinical review remain pending.
 
 Module 9 of the current course. Explore the lessons in order or choose the topic most useful to you.
 
