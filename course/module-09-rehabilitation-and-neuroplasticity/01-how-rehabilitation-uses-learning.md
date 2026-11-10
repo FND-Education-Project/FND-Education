@@ -1,6 +1,6 @@
 # How Rehabilitation Uses Learning
 
-> **Editorial status — November 10, 2026:** Person, Supporter and Clinician sections human-authored and project-lead approved November 10, 2026. Editorial audits, original-source and citation reconciliation, asset integration, and independent clinical review remain pending.
+> **Working draft:** All three audience sections are human authored and project-lead approved November 10, 2026. Original-source and citation checks, editorial and Work audits, independent clinical review and publication decision remain pending.
 
 Lesson 27 explores how rehabilitation uses neuroplastic learning through everyday examples and FND-related processes.
 
