@@ -259,7 +259,9 @@ Sometimes her voice sounds fairly normal. Other times, words come out strained o
 
 She's been working with a speech-language therapist and has recently noticed some encouraging changes.
 
-Her sister Jess has been pleased to hear about them.
+> **Neuroplastic learning:** When experience changes how the nervous system works, sometimes helping an ability become easier or more reliable over time.
+
+Amira hopes that neuroplastic learning will help her voice become more reliable in everyday conversations. Her sister Jess has been pleased to hear about her progress.
 
 Jess has helped with transportation, listened when Amira needed to talk about difficult appointments, and celebrated the little improvements along the way. The two sisters have always been close, although Jess admits that she still finds some of Amira's symptoms difficult to understand.
 
@@ -329,9 +331,7 @@ Amira smiles.
 
 Jess understands a little more now.
 
-The successful conversation was real. So was the difficulty that followed.
-
-**One didn't cancel out the other.**
+The successful conversation was real. So was the difficulty that followed. **One didn't cancel out the other.** A good conversation might be an encouraging step, but neuroplastic learning isn't established by one good moment—or disproved by one difficult one.
 
 ### What might have changed?
 
@@ -339,7 +339,7 @@ We've already learned that familiar actions, including speaking and moving, can 
 
 Speech-language therapy recommendations for functional communication difficulties recognize that the circumstances of speaking may influence how easily a person communicates. Different activities can place different demands on attention and automatic control. [4](#citation-4)
 
-For Amira, chatting naturally with Jess and making an unexpected telephone call weren't quite the same experience.
+For Amira, chatting naturally with Jess and making an unexpected telephone call weren't quite the same experience. Neuroplastic learning might eventually help her voice become more reliable across different situations, but an improvement in one setting doesn't mean it's available on demand in another.
 
 The difference doesn't tell us exactly why her voice changed. But it's something her therapist might find useful to understand.
 
@@ -399,6 +399,8 @@ She finishes adding her groceries, checks the order and puts down her tablet.
 
 "It is. I don't have to keep going back and looking for things quite so much."
 
+Becoming familiar with the new layout is an everyday example of neuroplastic learning. Natalie has learned where to find things through experience, even though her migraine and cognitive difficulties still vary.
+
 Leah remembers how frustrated Natalie had been with the new website.
 
 She could ask Natalie to show her how quickly she can complete another order. Perhaps she'd even be faster this time.
@@ -445,7 +447,7 @@ Natalie checks the list.
 
 They both laugh.
 
-The little notebook hasn't necessarily improved Natalie's memory itself. But she's becoming more familiar with using something that helps her remember what matters.
+The little notebook hasn't necessarily improved Natalie's memory itself. But learning to reach for the reminder when she needs it is another possible form of neuroplastic learning: the *routine* can become more familiar even if the memory difficulty continues.
 
 Research into learning shows that experience can make skills more familiar and that some improvements remain available over time. [1](#citation-1)
 
@@ -499,9 +501,7 @@ They just enjoy the news.
 
 Later, Natalie mentions to Leah that grocery shopping has become easier again. Leah remembers the milk incident, and they share another laugh.
 
-These little moments don't tell us everything about recovery.
-
-But they remind us that learning and improvement can become part of ordinary life, where people are doing things they enjoy rather than demonstrating what they can do.
+These little moments don't tell us everything about recovery. But they show why neuroplastic learning is worth noticing in ordinary life: an ability or useful routine may gradually become more reliable while people are doing things they enjoy, rather than demonstrating what they can do.
 
 **Sometimes the nicest way to support someone's progress is to let them enjoy it.**
 
