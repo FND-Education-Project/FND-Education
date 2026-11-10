@@ -118,10 +118,18 @@ Each clinician section must stand alone; a brief, accurate introduction to the f
 
 **Lesson 29:** Follow after Clinician 28 approval; focus specifically on applying trial and evidence appraisal to a real treatment choice without re-teaching the Person section.
 
+### Clinician 28 approved; Lesson 29 authoring focus — November 10, 2026
+
+**Lesson 28 approved and committed:** The project lead approved the revised clinician lesson incorporating first-hand information about care-access burden and long, slow rehabilitation. The public lesson now contains the approved Clinician section (commit `49ebf24fdd4bb2df837be152b6f1bbd9be550414`). The Person/Supporter prose was preserved; source/medical audits and independent clinical review remain outstanding.
+
+**Lesson 29 draft constraint:** The Person section already surveys study findings for movement, seizures, voice, cognition and vision. Clinician 29 must **not** repeat the full review or rehearse the biopsychosocial model, team roles, evidence-vs-mechanism definitions or the general risks and treatment burden from Lessons 27–28. Instead teach one genuinely new judgment with an independent, realistic clinical case: **Does the paper cited by a proposed treatment actually test that treatment, in a relevant population, for the outcome the patient wants?** A fictional online/private neuroplasticity programme might selectively quote Physio4FMD's 59% symptom improvement without mentioning the 38% active comparator or nonsignificant primary physical-function difference. The clinician should recognize that *this does not test the private programme*. Functional seizures require their own treatment evidence (CODES + broader 2026 guideline), so do not transfer motor rehabilitation results to seizure freedom. Demonstrate how a rehabilitation practitioner and family doctor can explain the distinction constructively to Natalie, preserving real prospects for improvement and not dismissing her curiosity. Consider whether the proposed treatment could be used alongside, instead of, or in place of needed medical and rehabilitation care, with informed uncertainty—not a prescriptive service or screening checklist. Include appropriate numerators or outcome details where the reasoning depends on them; leave full trial apparatus in Research and Sources. Only cite original research already in Lesson 29's source list; independent Work audit later verifies claims and citations.
+
+**Writing direction:** Approximately 850–1,100 words of practical clinical reasoning; self-contained Natalie case; natural paragraphs; one clear insight per section; no authority-heavy tone or technique protocols. Use **family doctor**, not GP. Submit new Clinician 29 prose to the project lead in Chat; do not commit the clinician section without approval.
+
 ### Authoring workflow
 
-1. Bring the new **Lesson 28 Clinician** section to Chat for the project lead's editorial review before committing its prose.
-2. Develop **Lesson 29 Clinician** with a distinct evidence-to-decision case and the established terminology **family doctor**.
+1. **Lesson 28 Clinician approved and committed**, with lesson-level evidence audit pending.
+2. Present **Lesson 29 Clinician** as an evidence-to-decision case for project-lead review; do not commit without approval.
 3. Review Supporter prose separately, without duplicating Person/Clinician lessons.
 4. Work verifies original claims and quotes, source mappings and citation IDs and performs the lesson/module audits. Independent clinical review and final publication approval are separate.
 
