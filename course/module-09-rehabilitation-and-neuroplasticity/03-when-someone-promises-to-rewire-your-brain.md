@@ -1,6 +1,6 @@
 # When Someone Promises to Rewire Your Brain
 
-> **Editorial status — November 10, 2026:** Person, Supporter and Clinician sections human-authored and approved. Source verification, audits and independent clinical review remain pending. Community quotation verification, source-index reconciliation, audits and independent clinical review remain pending.
+> **Editorial status — November 10, 2026:** Person, Supporter and Clinician sections human-authored and project-lead approved November 10, 2026. Editorial audits, original-source and citation reconciliation, asset integration, and independent clinical review remain pending.
 
 Lesson 29 compares what treatments have achieved across symptoms with what proposed brain-learning mechanisms can explain.
 
@@ -18,7 +18,7 @@ Lesson 29 compares what treatments have achieved across symptoms with what propo
 Numbered sources have been inserted and figure numbering reconciled for this draft.
 Original-paper details, exact community wording/context and stable source IDs remain
 assigned to Work's original-source verification and publication audits.
-Supporter and Clinician prose remain unapproved drafts. -->
+Supporter and Clinician prose were subsequently human-authored and approved November 10, 2026; evidence and publication checks remain pending. -->
 
 ### A promise worth looking into
 
@@ -574,4 +574,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-14"></a>**[14]** | Figure 3 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/). Earlier wording and context checked October 26, 2026; fresh verification pending. [FND-CIT-0319](../../research/citation-index.md#fnd-cit-0319). |
 | <a id="citation-15"></a>**[15]** | Figure 4 (Supporter draft) | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). Earlier wording and context checked October 26, 2026. [FND-CIT-0320](../../research/citation-index.md#fnd-cit-0320). |
 
-*Publication status: November 10, 2026. Person section approved and authored; Supporter/Clinician sections and original source checks, figure mapping, bibliographic completion, citation-index reconciliation, lesson audits and independent clinical review remain pending.*
+*Authoring status: all three audience sections approved November 10, 2026. Original sources, figure/source mapping, bibliographic details, citation-index reconciliation, lesson audits and independent clinical review remain pending.*
