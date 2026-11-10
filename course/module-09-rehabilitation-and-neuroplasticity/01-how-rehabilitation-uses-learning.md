@@ -1,6 +1,6 @@
 # How Rehabilitation Uses Learning
 
-> **Editorial status — November 10, 2026:** The project lead approved the revised Person section, including the three end-of-lesson prompts. Supporter and Clinician sections human-authored and approved. Research/citation integration, audits and independent clinical review remain pending.
+> **Editorial status — November 10, 2026:** Person, Supporter and Clinician sections human-authored and project-lead approved November 10, 2026. Editorial audits, original-source and citation reconciliation, asset integration, and independent clinical review remain pending.
 
 Lesson 27 explores how rehabilitation uses neuroplastic learning through everyday examples and FND-related processes.
 
@@ -653,4 +653,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Lee TC, et al. **Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial.** Lancet Neurol. 2024;23:675–686. doi:10.1016/S1474-4422(24)00135-2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38768621/). [FND-CIT-0029](../../research/citation-index.md#fnd-cit-0029). |
 | <a id="citation-7"></a>**[7]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1v2tbfb/comment/oz7hya4/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0316](../../research/citation-index.md#fnd-cit-0316). |
 
-*Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
+*Authoring status: all three audience sections approved November 10, 2026. Audits and original-source/citation checks remain pending; independent clinical review has not occurred.*
