@@ -1,6 +1,6 @@
 # When Someone Promises to Rewire Your Brain
 
-> **Editorial status — November 10, 2026:** Person, Supporter and Clinician sections human-authored and project-lead approved November 10, 2026. Editorial audits, original-source and citation reconciliation, asset integration, and independent clinical review remain pending.
+> **Working draft:** All three audience sections are human authored and project-lead approved November 10, 2026. Original-source and citation checks, editorial and Work audits, independent clinical review and publication decision remain pending.
 
 Lesson 29 compares what treatments have achieved across symptoms with what proposed brain-learning mechanisms can explain.
 
