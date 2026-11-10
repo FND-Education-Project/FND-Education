@@ -1,6 +1,6 @@
 # When Someone Promises to Rewire Your Brain
 
-> **Editorial status — November 10, 2026:** Person section human-authored and approved. Supporter and Clinician sections remain working drafts. Community quotation verification, source-index reconciliation, audits and independent clinical review remain pending.
+> **Editorial status — November 10, 2026:** Person and Clinician sections human-authored and approved. Supporter section remains a working draft. Community quotation verification, source-index reconciliation, audits and independent clinical review remain pending.
 
 Lesson 29 compares what treatments have achieved across symptoms with what proposed brain-learning mechanisms can explain.
 
@@ -233,29 +233,154 @@ You can accompany the person to appointments if invited. You can also voice conc
 
 ## For Clinicians and the Care Team
 
-### Explain studies without erasing either benefit or limits
+<!-- Clinician section human-authored and approved November 10, 2026.
+Original-source verification and independent clinical review remain pending. -->
 
-A mechanism model, a consensus statement and a randomized efficacy trial answer different questions. When presenting a programme, specify the enrolled population, comparator, primary endpoint, follow-up time, secondary findings, relevant adverse effects and access burden. A compelling therapist demonstration may inform feasibility but does not establish average efficacy or identify an active ingredient. (*citations* [5](#citation-5))
+### When the research sounds convincing
 
-**Functional motor rehabilitation — Physio4FMD:** The 2024 pragmatic randomized study did not show superiority of specialist over usual neurological physiotherapy on its primary 12-month physical-function endpoint, although several secondary outcomes favoured specialist treatment. Both arms received active care. Neither “physiotherapy cures FND” nor “physiotherapy is ineffective” follows from these results. Consider selection and missing-data limitations when counselling patients. [1](#citation-1).
+Natalie has longstanding FND, including functional movement difficulties and severe functional seizures. She has been receiving rehabilitation, but progress is slow.
 
-**Functional seizures — CODES and subsequent guidance:** The CODES trial did not find a statistically significant benefit of seizure-specific CBT added to standardized medical care for the primary monthly-seizure-frequency measure at 12 months; some relevant secondary outcomes favoured CBT. The broader 2026 AAN guideline reviews additional studies and describes psychological interventions as possibly effective. Neither finding guarantees a change in seizure frequency for a particular person; continue follow-up and attend to non-frequency outcomes. [3](#citation-3) · [5](#citation-5).
+She finds a private treatment programme online. It promises to help people *rewire their brains* through activities based on neuroplasticity.
 
-For other presentations—functional tics, visual loss, cognition, swallowing, facial symptoms, drop attacks and more—intervention-specific comparative data may be thinner. Separate professional consensus, emerging research and broad rehabilitation analogies. Do not cite a motor trial as direct evidence for a swallowing, cognitive or vocal technique.
+The website refers to a study in which 59% of people receiving specialist FND physiotherapy reported improvement.
 
-### Respond to commercial “rewiring” claims responsibly
+Natalie brings the information to her physiotherapist.
 
-Ask the patient what they were promised, what it costs, and whether outcomes are reported transparently. Explain the difference between learning-related plasticity and programme-level efficacy without shaming someone who found a private service helpful. Document patient-defined goals, burden, access inequity and reasons to pause or withdraw an unsuitable treatment.
+"That sounds pretty good. They say their treatment uses the same science. Do you think it could help me?"
 
-No treatment should require acceptance of an unsupported trauma narrative, insist symptoms are deliberate or describe ongoing disability as noncompliance. Separate treatment responsiveness from diagnosis and credibility.
+The physiotherapist recognizes the study. Its results are encouraging, but something about how they're being presented deserves closer attention.
 
-### Agree how benefit is judged
+**Does the research support this particular treatment, or is the programme borrowing support from research into something different?**
 
-Follow symptom burden alongside function, recovery time, injuries, confidence, autonomy, participation and quality of life. Choose the smallest set of useful measures; an outcome assessed in clinic may not capture the cost of daily activity or caregiver assistance. If a measure is not validated for the relevant presentation, state that limitation.
+### What was actually tested?
 
-**Clinical challenge:** What would you tell a patient whose measured tremor improves but whose falls and exhaustion are unchanged? Acknowledge the improvement, reassess the plan and retain safety/access care rather than calling the treatment complete.
+The figure Natalie found comes from a large study comparing specialist FND physiotherapy with regular neurological physiotherapy.
 
-**Evidence basis:** [1](#citation-1), [3](#citation-3), [5](#citation-5).
+After twelve months, 59% of people receiving specialist treatment reported improvement in movement symptoms, compared with 38% receiving the other physiotherapy.
+
+However, the study didn't find a clear advantage for specialist treatment in its main measurement of overall physical functioning. [1](#citation-1)
+
+Both results matter.
+
+The research offers evidence that people can improve through rehabilitation, and that specialist approaches may have advantages for certain outcomes.
+
+But the website's programme wasn't the treatment being studied.
+
+Its activities, staff, level of support and length of treatment may be different.
+
+The physiotherapist therefore has two separate questions to consider.
+
+First, what does the research tell us about specialist physiotherapy for functional movement difficulties?
+
+Second, what evidence shows that the programme Natalie found produces similar improvements?
+
+The answer to the first question cannot automatically answer the second.
+
+### When a reasonable explanation isn't enough
+
+Suppose the private programme describes exercises involving attention, automatic movement and repeated practice.
+
+Those ideas are familiar to the physiotherapist. They appear in professional recommendations for functional movement rehabilitation.
+
+The explanation may be reasonable.
+
+However, using similar principles doesn't mean two treatments will produce the same results.
+
+Even small differences in how a treatment is delivered may matter. The people receiving it, the activities involved, the professional support and the opportunities to adjust treatment can all influence the experience.
+
+This doesn't establish that the private programme is ineffective.
+
+It means its effectiveness hasn't been demonstrated by the study Natalie was shown.
+
+A useful distinction is emerging:
+
+> **Evidence for a treatment:** Research about what happened when people received that treatment. Research into a different treatment may help explain the idea behind it, but cannot establish that the results will be the same.
+
+That distinction may be especially useful when a programme advertises neurological principles that are well established but offers little information about its own results.
+
+### What about Natalie's functional seizures?
+
+Natalie has another reason for considering the programme.
+
+The website suggests that its brain-retraining approach could also improve functional seizures.
+
+This raises a separate problem.
+
+The physiotherapy study involved functional movement disorders. It doesn't establish that the advertised activities reduce functional seizures.
+
+Research into functional seizures follows a different path.
+
+For example, the large CODES trial compared medical care alone with medical care plus seizure-focused talking therapy. The additional therapy did not clearly reduce seizure frequency after twelve months, although some other outcomes improved. [3](#citation-3)
+
+The wider research considered in the 2026 American Academy of Neurology guideline suggests that psychological interventions may improve seizure frequency and the chance of becoming seizure-free. [5](#citation-5)
+
+Those findings offer reasons to investigate particular seizure treatments.
+
+They don't establish that a programme designed around movement exercises will produce the same benefits.
+
+For Natalie's family doctor, this distinction matters because the treatment claims concern two different symptom groups.
+
+A treatment supported for one presentation cannot simply be assumed to work for another.
+
+The question is not whether neuroplasticity could be relevant to both. It is whether the proposed treatment has demonstrated benefits for each condition it claims to address.
+
+### What could make the evidence more convincing?
+
+Natalie is understandably interested in what other people have experienced with the private programme.
+
+The provider shares several encouraging recovery stories.
+
+Those accounts may be genuine and valuable to the people involved. But they leave questions unanswered.
+
+We don't know how many people received the treatment without improving, whether participants also received other care, or how their condition might have changed without the programme.
+
+If the provider had studied its own approach, the research might offer more useful information.
+
+Were the people treated similar to Natalie? What care did they receive? How many improved, and what actually changed? Were the benefits still present months later?
+
+These questions help establish how closely the evidence matches the claim.
+
+The same reasoning applies when evaluating published rehabilitation research. A well-designed study may provide strong evidence for the people and treatment it examined while offering less certainty for a substantially different situation.
+
+### How might this change the clinical conversation?
+
+Natalie has already spent considerable time and effort seeking help.
+
+She isn't looking for a reason to reject rehabilitation. She wants to know whether this opportunity is worth considering.
+
+Her physiotherapist could explain why the movement research is encouraging while clarifying that the advertised programme hasn't been shown to produce those results.
+
+The family doctor might also consider how a proposed private treatment fits alongside Natalie's existing medical care, rehabilitation and access needs.
+
+A costly programme requiring frequent appointments could carry practical consequences, particularly if Natalie must give up other care to attend.
+
+These considerations were explored in the previous lesson. Here, they become relevant to judging whether the promised benefits are supported strongly enough to justify those demands.
+
+Suppose Natalie still wishes to explore the programme.
+
+The professionals can help her understand what is known, what remains uncertain and which questions the provider hasn't answered. That leaves room for her preferences without presenting an untested claim as established treatment.
+
+It also avoids an unhelpful choice between two extremes: believing every recovery promise or dismissing every treatment that hasn't yet been tested in a large trial.
+
+There may be reasonable approaches supported by professional experience or early research while stronger studies are still needed.
+
+**The important distinction is being clear about which level of evidence supports each claim.**
+
+### What should clinicians take from this lesson?
+
+Natalie found a treatment that used familiar neurological ideas and cited encouraging research.
+
+The research was relevant to FND rehabilitation. But it didn't test the programme she was considering, and it couldn't establish benefits for all the symptoms the provider claimed to treat.
+
+The physiotherapist could recognize the difference between established rehabilitation principles and evidence for a particular service.
+
+The family doctor could use that understanding when discussing treatment options, continuing care and the practical consequences of Natalie's decision.
+
+Neither professional needed to dismiss the possibility of improvement.
+
+They needed to identify what the research actually supported.
+
+**Clinical insight:** A treatment's explanation may be scientifically reasonable, and its supporting research may be genuine, without that research demonstrating the benefits being advertised. Understanding what was tested, in whom and with what results helps clinicians explain both the opportunities and uncertainties of rehabilitation.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
