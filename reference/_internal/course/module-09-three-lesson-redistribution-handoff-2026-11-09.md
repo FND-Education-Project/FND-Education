@@ -126,11 +126,17 @@ Each clinician section must stand alone; a brief, accurate introduction to the f
 
 **Writing direction:** Approximately 850–1,100 words of practical clinical reasoning; self-contained Natalie case; natural paragraphs; one clear insight per section; no authority-heavy tone or technique protocols. Use **family doctor**, not GP. Submit new Clinician 29 prose to the project lead in Chat; do not commit the clinician section without approval.
 
+### Clinician 29 approval and Supporter discussion kickoff — November 10, 2026
+
+The project lead approved the Lesson 29 clinician evidence-appraisal text (“It works well. Good.”) after reviewing it in Chat. Committed without changing the Person/Supporter sections in `5adcbb267195dd2e4a2fb559787a2770ba250226`. All **three Clinician sections (27–29)** are now human-approved and committed; the Supporter sections remain unapproved working drafts. Publication audits, source verification and independent clinical review remain pending.
+
+The project lead requested discussion of Supporter goals and voice. Existing Module 9 Supporter sections should be reassessed against the **Module 7–8 conversational “advice over coffee” teaching pattern**, including the lived reality of people without daily support. A supporter is a friend, family member or occasional helper, not a physiotherapist, psychologist, treatment evaluator or supervisor. Natalie lives alone and Leah can visit occasionally. Avoid automatically placing a supporter in every treatment decision or assuming caregiver availability. Prior lessons already taught consent, autonomy, professional roles, practical adaptation, changing performance and that help need not involve taking over. Do not repeat professional-role directories or generic “don't pressure” warnings at every lesson. Potential distinct directions for editorial discussion (not yet approved): Lesson 27 — noticing changes without turning an activity into a test; Lesson 28 — knowing and responding to the unseen cost of travel, appointments and delayed recovery, and considering a supporter's own limits; Lesson 29 — avoiding the shift from sharing hope to pushing a remedy, preserving informed personal decisions. Consider integrating the approved Person and Clinician insights rather than re-explaining their technical content. Community quotations are candidates pending original-post verification. Await the project lead's direction before drafting or committing any Supporter prose.
+
 ### Authoring workflow
 
 1. **Lesson 28 Clinician approved and committed**, with lesson-level evidence audit pending.
-2. Present **Lesson 29 Clinician** as an evidence-to-decision case for project-lead review; do not commit without approval.
-3. Review Supporter prose separately, without duplicating Person/Clinician lessons.
+2. **Lesson 29 Clinician approved and committed**; its evidence/citation audit remains pending.
+3. Agree on distinct Supporter teaching goals and voice before drafting; keep Supporter prose uncommitted until human approval.
 4. Work verifies original claims and quotes, source mappings and citation IDs and performs the lesson/module audits. Independent clinical review and final publication approval are separate.
 
 ## What has not been authorized
