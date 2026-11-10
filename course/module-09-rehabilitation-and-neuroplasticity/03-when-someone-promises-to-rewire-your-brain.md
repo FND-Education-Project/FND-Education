@@ -1,6 +1,6 @@
 # When Someone Promises to Rewire Your Brain
 
-> **Editorial status — November 10, 2026:** Person and Clinician sections human-authored and approved. Supporter section remains a working draft. Community quotation verification, source-index reconciliation, audits and independent clinical review remain pending.
+> **Editorial status — November 10, 2026:** Person, Supporter and Clinician sections human-authored and approved. Source verification, audits and independent clinical review remain pending. Community quotation verification, source-index reconciliation, audits and independent clinical review remain pending.
 
 Lesson 29 compares what treatments have achieved across symptoms with what proposed brain-learning mechanisms can explain.
 
@@ -197,31 +197,193 @@ Next, we'll explore how everyday activities use up the energy and attention we h
 
 ## For Family, Friends, and Other Supporters
 
-### Wanting a treatment to work is understandable
+<!-- Supporter section human-authored and approved November 10, 2026.
+Two-pair story with a distinct treatment-pressure case and repeated unsolicited
+recommendations case. Original-source verification and independent clinical review pending. -->
 
-A video shows someone walking more easily after a session. A website promises to retrain the brain in six weeks. Someone you trust recommends a costly course.
+### A promising discovery
 
-You may feel hopeful and eager to share it. That's understandable. The difficulty begins when hope turns into pressure: “If you try this and work hard enough, you'll get better.”
+Priya is browsing the internet when she comes across an advertisement for a six-week FND rehabilitation programme.
 
-### Support a decision instead of selling a solution
+*Rewire Your Brain. Rediscover Your Abilities.*
 
-If the person wants help looking at a programme, read the evidence together. Ask who was studied, what changed, how long benefits lasted, what risks or costs exist and how people who did not improve were treated.
+The website has encouraging recovery stories, videos of people moving more comfortably and references to neurological research.
 
-Be careful with success stories. They can be meaningful without predicting another person's outcome. A therapist working with movement, a specialist delivering seizure-focused psychological treatment and someone selling a universal brain-rewiring programme are not offering interchangeable interventions.
+Her husband Daniel has been attending rehabilitation for several months. His hand movements have gradually become more reliable, and he's regained some useful abilities. Priya is delighted with his progress, but she knows how much effort it has required.
 
-### When the clinician needs to answer
+The new programme sounds like it might help him improve faster.
 
-Before a significant, expensive or potentially risky programme, ask the relevant **neurologist, rehabilitation professional or other qualified clinician** whether it suits this symptom presentation and what evidence supports it. Medication changes require a prescriber. Neither supporters nor clinicians should interpret non-response as proof of unwillingness. (*citations* [3](#citation-3))
+She's already familiar with **neuroplastic learning**: the nervous system can change through experience, sometimes allowing an ability to become more reliable with practice. Daniel's improvements have given them reasons to be hopeful about that possibility.
 
-You can accompany the person to appointments if invited. You can also voice concern about a treatment that worsens safety or requires unsafe exertion. The ultimate treatment choice remains shared between the person and their appropriately qualified care team.
+When Daniel joins her, she shows him the website.
 
-> “He feels gaslit and like doctors are telling him it's his own fault.”
+"Look at this! They're using neuroplasticity to help people recover."
 
-*Figure 4. Community experience.* A spouse describes how an explanation was received, not an assessment of a treatment’s efficacy. [Original public source](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). (*citations* [15](#citation-15))
+Daniel watches a short video.
 
-**Something to discuss together:** “Would you like me to help compare the actual evidence, or would you prefer not to talk about treatments today?”
+"That looks interesting."
 
-**One small thing:** If a treatment comes up, ask one respectful question about benefits, harms, costs or uncertainty. There's no need to resolve everything at once.
+"Doesn't it? Imagine if you could get more of your abilities back by Christmas."
+
+Daniel smiles, but his enthusiasm is more cautious. The programme requires frequent appointments, and they've already discovered how difficult those can be.
+
+Later that evening, Priya mentions it again. She's found the prices and discovered that the provider offers a payment plan.
+
+Daniel listens, then says, "I don't know, Priya. I'm finally getting somewhere with the treatment I'm doing."
+
+"But this could help you get there faster."
+
+"Maybe. I just don't know if I want to start something else."
+
+Priya looks disappointed.
+
+"I thought you'd be excited about getting better."
+
+Daniel puts down his cup.
+
+"Of course I want to get better. I just don't know if this is how."
+
+Priya hadn't meant to question his commitment to recovery. She'd been imagining all the things they might enjoy again, and the possibility of reaching those goals sooner had carried her away.
+
+Daniel wants those things too. But he's the one who would have to attend the appointments, manage the demands and live with the results.
+
+### Two people hoping for the same thing
+
+The next morning, Priya brings up their conversation.
+
+"I think I got a little carried away yesterday."
+
+Daniel smiles. "You did mention the programme three times."
+
+"Four, actually. I was counting."
+
+They laugh, and Priya admits that she sometimes finds it difficult watching his recovery happen so slowly. She's proud of what he's achieved, but she misses the freedom they used to have together.
+
+Daniel understands. He misses it too.
+
+"I don't mind looking at other treatments," he says. "I'd just like to know more before we spend thousands of dollars."
+
+They look at the website again, this time without trying to reach an immediate decision.
+
+One research link leads to a study of specialist physiotherapy for functional movement disorders. The study reported encouraging improvements for some participants, although the findings were mixed across different measures. [1](#citation-1)
+
+But the study didn't test the private programme being advertised.
+
+The research may support some of the ideas behind the treatment without establishing that this particular programme produces the promised results.
+
+"So neuroplastic learning is real," Priya says, "but that doesn't mean every programme using it will work."
+
+"Exactly. I'd rather ask my physiotherapist about it before deciding."
+
+Priya agrees. She still hopes the programme might offer something worthwhile, but she no longer feels that Daniel must try it to demonstrate how badly he wants to recover.
+
+A few weeks later, Daniel manages to prepare breakfast with less difficulty than before.
+
+Priya notices him carrying two plates to the table.
+
+"Look at you! Breakfast service!"
+
+"Don't get used to it," Daniel replies. "The restaurant closes at nine."
+
+They enjoy their breakfast.
+
+Daniel's improvement may reflect neuroplastic learning becoming useful in everyday life. There's still plenty he struggles to do, but this achievement is real.
+
+And for once, neither of them is thinking about the next treatment.
+
+### When everybody has a suggestion
+
+Across town, Natalie is having a very different problem.
+
+Over the past few months, several well-meaning acquaintances have sent her articles, recovery stories and recommendations for treatments they think might help her FND.
+
+Some are about rehabilitation. Others involve special diets, supplements or expensive programmes promising remarkable improvements.
+
+Natalie appreciates that people are thinking of her, but keeping up with the suggestions has become exhausting.
+
+One person recently sent her a recovery video with the message:
+
+*This woman had FND too! Maybe you should try what she did.*
+
+Natalie watched the video. She was pleased for the woman, but her symptoms were different, and the treatment hadn't been explained very clearly.
+
+A few days later, the same acquaintance asked whether Natalie had signed up.
+
+When Natalie said she was still considering her treatment options, the response was disappointing.
+
+*Well, you've got to keep trying things if you want to get better.*
+
+Now Natalie feels she needs to explain her decisions whenever someone sends another recommendation.
+
+It's becoming another responsibility in a life already filled with medical appointments, symptoms and everyday difficulties.
+
+### An afternoon without treatment advice
+
+When Leah comes to visit, Natalie mentions the messages.
+
+"I know people mean well, but I feel like I'm constantly being given homework."
+
+Leah laughs sympathetically.
+
+"I did send you a website a few months ago, didn't I?"
+
+"The FND Education Project!" Natalie laughs. "That one actually **DID** work out. I've learned so much from it."
+
+"Oh, good! I was beginning to worry I'd added to your homework."
+
+"Well, you did. But that was homework worth doing. It helped me understand what was happening and gave me better questions to ask my doctors."
+
+Leah smiles. "I'll take that as my one successful recommendation."
+
+They both laugh. Leah understands why people send those suggestions. When someone you care about is struggling, finding something that might help can feel better than doing nothing.
+
+Natalie nods.
+
+"I understand that. And I haven't stopped looking for ways to improve. But sometimes I just want to get on with my life instead of researching another treatment."
+
+Leah thinks about the time Natalie spends managing her symptoms, arranging appointments and recovering afterward. She also remembers how hard Natalie has worked to understand FND.
+
+Perhaps all those recommendations, however kindly intended, make Natalie feel that she hasn't done enough.
+
+"Would you rather people stopped sending them?"
+
+"Not necessarily. Sometimes I find something useful. I just wish they didn't expect me to try everything."
+
+Leah understands the difference.
+
+Natalie can believe in neuroplastic learning, remain interested in rehabilitation and hope for further recovery without treating every new suggestion as an obligation.
+
+She doesn't have to explain that distinction to everyone who sends her a link.
+
+"So," Leah says, reaching for the bakery bag, "would you like to hear about my disastrous attempt at making sourdough?"
+
+Natalie looks delighted.
+
+"Finally! A problem that isn't neurological."
+
+"Don't be so sure. I think the dough lost the ability to function."
+
+They settle into their usual conversation, enjoying an afternoon that doesn't need to accomplish anything related to rehabilitation.
+
+### Hope without expectations
+
+Priya and Leah have each discovered something about wanting another person to recover.
+
+Priya's excitement briefly became an expectation that Daniel should pursue a particular treatment. Once they talked about it, she understood that questioning a programme didn't mean questioning recovery.
+
+Leah recognized another difficulty: being offered help repeatedly can become tiring when every suggestion seems to require a decision or explanation.
+
+Neither supporter needed to abandon hope. They simply found ways to share it without adding pressure.
+
+For Daniel, that leaves room to continue rehabilitation, celebrate improvements and consider other treatments when he's ready.
+
+For Natalie, it means she can explore possibilities while still enjoying time with friends that has nothing to do with treatment.
+
+**Someone can genuinely want to recover without wanting to try every proposed treatment. Respecting that difference is one way supporters can share hope without making it another responsibility.**
+
+**Something to discuss together:** "When I find a treatment that sounds promising, would you like me to share it with you, or would you rather look for those things yourself?"
+
+**One small thing:** Before forwarding a recovery story or treatment recommendation, consider whether the person has invited suggestions. Sometimes sharing an ordinary conversation is more welcome than another possible solution.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
