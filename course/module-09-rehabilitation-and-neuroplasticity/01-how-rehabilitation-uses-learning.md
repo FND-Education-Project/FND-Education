@@ -1,6 +1,6 @@
 # How Rehabilitation Uses Learning
 
-> **Editorial status — November 10, 2026:** The project lead approved the revised Person section, including the three end-of-lesson prompts. Supporter and Clinician sections remain working drafts. Research/citation integration, audits and independent clinical review remain pending.
+> **Editorial status — November 10, 2026:** The project lead approved the revised Person section, including the three end-of-lesson prompts. Supporter section remains a working draft; Clinician section human-authored and approved. Research/citation integration, audits and independent clinical review remain pending.
 
 Lesson 27 explores how rehabilitation uses neuroplastic learning through everyday examples and FND-related processes.
 
@@ -286,33 +286,117 @@ If home practice is part of a professional plan, ask what help, if any, is expec
 
 ## For Clinicians and the Care Team
 
-### From a mechanism to a rehabilitation principle
+<!-- Clinician section human-authored and approved November 10, 2026. The project lead selected "family doctor" throughout. Original research/source checks and independent clinical review remain pending. -->
 
-Neuroplasticity denotes experience-dependent changes in neural processing and skill; it is not a specific intervention, a guaranteed recovery trajectory or retrospective proof that a symptom arose through learning. Successful treatment does not validate a particular proposed causal model. The practical clinical question is narrower: **what process, function or participation goal can be addressed, with what evidence and safeguards?** (*citations* [1](#citation-1), [2](#citation-2))
+### When an easier movement raises a new question
 
-Motor-FND rehabilitation consensus describes explanation, redirected attention, automatic movement and meaningful functional practice. Occupational-therapy consensus describes activity analysis, adaptations and participation. Speech-language guidance addresses communication, swallowing and upper-airway phenotypes. These recommendations differ in evidence level and relevant populations; a shared label of “retraining” must not blur them.
+Natalie has longstanding FND, including an assessed functional gait disorder. She also experiences functional seizures, cognitive difficulties and severe migraine.
 
-**Physiotherapy:** Where positive motor signs and assessment support a functional movement presentation, consider goal-directed movement in appropriately protected tasks. Measure actual transfers, walking reliability or hand use over time; a smoother movement in clinic is only one observation.
+Her family doctor has referred her to a community physiotherapist because her walking remains unreliable.
 
-**Occupational therapy:** Identify how sensory input, sequencing, cognition, pain, equipment and the environment alter success with a valued activity. Access aids and task modifications can be outcomes themselves, not rewards withheld until motor improvement.
+During an appointment, Natalie struggles to coordinate her steps. But when she moves toward a chair during a supported activity, her walking becomes noticeably smoother.
 
-**Speech-language therapy:** Separate communication, phonation, swallowing and airway needs. Use appropriate assessment before adapting speech or swallowing practice; retain accessible communication and nutrition protection even when active retraining is chosen.
+The physiotherapist recognizes a familiar feature of functional movement disorders: performance can change with the task and the direction of attention.
 
-**Psychology/psychiatry:** Psychological interventions may help certain presentations, distress, adaptation and coexisting conditions, based on the individual's goals and appropriate evidence. Psychological treatment does not establish a psychological cause.
+This observation offers a possible starting point for rehabilitation. Yet a different question now becomes important.
 
-**Neurology/primary care:** Provide a clear positive diagnosis with its certainty and continuing review of coexisting disease; coordinate referrals and medication indications rather than discharge the patient to a single service.
+**Can the movement Natalie found during that activity become something she can use more reliably?**
 
-### Demonstrate the principle across different symptom goals
+### From an easier movement to learning
 
-For assessed functional limb weakness or gait disorder, ask whether an externally cued, supported functional task better meets the person's mobility goal than repeating isolated strength tests. For diagnosed speech/voice symptoms, ask whether a chosen communication goal and SLP-guided alternative makes an interaction usable. For FCD, a reliable written prompt or activity sequence may reduce errors now, whether or not cognition changes with rehabilitation. For functional seizures, individual safety and possible seizure-focused psychological programmes have a different evidence base and cannot be inferred from [motor learning](../../glossary/README.md#motor-learning) studies.
+The distinction between performing an action successfully and learning an ability is useful here.
 
-Each example illustrates clinical reasoning; technique eligibility and actual procedures remain in the appropriate [Recovery Techniques collection](../../reference/recovery-techniques/README.md).
+> **Performance versus learning:** An improvement during one activity tells us what is possible under those conditions. Learning becomes more likely when the improvement remains available later or becomes useful in other situations.
 
-### Communicate uncertainty constructively
+Natalie walked more smoothly when the conditions changed. That tells the physiotherapist something about her movement, but not yet whether she has learned anything lasting.
 
-Avoid both “the brain can change, so everyone can recover” and “the best evidence is incomplete, so there's nothing to offer.” Instead explain the type of evidence, the goal, the access requirements and the agreed evaluation period. Document baseline symptoms, functional impact, participation, adverse effects and patient preference.
+General motor-learning research shows that experience can produce changes that remain available after practice and sometimes carry into other tasks. [1](#citation-1)
 
-**Evidence basis:** General motor plasticity review [1](#citation-1), motor consensus [2](#citation-2), OT consensus [3](#citation-3), SLT consensus [4](#citation-4).
+FND physiotherapy recommendations also describe using more automatic, goal-directed movements where appropriate. These recommendations offer a clinical reason to explore Natalie's response, although they don't establish which neurological process produced it. [2](#citation-2)
+
+The physiotherapist might consider whether attention, prediction or another aspect of motor control contributed to the easier movement.
+
+But deciding between those explanations isn't necessary before asking a more useful question:
+
+**What happens when Natalie encounters the activity again?**
+
+### What does the next appointment reveal?
+
+A week later, Natalie returns.
+
+Her walking remains difficult when she first enters the treatment room. But during the familiar supported activity, she finds the smoother movement more quickly.
+
+This time, the physiotherapist also explores how the movement changes under another suitable, supported condition. Natalie's steps are less consistent.
+
+At home, she reports that her walking remains unreliable. She hasn't been able to use the improvement safely in her usual surroundings.
+
+The observations present an interesting picture.
+
+Something about the familiar activity may be becoming easier to access. That could reflect developing learning, but the movement remains dependent on particular conditions.
+
+There is some encouraging information about performance across appointments, while evidence of transfer into everyday walking remains limited.
+
+Another possibility is that the familiar cue continues to help Natalie perform the task, without much lasting change in her movement ability.
+
+Both possibilities could be worth exploring. The distinction becomes clearer through observations over time rather than from one successful appointment.
+
+The physiotherapist now has a more specific question to investigate: **Is Natalie becoming better at accessing the movement only under familiar supported conditions, or is the ability beginning to become more widely available?**
+
+### How does this influence rehabilitation?
+
+The physiotherapist could consider the earlier successful movement as a useful opportunity for further assessment-informed rehabilitation.
+
+The initial activity may provide a way to explore motor learning. The later appointment may help identify what remains accessible and which conditions still matter.
+
+A more helpful record would describe those conditions and changes rather than simply reporting that Natalie walked better.
+
+For example:
+
+*During a supported, goal-directed walking activity, Natalie demonstrated smoother steps. At the following appointment, she accessed this movement more readily under similar conditions. Movement remained less consistent during another supported task, and she reported no reliable improvement in walking at home.*
+
+That account gives the team information they can use.
+
+It identifies a possible developing ability, shows where the improvement is currently available and leaves room for later observations to change the interpretation.
+
+The rehabilitation question is becoming more precise.
+
+Rather than simply asking whether Natalie can walk better, the physiotherapist is investigating **how the accessible movement might become more reliable and useful**.
+
+### Where does the family doctor fit?
+
+Natalie's family doctor receives the physiotherapist's findings.
+
+The existing **biopsychosocial formulation** already provides a way to understand the rehabilitation findings alongside Natalie's other health conditions, treatment demands and daily circumstances.
+
+The family doctor doesn't need to select the movement technique. But the distinction between an improvement in therapy and an ability available at home has consequences for ongoing care.
+
+Natalie still requires appropriate mobility support. Her migraine and other difficulties also continue to affect her opportunities to participate in treatment.
+
+The physiotherapist can investigate the movement response within their expertise. The family doctor can use those findings when considering Natalie's wider medical care, support needs and whether additional services might be useful.
+
+Both professionals are working with the same developing picture, even though their contributions are different.
+
+### What does the evidence allow us to conclude?
+
+Neuroplasticity provides a scientific basis for understanding how experience can change nervous-system function. Motor-learning research supports investigating whether improvements remain available over time. [1](#citation-1)
+
+Professional FND physiotherapy guidance offers ways to apply relevant rehabilitation principles, including the use of automatic movement and meaningful activities. [2](#citation-2)
+
+For Natalie, the movement observations provide an opportunity to explore those principles.
+
+They don't establish which neural changes occurred or predict how much function she might regain.
+
+What can be investigated is more concrete: whether an ability becomes more accessible, reliable and useful as rehabilitation continues.
+
+### What should clinicians take from this lesson?
+
+Natalie's first successful movement was encouraging. The follow-up observations made it more informative.
+
+The physiotherapist now has a clearer understanding of what appears to be changing and what has not yet become available outside treatment.
+
+The family doctor can interpret that developing rehabilitation picture within Natalie's existing care.
+
+**Clinical insight:** An easier movement can suggest an opportunity for neuroplastic learning. Observing what remains available over time—and what becomes useful beyond the original activity—helps clinicians determine whether that opportunity is developing into a lasting benefit.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
