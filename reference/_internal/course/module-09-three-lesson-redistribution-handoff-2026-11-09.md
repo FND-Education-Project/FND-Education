@@ -56,6 +56,45 @@
 
 **Method for research teaching:** Give the reader the question, what people were compared, one easily pictured numerical result where helpful, then the limitation that actually changes the interpretation. Keep measured symptom change, participation/function, personal testimony, and a suggested neuroplastic mechanism separate. Use a compact table of sources in the eventual public Research and Sources section following the project policy; assign stable citation IDs and figure IDs once final excerpts are approved.
 
+## Clinician authoring direction — approved November 10, 2026
+
+**Status:** The project lead approved this audience, goals and teaching method in Chat after human-authoring the Person sections for Lessons 27–29. Those three Person sections have been committed to draft PR #205. Clinician and Supporter sections remain working drafts; the new clinician prose must return to Chat for human review before it is committed. This approved direction supersedes the old generic clinical seeds in the October 26 drafts; it does not retroactively approve those drafts.
+
+### Intended readers and boundaries
+
+Keep the public heading **For Clinicians and the Care Team**. Prioritize **rehabilitation practitioners** (physiotherapy, occupational therapy, speech-language therapy, rehabilitation medicine and relevant psychological/cognitive rehabilitation expertise) and **GPs/family physicians**. Other clinicians, including neurologists, retain a place when their expertise is relevant, especially for positive diagnosis, reassessment and coexisting disease. Do not turn the section into an exhaustive professional-role directory; the [professional roles reference](../../professional-roles-in-fnd-care.md) already provides that.
+
+Rehabilitation practitioners interpret task responses, choose and adapt assessment-informed interventions within their scope, and evaluate change in symptoms, reliable abilities and daily participation. GPs provide continuity, address coexisting conditions and medications, interpret the practical cost of care and coordinate access/referral. Both can contribute without pretending a GP is an FND rehabilitation specialist or that a generalist therapist can improvise specialized protocols. Where local specialist access is limited, identify what can responsibly be assessed, accommodated or coordinated and what needs referral.
+
+### Established teaching voice and construction
+
+Model the later Module 7 and Module 8 clinician sections: **a self-contained, believable clinical case with distinct clinicians**, followed by an important question, detailed **What / Why / How** reasoning woven into prose, appropriately scoped original research or consensus, and a change in clinical understanding or decision. Use constructive, curious language (“might suggest,” “one possibility,” “what would help distinguish?”) rather than authoritative orders or a prescriptive checklist. Keep enough clinical depth to teach something new without repeating the Person section, re-explaining every process, or restating the same caveats. Allow readers to infer straightforward points. Make the case teach rather than summarizing the preceding lesson; show the clinician's judgment and uncertainty, not a perfect scripted solution.
+
+Each clinician section must stand alone; a brief, accurate introduction to the fictional patient suffices. Natalie has severe longstanding FND, lives alone, receives only occasional visits from Leah, has functional seizures, variable gait/weakness and cognitive difficulties, and disabling continuous migraine with light/sound sensitivity. Do not invent a diagnosis or imply safe independence after one successful in-clinic attempt. Neither Natalie nor Leah is a real study participant; distinguish scene, guideline, treatment evidence and proposed mechanism. Use other cases if they offer a more distinct teaching opportunity.
+
+### Distinct clinical learning goals
+
+**Lesson 27 — From neuroplastic learning to a reasonable rehabilitation hypothesis.** Case: a person with *assessed* functional gait/motor difficulty demonstrates easier movement during a supported, goal-directed task; a GP and rehabilitation clinician must interpret this observation. Distinguish immediate context-dependent performance from **retention** at a later encounter, **transfer** into daily life, and ongoing benefits of aids/accommodation. Show how a clinician might consider attention/automatic control and predictive feedback *as hypotheses* without claiming they establish a cause or prove neuroplastic change. What is worth testing or observing next? What does the GP need to address or coordinate? Acknowledge that motor guidance/consensus supports task-oriented, automatic movement work but doesn't prove a universal method or identify a mechanism. A clinical case with meaningful consequences is more useful than a catalogue of each discipline.
+
+**Lesson 28 — Reading rehabilitation response and revising care.** Different or clearly evolved scenario: initially little benefit, delayed exhaustion/overstimulation, changing function, effort or support needs. Why might a session “success” not survive a journey home? What could reflect a learning opportunity, an unsuitable demand, a coexisting condition or a need for accommodation? Show rehabilitation practitioners' and GPs' roles without prescribing intensity, exercises or exposure for migraine/sensory sensitivity; protect safety and consent. Include how to decide which outcome warrants reassessment, modification, additional assessment or referral. The Person section covers how treatment *feels*; the clinician section teaches what those reports *mean for care*.
+
+**Lesson 29 — From plausible mechanism to trustworthy treatment evidence.** Case: a patient asks about a specialized or costly brain-rewiring service. Show practitioner and GP using the relevant trial, its population and measured outcome to distinguish a possible mechanism from tested benefit, and meaningful symptom recovery from changes in participation or coping. Interpret Physio4FMD, CODES and relevant symptom-specific research proportionately; don't transfer evidence from motor physiotherapy to functional seizures, voice, swallowing or cognition. Identify care burden and conflicts of interest without belittling the person's hope. The research details belong in citations/Reference Library; the teaching here is *how to reason with the results for a particular patient*.
+
+### Evidence, clinical safety and publication checks
+
+- Primary research and authoritative guidance should support consequential scientific/clinical claims; cite the research available in this handoff and existing lesson research lists. Label motor rehabilitation **consensus**, comparative **trial evidence**, broader **learning neuroscience**, and **proposed FND mechanism** distinctly.
+- The positive diagnosis and its degree of certainty are clinically relevant. Changing or new symptoms, coexisting medical conditions and hazards are not simply expected FND learning phenomena; specialist diagnosis or reassessment is within appropriate clinical roles.
+- No universal treatment technique, dosage, guaranteed neuroplastic recovery, aid withdrawal or exposure strategy. Reliable safety and access improvements may coexist with rehabilitation. A single improved movement does not by itself establish recovered day-to-day capacity.
+- Outcomes should include what genuinely improved, symptom change, retention/transfer, effort and delayed cost, real-world participation and ongoing access/support needs; no outcome is evidence of motivation or symptom voluntariness.
+- This is **educational reasoning**, not an instruction manual to carry out procedures, and should not claim independent clinical review. Clinical methods and safety details remain in the [Recovery Techniques reference](../../recovery-techniques/README.md). Resolve all numbered citations and source IDs in the later Work evidence audit.
+
+### Authoring workflow
+
+1. The clinician lesson's **editorial direction is approved**, but not the clinician prose.
+2. Draft Lesson 27 Clinician in Chat, ask for project-lead editorial review, and keep the existing clinician text in PR #205 unchanged until the revised prose is approved.
+3. Then author 28 and 29 in sequence, preserving distinctive decisions/cases and continuity without duplicating explanations.
+4. Work verifies research and citations, applies authorized changes, runs clinical/safety/editorial audits; independent clinical review remains a separate requirement.
+
 ## What has not been authorized
 
 - No addition of a fourth Module 9 lesson; no renumbering or syllabus/progress-ID changes.
