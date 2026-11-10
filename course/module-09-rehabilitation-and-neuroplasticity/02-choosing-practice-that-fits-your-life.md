@@ -1,6 +1,6 @@
 # Choosing Practice That Fits Your Life
 
-> **Editorial status — November 10, 2026:** Person, Supporter and Clinician sections human-authored and approved. Six community-experience figures and source mappings require independent original-post verification and final source-index reconciliation before publication.
+> **Editorial status — November 10, 2026:** Person, Supporter and Clinician sections human-authored and project-lead approved November 10, 2026. Editorial audits, original-source and citation reconciliation, asset integration, and independent clinical review remain pending. Six community-experience figures remain to be verified against their original sources.
 
 Lesson 28 explores what receiving rehabilitation can feel like, from early uncertainty through gradual change, setbacks and different kinds of benefit.
 
@@ -17,7 +17,7 @@ Lesson 28 explores what receiving rehabilitation can feel like, from early uncer
 <!-- Person narrative, neuroplastic-learning reminders and end-of-lesson reflections approved by project lead, November 10, 2026.
 Community excerpts come from the project's internal source notebook; original-post
 wording/context and figure/source IDs require Work verification before publication.
-Supporter and Clinician sections remain unapproved working drafts. -->
+All three audience sections were subsequently human-authored and approved November 10, 2026; this Person comment preserves earlier editorial provenance. -->
 
 ### What might rehabilitation feel like?
 
@@ -695,4 +695,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-10"></a>**[10]** | Figure 5 | Two different first-person reports of physiotherapy outcomes for walking: gradual benefit and no progress. [Original public discussion](https://www.reddit.com/r/FND/comments/18gbf7f/how_did_you_regain_your_ability_to_walk/). **Both speakers' excerpt wording and context require original verification.** |
 | <a id="citation-11"></a>**[11]** | Figure 6 | Jenna's mother, with Jenna's permission, describing progress and setbacks. [Recorded original account](https://pre-prod.neurosymptoms.org/en_GB/stories/functional-limb-weakness-pain/jennas-story/). **Stable non-pre-production original URL and exact wording require verification before publication.** |
 
-*Publication-readiness status: November 10, 2026. Only the Person prose has human-author approval. Community source verification, numbered-citation and stable-ID reconciliation, lesson audits and independent clinical review remain pending.*
+*Authoring status: all three audience sections approved November 10, 2026. Community quotation/source verification, citation and figure reconciliation, lesson audits and independent clinical review remain pending.*
