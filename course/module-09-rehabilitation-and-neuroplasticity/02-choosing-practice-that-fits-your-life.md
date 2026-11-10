@@ -1,6 +1,6 @@
 # Choosing Practice That Fits Your Life
 
-> **Editorial status — November 10, 2026:** Person, Supporter and Clinician sections human-authored and project-lead approved November 10, 2026. Editorial audits, original-source and citation reconciliation, asset integration, and independent clinical review remain pending. Six community-experience figures remain to be verified against their original sources.
+> **Working draft:** All three audience sections are human authored and project-lead approved November 10, 2026. Original-source and citation checks, editorial and Work audits, independent clinical review and publication decision remain pending.
 
 Lesson 28 explores what receiving rehabilitation can feel like, from early uncertainty through gradual change, setbacks and different kinds of benefit.
 
