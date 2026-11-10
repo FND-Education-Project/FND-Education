@@ -1,6 +1,6 @@
 # How Rehabilitation Uses Learning
 
-> **Editorial status — November 10, 2026:** The project lead approved the revised Person section, including the three end-of-lesson prompts. Supporter section remains a working draft; Clinician section human-authored and approved. Research/citation integration, audits and independent clinical review remain pending.
+> **Editorial status — November 10, 2026:** The project lead approved the revised Person section, including the three end-of-lesson prompts. Supporter and Clinician sections human-authored and approved. Research/citation integration, audits and independent clinical review remain pending.
 
 Lesson 27 explores how rehabilitation uses neuroplastic learning through everyday examples and FND-related processes.
 
@@ -248,33 +248,266 @@ Understanding the connection between **neuroplastic learning, a rehabilitation a
 
 ## For Family, Friends, and Other Supporters
 
-### Rehabilitation isn't a job for the whole family
+<!-- Supporter section human-authored and approved November 10, 2026.
+Two fictional person/supporter pairs; clinical research and source-audit work remain pending. -->
 
-When someone has difficulty walking, speaking or managing daily activities, it's natural to look for something that might help. You may read about neuroplasticity—the nervous system's ability to change through learning—and wonder what you should be practising at home. (*citations* [1](#citation-1), [2](#citation-2))
+### Something worth celebrating
 
-It can be encouraging to know that some people improve. But **neuroplasticity doesn't guarantee recovery**, and being supportive doesn't mean designing a rehabilitation programme yourself.
+Amira has FND, and speaking has become unpredictable.
 
-### Find the part you can do well
+Sometimes her voice sounds fairly normal. Other times, words come out strained or barely audible. Occasionally, she can't manage more than a whisper.
 
-You can help a person explain which activities they value and which obstacles matter most. You might arrange transport, clarify instructions they want written down, find an accessible place to practise an agreed task, or protect time for rest and enjoyable activities.
+She's been working with a speech-language therapist and has recently noticed some encouraging changes.
 
-It's not helpful to turn every moment together into an exercise. A conversation, a meal or a shared hobby can remain exactly that.
+Her sister Jess has been pleased to hear about them.
 
-Offer encouragement without equating an easier movement with full recovery. The person may do something in therapy yet be unable to repeat it safely at home, and that doesn't mean they're withholding effort.
+Jess has helped with transportation, listened when Amira needed to talk about difficult appointments, and celebrated the little improvements along the way. The two sisters have always been close, although Jess admits that she still finds some of Amira's symptoms difficult to understand.
 
-### Let the right professional guide the technique
+One Sunday, they're having lunch together.
 
-A suitably trained **physiotherapist** may guide movement and gait rehabilitation. An **OT** may focus on household tasks, equipment and participation. A **speech-language therapist** may assess speech, voice, communication or swallowing; specialist and medical assessment comes first for airway/nutrition safety. **Psychologists** may provide agreed evidence-informed care for functional seizures, coping or relevant coexisting conditions. Different symptom presentations do not all share one treatment.
+Amira is telling Jess about something amusing that happened at the supermarket. She's halfway through the story when Jess realizes that Amira has been speaking comfortably for several minutes.
 
-If home practice is part of a professional plan, ask what help, if any, is expected from the supporter. Request clear instructions and stop or review criteria. You can say if the role is too much.
+"Listen to you!" Jess exclaims. "You're sounding so much better!"
 
-> “We got a therapist who knew about FND.”
+Amira smiles.
 
-*Figure 1. Community experience.* A parent values a therapist’s familiarity with FND. This does not establish a universal result. [Original public source](https://www.reddit.com/r/FND/comments/1v2tbfb/comment/oz7hya4/). (*citations* [7](#citation-7))
+"I know! It's been a pretty good morning."
 
-**Something to discuss together:** “What activity would you like support with, and which part should your therapist guide?”
+Jess is delighted. Their mother has been worried about Amira, and Jess immediately thinks how pleased she'd be to hear her daughter's voice sounding stronger.
 
-**One small thing:** Ask the person whether you could help make one rehabilitation goal easier to explain at an appointment. If they prefer to handle it alone, respect that too.
+"You should phone Mum! She'd love to hear you."
+
+Amira hesitates.
+
+"Maybe later."
+
+"Come on, you're doing so well. Just give her a quick call."
+
+Amira doesn't want to disappoint Jess. Besides, she *has* been speaking better today. Perhaps making the call would be another little victory.
+
+She picks up her phone.
+
+### When encouragement changes the moment
+
+Their mother answers, pleased to hear from her.
+
+"Hello, sweetheart! How are you feeling?"
+
+Amira opens her mouth, but her voice catches. She tries again, concentrating on producing the words clearly.
+
+"Hi, Mum. I was just..."
+
+Her voice becomes strained. She pauses, then manages a few whispered words before handing the phone to Jess.
+
+Jess finishes the conversation while Amira sits quietly beside her.
+
+Afterward, Jess looks disappointed.
+
+"Oh, that's a shame. You were speaking so well just a minute ago."
+
+Amira nods.
+
+"I know."
+
+Jess thinks for a moment.
+
+"Maybe you were trying too hard?"
+
+"Maybe," Amira replies. "But I was just enjoying talking to you. Then suddenly I was thinking about whether I could still do it."
+
+Jess hadn't considered that difference.
+
+She wanted to celebrate something encouraging, and perhaps show their mother how much progress Amira had made.
+
+She hadn't intended to turn lunch into another challenge.
+
+"I'm sorry," she says. "I got excited."
+
+Amira smiles.
+
+"I was excited too. It just felt different when I had to prove it."
+
+Jess understands a little more now.
+
+The successful conversation was real. So was the difficulty that followed.
+
+**One didn't cancel out the other.**
+
+### What might have changed?
+
+We've already learned that familiar actions, including speaking and moving, can sometimes become easier through experience.
+
+Speech-language therapy recommendations for functional communication difficulties recognize that the circumstances of speaking may influence how easily a person communicates. Different activities can place different demands on attention and automatic control. [4](#citation-4)
+
+For Amira, chatting naturally with Jess and making an unexpected telephone call weren't quite the same experience.
+
+The difference doesn't tell us exactly why her voice changed. But it's something her therapist might find useful to understand.
+
+And for Jess, there's another lesson.
+
+She doesn't need to pretend she hasn't noticed an improvement.
+
+Amira enjoyed hearing her sister say she sounded better. It was lovely to share that moment.
+
+The difficulty came when Jess assumed that because Amira could speak comfortably during lunch, she could demonstrate the same ability on demand.
+
+The following week, Jess notices that Amira is speaking more comfortably again.
+
+This time she simply says, "It's really nice hearing you tell your stories again."
+
+Amira grins.
+
+"Careful. I've got about seventeen more."
+
+"Wonderful," Jess says. "I'll put the kettle on."
+
+They laugh, and the conversation continues.
+
+Jess still hopes Amira's voice will improve. She still wants to help.
+
+But she's learning that **celebrating progress and expecting someone to repeat it are two different things**.
+
+### An ordinary afternoon with Natalie and Leah
+
+Across town, Leah has come to visit Natalie.
+
+Natalie lives alone with severe FND. Her functional seizures, walking difficulties, cognitive symptoms and continuous migraine make everyday activities unpredictable.
+
+Leah visits when she can. They usually spend their time chatting, sharing food or laughing about something that happened during the week.
+
+Today, Natalie is finishing an online grocery order when Leah arrives.
+
+"Just a minute," Natalie calls. "I'm almost done!"
+
+Leah settles into a chair.
+
+A few weeks earlier, the supermarket had changed its website, and Natalie had struggled to find her usual shopping list. She'd accidentally ordered three cartons of milk.
+
+Leah still finds that rather funny.
+
+"How's your dairy business going?"
+
+Natalie laughs.
+
+"Very well, thank you. I've decided to branch into cheese."
+
+She finishes adding her groceries, checks the order and puts down her tablet.
+
+"Actually, I've gotten a lot better at using that thing. I can usually remember where everything is now."
+
+"That's good!"
+
+"It is. I don't have to keep going back and looking for things quite so much."
+
+Leah remembers how frustrated Natalie had been with the new website.
+
+She could ask Natalie to show her how quickly she can complete another order. Perhaps she'd even be faster this time.
+
+But Natalie has already finished shopping.
+
+Instead, Leah asks, "Does that make grocery day a bit easier?"
+
+"Sometimes. Especially if my head isn't too bad. Yesterday I could barely look at the screen."
+
+Leah nods.
+
+"Well, I'm glad today's going better."
+
+And they move on to discussing what they've both been watching on television.
+
+Nothing particularly remarkable has happened.
+
+Natalie has shared an improvement she's noticed. Leah has shown interest, and they've enjoyed a little joke.
+
+Neither has felt the need to turn it into something more.
+
+### Not every improvement looks impressive
+
+A few weeks later, Leah notices another change.
+
+Natalie has started keeping a short list of things she wants to mention during their visits. She used to think of something important, get distracted and forget it before Leah arrived.
+
+Now the list is usually sitting beside her favourite chair.
+
+"That's clever," Leah says.
+
+Natalie shrugs.
+
+"I kept forgetting what I wanted to tell you. Now I don't have to remember everything."
+
+Leah laughs.
+
+"Does that mean you finally remembered the name of that television programme you recommended?"
+
+Natalie checks the list.
+
+"No. Apparently that one's gone forever."
+
+They both laugh.
+
+The little notebook hasn't necessarily improved Natalie's memory itself. But she's becoming more familiar with using something that helps her remember what matters.
+
+Research into learning shows that experience can make skills more familiar and that some improvements remain available over time. [1](#citation-1)
+
+For Natalie, that may mean finding her shopping list more easily or remembering to use a written reminder.
+
+For Amira, it might mean discovering that comfortable speech is becoming available in more situations.
+
+These are different kinds of changes. Neither supporter can know exactly how much neurological learning has occurred by observing one moment.
+
+But they can recognize when something has become easier or more useful in the person's life.
+
+### Two relationships, two useful experiences
+
+Jess and Leah both care about someone with FND.
+
+Jess has been deeply involved in supporting her sister. She knows how much Amira wants her speech to improve, and she was genuinely delighted when it did.
+
+Her excitement briefly changed an enjoyable conversation into something Amira felt she needed to demonstrate.
+
+Once Jess understood what had happened, she adjusted how she responded.
+
+Leah, meanwhile, doesn't see most of Natalie's week. She may never witness the frustrating attempts that come before an improvement, or the difficult days that follow it.
+
+When Natalie tells her something has become easier, Leah can enjoy that news without needing to see proof.
+
+Both relationships offer something valuable.
+
+Jess knows Amira well enough to recognize when she has misunderstood a moment and talk about it.
+
+Leah gives Natalie the pleasure of sharing her experiences with a friend, without making every improvement the centre of their time together.
+
+And neither person with FND has to produce a successful performance to deserve encouragement.
+
+### Let there be room for good news
+
+Imagine Amira calling Jess one evening.
+
+"I spoke to Mum today," she says.
+
+"How did it go?"
+
+"Pretty well! We talked for about ten minutes."
+
+Jess is delighted.
+
+"That's wonderful!"
+
+She doesn't ask Amira to make another call. She doesn't need to know whether she'll manage fifteen minutes next time.
+
+They just enjoy the news.
+
+Later, Natalie mentions to Leah that grocery shopping has become easier again. Leah remembers the milk incident, and they share another laugh.
+
+These little moments don't tell us everything about recovery.
+
+But they remind us that learning and improvement can become part of ordinary life, where people are doing things they enjoy rather than demonstrating what they can do.
+
+**Sometimes the nicest way to support someone's progress is to let them enjoy it.**
+
+**Something to discuss together:** "When something gets easier for you, how do you like to share that news?"
+
+**One small thing:** The next time someone tells you about an improvement, enjoy the moment with them. You don't have to turn it into a question about what they'll manage next.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
