@@ -1,6 +1,6 @@
 # Choosing Practice That Fits Your Life
 
-> **Editorial status — November 10, 2026:** Person section human-authored and approved; Supporter and Clinician sections remain working drafts. Six community-experience figures and source mappings require independent original-post verification and final source-index reconciliation before publication.
+> **Editorial status — November 10, 2026:** Person and Clinician sections human-authored and approved; Supporter section remains a working draft. Six community-experience figures and source mappings require independent original-post verification and final source-index reconciliation before publication.
 
 Lesson 28 explores what receiving rehabilitation can feel like, from early uncertainty through gradual change, setbacks and different kinds of benefit.
 
@@ -303,29 +303,164 @@ If assistance involves lifting, catching a falling person or managing medically 
 
 ## For Clinicians and the Care Team
 
-### Design around a goal, not the diagnosis alone
+<!-- Clinician section human-authored and approved November 10, 2026.
+Original-source verification and independent clinical review remain pending. -->
 
-Two people with a similar movement label may need quite different approaches because one wants safe transfers while the other wants to cook independently. Clarify the requested activity and current constraints before choosing an exercise.
+### When the appointment begins before treatment
 
-A workable plan states: **task, starting conditions, cue or adaptation, assistance, safety threshold, intended outcome and review point**. Ask what can be maintained on a difficult day, not just during a successful session.
+Natalie has longstanding FND, including functional seizures, cognitive difficulties and unreliable walking. She also experiences continuous migraine with severe light and sound sensitivity.
 
-### Cross-disciplinary worked example — preparing lunch
+An occupational therapist is helping her manage everyday activities that require memory and concentration.
 
-A person with an assessed functional upper-limb movement disorder wants to make lunch. The **OT** identifies seating, reach, knife safety, grip, sequence, sensory load and opportunities for assistance. The **PT** assesses any relevant balance or motor task demands and selects professionally guided movement options. A **psychologist**, if invited and clinically indicated, can work with understandable fear after previous injuries, not demand that the patient think positively to regain movement. The team agrees whether success means safe participation, reduced effort, fewer dropped objects or less post-task worsening.
+During one appointment, Natalie works on organizing her medical letters. With a clearer arrangement of the information, she completes the activity with fewer reminders.
 
-Changing a handle, avoiding a dangerous task or using prepared food are legitimate results. An externally focused cue may suit one assessed symptom, while another condition requires different specialist care.
+The therapist sees encouraging progress.
 
-### Choose a phenotype-appropriate path
+But at their next appointment, Natalie explains something important.
 
-For tremor, movement retraining might use a meaningful target or selected rhythmic cue. For painful fixed dystonia, supported positioning and complication prevention may precede any task progression. For sudden jerks or drop attacks without warning, protection against injury may matter more than a warning-based strategy. For visual or PPPD-related difficulty, adaptation and specialist vestibular/visual care must be matched to actual assessment, not given as a generic sensory exposure. For swallowing or upper-airway symptoms, trained SLT and medical airway/nutrition assessment precede any practice. For functional paralysis, seating, transfer assistance and equipment may be necessary regardless of short-lived movement observed elsewhere.
+"My migraine is usually around a two or three when I'm at home. By the time I get here, it can be a seven or eight."
 
-These are **examples of technique-selection logic, not protocols**. The corresponding Reference pages specify contraindications and what is consensus rather than comparative evidence. (*citations* [1](#citation-1), [2](#citation-2))
+She describes sunlight flickering between trees during the drive, glare from passing vehicles, unfamiliar walking routes and noisy waiting rooms. She's also concerned about having a seizure before reaching the appointment.
 
-### Know when to change the plan
+On some previous visits, that's exactly what happened.
 
-Ask about immediate and delayed effects. Stopping, making a task smaller, altering environmental demands, choosing a different target or referring for medical reassessment are all valid adaptations. Repeated prolonged worsening, falls, choking, respiratory difficulty or new neurological findings cannot be treated as proof that more intensity is required.
+Natalie now uses a wheelchair to reduce the demands of getting into and through medical buildings. Her friend Leah can accompany her occasionally, but Natalie lives alone and doesn't have daily assistance.
 
-**Evidence boundary:** Motor and OT consensus endorse functional and collaborative rehabilitation but do not validate a universal dose, equipment ban or exercise progression. [1](#citation-1) · [2](#citation-2).
+The occupational therapist has another piece of information to consider.
+
+**The demands of rehabilitation can begin long before the therapeutic activity starts.**
+
+### What did the appointment actually achieve?
+
+Natalie completed the cognitive task more easily during treatment. That's a useful observation, but it doesn't describe the full experience.
+
+> **Treatment burden:** The time, effort, discomfort and recovery involved in receiving care, including the demands of attending appointments.
+
+Natalie may have benefited from the activity itself while experiencing substantial difficulty from everything required to reach it.
+
+This distinction changes the clinical question.
+
+Rather than asking only whether the activity helped, the therapist might consider whether the benefit was worth the total demands of the visit.
+
+The next consideration is whether those demands can be changed without losing the opportunity for rehabilitation.
+
+### Where does the difficulty arise?
+
+Natalie's worsening migraine begins before the appointment. That makes it difficult to attribute the entire experience to the cognitive activity.
+
+The drive, sensory environment and physical demands of reaching the clinic may all contribute.
+
+Her concern about having a seizure is also understandable given her previous experiences. It may influence the demands of attending, although that doesn't establish that anxiety caused any particular episode.
+
+The occupational therapist could learn more by comparing Natalie's experiences across appointments.
+
+For example, does she arrive feeling less unwell when the journey is easier? Does the cognitive activity remain manageable in a quieter setting? How does she feel afterward?
+
+These observations could help distinguish difficulties associated with attending treatment from difficulties associated with the activity itself.
+
+The familiar biopsychosocial formulation provides a way to consider these influences together.
+
+But another piece of Natalie's history makes the situation more complicated.
+
+### When appointments begin to accumulate
+
+Natalie describes a period when she was attending several different services.
+
+Some appointments were for rehabilitation. Others involved medical treatment, including injections for her migraine.
+
+She was motivated to attend because she hoped the treatments would help.
+
+Unfortunately, recovery from one appointment sometimes extended into the next. After several visits close together, she noticed that her symptoms remained more intense between appointments.
+
+Eventually, she stopped attending some of the additional appointments because she couldn't recover sufficiently between them.
+
+Her experience raises a different clinical question from whether one appointment was tolerable.
+
+**What happens when the demands of treatment accumulate across a person's week or month?**
+
+A single appointment might be manageable. Several appointments, each requiring travel, sensory exposure, concentration and recovery, may produce a very different experience.
+
+Natalie's description suggests a possible cycle in which increased demands are followed by worsening symptoms and reduced ability to manage later activities.
+
+That pattern deserves investigation, although her account alone doesn't establish the neurological mechanism responsible.
+
+The important observation is that the current arrangement may be reducing her ability to participate in the very treatments intended to help her.
+
+### What might make rehabilitation more manageable?
+
+The occupational therapist now has a reason to examine more than the cognitive activity.
+
+Perhaps some appointments could take place in a quieter setting. Certain discussions might be suitable for remote visits, while other care would still require attendance.
+
+Appointment timing, accessible entry and the demands of waiting could also influence what Natalie can manage.
+
+These aren't treatments for FND themselves. They are possible ways to reduce the demands surrounding treatment.
+
+Occupational therapy recommendations support individualized activity analysis and environmental adaptations as part of FND care. They provide a framework for considering these possibilities rather than a fixed approach suitable for everyone. [2](#citation-2)
+
+There's also a trade-off worth recognizing.
+
+Combining appointments might reduce the number of difficult journeys, but it could make one day too demanding. Spreading them apart might allow more recovery while requiring additional travel.
+
+The more suitable arrangement depends on what Natalie experiences.
+
+Her family doctor could contribute by considering the migraine treatment, coordinating necessary medical care and helping the team understand the combined demands of her appointments.
+
+The occupational therapist could then assess whether changes to the rehabilitation setting or activity make the treatment more useful.
+
+Neither professional needs to assume that one adjustment will solve every difficulty.
+
+### Slow rehabilitation can still be successful
+
+A demanding appointment isn't necessarily an unsuccessful one.
+
+Consider another person recovering from a herniated spinal disc.
+
+Their physiotherapy continues for eighteen months. Early sessions require a slow approach, and familiar activities must be repeated many times before progress becomes reliable.
+
+The treatment may feel frustratingly gradual.
+
+Yet over that period, the person regains important abilities.
+
+This example offers a useful contrast with Natalie's experience.
+
+**The time rehabilitation takes and the demands it creates are different questions from whether useful recovery is occurring.**
+
+Some people may need lengthy, repeated rehabilitation to develop more reliable abilities. The value of that work becomes clearer when its benefits are considered alongside the person's ability to tolerate and continue it.
+
+For Natalie, a slower arrangement might preserve useful rehabilitation while reducing the difficulties associated with attending.
+
+But if an activity repeatedly produces substantial worsening without meaningful benefit, the team may have reason to reconsider its suitability.
+
+Neither outcome can be decided from the number of appointments alone.
+
+### What would the next appointment tell us?
+
+Imagine that Natalie's next occupational therapy appointment takes place with fewer travel and waiting demands.
+
+She arrives with a less intense migraine and is better able to participate.
+
+The medical-letter activity becomes easier again. Later, she reports that she was able to use part of what she'd learned at home without losing the rest of the day to exhaustion.
+
+That would offer more useful information than the earlier session alone.
+
+The therapist could now see both an encouraging response to the activity and a possible improvement in the cost of receiving treatment.
+
+Alternatively, Natalie might continue experiencing considerable worsening despite the changes. That would invite further consideration rather than assuming the treatment simply needs more repetition.
+
+### What should clinicians take from this lesson?
+
+Natalie's experience demonstrates why the cost of rehabilitation cannot be understood by observing the treatment session alone.
+
+Her symptoms may become more difficult before treatment starts. The consequences of one appointment may also affect her ability to participate in another.
+
+At the same time, slow and repeated rehabilitation can be valuable when meaningful improvement develops over time.
+
+Rehabilitation practitioners can investigate the relationship between treatment activities, their demands and the benefits that become available in everyday life.
+
+Family doctors can contribute by understanding the combined effects of medical care, coexisting conditions and access requirements.
+
+**Clinical insight:** The usefulness of rehabilitation depends not only on what someone gains during treatment, but also on what receiving that treatment requires of them. Understanding both can help the team recognize when continued practice is valuable and when the conditions of care deserve reconsideration.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
