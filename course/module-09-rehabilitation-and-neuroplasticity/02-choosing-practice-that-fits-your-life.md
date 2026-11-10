@@ -1,6 +1,6 @@
 # Choosing Practice That Fits Your Life
 
-> **Editorial status — November 10, 2026:** Person and Clinician sections human-authored and approved; Supporter section remains a working draft. Six community-experience figures and source mappings require independent original-post verification and final source-index reconciliation before publication.
+> **Editorial status — November 10, 2026:** Person, Supporter and Clinician sections human-authored and approved. Six community-experience figures and source mappings require independent original-post verification and final source-index reconciliation before publication.
 
 Lesson 28 explores what receiving rehabilitation can feel like, from early uncertainty through gradual change, setbacks and different kinds of benefit.
 
@@ -265,33 +265,239 @@ In Lesson 29, we'll examine what treatment studies have found about different FN
 
 ## For Family, Friends, and Other Supporters
 
-### A useful activity can be more than a set of exercises
+<!-- Supporter section human-authored and approved November 10, 2026. Two-pair
+narrative revised for neuroplastic-learning clarity and paragraph flow.
+Research/source reconciliation and independent clinical review remain pending. -->
 
-Imagine someone wants to return to making dinner. Their difficulty may involve balance, holding a pan, noise, concentration, pain or fatigue. A practice plan that only counts arm repetitions might miss what makes dinner meaningful.
+### A very productive Tuesday
 
-Working together could mean setting out equipment in a more accessible place, using a seat, dividing the task or taking over a hazardous step. But it should start with what the person wants, not a supporter's idea of what they ought to accomplish.
+Priya is rather pleased with herself. Her husband Daniel has FND, and his hand movements have become unreliable. He's been working with a physiotherapist and an occupational therapist, hoping to regain some of the abilities that have become difficult. Today, Priya has managed to arrange both appointments on the same afternoon.
 
-### Keep choice and reality in the same conversation
+It's taken quite a bit of organizing. Daniel doesn't drive at the moment, the clinics are forty minutes from home, and Priya has arranged her work schedule so she can take him.
 
-Ask, “Which part would you like to do? What could I take care of? Should we change the setup instead?”
+"Two appointments, one trip," she announces as they leave the house. "I think I've invented efficiency."
 
-Support may include doing *less* with the person so they can use their ability where it matters. It can also include accepting a decision to postpone an activity without treating that as giving up.
+Daniel laughs.
 
-You can notice when an activity becomes unsafe or exhausting, but don't turn this into supervision by surprise. Agree beforehand whether they want a reminder, what that reminder should sound like and how to stop without argument.
+"Have you considered running the health service?"
 
-### Professional handover protects both people
+"I'd start by improving the parking."
 
-**PT** should guide risky gait, balance, transfers or movement retraining. **OT** can review a home setup, equipment, activity demands and appropriate ways for supporters to assist. **SLT** should determine swallowing/airway or communication techniques where indicated; psychology may address the emotional burden or a relevant therapy programme by choice.
+Their first appointment goes well. Daniel has been practising movements with his physiotherapist, and today he manages an activity more comfortably than before. He's encouraged.
 
-If assistance involves lifting, catching a falling person or managing medically risky episodes, seek instruction and backup from qualified services. A supporter cannot be expected to improvise safe transfers or clinical care.
+At the second appointment, his occupational therapist works with him on a familiar household task. Daniel makes progress there too, although he's finding it harder to concentrate by the end.
 
-> “She really likes cardio and working out but sometimes that’s just not possible for her.”
+**Neuroplastic learning** means the nervous system can change through experience, sometimes making an ability easier or more reliable with practice. Daniel hopes the useful movements he's finding in therapy will become more dependable. But one productive afternoon isn't the same as a change that lasts.
 
-*Figure 7. Community experience.* A spouse describes a valued activity and variable ability, not a safe exercise prescription. [Original public source](https://www.reddit.com/r/FND/comments/1kvcy4a/help_working_out/). (*citations* [5](#citation-5))
+When they arrive home, Priya is delighted.
 
-**Something to discuss together:** “What would count as a useful result—less effort, more safety, participating in part of the activity, or something else?”
+"That was a good day!"
 
-**One small thing:** With the person's agreement, identify one real-life task and one question for an OT, PT or other treating professional. You needn't create the treatment plan.
+Daniel agrees. He's pleased with what he managed, but he's also exhausted. After supper, he settles into his chair and falls asleep halfway through a television programme. Priya smiles and switches it off.
+
+They've accomplished quite a lot.
+
+### The part that wasn't on the calendar
+
+Wednesday is more difficult. Daniel wakes with his hand movements less reliable than usual. He's tired, his concentration is poor, and several household tasks he'd hoped to manage will have to wait. By Thursday, he's feeling somewhat better.
+
+Priya notices that he hasn't done much since Tuesday.
+
+"Do you think the exercises were too much?" she asks.
+
+"I don't know. I actually felt good about them."
+
+"Maybe doing both appointments together was a bit ambitious."
+
+Daniel thinks for a moment.
+
+"I was already tired when we got to the second one. And I still had the journey home afterward."
+
+Priya looks at the calendar on the kitchen wall. They'd been trying to save time and travel. But perhaps their very efficient Tuesday had cost Daniel much of Wednesday.
+
+There's another complication. Priya can't easily take time off work twice a week. Combining appointments means fewer trips and less disruption to her schedule. Daniel understands that. He's grateful for the help, and he doesn't want Priya spending every spare afternoon driving him around.
+
+Neither of them has been unreasonable. They've simply discovered that **what makes appointments easier to arrange doesn't always make them easier to manage**.
+
+The appointments may have offered useful opportunities for neuroplastic learning. But if Daniel is too exhausted to return to everyday activities for days afterward, they need a fuller picture of what those opportunities cost him.
+
+### A different kind of planning
+
+At Daniel's next appointment, he mentions how he'd felt afterward. His therapist is interested in what happened during the activities, but also in how Daniel managed the rest of the day and the following morning.
+
+They discuss whether some aspects of his rehabilitation could be arranged differently. There isn't an obvious perfect solution.
+
+Separate appointments would mean more driving. Combining them could make the day exhausting. Some discussions might be possible without a trip to the clinic, while other activities require hands-on professional guidance.
+
+Priya and Daniel talk about what might work for both of them.
+
+"I can still drive on Tuesdays," Priya says. "We might just have to stop trying to fit the entire medical profession into one afternoon."
+
+Daniel laughs.
+
+"Shame. I was hoping to squeeze in a dentist."
+
+They begin looking at their schedule a little differently. Rather than measuring a good week by how many appointments they complete, they become interested in how much Daniel can actually gain from them.
+
+That doesn't mean abandoning rehabilitation. Daniel still wants to improve, and Priya still wants to help him get there. It means recognizing that the journey, the appointment and the recovery afterward all belong to the same experience.
+
+### When progress takes longer than expected
+
+Several months pass. Daniel continues rehabilitation, although progress doesn't follow a tidy schedule. Some activities become easier, then seem difficult again. Others improve so gradually that neither of them notices until Daniel does something he hasn't managed comfortably in a long time.
+
+One morning, Priya comes downstairs and finds him fastening his jacket. He's almost finished before she realizes what she's seeing.
+
+"Hang on. Did you just do that yourself?"
+
+Daniel looks down.
+
+"I think I did."
+
+"That's brilliant!"
+
+He grins.
+
+"Don't get too excited. I still can't manage that little button on the cuff."
+
+Priya laughs.
+
+"Well, nobody likes those buttons."
+
+The improvement is encouraging. It doesn't mean Daniel's hand movements have fully recovered, but it's something he can use in ordinary life.
+
+This is one way **neuroplastic learning** may become visible: a movement that once needed repeated support becomes easier to use in ordinary life. That doesn't prove which neurological changes occurred, but it gives Daniel a concrete reason to recognize progress.
+
+He's glad they kept looking for ways to make rehabilitation manageable. Priya is glad they didn't give up simply because progress had been slow.
+
+Their experience illustrates something worth remembering: a long course of rehabilitation may still be valuable, while the demands of receiving that care may need to change along the way.
+
+Professional occupational therapy recommendations recognize the importance of understanding everyday activities and the circumstances in which people carry them out. [2](#citation-2)
+
+Daniel and Priya have learned why that matters outside the treatment room.
+
+### Meanwhile, at Natalie's house
+
+Leah has been looking forward to visiting Natalie on Thursday. She's promised to bring something from the bakery, and they've been planning to watch another episode of their favourite programme together.
+
+On Wednesday evening, Natalie sends her a message.
+
+*I'm sorry, but I don't think I'll manage tomorrow. I've got a medical appointment in the morning.*
+
+Leah feels a little disappointed. Their visits are one of the few regular opportunities they have to catch up. She knows the appointment matters, though, and replies:
+
+*No problem. Hope it goes well. We can find another day.*
+
+The following afternoon, Natalie sends another message.
+
+*Home now. Migraine is awful. That was quite an adventure.*
+
+Leah phones briefly to check how she's doing. Natalie explains that her headache had become much worse before she even reached the doctor.
+
+The sunlight had been uncomfortable during the journey. Walking through an unfamiliar part of the building was difficult, and the waiting room was busy.
+
+"I was practically finished before the appointment started," Natalie says.
+
+Leah knows that Natalie's functional seizures and walking difficulties can make medical visits challenging. But she hadn't quite appreciated how much could happen before Natalie saw the clinician.
+
+"Were you able to get what you needed from the appointment?"
+
+"Yes, actually. I'm glad I went."
+
+There's a pause.
+
+"I just wish I didn't have to spend the rest of the day recovering from getting there."
+
+Leah understands a little more now. Natalie can be pleased about receiving medical care and miserable about what receiving it has required. Those feelings aren't contradictory.
+
+Making an appointment accessible isn't itself neuroplastic learning. It may, however, leave Natalie better able to benefit from rehabilitation that depends on learning over time.
+
+### The appointment takes more than an hour
+
+A week later, Leah visits as usual. Natalie has arranged the room so the light is comfortable, and the two friends settle down with tea.
+
+Leah asks how the medical appointment turned out. Natalie explains that she'd been struggling with several appointments close together. Sometimes she barely recovered from one before another came around.
+
+"Then I start having more difficult days," she says. "And everything gets harder. Even the things I'm usually able to manage."
+
+Leah thinks about the visits Natalie has cancelled recently. She'd assumed Natalie was simply having more unpredictable symptoms. Now she understands that the appointments themselves may be taking up much of what Natalie can manage.
+
+"Does that mean you want me to visit less often?" Leah asks.
+
+Natalie looks surprised.
+
+"No! I like having you here. It's one of the things I look forward to."
+
+"I don't want to make things harder."
+
+"You're not. Well, unless you bring that dreadful cake again."
+
+Leah laughs.
+
+"That cake was perfectly respectable."
+
+"It could've been used as a doorstop."
+
+They both laugh, and for a moment there's no discussion of symptoms or appointments.
+
+Leah is relieved. She'd been wondering whether stepping away would be more helpful than visiting. Instead, she discovers that Natalie values their time together, even when other parts of life have become difficult.
+
+### Help doesn't have to solve everything
+
+Leah can't take Natalie to every appointment. She has work, family responsibilities and her own life. Natalie doesn't expect her to become a full-time caregiver.
+
+Sometimes Leah can help with transportation. Sometimes she can bring something for lunch or rearrange a visit when Natalie needs a quieter day. Other times, she can only offer a conversation.
+
+When Natalie mentions an upcoming appointment, Leah asks whether there's anything practical she'd find helpful.
+
+"Actually," Natalie says, "would you mind reminding me to ask about the waiting room? Last time I was sitting there forever."
+
+"Of course."
+
+Leah makes a note on her phone.
+
+Then Natalie adds, "But don't start managing my calendar. It's complicated enough already."
+
+"Trust me," Leah replies. "I've seen your calendar. I'm not going anywhere near it."
+
+They're both smiling. Leah hasn't solved the difficulty of attending treatment, and she doesn't need to. She's learning which parts of Natalie's life are demanding and where an occasional offer of help might make a difference.
+
+Their friendship can still be a friendship.
+
+### What the two relationships teach us
+
+Priya and Leah have different places in the lives of the people they support.
+
+Priya lives with Daniel. She sees the appointments, the tired evenings and the difficult mornings afterward. She's also responsible for arranging much of the transportation.
+
+Leah sees Natalie occasionally. She may hear about an appointment without witnessing everything it takes to attend or recover from it.
+
+Yet both have discovered something similar: **rehabilitation doesn't happen in isolation from the rest of someone's life**.
+
+Priya and Daniel learned that fitting more care into one afternoon wasn't necessarily helping Daniel make better use of that care. Leah discovered that Natalie could genuinely value medical treatment while finding the journey and recovery exhausting.
+
+Neither supporter needed to become an expert in rehabilitation to understand that difference. They needed a fuller picture of what the person was experiencing.
+
+Slow, manageable opportunities to practise may support neuroplastic learning over time, even while recovery remains uncertain. And both pairs found ways to make room for the relationships that existed before FND became such a large part of life.
+
+### The little things that remain
+
+One evening, Daniel fastens his jacket and goes out with Priya for a short visit with friends. He's still having difficulties, but he's pleased to manage something that used to be much harder.
+
+Across town, Natalie and Leah finally watch the television episode they'd postponed. Leah has brought another bakery treat.
+
+Natalie examines it suspiciously.
+
+"Is this the same baker who made that cake?"
+
+"No," Leah says. "I've learned from my mistakes."
+
+"Good. So have I."
+
+Their evening isn't rehabilitation. It doesn't have to be. There's room for treatment, for gradual improvement, for difficult days and for the ordinary pleasures that make all that effort worthwhile.
+
+**Something to discuss together:** "When you have an appointment, is there something about getting there or recovering afterward that I might not realize?"
+
+**One small thing:** If someone tells you an appointment went well, you might also ask how the rest of their day went. The answer may tell you something important.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
