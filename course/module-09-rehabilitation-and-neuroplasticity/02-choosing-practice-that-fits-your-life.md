@@ -14,7 +14,7 @@ Lesson 28 explores what receiving rehabilitation can feel like, from early uncer
 
 ## For the Person With FND
 
-<!-- Person narrative and end-of-lesson reflections approved by project lead, November 10, 2026.
+<!-- Person narrative, neuroplastic-learning reminders and end-of-lesson reflections approved by project lead, November 10, 2026.
 Community excerpts come from the project's internal source notebook; original-post
 wording/context and figure/source IDs require Work verification before publication.
 Supporter and Clinician sections remain unapproved working drafts. -->
@@ -79,7 +79,7 @@ The person still has difficulty speaking sometimes, but it happens less frequent
 
 Other people describe taking considerably longer to regain speech, while some continue relying on communication aids.
 
-One of the interesting things about neuroplastic learning is that an improvement may become noticeable only after a skill has grown more familiar.
+One of the interesting things about **neuroplastic learning** is that an improvement may become noticeable only after a skill has grown more familiar.
 
 You might not remember the first day that speaking became a little easier. But eventually, you may notice you're doing something that used to require much more effort.
 
@@ -93,7 +93,7 @@ She understands the explanation at the beginning, but halfway through an activit
 
 She might wonder how she's supposed to benefit from rehabilitation when simply concentrating on it is so demanding.
 
-Cognitive rehabilitation can involve different kinds of activities, including learning ways to organize information or making everyday tasks easier to manage.
+Cognitive rehabilitation can involve different kinds of activities, including learning ways to organize information or making everyday tasks easier to manage. Some of this work may involve neuroplastic learning as routines and useful strategies become more familiar.
 
 Some people report improvements in their cognitive abilities. Others find that using helpful supports becomes easier, even though their symptoms continue.
 
@@ -129,7 +129,7 @@ She may also wonder how the discussions relate to improving her seizures.
 
 Different seizure-focused treatments work with different problems. Some help people recognize useful patterns or responses. Others explore different ways of responding to seizures or difficulties that affect daily functioning.
 
-With time, Natalie might find that she understands her episodes better or feels more prepared for certain situations. Perhaps she discovers a useful way to explain what happens during an appointment.
+With time, neuroplastic learning might make a useful response more familiar. Natalie might find that she understands her episodes better or feels more prepared for certain situations. Perhaps she discovers a useful way to explain what happens during an appointment.
 
 For other people, suitable treatment may reduce seizure frequency.
 
@@ -157,7 +157,7 @@ Their experience shows how an improvement in one area can exist alongside consid
 
 It's possible to value something gained during rehabilitation while finding the process exhausting or overwhelming.
 
-For someone with migraine, sensory sensitivity, fatigue or other medical conditions, the demands of attending appointments may affect what treatment is manageable.
+For someone with migraine, sensory sensitivity, fatigue or other medical conditions, the demands of attending appointments may affect what treatment is manageable. The conditions in which neuroplastic learning is attempted can matter as much to the person as the activity itself.
 
 This isn't something the person needs to solve by choosing their own exercises or deciding how hard to push.
 
@@ -185,7 +185,7 @@ The first person eventually regained important abilities. The second didn't expe
 
 Neither account can tell us how long rehabilitation will take for someone else. But together they raise an important question about patience.
 
-Learning can take time. An ability may gradually become more familiar, or progress may only become noticeable when someone returns to an everyday activity.
+**Neuroplastic learning can take time.** An ability may gradually become more familiar, or progress may only become noticeable when someone returns to an everyday activity.
 
 Yet continuing without improvement isn't automatically the right approach. Perhaps a treatment needs reconsidering, another medical problem is affecting progress, or the person's goals and support needs have changed.
 
@@ -235,7 +235,7 @@ Natalie doesn't have to decide which neurological techniques would be best for h
 
 She can tell her care professional that an activity was easier than expected, that something which worked during therapy wasn't available at home, or that she was exhausted for hours afterward. She can ask why an activity has been suggested when its purpose isn't clear, and explain what she'd most like rehabilitation to help her enjoy or manage.
 
-**Rehabilitation involves learning, but the person's experience helps reveal whether that learning is becoming useful in their life.**
+**Rehabilitation may involve neuroplastic learning, but the person's experience helps reveal whether that learning is becoming useful in their life.**
 
 ### Something to think about
 
