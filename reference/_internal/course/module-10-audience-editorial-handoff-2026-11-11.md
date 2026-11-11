@@ -160,6 +160,10 @@ A precise clinical qualification is more useful than an apologetic cascade of ca
 4. **Commit the approved prose** to the designated lesson branch/PR; preserve unaffected sections and their source tables. Maintain exact authoring and audit-status metadata. “Human-authored/approved” never means independently clinically reviewed.
 5. **After all sections:** Chat Audit 1 checks the approved voice, progression, meaningful depth, unnecessary repetition and continuity; Work then verifies original studies, quotations, claim-to-citation mappings, figures, assets, navigation, clinical boundaries and technical checks under the project's normal process. Neither audit overwrites approved editorial choices without a documented project-lead decision.
 
+## Work research completed — November 11, 2026
+
+The [Module 10 Clinician Case Evidence & Design Brief](module-10-clinician-case-evidence-and-design-brief-2026-11-11.md) contains two candidate cases per lesson with What / Why / How answer outlines, original sources, verification limits and notes on progression from earlier modules. Use it when choosing the clinician cases in Chat.
+
 ## Work-thread prompt — investigate clinical case design for Module 10
 
 **Copy the following prompt into a dedicated ChatGPT Work thread. This is a research handoff, not a request to rewrite or approve public lessons.**
