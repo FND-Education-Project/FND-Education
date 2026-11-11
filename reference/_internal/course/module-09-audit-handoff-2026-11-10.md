@@ -1,6 +1,6 @@
 # Module 9 — Authorship complete; Chat and Work audit handoff
 
-**Prepared:** November 10, 2026; **asset integration and project-lead illustration approvals updated November 11, 2026**. **Status:** Crosswords, colouring books and all three original colour illustrations placed in Lessons 27–29 with explicitly approved A/B/B caption and alt choices. Editorial Chat Audit 1 remains pending the project lead's separate prompt, followed by Work evidence/technical audit. **Neither audit has been performed** by this handoff.
+**Prepared:** November 10, 2026; **assets and Chat Audit 1 updated November 11, 2026**. **Status:** Crosswords, colouring books and original colour illustrations are placed with owner-approved illustration choices 27 A / 28 B / 29 B. **Chat Audit 1 editorial findings are completed and committed; project-lead decisions on optional prose changes remain pending.** Work original-source/quotation and technical audit, subsequent module readiness, independent clinical review and merge/publication remain pending. Audit 1 must not be represented as scientific verification.
 
 **Draft PR:** [#205](https://github.com/FND-Education-Project/FND-Education/pull/205) · **Branch:** `editorial/module-09-lesson-27-handoff-20261108` · **Review baseline:** read the **current PR head** when beginning each audit; the authoring-completion commit is `be4b230ff50fe75b8139802cf6200a965728ccd1`. Subsequent commits align status metadata, overview, syllabus and this audit handoff; do not assume that the authoring-completion commit is the final audit head.
 
@@ -18,7 +18,7 @@ The curriculum remains **three lessons**, Module 9, after Module 8 and before Mo
 
 **Narrative anchors not to erase:** Natalie has severe FND, lives alone, and Leah is a friend who visits occasionally. The Daniel/Priya and Amira/Jess pairs are fictional teaching cases, not trial participants. Supporter 27 shows improvement without a performance test; Supporter 28 shows the whole-appointment and delayed recovery cost alongside slow progress; Supporter 29 shows hope without treatment pressure, with distinct pairs and a light touch on the evidence. Person sections preserve the defined concepts, examples, varied symptoms, studies and three end-of-lesson reflections. Clinician sections preserve case-based reasoning, distinguish performance from learning, consider total care burden and appraise whether research actually tests the advertised intervention. Prefer **family doctor**, not GP, in the authored clinician sections. Neuroplastic learning should be understandable by Supporters without claiming a cure or that every useful aid proves neurological recovery.
 
-**What is *not* complete:** editorial Audit 1; Work source/clinical-accuracy and technical audit; independent clinical review; full assistive-technology/device acceptance; final publication-readiness assessment; owner merge decision. The PR should remain draft until the project lead decides otherwise.
+**What is *not* complete:** project-lead decisions on the optional changes proposed by Chat Audit 1; Work source/clinical-accuracy, original-quotation and technical audit; independent clinical review; full assistive-technology/device acceptance; final publication-readiness assessment; owner merge decision. **Chat Audit 1 has been documented but does not authorize these later stages.** The PR remains draft.
 
 ## Pre-Audit 1 resource integration and illustration choices (November 11, 2026)
 
@@ -57,6 +57,22 @@ The curriculum remains **three lessons**, Module 9, after Module 8 and before Mo
 
 **Not completed or certified:** Chat Audit 1; original papers and community quotation verification; final citation/Figure reconciliation; actual PDF content, external link accessibility, mobile/desktop rendering, screen-reader acceptance, exact-final-head CI, independent clinical review, publication readiness or project-lead merge decision.
 
+## Chat Audit 1 — findings recorded, owner decisions pending (November 11, 2026)
+
+**Completed editorial review:** [Module 9 Audit 1 editorial findings](module-09-audit-01-editorial-findings-2026-11-11.md) covers all **nine human-approved Person, Supporter and Clinician sections** in Lessons 27–29, their cross-lesson progression, six community Figures in Lesson 28, three in Lesson 29, and the current lesson sources/asset integration. This is an **editorial assessment**, not original-source or clinical verification.
+
+**Mechanical integration errors corrected without modifying narrative:** Lesson 27 optional crossword and colouring sections had been mistakenly placed below the Supporter narrative; moved intact to after Person's “One small step” (commit [e8a133a](https://github.com/FND-Education-Project/FND-Education/commit/e8a133a8bccbcbe4b8544e5fa8940d9091c7878b)), and standard Person closing navigation restored (commit [50c0664](https://github.com/FND-Education-Project/FND-Education/commit/50c0664690ae0197d64ec2457d41f96da9d3f81b)). All nine approved narrative sections remain unchanged.
+
+**Proposed project-lead decisions — not yet approved or applied:**
+
+1. **Lesson 29 Person, “Something to think about”:** Retain the owner-approved question asking readers to connect a personal symptom, a neurological process and a potential treatment; **or** approve this optional evidence-focused alternative: “Imagine a treatment advert that names a brain process you recognize. What would you ask to find out whether the treatment—not just its explanation—has helped people?” Both are teachable; the alternative avoids inviting unsupported symptom-cause speculation. Leave the other two reflections unchanged.
+2. **Lesson 28 Clinician, “Slow rehabilitation can still be successful”:** Keep the owner-approved illustrative *herniated-disc* comparison unchanged; **or** after “This example offers a useful contrast with Natalie's experience,” add: “It illustrates why duration and burden deserve separate consideration; it is not evidence about rehabilitation outcomes in FND.” This is a scope-clarity option, not a confirmed error.
+3. **Lesson 28 community Figures 1–6:** **Recommend preserving provisionally** because each illustrates a different rehabilitative experience. Work must verify every exact source/excerpt/voice. If a quotation cannot be verified or fails context, Work should **report and request project-lead disposition**, not silently remove it.
+
+**Work audit owns:** Reconcile page-level citation tables to actual current claims (including Lesson 27's research papers linked in Person prose but absent from its full source table, unused draft entries in all lessons, and the removed Lesson 29 Supporter Figure 4). Check original studies, populations/numbers and limitations (Physio4FMD 59%/38%; adult CODES; pediatric ReACT 17/7-day measure; cognitive, functional-voice/visual and tremor studies); original context for Lesson 28's six Figures (including **two different speakers in Figure 5** and **Jenna's mother in Figure 6**, whose linked URL is pre-production), and Lesson 29's Helen/participant/forum figures. Verify image-to-alt fidelity, PDF contents, responsive rendering, glossary/citation/index links and exact-final-head CI. **No original article or quotation has been newly marked verified by this Chat audit.** Full scope is in the linked findings report.
+
+**Explicitly preserve** the approved long-form Person teaching and reflection endings, realistic paired Supporter stories with consent/agency/humour, distinctive Clinician cases and family-doctor reasoning, project-lead illustration selections A/B/B, and the already integrated crosswords and colouring books. No edit beyond a new owner-approved decision is authorized by this editorial assessment.
+
 ## Audit sequence and division of responsibility
 
 ### Chat Audit 1 — editorial review and decisions for the project lead
@@ -70,7 +86,7 @@ Read the latest PR head and these nine approved sections against the syllabus an
 
 Return a short report with **required corrections**, **worthwhile optional improvements**, **decisions recommended for preservation**, and **evidence/source questions assigned to Work**. Give exact page, section and proposed wording for material findings; present proposals to the project lead for approval **before** changing approved prose. Add the final Audit 1 findings and owner decisions to this audit record or a linked `module-09-audit-01-...` report. **Do not claim scientific original-source verification or independent clinical review.**
 
-**Suggested starter for the assigned Chat audit thread:** “Review current draft PR #205 using `reference/_internal/course/module-09-audit-handoff-2026-11-10.md`. Perform Module 9 Chat Audit 1 on the nine approved audience sections, reporting necessary and worthwhile editorial corrections, preservation decisions and the exact Work handoff. Do not recommence authoring or independently certify original research.”
+**Historical Chat Audit 1 starter (completed November 11, 2026):** The previously assigned prompt was fulfilled in the linked findings report above. **Do not repeat the general editorial review in Work**; use the project lead's subsequent decisions to scope authorized edits. Original research is still unverified.
 
 ### Work audit — evidence, citation integrity, technical and asset checks
 
