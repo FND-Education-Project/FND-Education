@@ -274,6 +274,14 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 <a href="{{ '/assets/puzzles/colouring/lesson-27-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 27 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-27">browse the colouring collection</a>.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+
+***
+
 ## For Family, Friends, and Other Supporters
 
 <!-- Supporter section human-authored and approved November 10, 2026.
