@@ -657,7 +657,7 @@ The treatment may feel frustratingly gradual.
 
 Yet over that period, the person regains important abilities.
 
-This example offers a useful contrast with Natalie's experience.
+This example offers a useful contrast with Natalie's experience. It illustrates why duration and burden deserve separate consideration; it is not evidence about rehabilitation outcomes in FND.
 
 **The time rehabilitation takes and the demands it creates are different questions from whether useful recovery is occurring.**
 
