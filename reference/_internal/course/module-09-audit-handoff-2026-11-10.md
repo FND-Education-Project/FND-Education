@@ -4,6 +4,10 @@
 
 **Draft PR:** [#205](https://github.com/FND-Education-Project/FND-Education/pull/205) · **Branch:** `editorial/module-09-lesson-27-handoff-20261108` · **Review baseline:** read the **current PR head** when beginning each audit; the authoring-completion commit is `be4b230ff50fe75b8139802cf6200a965728ccd1`. Subsequent commits align status metadata, overview, syllabus and this audit handoff; do not assume that the authoring-completion commit is the final audit head.
 
+## Work audit findings — November 11, 2026
+
+The [Work evidence/quotation/technical report](module-09-work-audit-2026-11-11.md) records original-source checks, exact minimal correction proposals and source-access limits. Substantive prose/quotation decisions are awaiting the project lead; approved prose is unchanged. Routine browser coverage has been extended to the full module. The module is **not yet mergeable** pending those decisions, citation reconciliation and final validation. Independent clinical review remains pending.
+
 ## Source of truth and approved boundaries
 
 The public, owner-approved text is **in the three lesson files**, not in the October 26 historical seeds or the extensive redistribution decision log:
