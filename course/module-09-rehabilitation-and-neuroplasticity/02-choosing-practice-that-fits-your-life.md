@@ -221,6 +221,14 @@ But not every improvement needs to involve a change in the symptom itself. A per
 
 The experience of benefiting can also be complicated. Someone might feel delighted by a new ability while worrying that it won't remain available. Others may notice a change so gradually that they struggle to remember when it happened.
 
+<figure class="image-60center" markdown="1">
+
+![Two differently sized cartoon brain minions stand by their neuron connections. The larger one shows an established card-into-envelope task, while the smaller one shows an emerging book-on-shelf task.](../../assets/images/lesson-28-illustration.png)
+
+<figcaption>Learning in one setting is a beginning; using a skill somewhere new may take more time and practice.</figcaption>
+
+</figure>
+
 ### Your experience is part of rehabilitation
 
 Natalie has been thinking about the different community experiences.
