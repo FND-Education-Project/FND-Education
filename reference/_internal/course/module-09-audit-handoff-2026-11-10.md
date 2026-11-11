@@ -1,6 +1,6 @@
 # Module 9 — Authorship complete; Chat and Work audit handoff
 
-**Prepared:** November 10, 2026. **Status:** Ready for editorial Chat Audit 1 and subsequent Work evidence/technical audit; **neither audit has been performed** by this handoff.
+**Prepared:** November 10, 2026; **asset integration updated November 11, 2026**. **Status:** Crossword and colouring-book assets connected; original colour illustration caption/alt approvals pending. Ready for editorial Chat Audit 1 when project lead supplies its prompt; subsequent Work evidence/technical audit remains pending. **Neither audit has been performed** by this handoff.
 
 **Draft PR:** [#205](https://github.com/FND-Education-Project/FND-Education/pull/205) · **Branch:** `editorial/module-09-lesson-27-handoff-20261108` · **Review baseline:** read the **current PR head** when beginning each audit; the authoring-completion commit is `be4b230ff50fe75b8139802cf6200a965728ccd1`. Subsequent commits align status metadata, overview, syllabus and this audit handoff; do not assume that the authoring-completion commit is the final audit head.
 
@@ -19,6 +19,43 @@ The curriculum remains **three lessons**, Module 9, after Module 8 and before Mo
 **Narrative anchors not to erase:** Natalie has severe FND, lives alone, and Leah is a friend who visits occasionally. The Daniel/Priya and Amira/Jess pairs are fictional teaching cases, not trial participants. Supporter 27 shows improvement without a performance test; Supporter 28 shows the whole-appointment and delayed recovery cost alongside slow progress; Supporter 29 shows hope without treatment pressure, with distinct pairs and a light touch on the evidence. Person sections preserve the defined concepts, examples, varied symptoms, studies and three end-of-lesson reflections. Clinician sections preserve case-based reasoning, distinguish performance from learning, consider total care burden and appraise whether research actually tests the advertised intervention. Prefer **family doctor**, not GP, in the authored clinician sections. Neuroplastic learning should be understandable by Supporters without claiming a cure or that every useful aid proves neurological recovery.
 
 **What is *not* complete:** editorial Audit 1; Work source/clinical-accuracy and technical audit; independent clinical review; full assistive-technology/device acceptance; final publication-readiness assessment; owner merge decision. The PR should remain draft until the project lead decides otherwise.
+
+## Pre-Audit 1 resource integration and illustration choices (November 11, 2026)
+
+**Scope:** Asset integration only, performed **before** editorial Chat Audit 1. All nine approved audience sections retain their human-authored prose; neither the Chat editorial audit nor Work evidence/clinical audit has begun. The project lead will supply a separate Audit 1 prompt.
+
+**Completed and committed in draft PR #205:**
+- Four uploaded crossword sets (Lesson 27, Lesson 28, Lesson 29 and Module 9 review) each have Easy, Normal and Answer key PDF files plus original layout `*-sources.json` files. Four **new SVG crossword grid thumbnails** were generated directly from those layout coordinates, without substituting invented grids.
+- All three Person sections link a thumbnail, the three printable crossword versions (new tab), and a colouring thumbnail linked to its existing printable PDF (new tab). No approved narrative paragraphs, source tables or research Figure designations were rewritten.
+- The module overview contains the Module 9 review crossword. `assets/puzzles/catalog.json` registers **seven Module 9 entries** (four crosswords, three colouring books); the `assets/puzzles/README.md` fallback index exposes corresponding cards and links.
+- A repository path and source-file check found **no missing asset targets among the 22 new Module 9 puzzle paths**, and all three lessons still contain the three Person reflection prompts. These are repository-structure checks, not a live site or PDF-content render test.
+
+**Three original uploaded colour illustrations are present** under `assets/images/lesson-27-illustration.png`, `lesson-28-illustration.png`, and `lesson-29-illustration.png`. They are **not yet embedded**, because the owner asked for two caption/alt-text choices per illustration before authorizing insertion. The GitHub connector confirms the files but does **not provide visually inspectable binary image content**; all proposals below are based on the owner's original approved concept descriptions. Work should check final alt text against rendered files; any mismatch must be resolved with owner approval.
+
+### Lesson 27 — How Rehabilitation Uses Learning (three brain minions and neuron-router connections)
+
+**Suggested placement:** After the explanation of changes during learning in “What actually changes when we learn?”, before “How can we recognize learning?”. The visual metaphor contrasts connections active, being made and not currently connected for different kinds of learned abilities.
+
+- **Option A (suggested):** Caption: “Learning can change how nervous-system networks work together, one experience at a time.” Alt: “Three little brain minions manage cables between neurons and a central router. One connection is plugged in, another is being made and one is unplugged; small pictures suggest mathematics, arm movement and reaching for a basketball.”
+- **Option B:** Caption: “Skills develop differently: some connections are familiar, while others may still be developing.” Alt: “In a cartoon neuron network, three brain minions stand beside a router with their neuron cables at different stages of connection, near pictures of thinking, moving an arm and anticipating a basketball.”
+
+### Lesson 28 — Choosing Practice That Fits Your Life (established skill and emerging transfer)
+
+**Suggested placement:** After the Person section “What does benefiting from rehabilitation feel like?”, before “Your experience is part of rehabilitation”.
+
+- **Option A (suggested):** Caption: “An ability that becomes easier in therapy may open an opportunity to practise something useful at home.” Alt: “A larger brain minion has a strong cable and a neural picture showing a hand pushing a card into an envelope. A smaller minion beside it has a thinner connection and a picture showing a hand placing a book onto a shelf.”
+- **Option B:** Caption: “Learning in one setting is a beginning; using a skill somewhere new may take more time and practice.” Alt: “Two differently sized cartoon brain minions stand by their neuron connections. The larger one shows an established card-into-envelope task, while the smaller one shows an emerging book-on-shelf task.”
+
+### Lesson 29 — When Someone Promises to Rewire Your Brain (dream of perfection versus real progress)
+
+**Suggested placement:** After “Have scientists actually seen the brain change?”, before “More confident questions”. It contrasts a sweeping `rewiring` promise with individually meaningful learning and still-developing evidence.
+
+- **Option A (suggested):** Caption: “Neuroplastic learning is real, but recovery isn't the perfectly rewired system a dramatic promise might suggest.” Alt: “Two bordered comic panels contrast a girl's dream of three identical minions coordinating tidy neuron cables with a reality scene showing varied minions, a puzzled researcher and the girl smiling as she puts a book on a shelf.”
+- **Option B:** Caption: “Real progress can be smaller than the dream of perfect rewiring—and still matter in everyday life.” Alt: “On the left, a girl dreams of identical brain minions and perfectly organized neuron connections. On the right, she looks tired but smiles while shelving a book; varied minions and an uncertain researcher occupy the less orderly brain scene.”
+
+**Owner action pending:** Select **A or B for each of Lessons 27, 28, 29**, or give edits; insert the original uploaded colour artwork with only approved caption and alt text at the suggested places. The image artwork should have no written labels or unnecessarily intricate elements; the user's final Lesson 29 concept requires clear borders around both panels, the dreaming figure on the left and the tired smiling book-shelving figure on the right, not the reverse. Captions and alt text will be accessibility-checked against the actual image before publication.
+
+**Not completed or certified:** Chat Audit 1; original papers and community quotation verification; final citation/Figure reconciliation; actual PDF content, external link accessibility, mobile/desktop rendering, screen-reader acceptance, exact-final-head CI, independent clinical review, publication readiness or project-lead merge decision.
 
 ## Audit sequence and division of responsibility
 
