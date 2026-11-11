@@ -141,6 +141,14 @@ But everyone received the therapy, so researchers couldn't be sure what caused t
 
 Natalie can now distinguish between a believable explanation and proof that a treatment helps.
 
+<figure class="image-60center" markdown="1">
+
+![On the left, a girl dreams of identical brain minions and perfectly organized neuron connections. On the right, she looks tired but smiles while shelving a book; varied minions and an uncertain researcher occupy the less orderly brain scene.](../../assets/images/lesson-29-illustration.png)
+
+<figcaption>Real progress can be smaller than the dream of perfect rewiring—and still matter in everyday life.</figcaption>
+
+</figure>
+
 ### More confident questions
 
 Natalie goes back to the website she found earlier. She still hopes the treatment might help, and she recognizes the neurological ideas behind it.
