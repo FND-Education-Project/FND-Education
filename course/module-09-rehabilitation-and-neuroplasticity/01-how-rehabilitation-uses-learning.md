@@ -54,6 +54,14 @@ And neuroplasticity isn't limited to learning movements. Experience can influenc
 
 These are processes we've already explored. Now let's see how learning might help them change.
 
+<figure class="image-60center" markdown="1">
+
+![Three little brain minions manage cables between neurons and a central router. One connection is plugged in, another is being made and one is unplugged; small pictures suggest mathematics, arm movement and reaching for a basketball.](../../assets/images/lesson-27-illustration.png)
+
+<figcaption>Learning can change how nervous-system networks work together, one experience at a time.</figcaption>
+
+</figure>
+
 ### How can we recognize learning?
 
 Suppose Natalie's first shopping trip became easier because Leah sat beside her and pointed out the buttons. That helped Natalie complete the order.
