@@ -30,6 +30,8 @@ As you read, look for what makes an activity more demanding, what might make it 
 
 You'll find more than one process at work in our stories. See how many you recognize. Also consider what we **can't** know from the information we've been given.
 
+Your own symptoms may make some of these decisions easier or more difficult. Notice how your experiences might change the choices you would make.
+
 After each story, we'll look at what you might have discovered.
 
 ### Story 1 — Natalie's unexpectedly busy morning
@@ -39,6 +41,8 @@ Natalie has two things she wants to accomplish before lunch. She needs to speak 
 She's arranged things so she can manage both. Her tablet is nearby, her prescription information is written on a note, and she's chosen a comfortable place to sit. The curtains are partly closed because her migraine is particularly troublesome today.
 
 There's also a bowl of oatmeal on the small table beside her chair. She made it before sitting down.
+
+**Your turn:** Natalie has a migraine, her breakfast is ready, and the groceries aren't expected until noon. Would you eat first or make the pharmacy call? What might influence your decision?
 
 The groceries aren't due until noon, so she decides to call the pharmacy first.
 
@@ -57,6 +61,8 @@ The groceries have arrived nearly two hours early.
 The pharmacist is still talking. Natalie tries to hold on to what they're asking while looking for the button that opens the entrance door.
 
 The buzzer sounds again.
+
+**Your turn again:** Natalie is trying to follow the pharmacist's instructions while someone waits at the entrance. What would you do first? What might become more difficult because of that choice?
 
 Natalie explains that she needs a moment. The pharmacist agrees to call her back, and Natalie turns her attention to the delivery.
 
@@ -170,6 +176,8 @@ Then Alex notices the time.
 
 The photographs need to be sent before the print shop's deadline.
 
+**Your turn:** Jamie is enjoying the photographs, but there's still work to finish before the deadline. If you were Jamie, how would you decide what to do next? What might make that decision difficult?
+
 "Have you chosen the eight we're using?" she asks. "And did you tell your brother we're getting them printed? We also need to finish the captions."
 
 Jamie looks toward the photographs.
@@ -199,6 +207,8 @@ Alex looks surprised.
 "I'm trying to help. We've got a deadline."
 
 "I know," Jamie says. "But I can't keep all those questions in my head."
+
+**Your turn again:** Jamie has lost his place, Alex is worried about the deadline, and the room has become noisy. What could they change to make the activity easier? Would you change the surroundings, the task, or both?
 
 For a moment, neither says anything.
 
