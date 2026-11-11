@@ -255,6 +255,27 @@ You could describe what happened without needing to explain why.
 
 In Lesson 29, we'll examine what treatment studies have found about different FND symptoms and how to judge claims about recovery and neuroplasticity.
 
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-28" aria-label="Browse Lesson 28 crossword"><img src="{{ '/assets/puzzles/thumbnails/choosing-practice-that-fits-your-life-m9-28-normal.svg' | relative_url }}" alt="Preview of the Lesson 28 crossword grid" loading="lazy" decoding="async"><span>Choosing Practice That Fits Your Life</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 28 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-9-Lesson-28/choosing-practice-that-fits-your-life-m9-28-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-9-Lesson-28/choosing-practice-that-fits-your-life-m9-28-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-9-Lesson-28/choosing-practice-that-fits-your-life-m9-28-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-28-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-28-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 28 colouring-book illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-28-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 28 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-28">browse the colouring collection</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
