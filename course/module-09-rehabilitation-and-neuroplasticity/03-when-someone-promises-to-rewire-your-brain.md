@@ -179,7 +179,7 @@ Natalie's two questions are simple:
 
 ### Something to think about
 
-Think of a connection you've noticed between one of your symptoms and a neurological process you've learned about. What kind of treatment might researchers want to investigate because of that connection?
+Imagine a treatment advert that names a brain process you recognize. What would you ask to find out whether the treatment—not just its explanation—has helped people?
 
 ### How might that feel?
 
