@@ -1,10 +1,10 @@
 # What Uses Your Available Capacity?
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section is a human-authored review draft committed November 12, 2026, pending project-lead approval and quotation verification. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section was human-authored and approved by the project lead on November 12, 2026; supporter quotation sourcing and evidence verification remain pending. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
 
 Lesson 30 examines how interruptions, competing demands and changing circumstances affect what a person can manage.
 
-*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter review draft committed November 12, 2026; approval pending.*
+*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section approved November 12, 2026; quotation sourcing pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -360,11 +360,9 @@ With the immediate needs covered, they spent much of the afternoon resting toget
 
 ### What does the evidence tell us?
 
-FND occupational-therapy consensus recommendations emphasize understanding activities in their everyday context, including the demands of household routines, environmental conditions and available support. Nicholson and colleagues (2020) provide a clinical foundation for considering how ordinary tasks interact rather than evaluating each activity separately. ([1](#citation-1))
+Occupational therapists working with people with FND look beyond whether someone can complete a particular task. They also consider everyday routines, surroundings and the help available. All of these can affect what a person manages. ([1](#citation-1))
 
-An Australian survey of people with FND and carers also documented the effects that disability and caring responsibilities can have on supporters' wellbeing. The survey was self-selected, so its findings cannot tell us how frequently these difficulties occur across all households. [Experiences of Functional Neurological Disorder — Summary Report (2019)](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf).
-
-*Community voice: A suitable first-person supporter quotation about shifting household responsibilities is being sought for this lesson. The research handoff requests one rather than inserting an unrelated quotation.*
+Supporters are part of that picture, too. Their experiences show that caring responsibilities can affect their own health and wellbeing, especially when a household is already managing illness and disability. ([Australian FND carer report](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf))
 
 ### Better recognition of shared demands
 
@@ -689,4 +687,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-7"></a>**[7]** | — | Pick et al. **Case-control study of cognitive performance in functional seizures and functional motor symptoms.** *Psychological Medicine*. 2026. [Original](https://doi.org/10.1017/S0033291726103420) · [FND-CIT-0326](../../research/citation-index.md#fnd-cit-0326). |
 | <a id="citation-8"></a>**[8]** | — | Wieling et al. **Clinical review of orthostatic hypotension.** *Lancet Neurology*. 2022. [Original](https://doi.org/10.1016/S1474-4422(22)00169-7) · [FND-CIT-0333](../../research/citation-index.md#fnd-cit-0333). |
 
-*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter project-lead approval and quotation verification, clinician original-source verification and citation reconciliation, subsequent lesson audits and independent clinical review remain pending.*
+*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter quotation sourcing and evidence verification, clinician original-source verification and citation reconciliation, subsequent lesson audits and independent clinical review remain pending.*
