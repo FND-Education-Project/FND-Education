@@ -1,10 +1,10 @@
 # Balancing Practice, Rest, and Everyday Life
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. Supporter and Clinician sections remain unapproved generated drafts; evidence verification, lesson audits and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section remains an unapproved generated draft. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
 
 Lesson 32 examines treatment benefits and burdens alongside adaptation, rest and meaningful everyday participation.
 
-*Person section editorially approved: November 11, 2026. Other sections last reviewed October 26, 2026.*
+*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section last reviewed October 26, 2026.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -412,33 +412,66 @@ Together, choose one part of the current plan to **keep, modify, pause or ask th
 
 ## For Clinicians and the Care Team
 
-### Treat the person's week, not the therapy session alone
+### From understanding capacity to choosing treatment
 
-A treatment session may appear tolerable when considered in isolation but become unsustainable when the person also travels, cooks, manages medicines, cares for others or recovers from prior episodes. Ask about the whole day and delayed effects. Participation and quality of life are independent goals; a technically improved performance that makes an ordinary week unmanageable is not a complete rehabilitation success.
+Throughout this module, we've examined how different demands affect functioning, why abilities can fluctuate and how later symptom changes may alter rehabilitation decisions.
 
-**OT** may map the sequence of daily activities and available supports. **PT** reviews the dose, movement strategy, safety and functional transfer. **SLT** adjusts session communication or swallowing/voice task demands as relevant. **Psychology/neuropsychology** can help people and families make realistic decisions without making every setback a behavioural failure. **Neurology/primary care** provide ongoing medical reassessment when symptoms change.
+Those principles inform clinical judgment, but they do not establish which intervention is appropriate for a particular FND presentation.
 
-### Work through a review with the person
+**FND is a diagnosis with multiple symptom presentations, not a single rehabilitation protocol.** Treatment selection requires consideration of the specific symptoms, relevant positive diagnostic findings, coexisting conditions, available evidence and the person's functional goals.
 
-A concise shared review has five questions:
+The next task is to connect what you've learned about available capacity with the guidance appropriate to the symptom being treated.
 
-1. **What matters now?** The person may value independent meals, visiting a friend, safer transport or shorter recovery from a familiar episode more than one specific test score.
-2. **What did the plan actually change?** Compare function, symptom impact, equipment need, falls/injuries, confidence and support burden, not only exercise repetitions.
-3. **What did it cost?** Discuss immediate and next-day pain, fatigue, cognitive fog, migraine or post-event problems. Keep PEM and other medical conditions on the assessment pathway when relevant.
-4. **What needs adjusting?** Consider timing, task simplification, environment, accessible transport, less frequent sessions, clinical referral or stopping an ineffective component.
-5. **Who will review it?** Specify the owner and a meaningful interval or change trigger, including urgent-care boundaries from Module 5.
+### Different symptoms, different treatment evidence
 
-### Recovery does not invalidate continuing disability support
+Functional motor symptoms, functional seizures, communication difficulties and functional visual symptoms do not share an interchangeable treatment programme.
 
-A person can make meaningful gains and still need a wheelchair, written reminders, sensory protection, communication alternatives or assistance with some activities. The ethical risk of withdrawing access before an alternative is reliable belongs in treatment planning. A lack of improvement should prompt reassessment of goals, fit, complications, evidence and resources—not blame or automatic discharge.
+For example, physiotherapy approaches for functional gait disorder may emphasize movement retraining, external focus and functional practice. These recommendations have a different evidence base from psychological interventions studied for functional seizures or speech-language interventions for functional voice disorders.
 
-Consider a person who manages a supported therapy task but needs several days to recover. The team should not infer everyday independence from the isolated task or automatically intensify practice. It should establish what the session adds to or subtracts from the person's life, while preserving appropriate assessment of any new medical changes.
+The distinction matters when interpreting treatment research. A trial demonstrating improvement in functional motor symptoms does not establish that the same intervention is effective for functional seizures. Likewise, evidence supporting treatment of functional dysphonia cannot automatically be extended to functional language difficulties.
 
-### Close the module with a shared skill
+Even within a symptom category, the specific presentation matters. An intervention appropriate for intermittent functional tremor may be unsuitable for fixed functional posturing or profound weakness.
 
-Model one conversation in which the patient and clinicians jointly choose **keep, modify, replace or discontinue** a component and document why. A plan that is respectful, safe, clinically defensible and usable is a valuable outcome even when the person continues to have substantial symptoms. (*citations* [1](#citation-1), [3](#citation-3))
+Clinical recommendations should therefore distinguish between interventions supported by comparative research, those based primarily on professional consensus and approaches supported only by preliminary evidence. Evidence for a complete rehabilitation programme should not be presented as proof that every component works independently.
 
-**Evidence boundary:** Patient-centred task and environmental adaptation are grounded in OT consensus [1](#citation-1). Physio4FMD shows the importance of interpreting clinical and functional outcomes separately [2](#citation-2). PEM-related safeguards require condition-specific guidance [3](#citation-3); none establishes a universal rest-to-practice ratio.
+### Where to find presentation-specific guidance
+
+Our Reference Library brings together several resources for selecting and evaluating care:
+
+- **[Diagnostic Techniques](../../reference/diagnostic-signs/README.md)** — positive diagnostic findings, differential assessment and limitations for individual symptom presentations.
+- **[Recovery and Management Technique Index](../../reference/recovery-techniques/technique-index.md)** — rehabilitation and management approaches organized by symptom, with evidence classifications and links to detailed pages.
+- **[Recovery Techniques Collection Guide](../../reference/recovery-techniques/collection-guide.md)** — how to interpret evidence labels, assess treatment relevance and recognize the limits of individual techniques.
+- **[Common Co-occurring Conditions](../../reference/co-occurring-conditions/README.md)** — information on migraine, pain, fatigue, sleep, autonomic symptoms and other conditions that may require parallel assessment and treatment.
+
+These resources provide an organized starting point, not a substitute for professional guidance or specialist assessment. The Reference Library's individual technique pages remain working drafts undergoing clinical review. Clinicians should consult the linked original studies and guidelines when making treatment decisions.
+
+### Applying the evidence to an individual
+
+The evidence supporting an intervention and its suitability for a particular patient are related but separate questions.
+
+A biopsychosocial approach helps clinicians understand how different influences interact in an individual's functioning and rehabilitation. It provides a framework for considering the whole clinical picture without assuming that every influence has equal importance or that one explanation accounts for all symptoms.
+
+> **Biopsychosocial approach:** A framework for understanding health through the interaction of biological factors (such as neurological conditions and physical health), psychological factors (such as attention, emotions and learned responses), and social factors (such as relationships, environment and access to care). It does not mean that FND symptoms are imagined or necessarily caused by psychological factors.
+
+For instance, motor retraining may be appropriate for an assessed functional movement presentation, yet persistent pain, joint disease, significant sensory sensitivity or suspected post-exertional malaise may influence how rehabilitation can safely proceed.
+
+Similarly, treatment directed toward functional seizures does not replace appropriate evaluation and treatment of coexisting epilepsy. Communication rehabilitation must account for the specific speech, voice or language presentation, while visual rehabilitation requires appropriate ophthalmological assessment and consideration of other visual disorders.
+
+These distinctions influence professional responsibilities. Neurology, physiotherapy, occupational therapy, speech-language pathology, psychology and other specialties contribute different expertise. When findings extend beyond the treating clinician's scope, appropriate medical assessment or referral becomes part of the rehabilitation plan.
+
+The objective is not to combine every available intervention. It is to select a clinically justified approach, establish meaningful outcomes, consider the demands treatment places on the patient and review whether the intervention remains appropriate.
+
+### Bringing the module together
+
+Available capacity helps explain why an activity or treatment may be manageable under one set of circumstances but difficult under another. Symptom-specific evidence helps determine what treatment should aim to accomplish and which methods are appropriate.
+
+Neither provides every answer independently.
+
+The clinician's responsibility is to bring these sources of information together: the diagnosed presentation, treatment evidence, coexisting conditions, the person's circumstances and their own priorities.
+
+**A sound rehabilitation decision is not simply choosing an intervention that has helped people with FND. It is choosing an intervention supported for the relevant presentation, making it accessible and appropriate for this patient, and evaluating whether it produces a benefit that matters to them.**
+
+That is where the principles of this module become practical clinical care.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -459,4 +492,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-3"></a>**[3]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
 | <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0320](../../research/citation-index.md#fnd-cit-0320). |
 
-*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter and Clinician authoring, original-source verification, subsequent lesson audits and independent clinical review remain pending.*
+*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter authoring, Clinician original-source verification, subsequent lesson audits and independent clinical review remain pending.*
