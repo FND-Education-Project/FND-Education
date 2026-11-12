@@ -6,7 +6,7 @@
 
 ## Work audit findings — November 11, 2026
 
-The [Work evidence/quotation/technical report](module-09-work-audit-2026-11-11.md) records original-source checks, exact minimal correction proposals and source-access limits. Substantive prose/quotation decisions are awaiting the project lead; approved prose is unchanged. Routine browser coverage has been extended to the full module. The module is **not yet mergeable** pending those decisions, citation reconciliation and final validation. Independent clinical review remains pending.
+The [Work evidence/quotation/technical report](module-09-work-audit-2026-11-11.md) now records the owner's decisions and implementation on November 12, 2026. **Accepted: R4, R6–R8, W3. Declined: R1–R3, W1–W2. R5: retain excerpts and state their unavailability during verification.** Accepted changes and citation/index/status repairs are complete. Declined prose and all quotation wording are preserved; source notes document the actual evidence and access limits. Recommendation: **Mergeable with documented follow-ups**, conditional on passing implementation-head CI, recorded with the exact SHA in PR #205. Independent clinical review and full assistive-technology acceptance remain pending. This update supersedes earlier pending-work status below; historical instructions and provenance remain for context.
 
 ## Source of truth and approved boundaries
 

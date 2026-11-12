@@ -1,6 +1,6 @@
 # When Someone Promises to Rewire Your Brain
 
-> **Working draft:** All three audience sections are human authored and project-lead approved November 10, 2026. Original-source and citation checks, editorial and Work audits, independent clinical review and publication decision remain pending.
+> **Working draft:** All three audience sections are human authored and project-lead approved November 10, 2026. Chat Audit 1 and Work evidence/citation review completed; accepted corrections applied November 12, 2026. Source-access limits and owner-retained findings are recorded in the audit. Independent clinical review and publication decision remain pending.
 
 Lesson 29 compares what treatments have achieved across symptoms with what proposed brain-learning mechanisms can explain.
 
@@ -61,9 +61,9 @@ But when people were asked about their movement symptoms, the results were diffe
 | Specialist FND physiotherapy | **59%** |
 | Regular neurological physiotherapy | **38%** |
 
-More people receiving specialist physiotherapy reported that their movement symptoms had improved. [1](#citation-1)
+More people receiving specialist physiotherapy reported that their movement symptoms had improved. (*citations* [1](#citation-1))
 
-A smaller study also found that people receiving both physiotherapy and talking therapy had better physical health after five months than people receiving psychological support alone. [2](#citation-2)
+A smaller study also found that people receiving both physiotherapy and talking therapy had better physical health after five months than people receiving psychological support alone. (*citations* [2](#citation-2))
 
 So there are reasons to be hopeful about movement rehabilitation, although researchers are still learning which approaches help most.
 
@@ -71,23 +71,23 @@ So there are reasons to be hopeful about movement rehabilitation, although resea
 
 A large study called **CODES** compared medical care alone with medical care plus talking therapy designed for functional seizures.
 
-After a year, the extra therapy hadn't clearly reduced how often people had seizures. However, people receiving it reported improvements in some other parts of life, including work and social activities. [3](#citation-3)
+After a year, the extra therapy hadn't clearly reduced seizure frequency more than medical care alone. However, people receiving it reported improvements in some other parts of life, including work and social activities. (*citations* [3](#citation-3))
 
-Another study, called **ReACT**, tested a different treatment in children and teenagers.
+Another study, called **[ReACT](../../reference/recovery-techniques/functional_seizures/06-react-for-children-and-adolescents.md)**, tested a different treatment in children and teenagers.
 
-All 17 young people checked in the treatment group reported no seizures during the seven days researchers measured after treatment. [4](#citation-4)
+All 17 young people checked in the treatment group reported no seizures during the seven days researchers measured after treatment. (*citations* [4](#citation-4))
 
 That sounds remarkable, but seven seizure-free days mean different things to someone who usually has several seizures a day and someone who has only one or two a month.
 
 The results were encouraging, especially compared with the other group receiving care. But the study was small, and longer-term results were less certain.
 
-Looking at several studies together, medical experts concluded in 2026 that psychological treatments **may help some people have fewer functional seizures or become seizure-free**. [5](#citation-5)
+Looking at several studies together, medical experts concluded in 2026 that psychological treatments **may help some people have fewer functional seizures or become seizure-free**. (*citations* [5](#citation-5))
 
 Helen, who shared her experience of functional seizures, described a substantial change:
 
 > “I now haven’t had an attack for 4 or 5 months and hardly even think of them very often.”
 
-*Figure 1. Helen describes several months without functional seizures.* [Helen's Story](https://neurosymptoms.org/en/stories/functional-seizures/helens-story/) (*citation* [12](#citation-12))
+*Figure 1. Helen describes several months without functional seizures.* [Helen's Story](https://neurosymptoms.org/en/stories/functional-seizures/helens-story/) (*citations* [12](#citation-12))
 
 Her story involved several kinds of help, so we can't know which contributed most. But it gives us a picture of the recovery some people experience.
 
@@ -95,7 +95,7 @@ Her story involved several kinds of help, so we can't know which contributed mos
 
 You might already recognize how attention and automatic control could affect speaking. But there's also research on whether treatment helps.
 
-In one study, people with functional voice difficulties who received voice therapy reported greater improvement after three months than people who didn't receive it. [6](#citation-6)
+In one study, people with functional voice difficulties who received voice therapy reported greater improvement after three months than people who didn't receive it. (*citations* [6](#citation-6))
 
 That's encouraging for people with similar voice problems. Other difficulties, such as functional stuttering, still need more research.
 
@@ -105,15 +105,15 @@ In a small study, people with functional cognitive disorder tried a six-week onl
 
 Of the 26 people who answered afterward, **16 reported at least some improvement**. Some found the treatment unhelpful or worrying.
 
-Because everyone received the treatment, researchers couldn't be sure how much improvement would have happened without it. [7](#citation-7)
+Because everyone received the treatment, researchers couldn't be sure how much improvement would have happened without it. (*citations* [7](#citation-7))
 
-Another small study compared two treatments for cognitive difficulties after concussion. Both groups felt more satisfied with their memory, although that doesn't necessarily mean their memory improved on tests. [8](#citation-8)
+Another small study compared two treatments for cognitive difficulties after concussion. Both groups felt more satisfied with their memory, although that doesn't necessarily mean their memory improved on tests. (*citations* [8](#citation-8))
 
 One participant in the online treatment described a benefit:
 
 > “It helped me realise that just because I forget things some days it doesn’t mean I will always forget.”
 
-*Figure 2. A participant describes what they learned about their memory difficulties.* [Original study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12241858/#T4) (*citation* [13](#citation-13))
+*Figure 2. A participant describes what they learned about their memory difficulties.* [Original study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12241858/#T4) (*citations* [7](#citation-7))
 
 Researchers are still learning how best to help people regain cognitive abilities. Meanwhile, understanding and managing difficulties can also make everyday life easier.
 
@@ -123,9 +123,9 @@ Some symptoms haven't been studied nearly as much.
 
 In one study, **28 of 33 children** with diagnosed functional visual loss regained their measured eyesight during a short course of treatment.
 
-That was encouraging, but everyone received the treatment. Researchers couldn't tell how much recovery might have happened without it. [9](#citation-9)
+That was encouraging, but everyone received the treatment. Researchers couldn't tell how much recovery might have happened without it. (*citations* [9](#citation-9))
 
-Scientists still need more studies before they can confidently recommend particular treatments for functional visual loss. [10](#citation-10)
+Scientists still need more studies before they can confidently recommend particular treatments for functional visual loss. (*citations* [10](#citation-10))
 
 This research concerns a particular diagnosed visual problem. It doesn't automatically apply to Natalie's light sensitivity from migraine, or every visual symptom someone with FND might experience.
 
@@ -133,7 +133,7 @@ This research concerns a particular diagnosed visual problem. It doesn't automat
 
 Now Natalie returns to that word: *rewiring*.
 
-In one small study, 15 adults with functional tremor received talking therapy. After twelve weeks, **11 had little or no tremor**. Researchers also saw changes in brain activity during a scan. [11](#citation-11)
+In one small study, 15 adults with functional tremor received talking therapy. After twelve weeks, **11 had little or no tremor**. Researchers also saw changes in brain activity during a scan. (*citations* [11](#citation-11))
 
 But everyone received the therapy, so researchers couldn't be sure what caused the improvements. And the scan didn't show nerve cells being rewired or prove that the brain changes caused the recovery.
 
@@ -163,7 +163,7 @@ A community member expressed frustration with exaggerated promises:
 
 > “I do mind the near guarantee of a cure and when it doesn't work they blame you”
 
-*Figure 3. A community member objects to promises of a cure followed by blame.* [Original community discussion](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/) (*citation* [14](#citation-14))
+*Figure 3. A community member objects to promises of a cure followed by blame.* [Original community discussion](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/) (*citations* [13](#citation-13))
 
 Natalie doesn't need to become a scientist. She can recognize why a treatment might help and ask whether researchers have shown that it does.
 
@@ -228,7 +228,7 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 <!-- Supporter section human-authored and approved November 10, 2026.
 Two-pair story with a distinct treatment-pressure case and repeated unsolicited
-recommendations case. Original-source verification and independent clinical review pending. -->
+recommendations case. Work review completed with documented findings; independent clinical review pending. -->
 
 ### A promising discovery
 
@@ -294,7 +294,7 @@ Daniel understands. He misses it too.
 
 They look at the website again, this time without trying to reach an immediate decision.
 
-One research link leads to a study of specialist physiotherapy for functional movement disorders. The study reported encouraging improvements for some participants, although the findings were mixed across different measures. [1](#citation-1)
+One research link leads to a study of specialist physiotherapy for functional movement disorders. The study reported encouraging improvements for some participants, although the findings were mixed across different measures. (*citations* [1](#citation-1))
 
 But the study didn't test the private programme being advertised.
 
@@ -425,7 +425,7 @@ For Natalie, it means she can explore possibilities while still enjoying time wi
 ## For Clinicians and the Care Team
 
 <!-- Clinician section human-authored and approved November 10, 2026.
-Original-source verification and independent clinical review remain pending. -->
+Work review completed with documented findings; independent clinical review pending. -->
 
 ### When the research sounds convincing
 
@@ -449,7 +449,7 @@ The figure Natalie found comes from a large study comparing specialist FND physi
 
 After twelve months, 59% of people receiving specialist treatment reported improvement in movement symptoms, compared with 38% receiving the other physiotherapy.
 
-However, the study didn't find a clear advantage for specialist treatment in its main measurement of overall physical functioning. [1](#citation-1)
+However, the study didn't find a clear advantage for specialist treatment in its main measurement of overall physical functioning. (*citations* [1](#citation-1))
 
 Both results matter.
 
@@ -501,9 +501,9 @@ The physiotherapy study involved functional movement disorders. It doesn't estab
 
 Research into functional seizures follows a different path.
 
-For example, the large CODES trial compared medical care alone with medical care plus seizure-focused talking therapy. The additional therapy did not clearly reduce seizure frequency after twelve months, although some other outcomes improved. [3](#citation-3)
+For example, the large CODES trial compared medical care alone with medical care plus seizure-focused talking therapy. The additional therapy did not clearly reduce seizure frequency more than medical care alone after twelve months, although some other outcomes improved. (*citations* [3](#citation-3))
 
-The wider research considered in the 2026 American Academy of Neurology guideline suggests that psychological interventions may improve seizure frequency and the chance of becoming seizure-free. [5](#citation-5)
+The wider research considered in the 2026 American Academy of Neurology guideline suggests that psychological interventions may improve seizure frequency and the chance of becoming seizure-free. (*citations* [5](#citation-5))
 
 Those findings offer reasons to investigate particular seizure treatments.
 
@@ -587,20 +587,18 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Nielsen G, Stone J, Lee TC, et al. *Specialist physiotherapy for functional motor disorder (Physio4FMD)*. Lancet Neurol. 2024;23:675–686. [Original](https://pubmed.ncbi.nlm.nih.gov/38768621/). [FND-CIT-0029](../../research/citation-index.md#fnd-cit-0029). |
-| <a id="citation-2"></a>**[2]** | — | Macías-García D et al. *Combined physiotherapy and cognitive behavioral therapy for functional movement disorders: a randomized clinical trial*. JAMA Neurol. 2024. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC11385055/). Stable index-ID check pending. |
-| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al. *Cognitive behavioural therapy for adults with dissociative seizures (CODES)*. Lancet Psychiatry. 2020;7:491–505. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7242906/). [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). |
-| <a id="citation-4"></a>**[4]** | — | Fobian AD, Long DM, Szaflarski JP. *Retraining and Control Therapy (ReACT) in pediatric functional seizures*. 2020. [Original](https://doi.org/10.1002/acn3.51138). Stable index-ID check pending. |
-| <a id="citation-5"></a>**[5]** | — | Tolchin B, Goldstein LH, Reuber M, et al. *Management of functional seizures practice guideline executive summary*. Neurology. 2026;106:e214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466). [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
-| <a id="citation-6"></a>**[6]** | — | Ohlsson et al. Randomized treatment study of functional voice disorders (individual and group voice therapy). 2020. [Original abstract](https://pubmed.ncbi.nlm.nih.gov/30344071/). Full citation and stable index-ID check pending. |
-| <a id="citation-7"></a>**[7]** | — | Cabreira et al. Digital rehabilitation feasibility study for functional cognitive disorder. 2025. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC12241858/). Full citation and stable index-ID check pending. |
-| <a id="citation-8"></a>**[8]** | — | Rioux et al. Feasibility study comparing CBT and cognitive rehabilitation for functional cognitive difficulties after concussion. 2024. [Original](https://doi.org/10.1136/bmjno-2024-000666). Full citation and stable index-ID check pending. |
-| <a id="citation-9"></a>**[9]** | — | Abe and Suzuki. Suggestion-based treatment for assessed functional visual loss in children. 2000. [Original](https://doi.org/10.1177/1359104500005002009). Full citation and stable index-ID check pending. |
-| <a id="citation-10"></a>**[10]** | — | Ramsay et al. Review of treatment research for functional visual loss. 2026. [Original](https://doi.org/10.1038/s41433-026-04648-1). Full citation and stable index-ID check pending. |
-| <a id="citation-11"></a>**[11]** | — | Espay et al. Functional tremor outcomes and brain activity following CBT. 2019. [Original and errata](https://pubmed.ncbi.nlm.nih.gov/31586023/). Full citation and stable index-ID check pending. |
-| <a id="citation-12"></a>**[12]** | Figure 1 | Helen's first-person account of functional seizures. [Original](https://neurosymptoms.org/en/stories/functional-seizures/helens-story/). Exact excerpt and context checked in the internal November 8 research handoff; fresh publication verification pending. |
-| <a id="citation-13"></a>**[13]** | Figure 2 | Anonymous participant quotation from Cabreira et al., 2025, Table 4. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC12241858/#T4). Quotation/speaker check pending publication audit. |
-| <a id="citation-14"></a>**[14]** | Figure 3 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/). Earlier wording and context checked October 26, 2026; fresh verification pending. [FND-CIT-0319](../../research/citation-index.md#fnd-cit-0319). |
-| <a id="citation-15"></a>**[15]** | Figure 4 (Supporter draft) | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). Earlier wording and context checked October 26, 2026. [FND-CIT-0320](../../research/citation-index.md#fnd-cit-0320). |
+| <a id="citation-1"></a>**[1]** | — | Nielsen G, Stone J, Lee TC, et al. *Specialist physiotherapy for functional motor disorder (Physio4FMD)*. Lancet Neurol. 2024;23:675–686. [Original](https://pubmed.ncbi.nlm.nih.gov/38768621/). [FND-CIT-0029](../../research/citation-index.md#fnd-cit-0029). doi:10.1016/S1474-4422(24)00135-2. Primary physical-function comparison nonsignificant; subjective motor improvement was a separate outcome. [Original investigators’ full report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12477561/). |
+| <a id="citation-2"></a>**[2]** | — | Macías-García D, Méndez-DelBarrio M, Canal-Rivero M, et al. **Combined physiotherapy and cognitive behavioral therapy for functional movement disorders: a randomized clinical trial.** JAMA Neurol. 2024;81(9):966–976. doi:10.1001/jamaneurol.2024.2393. [Original](https://jamanetwork.com/journals/jamaneurology/fullarticle/2822067). [FND-CIT-0030](../../research/citation-index.md#fnd-cit-0030). 40 adults; 38 completed follow-up. Five-month physical quality-of-life advantage; three-month comparison nonsignificant. Small single-centre study. |
+| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al. *Cognitive behavioural therapy for adults with dissociative seizures (CODES)*. Lancet Psychiatry. 2020;7:491–505. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7242906/). [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). doi:10.1016/S2215-0366(20)30128-0. Primary between-group seizure-frequency result nonsignificant; secondary outcomes were not adjusted for multiple comparisons. |
+| <a id="citation-4"></a>**[4]** | — | Fobian AD, Long DM, Szaflarski JP. **Retraining and control therapy for pediatric psychogenic non-epileptic seizures.** Ann Clin Transl Neurol. 2020;7(8):1410–1419. doi:10.1002/acn3.51138. [Original](https://onlinelibrary.wiley.com/doi/10.1002/acn3.51138). [FND-CIT-0099](../../research/citation-index.md#fnd-cit-0099). Small pilot: 17 ReACT participants assessed at seven days, all seizure-free. No comparable 60-day control outcome; ongoing-seizure controls received further care. |
+| <a id="citation-5"></a>**[5]** | — | Tolchin B, Goldstein LH, Reuber M, et al. *Management of functional seizures practice guideline executive summary*. Neurology. 2026;106:e214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466). [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). doi:10.1212/WNL.0000000000214466. Online December 10, 2025; 2026 issue. Guideline based on 12 Class II–III studies; original abstract checked, full guideline not independently appraised. |
+| <a id="citation-6"></a>**[6]** | — | Ohlsson AC, Dotevall H, Gustavsson I, Hofling K, Wahle U, Österlind C. **Voice Therapy Outcome—A Randomized Clinical Trial Comparing Individual Voice Therapy, Therapy in Group, and Controls Without Therapy.** J Voice. 2020;34(2):303.e17–303.e26. doi:10.1016/j.jvoice.2018.08.023. [Original abstract](https://pubmed.ncbi.nlm.nih.gov/30344071/). [FND-CIT-0342](../../research/citation-index.md#fnd-cit-0342). 77 functional-voice patients: 31 individual, 31 group, 15 controls; three-month assessment, treated groups also followed at twelve months. Voice outcomes do not generalize to every speech symptom. Original abstract checked November 11, 2026; full article unavailable. |
+| <a id="citation-7"></a>**[7]** | Figure 2 | Cabreira V, Frostholm L, Stone J, Carson A. **Feasibility trial of a self-help digital intervention for functional cognitive disorder.** Brain Commun. 2025;7(4):fcaf248. doi:10.1093/braincomms/fcaf248. [Original and Table 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC12241858/). [FND-CIT-0037](../../research/citation-index.md#fnd-cit-0037). Uncontrolled feasibility study: 30 started, 26 responded, 16 reported some cognitive improvement. Figure 2 is an exact anonymous participant quotation checked November 11, 2026; not a representative efficacy estimate. |
+| <a id="citation-8"></a>**[8]** | — | Rioux M, et al. **Pilot feasibility randomised controlled trial of cognitive–behavioural therapy for functional cognitive disorder after concussion.** BMJ Neurol Open. 2024;6(2):e000666. doi:10.1136/bmjno-2024-000666. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC11474702/). [FND-CIT-0343](../../research/citation-index.md#fnd-cit-0343). 24 people with FCD after concussion, 11 CBT/13 cognitive rehabilitation; memory satisfaction improved in both groups, no clear between-group difference and no untreated comparator. Original full text checked November 11, 2026. |
+| <a id="citation-9"></a>**[9]** | — | Abe K, Suzuki T. **Functional Visual Loss in Childhood and Suggestibility.** Clin Child Psychol Psychiatry. 2000;5(2):239–246. doi:10.1177/1359104500005002009. [Original abstract](https://journals.sagepub.com/doi/10.1177/1359104500005002009). [FND-CIT-0344](../../research/citation-index.md#fnd-cit-0344). 59 children described; 28 of 33 treated children recovered visual acuity within four sessions. No untreated comparator; not evidence for migraine photophobia. Original abstract checked November 11, 2026; full methods unavailable. |
+| <a id="citation-10"></a>**[10]** | — | Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. **Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment.** Eye. 2026;40:1784–1793. doi:10.1038/s41433-026-04648-1. [Original abstract](https://www.nature.com/articles/s41433-026-04648-1). [FND-CIT-0103](../../research/citation-index.md#fnd-cit-0103). Limited treatment evidence; original abstract checked November 11, 2026, full review not independently appraised. |
+| <a id="citation-11"></a>**[11]** | — | Espay AJ, Ries S, Maloney T, et al. **Clinical and neural responses to cognitive behavioral therapy for functional tremor.** Neurology. 2019;93(19):e1787–e1798. doi:10.1212/WNL.0000000000008442. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC6946484/). [FND-CIT-0345](../../research/citation-index.md#fnd-cit-0345). 15 adults, twelve weeks CBT, 11 remission/near remission; no untreated functional-tremor comparator. Healthy imaging controls do not establish treatment causation. Full text and author-name/Figure 4 corrections checked November 11, 2026; corrections do not alter the 11/15 outcome. |
+| <a id="citation-12"></a>**[12]** | Figure 1 | Helen. **Helen’s story.** Neurosymptoms. [Original](https://neurosymptoms.org/en/stories/functional-seizures/helens-story/). [FND-CIT-0346](../../research/citation-index.md#fnd-cit-0346). Exact first-person excerpt and original context checked November 11, 2026. Multiple helpful experiences; does not isolate a causal treatment. |
+| <a id="citation-13"></a>**[13]** | Figure 3 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/). [FND-CIT-0319](../../research/citation-index.md#fnd-cit-0319). The original excerpt was no longer available during verification on November 11, 2026. Wording and speaker context could not be independently verified. |
 
-*Authoring status: all three audience sections approved November 10, 2026. Original sources, figure/source mapping, bibliographic details, citation-index reconciliation, lesson audits and independent clinical review remain pending.*
+*Authoring and review status: All three audience sections are human authored and project-lead approved November 10, 2026. Chat Audit 1 and Work evidence/citation review completed; accepted corrections applied November 12, 2026. Source-access limits and owner-retained findings are recorded in the audit. Independent clinical review and publication decision remain pending.*

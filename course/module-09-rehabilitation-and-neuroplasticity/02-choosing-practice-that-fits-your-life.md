@@ -1,6 +1,6 @@
 # Choosing Practice That Fits Your Life
 
-> **Working draft:** All three audience sections are human authored and project-lead approved November 10, 2026. Original-source and citation checks, editorial and Work audits, independent clinical review and publication decision remain pending.
+> **Working draft:** All three audience sections are human authored and project-lead approved November 10, 2026. Chat Audit 1 and Work evidence/citation review completed; accepted corrections applied November 12, 2026. Source-access limits and owner-retained findings are recorded in the audit. Independent clinical review and publication decision remain pending.
 
 Lesson 28 explores what receiving rehabilitation can feel like, from early uncertainty through gradual change, setbacks and different kinds of benefit.
 
@@ -47,7 +47,7 @@ One person with functional tremor described their physiotherapist giving them a 
 
 > "She handed me a rainbow coloured dodgeball and asked me to rotate it ... And the tremors stopped."
 
-*Figure 1. A community member describes a change during physiotherapy for functional tremor.* ([Original community discussion](https://www.reddit.com/r/FND/comments/1pslgkk/there_is_a_light_at_the_end_of_the_tunnel/); *citation* [6](#citation-6))
+*Figure 1. A community member describes a change during physiotherapy for functional tremor.* ([Original community discussion](https://www.reddit.com/r/FND/comments/1pslgkk/there_is_a_light_at_the_end_of_the_tunnel/); *citations* [2](#citation-2))
 
 Imagine struggling with a persistent tremor and suddenly watching it settle while you perform an unfamiliar activity.
 
@@ -73,7 +73,7 @@ One community member described their experience after receiving help from a spee
 
 > "They gave me some tools to help ... I still will have times where it’s difficult to speak, but not as frequently."
 
-*Figure 2. A person describes improvement alongside continuing speech difficulties.* ([Original community discussion](https://www.reddit.com/r/FND/comments/1m1m78h/speaking_feels_like_too_much_effort/); *citation* [7](#citation-7))
+*Figure 2. A person describes improvement alongside continuing speech difficulties.* ([Original community discussion](https://www.reddit.com/r/FND/comments/1m1m78h/speaking_feels_like_too_much_effort/); *citations* [3](#citation-3))
 
 The person still has difficulty speaking sometimes, but it happens less frequently. That could make an enormous difference during everyday conversations.
 
@@ -101,7 +101,7 @@ One person in the FND community described their experience:
 
 > "I worked tirelessly with a speech therapist ... and regained a lot of cognition."
 
-*Figure 3. A community member reports cognitive improvement during therapy.* ([Original community discussion](https://www.reddit.com/r/FND/comments/182yliv/lapse_of_memory_randomly/); *citation* [8](#citation-8))
+*Figure 3. A community member reports cognitive improvement during therapy.* ([Original community discussion](https://www.reddit.com/r/FND/comments/182yliv/lapse_of_memory_randomly/); *citations* [4](#citation-4))
 
 Their account also described a problem.
 
@@ -151,7 +151,7 @@ A community member who received treatment for multiple sensory difficulties desc
 
 > "Treatment at a clinic ... has helped a little, but I’m still extremely sensitive and can crash if I push past my threshold even slightly."
 
-*Figure 4. A person describes modest benefit alongside continuing sensory sensitivity and significant worsening when overwhelmed.* ([Original community discussion](https://www.reddit.com/r/FND/comments/1qjpe0n/extremely_sensitive_nervous_system/); *citation* [9](#citation-9))
+*Figure 4. A person describes modest benefit alongside continuing sensory sensitivity and significant worsening when overwhelmed.* ([Original community discussion](https://www.reddit.com/r/FND/comments/1qjpe0n/extremely_sensitive_nervous_system/); *citations* [5](#citation-5))
 
 Their experience shows how an improvement in one area can exist alongside considerable difficulty tolerating treatment.
 
@@ -179,7 +179,7 @@ In the same discussion, another person reported:
 
 > "In my case PT did not help ... I went for 6 months with no progress."
 
-*Figure 5. Two community members describe very different outcomes after physiotherapy.* ([Original community discussion](https://www.reddit.com/r/FND/comments/18gbf7f/how_did_you_regain_your_ability_to_walk/); *citation* [10](#citation-10))
+*Figure 5. Two community members describe very different outcomes after physiotherapy.* ([Original community discussion](https://www.reddit.com/r/FND/comments/18gbf7f/how_did_you_regain_your_ability_to_walk/); *citations* [6](#citation-6))
 
 The first person eventually regained important abilities. The second didn't experience the progress they had hoped for during six months of treatment.
 
@@ -201,7 +201,7 @@ Her mother wrote:
 
 > "Jenna managed to start to see progress and sometimes setbacks too."
 
-*Figure 6. Jenna's mother describes improvement that included setbacks.* ([Jenna's Story](https://pre-prod.neurosymptoms.org/en_GB/stories/functional-limb-weakness-pain/jennas-story/); *citation* [11](#citation-11))
+*Figure 6. Jenna's mother describes improvement that included setbacks.* ([Jenna's Story](https://neurosymptoms.org/en/stories/functional-limb-weakness-pain/jennas-story/); *citations* [7](#citation-7))
 
 That experience may sound familiar to someone whose abilities change from day to day. A skill might become easier during therapy but remain unreliable during a demanding week. Another ability might improve while a different symptom continues to cause considerable disability.
 
@@ -296,7 +296,7 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 <!-- Supporter section human-authored and approved November 10, 2026. Two-pair
 narrative revised for neuroplastic-learning clarity and paragraph flow.
-Research/source reconciliation and independent clinical review remain pending. -->
+Work review completed with documented findings; independent clinical review pending. -->
 
 ### A very productive Tuesday
 
@@ -400,7 +400,7 @@ He's glad they kept looking for ways to make rehabilitation manageable. Priya is
 
 Their experience illustrates something worth remembering: a long course of rehabilitation may still be valuable, while the demands of receiving that care may need to change along the way.
 
-Professional occupational therapy recommendations recognize the importance of understanding everyday activities and the circumstances in which people carry them out. [2](#citation-2)
+Professional occupational therapy recommendations recognize the importance of understanding everyday activities and the circumstances in which people carry them out. (*citations* [1](#citation-1))
 
 Daniel and Priya have learned why that matters outside the treatment room.
 
@@ -539,7 +539,7 @@ Their evening isn't rehabilitation. It doesn't have to be. There's room for trea
 ## For Clinicians and the Care Team
 
 <!-- Clinician section human-authored and approved November 10, 2026.
-Original-source verification and independent clinical review remain pending. -->
+Work review completed with documented findings; independent clinical review pending. -->
 
 ### When the appointment begins before treatment
 
@@ -631,7 +631,7 @@ Appointment timing, accessible entry and the demands of waiting could also influ
 
 These aren't treatments for FND themselves. They are possible ways to reduce the demands surrounding treatment.
 
-Occupational therapy recommendations support individualized activity analysis and environmental adaptations as part of FND care. They provide a framework for considering these possibilities rather than a fixed approach suitable for everyone. [2](#citation-2)
+Occupational therapy recommendations support individualized activity analysis and environmental adaptations as part of FND care. They provide a framework for considering these possibilities rather than a fixed approach suitable for everyone. (*citations* [1](#citation-1))
 
 There's also a trade-off worth recognizing.
 
@@ -711,17 +711,12 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** JNNP. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
-| <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
-| <a id="citation-3"></a>**[3]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** JNNP. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
-| <a id="citation-4"></a>**[4]** | — (legacy Person draft; source usage pending reconciliation) | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0317](../../research/citation-index.md#fnd-cit-0317). |
-| <a id="citation-5"></a>**[5]** | Figure 7 (Supporter draft) | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1kvcy4a/help_working_out/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0318](../../research/citation-index.md#fnd-cit-0318). |
+| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1pslgkk/there_is_a_light_at_the_end_of_the_tunnel/). [FND-CIT-0337](../../research/citation-index.md#fnd-cit-0337). Figure 1 excerpt and first-person context checked November 11, 2026. The post also describes immediate return of tremor after stopping the ball, further rehabilitation and two symptom-free weeks; no isolated treatment-effect inference. |
+| <a id="citation-3"></a>**[3]** | Figure 2 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1m1m78h/speaking_feels_like_too_much_effort/). [FND-CIT-0338](../../research/citation-index.md#fnd-cit-0338). The original excerpt was no longer available during verification on November 11, 2026. Wording and speaker context could not be independently verified. |
+| <a id="citation-4"></a>**[4]** | Figure 3 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/182yliv/lapse_of_memory_randomly/). [FND-CIT-0339](../../research/citation-index.md#fnd-cit-0339). The original excerpt was no longer available during verification on November 11, 2026. Wording and speaker context could not be independently verified. |
+| <a id="citation-5"></a>**[5]** | Figure 4 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1qjpe0n/extremely_sensitive_nervous_system/). [FND-CIT-0285](../../research/citation-index.md#fnd-cit-0285). Original post checked November 11, 2026: post-concussion symptoms and coexisting conditions; FND diagnosis and clinic intervention unclear. Published excerpt compresses the opening and changes capitalization. Individual account, not evidence that treatment caused worsening. |
+| <a id="citation-6"></a>**[6]** | Figure 5 | Two public Reddit contributions, r/FND. [Original discussion](https://www.reddit.com/r/FND/comments/18gbf7f/how_did_you_regain_your_ability_to_walk/). [FND-CIT-0340](../../research/citation-index.md#fnd-cit-0340). Two different commenters: gradual benefit over months/years and no progress after six months. Both excerpts and context checked November 11, 2026; comments remain visible despite deleted parent post. Not comparative clinical evidence. |
+| <a id="citation-7"></a>**[7]** | Figure 6 | Jenna’s mother, with Jenna’s permission. **Jenna’s story.** Neurosymptoms. [Original](https://neurosymptoms.org/en/stories/functional-limb-weakness-pain/jennas-story/). [FND-CIT-0341](../../research/citation-index.md#fnd-cit-0341). Exact excerpt, maternal perspective and permission statement checked November 11, 2026. Multiple interventions and setbacks; not an isolated treatment effect. |
 
-| <a id="citation-6"></a>**[6]** | Figure 1 | Person with functional tremor, reported change during physiotherapy. [Original public discussion](https://www.reddit.com/r/FND/comments/1pslgkk/there_is_a_light_at_the_end_of_the_tunnel/). **Candidate quotation from internal community notebook; exact source/context pending fresh original verification.** |
-| <a id="citation-7"></a>**[7]** | Figure 2 | Person reporting partial speech improvement after speech therapy. [Original public discussion](https://www.reddit.com/r/FND/comments/1m1m78h/speaking_feels_like_too_much_effort/). **Candidate; original verification pending.** |
-| <a id="citation-8"></a>**[8]** | Figure 3 | Person reporting cognitive improvement with speech-language therapy and problems with other methods. [Original public discussion](https://www.reddit.com/r/FND/comments/182yliv/lapse_of_memory_randomly/). **Candidate; original verification pending.** |
-| <a id="citation-9"></a>**[9]** | Figure 4 | Person reporting limited benefit and sensory overload during clinic-based care. [Original public discussion](https://www.reddit.com/r/FND/comments/1qjpe0n/extremely_sensitive_nervous_system/). **Candidate; original verification pending.** |
-| <a id="citation-10"></a>**[10]** | Figure 5 | Two different first-person reports of physiotherapy outcomes for walking: gradual benefit and no progress. [Original public discussion](https://www.reddit.com/r/FND/comments/18gbf7f/how_did_you_regain_your_ability_to_walk/). **Both speakers' excerpt wording and context require original verification.** |
-| <a id="citation-11"></a>**[11]** | Figure 6 | Jenna's mother, with Jenna's permission, describing progress and setbacks. [Recorded original account](https://pre-prod.neurosymptoms.org/en_GB/stories/functional-limb-weakness-pain/jennas-story/). **Stable non-pre-production original URL and exact wording require verification before publication.** |
-
-*Authoring status: all three audience sections approved November 10, 2026. Community quotation/source verification, citation and figure reconciliation, lesson audits and independent clinical review remain pending.*
+*Authoring and review status: All three audience sections are human authored and project-lead approved November 10, 2026. Chat Audit 1 and Work evidence/citation review completed; accepted corrections applied November 12, 2026. Source-access limits and owner-retained findings are recorded in the audit. Independent clinical review and publication decision remain pending.*

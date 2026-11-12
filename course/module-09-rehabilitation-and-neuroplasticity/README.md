@@ -1,6 +1,6 @@
 # Rehabilitation and Neuroplasticity
 
-> **Working draft:** This module overview is automatically generated. Lessons 27–29 have all nine audience sections human-authored and approved by the project lead (November 10, 2026). Editorial and Work audits, original-source verification, colour-illustration approval, independent clinical review and publication remain pending. Crossword and colouring-book links have been integrated for editorial review.
+> **Working draft:** This module overview is automatically generated. Lessons 27–29 are human authored and project-lead approved. Chat Audit 1 and Work review are complete, with accepted corrections applied November 12, 2026 and owner-retained findings documented. The three illustrations and captions are approved; crossword and colouring assets have been checked. Independent clinical review and the publication decision remain pending.
 
 Module 9 of the current course. Explore the lessons in order or choose the topic most useful to you.
 

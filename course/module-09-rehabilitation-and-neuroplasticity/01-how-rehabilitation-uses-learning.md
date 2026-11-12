@@ -1,6 +1,6 @@
 # How Rehabilitation Uses Learning
 
-> **Working draft:** All three audience sections are human authored and project-lead approved November 10, 2026. Original-source and citation checks, editorial and Work audits, independent clinical review and publication decision remain pending.
+> **Working draft:** All three audience sections are human authored and project-lead approved November 10, 2026. Chat Audit 1 and Work evidence/citation review completed; accepted corrections applied November 12, 2026. Source-access limits and owner-retained findings are recorded in the audit. Independent clinical review and publication decision remain pending.
 
 Lesson 27 explores how rehabilitation uses neuroplastic learning through everyday examples and FND-related processes.
 
@@ -14,7 +14,7 @@ Lesson 27 explores how rehabilitation uses neuroplastic learning through everyda
 
 ## For the Person With FND
 
-<!-- Person section human-authored and approved by the project lead, with paragraph-flow revision November 10, 2026. Research/source reconciliation, lesson audits and independent clinical review remain pending. -->
+<!-- Person section human-authored and approved by the project lead, with paragraph-flow revision November 10, 2026. Work review completed with documented findings; independent clinical review pending. -->
 
 ### Learning something without realizing it
 
@@ -40,7 +40,7 @@ Think about something you've learned, such as typing, preparing a favourite meal
 
 Your nervous system had learned something. Scientists call its ability to change through experience **neuroplasticity**.
 
-> **Neuroplasticity:** The nervous system's ability to change how it works or is organized through learning and experience.
+> **[Neuroplasticity](../../glossary/README.md#neuroplasticity):** The nervous system's ability to change how it works or is organized through learning and experience.
 
 Our brains contain enormous networks of nerve cells that communicate with one another. These networks help us recognize information, prepare movements, interpret sensations and remember experiences.
 
@@ -48,7 +48,7 @@ Learning can change how these networks function. Some connections may become mor
 
 In one well-known study, researchers taught adults to juggle. Brain scans showed changes in particular areas of grey matter as participants learned the skill. After they stopped practising, some of those changes became smaller.
 
-The scans couldn't reveal which tiny nerve-cell connections had changed, but they showed that learning in adulthood could be accompanied by measurable changes in brain structure. ([Draganski and colleagues, 2004](https://doi.org/10.1038/427311a))
+The scans couldn't reveal which tiny nerve-cell connections had changed, but they showed that learning in adulthood could be accompanied by measurable changes in brain structure. (*citations* [5](#citation-5))
 
 And neuroplasticity isn't limited to learning movements. Experience can influence attention, predictions, sensory processing, memory and the responses that become familiar.
 
@@ -92,7 +92,7 @@ Her therapist helps her explore suitable ways of using that easier voice. With p
 
 The possible neuroplastic change is that her nervous system becomes more familiar with organizing speech without so much conscious attention to each part.
 
-Professional recommendations for functional movement and communication difficulties include approaches involving automatic actions and meaningful activities. ([Nielsen and colleagues, 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/); [Baker and colleagues, 2021](https://jnnp.bmj.com/content/92/10/1112))
+Professional recommendations for functional movement and communication difficulties include approaches involving automatic actions and meaningful activities. (*citations* [2](#citation-2), [4](#citation-4))
 
 ### Predictions and feedback
 
@@ -102,13 +102,13 @@ Professional recommendations for functional movement and communication difficult
 
 Imagine picking up your usual coffee cup and discovering that it's much lighter than expected. Your hand may lift it farther than intended. But the next time, your nervous system may already be better prepared for the lighter weight.
 
-Researchers have demonstrated this kind of learning experimentally. In one study, people performed reaching movements while a device applied unexpected forces to their arms. Their movements gradually adjusted, showing that the nervous system had learned from experience. ([Shadmehr and Mussa-Ivaldi, 1994](https://pmc.ncbi.nlm.nih.gov/articles/PMC6577492/))
+Researchers have demonstrated this kind of learning experimentally. In one study, people performed reaching movements while a device applied unexpected forces to their arms. Their movements gradually adjusted, showing that the nervous system had learned from experience. (*citations* [6](#citation-6))
 
 Now imagine someone with an assessed functional hand movement difficulty. During therapy, they discover that placing a card inside an envelope is easier than making a similar movement while concentrating on their fingers.
 
 That provides an experience their nervous system may learn from. With suitable practice, preparing and organizing the movement might become more familiar.
 
-Some researchers propose that differences in how the brain uses predictions and incoming information contribute to functional symptoms. **Neuroplasticity offers a possible way for experience to change those predictions**, although this proposed mechanism hasn't been established for every symptom or rehabilitation benefit. ([Edwards and colleagues, 2012](https://doi.org/10.1093/brain/aws129))
+Some researchers propose that differences in how the brain uses predictions and incoming information contribute to functional symptoms. **Neuroplasticity offers a possible way for experience to change those predictions**, although this proposed mechanism hasn't been established for every symptom or rehabilitation benefit. (*citations* [7](#citation-7))
 
 ### Learning from our senses
 
@@ -124,7 +124,7 @@ Later, they might manage a similar activity at home with less assistance.
 
 The possible neuroplastic benefit involves how sensory information is combined and used during the task. If the visual cue remains necessary, it can continue to serve as a useful adaptation.
 
-Occupational-therapy recommendations recognize both meaningful rehabilitation and practical adaptations, although research hasn't established one sensory approach for every FND presentation. ([Nicholson and colleagues, 2020](https://jnnp.bmj.com/content/91/10/1037))
+Occupational-therapy recommendations recognize both meaningful rehabilitation and practical adaptations, although research hasn't established one sensory approach for every FND presentation. (*citations* [3](#citation-3))
 
 ### Interoception and functional seizures
 
@@ -140,7 +140,7 @@ Not everyone has a recognizable warning. Someone whose seizures begin without on
 
 Researchers are also investigating how people with FND detect and interpret internal signals. In a small study, some heartbeat-detection measures were similar between people with and without FND, while other measures suggested differences in confidence or reported body-signal experiences.
 
-The study didn't test rehabilitation, but it illustrates why sensing a signal and interpreting it deserve separate attention. ([Merritt Millman and colleagues, 2023](https://doi.org/10.1016/j.brat.2023.104379))
+The study didn't test rehabilitation, but it illustrates why sensing a signal and interpreting it deserve separate attention. (*citations* [8](#citation-8))
 
 Seizure-focused treatments may involve other kinds of learning as well. We'll examine their outcomes in Lesson 29.
 
@@ -172,7 +172,7 @@ Natalie might discover that keeping her shopping list visible beside her grocery
 
 Her memory difficulties may continue, but completing the order requires fewer repeated searches.
 
-This distinction is especially useful for functional cognitive disorder, or FCD. Someone might learn a more reliable way to use reminders, develop a familiar routine or experience an improvement in the cognitive symptoms themselves.
+This distinction is especially useful for [functional cognitive disorder](../../reference/functional-cognitive-disorder.md), or FCD. Someone might learn a more reliable way to use reminders, develop a familiar routine or experience an improvement in the cognitive symptoms themselves.
 
 These changes aren't identical. For someone whose symptoms remain difficult, a useful learned strategy may still make everyday life considerably easier.
 
@@ -373,7 +373,7 @@ The successful conversation was real. So was the difficulty that followed. **One
 
 We've already learned that familiar actions, including speaking and moving, can sometimes become easier through experience.
 
-Speech-language therapy recommendations for functional communication difficulties recognize that the circumstances of speaking may influence how easily a person communicates. Different activities can place different demands on attention and automatic control. [4](#citation-4)
+Speech-language therapy recommendations for functional communication difficulties recognize that the circumstances of speaking may influence how easily a person communicates. Different activities can place different demands on attention and automatic control. (*citations* [4](#citation-4))
 
 For Amira, chatting naturally with Jess and making an unexpected telephone call weren't quite the same experience. Neuroplastic learning might eventually help her voice become more reliable across different situations, but an improvement in one setting doesn't mean it's available on demand in another.
 
@@ -485,7 +485,7 @@ They both laugh.
 
 The little notebook hasn't necessarily improved Natalie's memory itself. But learning to reach for the reminder when she needs it is another possible form of neuroplastic learning: the *routine* can become more familiar even if the memory difficulty continues.
 
-Research into learning shows that experience can make skills more familiar and that some improvements remain available over time. [1](#citation-1)
+Research into learning shows that experience can make skills more familiar and that some improvements remain available over time. (*citations* [1](#citation-1))
 
 For Natalie, that may mean finding her shopping list more easily or remembering to use a written reminder.
 
@@ -556,7 +556,7 @@ These little moments don't tell us everything about recovery. But they show why 
 
 ## For Clinicians and the Care Team
 
-<!-- Clinician section human-authored and approved November 10, 2026. The project lead selected "family doctor" throughout. Original research/source checks and independent clinical review remain pending. -->
+<!-- Clinician section human-authored and approved November 10, 2026. The project lead selected "family doctor" throughout. Work review completed with documented findings; independent clinical review pending. -->
 
 ### When an easier movement raises a new question
 
@@ -580,9 +580,9 @@ The distinction between performing an action successfully and learning an abilit
 
 Natalie walked more smoothly when the conditions changed. That tells the physiotherapist something about her movement, but not yet whether she has learned anything lasting.
 
-General motor-learning research shows that experience can produce changes that remain available after practice and sometimes carry into other tasks. [1](#citation-1)
+General motor-learning research shows that experience can produce changes that remain available after practice and sometimes carry into other tasks. (*citations* [1](#citation-1))
 
-FND physiotherapy recommendations also describe using more automatic, goal-directed movements where appropriate. These recommendations offer a clinical reason to explore Natalie's response, although they don't establish which neurological process produced it. [2](#citation-2)
+FND physiotherapy recommendations also describe using more automatic, goal-directed movements where appropriate. These recommendations offer a clinical reason to explore Natalie's response, although they don't establish which neurological process produced it. (*citations* [2](#citation-2))
 
 The physiotherapist might consider whether attention, prediction or another aspect of motor control contributed to the easier movement.
 
@@ -648,9 +648,9 @@ Both professionals are working with the same developing picture, even though the
 
 ### What does the evidence allow us to conclude?
 
-Neuroplasticity provides a scientific basis for understanding how experience can change nervous-system function. Motor-learning research supports investigating whether improvements remain available over time. [1](#citation-1)
+Neuroplasticity provides a scientific basis for understanding how experience can change nervous-system function. Motor-learning research supports investigating whether improvements remain available over time. (*citations* [1](#citation-1))
 
-Professional FND physiotherapy guidance offers ways to apply relevant rehabilitation principles, including the use of automatic movement and meaningful activities. [2](#citation-2)
+Professional FND physiotherapy guidance offers ways to apply relevant rehabilitation principles, including the use of automatic movement and meaningful activities. (*citations* [2](#citation-2))
 
 For Natalie, the movement observations provide an opportunity to explore those principles.
 
@@ -686,8 +686,9 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** JNNP. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
 | <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-4"></a>**[4]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** JNNP. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
-| <a id="citation-5"></a>**[5]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee.** Neurology. 2026;106:e214466; online December 10, 2025. doi:10.1212/WNL.0000000000214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41370742/). [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
-| <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Lee TC, et al. **Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial.** Lancet Neurol. 2024;23:675–686. doi:10.1016/S1474-4422(24)00135-2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38768621/). [FND-CIT-0029](../../research/citation-index.md#fnd-cit-0029). |
-| <a id="citation-7"></a>**[7]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1v2tbfb/comment/oz7hya4/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0316](../../research/citation-index.md#fnd-cit-0316). |
+| <a id="citation-5"></a>**[5]** | — | Draganski B, Gaser C, Busch V, Schuierer G, Bogdahn U, May A. **Changes in grey matter induced by training.** Nature. 2004;427:311–312. doi:10.1038/427311a. [Original](https://www.nature.com/articles/427311a). [FND-CIT-0334](../../research/citation-index.md#fnd-cit-0334). Adult juggling study; macroscopic imaging changes, not cellular connections or FND treatment. Original abstract checked November 11, 2026. |
+| <a id="citation-6"></a>**[6]** | — | Shadmehr R, Mussa-Ivaldi FA. **Adaptive representation of dynamics during learning of a motor task.** J Neurosci. 1994;14(5 Pt 2):3208–3224. doi:10.1523/JNEUROSCI.14-05-03208.1994. [Original](https://www.jneurosci.org/content/jneuro/14/5/3208.full.pdf). [FND-CIT-0335](../../research/citation-index.md#fnd-cit-0335). Reaching under robot-generated force fields; experimental adaptation, not FND clinical efficacy. Original article checked November 11, 2026. |
+| <a id="citation-7"></a>**[7]** | — | Edwards MJ, Adams RA, Brown H, Pareés I, Friston KJ. **A Bayesian account of “hysteria”.** Brain. 2012;135(11):3495–3512. doi:10.1093/brain/aws129. FND-CIT-0242. Theoretical model, not an intervention trial; historical title retained as plain bibliographic text under project policy. |
+| <a id="citation-8"></a>**[8]** | — | Merritt Millman LS, Short E, Stanton B, et al. **Interoception in functional motor symptoms and functional seizures: Preliminary evidence of intact accuracy alongside reduced insight and altered sensibility.** Behav Res Ther. 2023;168:104379. doi:10.1016/j.brat.2023.104379. [Original](https://discovery.ucl.ac.uk/id/eprint/10174766/1/1-s2.0-S0005796723001274-main.pdf). [FND-CIT-0336](../../research/citation-index.md#fnd-cit-0336). 17 FND participants and 17 controls; heartbeat accuracy and confidence were similar. Exploratory confidence–accuracy relationships and sensibility differed. No intervention. Original full text checked November 11, 2026. |
 
-*Authoring status: all three audience sections approved November 10, 2026. Audits and original-source/citation checks remain pending; independent clinical review has not occurred.*
+*Authoring and review status: All three audience sections are human authored and project-lead approved November 10, 2026. Chat Audit 1 and Work evidence/citation review completed; accepted corrections applied November 12, 2026. Source-access limits and owner-retained findings are recorded in the audit. Independent clinical review and publication decision remain pending.*

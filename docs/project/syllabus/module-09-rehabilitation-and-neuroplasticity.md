@@ -1,7 +1,7 @@
 # Module 9 — Rehabilitation and Neuroplasticity
 
 **Part Three: Applying What You Have Learned**<br>
-**Status:** All nine Person, Supporter and Clinician sections across Lessons 27–29 were human-authored and project-lead approved November 10, 2026. The two lesson audit stages and final module publication-readiness review have **not** occurred. Original-source verification, figures/citations, optional media/assets, build/render checks and independent clinical review remain pending. See the [current Module 9 audit handoff](../../../reference/_internal/course/module-09-audit-handoff-2026-11-10.md). Older authoring seeds below are historical; the current approved language is in the lesson files.<br>
+**Status:** All nine audience sections were human-authored and project-lead approved November 10, 2026. Chat Audit 1 and Work review are complete; accepted corrections applied November 12, 2026. See the [Work audit](../../../reference/_internal/course/module-09-work-audit-2026-11-11.md) for retained findings, source-access limits and validation. Independent clinical review and publication decision remain pending. Older authoring seeds below are historical; current approved language is in the lesson files.<br>
 **Moves and refines:** Former [Module 14 — Rehabilitation and Neuroplastic Change](module-14-rehabilitation-and-neuroplastic-change.md).
 
 ## Purpose
