@@ -1,10 +1,10 @@
 # Flexible Pacing When Capacity Changes
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter and Clinician sections remain unapproved generated drafts; evidence verification, lesson audits and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section remains an unapproved generated draft. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
 
 Lesson 31 explores flexible pacing decisions, uncertainty, delayed worsening and the value of new information.
 
-*Person section editorially approved: November 11, 2026. Other sections last reviewed October 26, 2026.*
+*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section last reviewed October 26, 2026.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -342,23 +342,233 @@ Supporters shouldn't be the ones measuring, provoking or enforcing exertion. It 
 
 ## For Clinicians and the Care Team
 
-### Establish the time course before prescribing progression
+### What would you decide?
 
-A boom-and-bust description may identify alternating periods of activity and worsening, but it does not establish the cause of either phase. Ask what activity involved—physical, cognitive, emotional, sensory or upright demands—whether worsening was immediate or delayed, its duration, whether the person returned to baseline and how often the pattern occurs. Consider sleep, pain, migraine, medications, anemia, endocrine conditions, dysautonomia, depression and relevant other illness rather than assuming deconditioning alone.
+A rehabilitation plan may work well for a time, then become less suitable as the person's abilities, health or circumstances change. Sometimes new information reveals that an earlier assessment measured only part of what the person needed to accomplish.
 
-**Physiotherapy and occupational therapy** should coordinate activity plans so therapy sessions, transfers, household tasks and travel do not unknowingly compete for the same practical tolerance. **Psychology** may address guilt, uncertainty, fear and adaptation in a consent-based way, rather than explain prolonged physical worsening as avoidance or lack of motivation. **Primary care or relevant specialists** assess possible ME/CFS or another contributor where delayed and disproportionate post-exertional symptom exacerbation suggests it.
+**For example:** A patient regains full knee movement after surgery but still struggles with stairs. The clinician might investigate strength, balance, pain and the demands of climbing stairs before deciding whether to continue, change or conclude rehabilitation. Full movement is encouraging, but it doesn't answer every question about function.
 
-### Pacing is not one standard exercise dose
+In the following cases, you'll make a clinical decision using the available information, then reconsider it when new findings emerge. The goal is to determine what those findings mean for treatment—not simply whether an earlier decision was right or wrong.
 
-The goal is to match activity to medical safety, tolerability and the person's priorities. Options include changing the environment, distributing effort, choosing supports, shortening the task, using planned rest or selecting an alternative method. Progression—if appropriate at all—is an individualized clinical decision.
+### Case 1 — Recovery on paper
 
-When **post-exertional malaise (PEM)** is reported, especially if ME/CFS is suspected or established, assess the delayed, disproportionate and potentially prolonged nature of worsening and respect condition-specific energy-management guidance. Do not prescribe automatic fixed increments, use a successful single clinic session as clearance for increased activity or require deliberate provocation of a crash. NICE guidance on ME/CFS does not, by itself, invalidate individualized rehabilitation in FND without PEM; the two clinical questions must be kept separate. (*citations* [1](#citation-1), [2](#citation-2))
+Evan is a self-employed painter recovering from knee surgery. He also has functional neurological disorder, with functional seizures, variable movement difficulties, chronic migraine and significant sensitivity to light and sound.
 
-### A case for a joint team plan
+Conventional physiotherapy has become difficult to access. Travel, bright waiting rooms and unexpected noises can substantially increase his symptoms, sometimes preventing him from completing appointments. After contacting several providers, Evan finds a physiotherapist willing to visit him at home.
 
-Someone with assessed functional weakness also reports exertion-related headache, light sensitivity and next-day exhaustion. PT could tailor movement to a safe function; OT could reduce task and sensory demands; the clinician responsible for migraine and fatigue could reassess other treatable causes. The patient chooses which activities deserve priority. The team watches whether the plan makes ordinary life more sustainable—not merely whether therapy attendance increased.
+During the initial assessment, the physiotherapist records reduced knee movement, weakness around the knee and hip, and difficulty controlling the affected leg. Evan can squat through approximately three-quarters of the expected movement, but weakness limits him. His walking is slow and sometimes unsteady, with reduced stability around his right hip.
 
-**Evidence boundary:** Pacing for FND relies heavily on individualized multidisciplinary and OT consensus, not a validated flare-prevention dose [1](#citation-1). NICE ME/CFS recommendations apply specifically to that disease [2](#citation-2).
+Evan has been following the exercises provided after surgery. He walks around his yard most days and occasionally attempts a longer walk with his wife. As he becomes more active, however, he notices weakness beyond the injured knee, particularly around his hip and lower back.
+
+The physiotherapist asks what happens when Evan cannot complete his exercises.
+
+"Sometimes my knee is sore, but other times it's everything else," Evan explains. "My legs don't cooperate, or my migraine is worse. I can do something one day and struggle with it the next."
+
+The physiotherapist develops a home programme targeting knee movement, hip and leg strength, squatting and walking.
+
+#### Progress and fluctuation
+
+During one appointment, Evan completes his exercises with good control and manages a longer period of walking. At another, his migraine is particularly severe, his gait is less coordinated, and he needs to stop several exercises earlier than expected.
+
+His physiotherapist also notices that difficulty with one task doesn't always predict difficulty with another. Evan may manage a controlled knee exercise but struggle to maintain balance while walking, or complete a familiar movement when his symptoms are relatively manageable but be unable to repeat it during a more demanding day.
+
+Evan describes similar differences at home. On some days, he can practise his exercises and walk outside. On others, household activities and managing his neurological symptoms occupy much of what he can reasonably accomplish.
+
+Despite this variability, his knee improves over the following weeks. He gradually regains full range of motion, demonstrates better hip and pelvic control during walking, and becomes able to squat through the full range, sometimes with pain.
+
+After seven home visits over approximately seven weeks, the physiotherapist reviews his progress. Knee movement has recovered, but lower-body weakness and unreliable balance remain. Evan is not ready for work involving ladders, repeated stair climbing or carrying equipment.
+
+**Your turn — First clinical decision**
+
+You're Evan's physiotherapist.
+
+His knee rehabilitation has produced measurable improvement, but the demands of continuing independently will differ from those of supported treatment.
+
+**Would you conclude supervised physiotherapy, continue treatment or change the rehabilitation approach?**
+
+Which findings would influence your decision? Consider Evan's changing movement patterns, the variability of his symptoms, his remaining functional goals and the demands of performing exercises without supervision.
+
+#### After the home programme ends
+
+The physiotherapist concludes the home treatment programme, provides exercises for continued strengthening and records the improvements achieved. The discharge report acknowledges remaining weakness and limitations affecting Evan's ability to return to work.
+
+Evan continues trying to remain active, although his ability to practise varies. Sometimes the knee feels relatively comfortable while his walking is poorly coordinated. At other times, his neurological symptoms are manageable but knee pain or weakness limits activity.
+
+Approximately a year later, Evan sees another orthopedic surgeon because his knee remains troublesome. The examination shows nearly full movement and a stable joint, without an obvious structural problem requiring another operation. However, the surgeon identifies substantial wasting of the thigh muscles, particularly the quadriceps and hamstrings, and observes difficulty with balance and squatting.
+
+The surgeon recommends renewed attention to strengthening, coordination and joint-position awareness. Evan explains that his neurological symptoms have made it difficult to maintain a consistent rehabilitation routine.
+
+#### Another perspective
+
+Evan subsequently attends a broader physical-function assessment. The team reduces the lighting and unnecessary noise, and his wife accompanies him.
+
+The examiner observes slow walking, cautious transfers and greater reliance on the unaffected leg. Evan completes several tests, but his symptoms increase as the assessment continues. After a lower-body task, he requires assistance returning to a seated position and reports that he cannot manage further testing.
+
+The examination is stopped.
+
+The report documents the completed measurements and the tests that could not be performed. A later medical examination also identifies residual knee pain, modest restriction of movement and mild weakness.
+
+**Your turn — Second clinical decision**
+
+You're a clinician reviewing Evan's rehabilitation history and these later findings.
+
+**Does the evidence justify revisiting his rehabilitation plan, and what would you change?**
+
+How would you interpret the persistent muscle wasting alongside improved joint movement? What would distinguish a need for further supervised rehabilitation from a need to adapt the existing programme?
+
+Consider how Evan's variable functioning and the accessibility of treatment affect those decisions.
+
+### Answer key — What, Why and How?
+
+#### What — What do the findings tell us?
+
+Evan's initial and discharge assessments demonstrate improvement in knee movement and selected aspects of motor control. The later orthopedic examination identifies a different problem: substantial thigh-muscle wasting despite preservation of joint movement. These observations are compatible with meaningful postoperative recovery alongside persistent deficits in physical conditioning.
+
+The physiotherapy records add a feature that the joint measurements cannot capture. Evan's participation in rehabilitation varied with migraine, functional movement symptoms, pain and the demands of ordinary activities. His performance during supported treatment did not consistently represent what he could accomplish independently.
+
+The later physical-function assessment documents continuing difficulties, but its incomplete testing limits the conclusions available from that encounter. It provides evidence about particular activities under particular conditions, rather than establishing a fixed level of ability across all circumstances.
+
+The clinical problem is therefore more specific than whether Evan's knee recovered: **which functions improved, which remained limited, and what prevented further progress after supervised treatment ended?**
+
+#### Why — What might explain the different outcomes?
+
+Several processes may contribute to Evan's presentation. Recovery of joint movement after surgery does not necessarily restore muscle strength or endurance following prolonged reductions in activity. Pain, altered loading, reduced conditioning and functional movement difficulties may interact, while migraine and sensory sensitivity can influence access to treatment and the activities available for practice.
+
+> **Deconditioning:** A reduction in physical conditioning, such as strength or endurance, associated with reduced or altered physical activity over time.
+
+The later muscle wasting supports investigating persistent deconditioning, but it does not establish how much each condition contributed. Nor does it demonstrate that the original physiotherapy was ineffective. Evan achieved important goals during treatment; the unresolved question is why further functional recovery remained limited.
+
+Nicholson and colleagues' 2020 FND occupational-therapy consensus emphasizes individualized assessment of meaningful activities, routines, environments and the ways symptoms influence participation. ([1](#citation-1)) This is particularly relevant when rehabilitation involves both physical capacity and functional neurological symptoms.
+
+For Evan, the home setting was an important clinical accommodation. It reduced environmental demands that had interfered with access to treatment. His progress during home visits suggests that the arrangement enabled useful rehabilitation, although the records cannot establish precisely which aspects of treatment produced each improvement.
+
+The central issue after discharge concerns the relationship between treatment demands and Evan's fluctuating functioning. A strengthening programme might be appropriate for his knee but difficult to sustain when movement, migraine, sensory symptoms and daily responsibilities compete for available capacity.
+
+This raises several clinically distinct possibilities. The programme may need modification to remain achievable across variable days. Particular activities may not transfer reliably from supervised sessions into everyday circumstances. Persistent weakness may require additional assessment or a different rehabilitation approach. More than one explanation could apply.
+
+The later surgeon's findings justify examining those possibilities rather than assuming that the earlier recovery of knee movement settled the rehabilitation question.
+
+#### How — What would influence the next rehabilitation decision?
+
+A useful reassessment would compare Evan's remaining impairments with the activities he wants to regain. Strength and movement testing could help characterize the physical deficits, while observation of walking, transfers, balance and relevant everyday tasks would clarify how those deficits affect function.
+
+The clinician would also examine the circumstances in which Evan can perform rehabilitation reliably. Comparing manageable and difficult days may reveal whether exercise selection, duration, task complexity, environmental demands or assistance need adjustment. This is different from assuming that his best observed performance should determine the demands of every subsequent session.
+
+The resulting plan might preserve particular strengthening exercises while adapting how and when they are practised. Alternatively, findings may justify additional supervised treatment directed toward weakness, balance or functional movement, particularly when the existing home programme has not produced adequate progress.
+
+The case for further supervision would be stronger if the clinician could identify a specific benefit—such as revising an ineffective exercise, addressing a persistent movement difficulty or supporting transfer into everyday activity—that Evan cannot achieve reliably with the existing arrangement.
+
+Treatment accessibility remains part of that decision. An outpatient programme that Evan repeatedly cannot attend may offer less practical benefit than an accessible arrangement, even if the exercises themselves are appropriate.
+
+The clinical objective is **not uniform performance every day**. It is meaningful, sustainable improvement in the functions Evan values, using rehabilitation demands that can respond to changes in his symptoms and circumstances.
+
+#### What have we learned?
+
+Evan's case shows how measurable recovery, persistent deconditioning and fluctuating neurological symptoms can coexist. His initial rehabilitation improved knee movement, but later findings raised new questions about conditioning and functional participation.
+
+**The clinical discovery is that rehabilitation progression must respond to both improvement over time and variation in what the patient can manage.** A successful treatment phase can lead to a different clinical question rather than a definitive endpoint.
+
+---
+
+### Before the next case
+
+Evan's changing symptoms and abilities complicated the process of maintaining rehabilitation, even though his knee improved.
+
+Our next patient presents a different problem.
+
+**What if someone completes rehabilitation successfully during a session but experiences substantial worsening after returning home?**
+
+### Case 2 — The session went well
+
+Jonah has an established diagnosis of functional leg weakness and has been attending physiotherapy. His treatment has focused on activities relevant to moving around his home and managing short journeys. He has recently made encouraging progress with some of the movements practised during sessions.
+
+At today's appointment, Jonah completes several activities using the assistance and adaptations agreed upon with his physiotherapist. His movement appears more reliable than it did during earlier appointments, and he remains comfortable enough to talk with the therapist afterward.
+
+"That seemed better today," the physiotherapist observes.
+
+Jonah agrees. He's pleased to have completed the session, and the therapist suggests that they consider gradually increasing the amount of activity during future sessions. Jonah has been hoping to regain more independence and is interested in making progress.
+
+**Your turn — First clinical decision**
+
+Jonah completed the planned activities and showed improvement during treatment.
+
+**Would you recommend increasing the activity at subsequent sessions?**
+
+Before deciding, what information would you want about Jonah's functioning outside the clinic and his response after previous appointments?
+
+#### Information that wasn't in the session record
+
+As they discuss his progress, Jonah mentions that the days following treatment have sometimes been difficult.
+
+"It's strange," he says. "I can feel fairly good while we're doing this. But sometimes the next day I can barely manage anything."
+
+The physiotherapist asks him to explain.
+
+Jonah describes several occasions when marked exhaustion, aching and difficulty concentrating began the day after a session. The symptoms were much more severe than the ordinary tiredness he expected after physical activity. On those days, even preparing meals and following a television programme became difficult, and the worsening sometimes continued into the second day.
+
+Jonah recalls a similar experience after spending much of an afternoon helping a relative resolve a complicated computer problem. He was seated for most of that activity, but it required sustained attention and repeated problem-solving. Again, he felt reasonably comfortable at the time, yet the following day he experienced substantial exhaustion and difficulty thinking clearly.
+
+The physiotherapist asks whether this has always happened.
+
+Jonah explains that he became ill approximately two months ago. Since then, his usual activities have become much more difficult, and he often wakes feeling unrefreshed. Before that illness, he could generally manage more household activities between physiotherapy appointments.
+
+He hasn't yet discussed the full pattern with his family doctor. As they talk, the physiotherapist reviews the proposed increase in activity.
+
+**Your turn — Second clinical decision**
+
+You now have reports of delayed and prolonged worsening after both physical and cognitive activity, along with a recent decline in everyday functioning.
+
+**Would you proceed with the proposed activity increase, modify rehabilitation, or postpone progression while arranging medical assessment?**
+
+Jonah's symptoms raise questions beyond his established FND diagnosis. What information would you communicate to his family doctor, and how would you manage rehabilitation while awaiting assessment and any necessary specialist referral?
+
+### Answer key — What, Why and How?
+
+#### What — Which findings change the clinical question?
+
+Jonah's improvement during physiotherapy is evidence that some elements of his functional movement are responding to treatment. However, his account introduces a distinct pattern: disproportionate worsening of exhaustion, aching and cognitive difficulties beginning the following day and lasting into a second day.
+
+He describes this response after both physical rehabilitation and sustained cognitive activity. He also reports a substantial reduction in everyday functioning following a recent illness, together with unrefreshing sleep.
+
+These features warrant more than a routine adjustment for tiredness after exercise. They raise the possibility of **post-exertional malaise (PEM)**, while leaving its cause and diagnostic significance unresolved.
+
+> **Post-exertional malaise (PEM):** A disproportionate worsening of symptoms following physical, cognitive or other exertion. Symptoms may develop hours or days afterward, with recovery sometimes taking several days or longer.
+
+#### Why — How can these explanations be distinguished?
+
+Fatigue is common in FND and many other medical conditions. FND-related capacity limitations may fluctuate with movement, attention, pain, sensory demands and the circumstances of an activity. Jonah's repeated, disproportionate worsening after both physical and cognitive exertion raises a different concern, particularly because the symptoms develop later and interfere with functioning for days.
+
+**Post-exertional malaise is a characteristic feature of ME/CFS**, which can coexist with FND and requires medical assessment alongside other possible explanations for Jonah's deterioration. ([2](#citation-2))
+
+The physiotherapist can recognize and document the pattern without establishing its cause. Jonah's family doctor can evaluate the medical possibilities, arrange appropriate investigations and seek specialist input where indicated.
+
+#### How — Would the distinction change rehabilitation?
+
+The distinction matters because it may change how rehabilitation is progressed. If Jonah's limitations primarily reflect FND-related movement difficulties and fluctuating capacity without post-exertional malaise, individualized motor retraining and gradual progression may remain appropriate, guided by his response and functional goals.
+
+If post-exertional malaise is suspected, however, the physiotherapist should reconsider the proposed increase. NICE guidance for ME/CFS advises against fixed incremental increases in exercise. Jonah's repeated delayed deterioration provides sufficient reason to review the programme's demands while his family doctor investigates, rather than waiting for a confirmed diagnosis before making a precautionary adjustment. ([2](#citation-2))
+
+Rehabilitation need not stop altogether. The physiotherapist can preserve activities and supports that remain manageable across the full recovery period, adjust or defer those associated with substantial worsening, and coordinate further treatment decisions as medical information becomes available.
+
+**The important clinical distinction is not simply why Jonah feels fatigued, but whether increasing rehabilitation demands is likely to support his recovery or produce further deterioration.**
+
+#### What have we learned?
+
+Jonah's case illustrates why clinicians need to examine more than the severity of fatigue or the patient's immediate performance during treatment. The pattern, timing, associated symptoms and change from baseline can reveal a possible coexisting condition with important implications for rehabilitation.
+
+**The clinical discovery is that the explanation for reduced capacity can change how treatment should progress.** Recognizing possible PEM allows clinicians to protect meaningful participation while investigating the cause, rather than treating every limitation as a reason either to increase exercise or to stop rehabilitation altogether.
+
+---
+
+### Bringing the cases together
+
+Evan and Jonah both made encouraging progress during rehabilitation, yet their circumstances required different clinical judgments.
+
+Evan's fluctuating symptoms and persistent weakness raised questions about how to maintain and develop improvement when independent practice was unreliable. Jonah's delayed, prolonged worsening raised the possibility of PEM and a coexisting condition that could require a substantially different approach to activity progression.
+
+In both cases, the best rehabilitation decision depended on more than what the clinician observed during a successful appointment.
+
+**Flexible pacing means matching rehabilitation to the person's changing abilities, the full consequences of activity and the medical conditions influencing those responses.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -378,4 +588,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
 | <a id="citation-3"></a>**[3]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0322](../../research/citation-index.md#fnd-cit-0322). |
 
-*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter and Clinician authoring, original-source verification, subsequent lesson audits and independent clinical review remain pending.*
+*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter authoring, Clinician original-source verification, subsequent lesson audits and independent clinical review remain pending.*
