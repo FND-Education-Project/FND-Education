@@ -1,10 +1,10 @@
 # Flexible Pacing When Capacity Changes
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section is a human-authored review draft committed November 12, 2026, pending project-lead approval and quotation verification. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section was human-authored and approved by the project lead on November 12, 2026; quotation verification remains pending. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
 
 Lesson 31 explores flexible pacing decisions, uncertainty, delayed worsening and the value of new information.
 
-*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter review draft committed November 12, 2026; approval pending.*
+*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section approved November 12, 2026; quotation verification pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -308,7 +308,7 @@ Priya made decisions as her circumstances changed. Daniel discovered that he nee
 
 Several weeks later, Maya had recovered from her cold, and Owen was looking forward to visiting their home.
 
-They were temporarily living elsewhere while repairs were being completed. Owen wanted to paint one of the rooms before they moved back.
+They were temporarily living elsewhere while repairs were being completed during  a minor disaster - a story in itself. Tomorrow, Owen wanted to paint one of the rooms before they moved back.
 
 He pictured a peaceful afternoon. The room would be quiet, the paintbrush would move steadily across the wall, and he'd have the satisfaction of accomplishing something useful in his own home.
 
@@ -642,4 +642,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
 | <a id="citation-3"></a>**[3]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0322](../../research/citation-index.md#fnd-cit-0322). |
 
-*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter project-lead approval and quotation verification, Clinician original-source verification, subsequent lesson audits and independent clinical review remain pending.*
+*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter quotation verification, Clinician original-source verification, subsequent lesson audits and independent clinical review remain pending.*
