@@ -1,10 +1,10 @@
 # Flexible Pacing When Capacity Changes
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section remains an unapproved generated draft. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section is a human-authored review draft committed November 12, 2026, pending project-lead approval and quotation verification. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
 
 Lesson 31 explores flexible pacing decisions, uncertainty, delayed worsening and the value of new information.
 
-*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section last reviewed October 26, 2026.*
+*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter review draft committed November 12, 2026; approval pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -304,33 +304,87 @@ Priya made decisions as her circumstances changed. Daniel discovered that he nee
 
 ## For Family, Friends, and Other Supporters
 
-### When a better day is not a blank cheque
+### The painting trip
 
-After several difficult days, the person you care about feels well enough to catch up. They may want to visit a friend, do laundry, shop and finally enjoy a favourite activity.
+Several weeks later, Maya had recovered from her cold, and Owen was looking forward to visiting their home.
 
-You may worry that it will be too much. Yet telling them “You're not allowed” can make you feel like their supervisor and them feel like a child.
+They were temporarily living elsewhere while repairs were being completed. Owen wanted to paint one of the rooms before they moved back.
 
-### Plan together instead of policing
+He pictured a peaceful afternoon. The room would be quiet, the paintbrush would move steadily across the wall, and he'd have the satisfaction of accomplishing something useful in his own home.
 
-**Pacing** involves adjusting activities and recovery around what is safe and sustainable. Ask the person what matters today and which demand could be moved, shortened, shared or done differently. (*citations* [1](#citation-1), [2](#citation-2))
+Maya pictured rather more of the day.
 
-You may be able to suggest, “Would you rather I handle the shopping so there's room for your visit?” Offer a choice, not a verdict.
+There was the drive, the possibility of bright sunlight flickering through the trees, the contractors who might still be working and the supplies they'd need to bring. There was also Pip, who couldn't be left alone indefinitely and would need water and somewhere comfortable to settle.
 
-Sometimes a flare happens despite careful planning. Do not decide afterward that the person “brought it on themselves.” A pattern of worsening may be influenced by several conditions and may not be preventable.
+She knew Owen's cognitive difficulties sometimes made it hard for him to consider all these details together. But she also knew how much he'd been looking forward to painting.
 
-### A very important professional boundary
+"Could we check whether the contractors will be there?" she asked.
 
-If activity causes **delayed, disproportionate or prolonged worsening**, ask the clinical team to consider post-exertional malaise and relevant conditions such as ME/CFS. Do not impose a standard weekly exercise increase, and do not treat a good morning as medical clearance for greater exertion. **PT, OT and the clinician managing any coexisting illness** need to coordinate the plan. ME/CFS guidance is condition-specific and should not be applied indiscriminately as an FND diagnosis either.
+"I just want to paint for a couple of hours," Owen replied. "It'll be nice to do something normal."
 
-Supporters shouldn't be the ones measuring, provoking or enforcing exertion. It is reasonable to request professional guidance when practical activity decisions have become unsafe, confusing or a source of conflict.
+"I know. I'm thinking about the whole trip, though. If you get exhausted, I'll need to drive us home and deal with everything we've brought."
+
+Owen felt discouraged. Sometimes it seemed that Maya could find problems with a plan before he'd even had a chance to enjoy the idea.
+
+"You're making it sound as though I shouldn't try anything."
+
+Maya considered that.
+
+"I'm not saying you shouldn't. I'm saying I need to know what I'm agreeing to as well."
+
+After talking, they decided to make the trip. Owen would bring his painting supplies, but they agreed that if the house was too busy, painting could wait. Maya also explained that she could help with the journey but wasn't up to finishing the painting herself.
+
+Unfortunately, the drive was more difficult than Owen expected. Sunlight flickered through the trees, and by the time they arrived his migraine had worsened.
+
+Contractors were working in several rooms. Power tools were running, people were moving equipment, and the quiet afternoon Owen had imagined wasn't available.
+
+He stood in the doorway of the room he'd hoped to paint.
+
+"This isn't what I had in mind."
+
+Maya could see his disappointment. She was disappointed too, although for different reasons. They had spent time preparing, and she knew the return journey might now be particularly difficult for him.
+
+They decided not to paint. After collecting a few things they needed, they headed back.
+
+Pip, who had been surprisingly patient throughout the visit, climbed into his travel carrier and promptly fell asleep.
+
+On the journey home, Owen was quiet.
+
+Later, he said, "I really thought it would be different."
+
+"I know," Maya replied. "I could see some possible problems, but I didn't know exactly what would happen either."
+
+They talked about checking the contractor schedule before their next visit and agreeing on a smaller goal, such as collecting supplies rather than planning a full afternoon of work.
+
+Owen also explained something Maya hadn't fully appreciated.
+
+"I can picture myself painting the room. But sometimes I can't hold the rest of the day in my head at the same time."
+
+That helped Maya understand why her questions could feel so discouraging to him. She wasn't just identifying risks; she was adding information that hadn't been part of the picture he was using to make his decision.
+
+### What does the evidence tell us?
+
+FND occupational-therapy consensus supports considering the environment, task demands, individual symptoms and practical arrangements when planning activities. It also emphasizes individualized participation rather than assuming that a single strategy suits everyone. (Nicholson et al., 2020; [1](#citation-1))
+
+One spouse and carer described a household with considerable flexibility:
 
 > “I’m her carer and we are fortunate to be able to plan our days around how she feels although she is often bedridden.”
 
-*Figure 1. Community experience.* One household describes its available flexibility; not every family has these resources. [Original public source](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). (*citations* [3](#citation-3))
+*Community voice — spouse and carer. [Original public comment](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). This illustrates one family's flexibility, not a standard every supporter can provide. Original wording and context require final Work verification.* ([3](#citation-3))
 
-**Something to discuss together:** “If tomorrow is difficult, which part of the plan could change without losing what's important to you?”
+### Better shared decision-making
 
-**One small thing:** Agree on one flexible option for a demanding day, including what assistance you can realistically offer.
+Maya recognized difficulties that Owen hadn't fully considered. Her perspective was useful, particularly because some of his cognitive symptoms affected his ability to bring several pieces of information together.
+
+But anticipating difficulties didn't give Maya the right to make every decision for him. Owen still had meaningful goals and preferences, and he was entitled to participate in decisions about his own activities.
+
+There was another side to that relationship. Maya's time, physical abilities and willingness to help also mattered. Supporting Owen's choices didn't mean agreeing to take on unlimited responsibilities if circumstances changed.
+
+Their experience suggests a better approach: describe the hoped-for outcome, build a fuller picture together, discuss what assistance each person can offer and identify what might justify changing the plan.
+
+The unsuccessful painting trip didn't prove that Owen should never have gone. Nor did it mean that Maya's concerns were unimportant. They learned more about what the trip required and what each could manage.
+
+**Better shared decisions happen when both people's knowledge, preferences and limitations contribute to the plan—and both retain a voice when the plan needs to change.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -588,4 +642,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
 | <a id="citation-3"></a>**[3]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0322](../../research/citation-index.md#fnd-cit-0322). |
 
-*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter authoring, Clinician original-source verification, subsequent lesson audits and independent clinical review remain pending.*
+*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter project-lead approval and quotation verification, Clinician original-source verification, subsequent lesson audits and independent clinical review remain pending.*
