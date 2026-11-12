@@ -78,6 +78,10 @@ layout: default
 
   </header>
 
+  {% if page.page_kind == "course" %}
+  <section id="course-progress" class="course-progress-panel" aria-label="My learning progress" hidden></section>
+  {% endif %}
+
   <div class="course-content">
     {{ content }}
   </div>

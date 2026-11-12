@@ -2505,6 +2505,81 @@ def write_generated_page_data(pages: list[CoursePage]) -> None:
     )
 
 
+
+def write_course_progress_manifest(pages: list[CoursePage]) -> None:
+    """Generate the exact 19-module/57-lesson learner contract from source.
+
+    All lessons are publicly readable, whether or not accounts are enabled.
+    IDs are the canonical module/local-lesson numbers, not old syllabus keys.
+    """
+    source = COURSE_ROOT / "README.md"
+    matches = re.findall(
+        r"^## Part (One|Two|Three|Four|Five):\s*(.+?)\s*$",
+        source.read_text(encoding="utf-8"), re.MULTILINE,
+    )
+    labels = {"One": 1, "Two": 2, "Three": 3,
+              "Four": 4, "Five": 5}
+    titles = {labels[word]: title for word, title in matches}
+    if len(matches) != 5 or set(titles) != set(range(1, 6)):
+        raise ValueError("Canonical course must have five named sequential Parts")
+    parts = {n: {"number": n, "title": titles[n], "modules": []}
+             for n in range(1, 6)}
+    modules = {}
+    ids = set()
+    urls = set()
+
+    for page in pages:
+        if page.kind == "course":
+            continue
+        if page.part_number not in parts or page.module_number not in range(1, 20):
+            raise ValueError("Course module/Part numbering outside 19-module contract")
+        if page.kind == "module":
+            if page.module_number in modules:
+                raise ValueError("Duplicate course module")
+            title = course_page_title(
+                page, page.source.read_text(encoding="utf-8")
+            )
+            group = {
+                "number": page.module_number, "title": title,
+                "url": page.public_url, "lessons": [],
+            }
+            modules[page.module_number] = group
+            parts[page.part_number]["modules"].append(group)
+        elif page.kind == "lesson":
+            if page.module_number not in modules or not page.lesson_number:
+                raise ValueError("Course lesson without preceding module")
+            lesson_id = f"m{page.module_number}-{page.lesson_number}"
+            expected = f"/course/m{page.module_number}/{page.lesson_number}/"
+            if page.public_url != expected or lesson_id in ids or expected in urls:
+                raise ValueError("Course lesson ID or URL mismatch/collision")
+            ids.add(lesson_id)
+            urls.add(expected)
+            modules[page.module_number]["lessons"].append({
+                "id": lesson_id,
+                "title": extract_title(
+                    page.source.read_text(encoding="utf-8"), page.source
+                ),
+                "url": page.public_url,
+                "progressEligible": True,
+            })
+    if (len(modules) != 19 or len(ids) != 57 or
+            [m for part in parts.values() for m in
+             [item["number"] for item in part["modules"]]] != list(range(1, 20))):
+        raise ValueError("Expected exactly 19 sequential modules / 57 unique lessons")
+    data = {
+        "version": 2,
+        "parts": list(parts.values()),
+        "earlierModules": [],
+        "eligibleLessonCount": 57,
+    }
+    destination = WEB / "assets" / "data" / "course-progress.json"
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+
 def main() -> None:
     course_pages = discover_course_pages()
     reference_pages = discover_reference_pages()
@@ -2670,6 +2745,7 @@ def main() -> None:
     ]
     write_machine_sitemap(public_urls)
     write_generated_page_data(course_pages)
+    write_course_progress_manifest(course_pages)
     write_glossary_schema_data()
     write_page_schema_data(course_pages, reference_pages)
 

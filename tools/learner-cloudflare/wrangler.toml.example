@@ -1,0 +1,38 @@
+# Copy to wrangler.toml ONLY during the separately approved rollout.
+# Never commit the real database ID or provider secrets.
+name = "fnd-learner-accounts"
+main = "worker.js"
+compatibility_date = "2026-10-15"
+workers_dev = false
+
+# This API must be same-site with GitHub Pages' custom apex domain.
+# Do NOT deploy it at *.workers.dev: third-party cookie limitations
+# would make authenticated CORS fetches unreliable.
+routes = [
+  { pattern = "accounts.fndeducationproject.org", custom_domain = true }
+]
+
+[vars]
+PUBLIC_ORIGIN = "https://fndeducationproject.org"
+API_ORIGIN = "https://accounts.fndeducationproject.org"
+GOOGLE_CLIENT_ID = "REPLACE_AFTER_GOOGLE_REGISTRATION"
+# Keep disabled until Resend, Turnstile, migration and browser tests pass.
+EMAIL_LOGIN_ENABLED = "false"
+EMAIL_FROM = "login@mail.fndeducationproject.org"
+TURNSTILE_SITE_KEY = "REPLACE_AFTER_TURNSTILE_SETUP"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "fnd-learner-accounts"
+database_id = "REPLACE_WITH_PRIVATE_D1_DATABASE_ID"
+
+# Rotate session/expired OIDC flow cleanup daily.
+[triggers]
+crons = ["0 4 * * *"]
+
+# Set these ONLY using wrangler secret put:
+# GOOGLE_CLIENT_SECRET
+# RESEND_API_KEY (sending-only key restricted to the verified sender domain)
+# EMAIL_AUTH_SECRET (independent random secret, at least 32 characters)
+# TURNSTILE_SECRET_KEY
+# Apple sign-in is deferred and rejected by the Worker.
