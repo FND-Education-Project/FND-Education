@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#234f4b">
+  <meta name="description" content="My FND Journey, a private activity room interaction prototype.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>My FND Journey · Activity Room Prototype</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./src/app.mjs"></script>
+</head>
+<body>
+  <a class="skip-link" href="#activity-room">Skip to the Activity Room</a>
+  <header class="site-header">
+    <div class="heading-row">
+      <div class="brand-mark" aria-hidden="true">✿</div>
+      <div>
+        <p class="eyebrow">FND Education Project · Prototype</p>
+        <h1>My FND Journey</h1>
+      </div>
+    </div>
+    <p class="header-note">This first development preview tests placing and moving activity objects. It is <strong>not yet a symptom tracker</strong>.</p>
+  </header>
+
+  <main>
+    <section class="overview" aria-labelledby="overview-title">
+      <div>
+        <p class="eyebrow">Stage 0 · Local-only prototype</p>
+        <h2 id="overview-title">Your Activity Room</h2>
+        <p>Bring objects into a room, move them around, and leave them as cluttered as you like.
+          Objects arrive already coloured. <strong>Placing one never means you completed an activity.</strong></p>
+      </div>
+      <div class="privacy-note">
+        <strong>Private to this browser</strong>
+        <p>Layouts are saved on this device only. Anyone using this browser profile may be able to see them. No account or server is involved.</p>
+      </div>
+    </section>
+
+    <section id="activity-room" class="panel" aria-labelledby="room-heading">
+      <div class="panel-heading">
+        <div>
+          <h2 id="room-heading">My room</h2>
+          <p class="helper">Landscape scene; in portrait mode, scroll sideways to explore.</p>
+        </div>
+        <label class="date-control" for="room-date">Room date
+          <input type="date" id="room-date">
+        </label>
+      </div>
+      <div class="toolbar" aria-label="Scene zoom controls">
+        <button id="zoom-out" type="button">− Zoom out</button>
+        <output id="zoom-value" aria-label="Current scene zoom">70%</output>
+        <button id="zoom-in" type="button">+ Zoom in</button>
+        <button id="zoom-reset" type="button">Reset zoom</button>
+        <button id="undo" type="button" disabled>Undo last edit</button>
+      </div>
+
+      <div class="scene-viewport" id="scene-viewport" tabindex="0" role="region" aria-label="Scrollable scene; use the drawers, list, or arrow keys to move objects">
+        <div id="scene-space" class="scene-space">
+          <div id="scene" class="scene" aria-label="Activity Room background and objects"></div>
+        </div>
+      </div>
+
+      <p id="placement-hint" class="hint" aria-live="polite">Choose an object from a drawer below.</p>
+      <div class="drawer-heading">
+        <h3>Activity drawers</h3>
+        <button id="add-centre" type="button" disabled>Add at centre</button>
+      </div>
+      <div id="drawers" class="drawers"></div>
+    </section>
+
+    <section class="panel" aria-labelledby="objects-heading">
+      <h2 id="objects-heading">Objects in my room</h2>
+      <p class="helper">This list is an alternative to dragging. You can locate an object even when another object covers it.</p>
+      <p id="selection-status" class="selection-status" tabindex="-1">No object selected</p>
+      <div id="selected-controls" class="selected-controls" hidden>
+        <div class="toolbar" aria-label="Move selected object">
+          <button type="button" data-nudge="left">← Left</button>
+          <button type="button" data-nudge="right">Right →</button>
+          <button type="button" data-nudge="up">↑ Up</button>
+          <button type="button" data-nudge="down">Down ↓</button>
+        </div>
+        <div class="toolbar">
+          <button id="bring-front" type="button">Bring to front</button>
+          <button id="remove-selected" type="button">Return to drawer</button>
+        </div>
+      </div>
+      <ul id="object-list" class="object-list"></ul>
+    </section>
+
+    <section class="panel privacy-controls" aria-labelledby="privacy-heading">
+      <h2 id="privacy-heading">Device storage</h2>
+      <p class="helper" id="save-status" role="status" aria-live="polite">Opening local storage…</p>
+      <p>No images, symptoms, or journal text are uploaded. Saved layout coordinates can be removed here.
+        Clearing your browser's site data may also remove rooms.</p>
+      <div class="toolbar">
+        <button id="delete-day" type="button">Delete this day's room</button>
+        <button id="delete-all" type="button" class="danger" disabled>Delete all saved rooms on this device</button>
+      </div>
+      <p class="footnote">This stage does not include account linking, backup/export, encryption, reminders, capacity scoring, or clinical guidance. Avoid using it for important personal records until those protections are built and tested.</p>
+    </section>
+  </main>
+  <footer><p>Prototype only · FND Education Project · No subscriptions or health-data backend</p></footer>
+</body>
+</html>
