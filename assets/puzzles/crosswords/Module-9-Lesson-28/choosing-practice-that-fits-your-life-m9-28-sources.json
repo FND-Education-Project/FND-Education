@@ -1,0 +1,386 @@
+{
+  "title": "Choosing Practice That Fits Your Life",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 565,
+    "lesson": 28,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 9,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 74.49,
+  "included": [
+    {
+      "answer": "PROGRESS",
+      "borrowed": false,
+      "clue": "What slow rehabilitation may\n  reveal in the rearview mirror.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 4,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "PROGRESS",
+      "priority": 1,
+      "row": 892
+    },
+    {
+      "answer": "CONCENTRATION",
+      "borrowed": false,
+      "clue": "Mental effort that can make an\n  appointment exhausting.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 5,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "CONCENTRATION",
+      "priority": 1,
+      "row": 902
+    },
+    {
+      "answer": "PHYSIOTHERAPY",
+      "borrowed": false,
+      "clue": "Rehabilitation care directed at\n  movement and physical function.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 11,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "PHYSIOTHERAPY",
+      "priority": 1,
+      "row": 901
+    },
+    {
+      "answer": "INDEPENDENCE",
+      "borrowed": false,
+      "clue": "Being able to manage more without\n  another person's help.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 9,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "INDEPENDENCE",
+      "priority": 2,
+      "row": 903
+    },
+    {
+      "answer": "SPEECH",
+      "borrowed": false,
+      "clue": "Words aloud can improve gradually,\n  not all at once.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 1,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "SPEECH",
+      "priority": 1,
+      "row": 871
+    },
+    {
+      "answer": "REST",
+      "borrowed": false,
+      "clue": "A possible sequel to an exhausting\n  appointment.",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 1,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "REST",
+      "priority": 2,
+      "row": 884
+    },
+    {
+      "answer": "PATIENCE",
+      "borrowed": false,
+      "clue": "Rehab's useful companion, not a\n  lifetime contract.",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 3,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "PATIENCE",
+      "priority": 2,
+      "row": 898
+    },
+    {
+      "answer": "GAIN",
+      "borrowed": false,
+      "clue": "A little improvement that still\n  deserves notice.",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 2,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "GAIN",
+      "priority": 1,
+      "row": 875
+    },
+    {
+      "answer": "HOPES",
+      "borrowed": false,
+      "clue": "Wishes for recovery, without any\n  guarantees.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 11,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "HOPES",
+      "priority": 2,
+      "row": 879
+    },
+    {
+      "answer": "CARE",
+      "borrowed": false,
+      "clue": "Professional help that may need to\n  be individualized.",
+      "direction": "across",
+      "grid_col": 16,
+      "grid_row": 3,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "CARE",
+      "priority": 1,
+      "row": 883
+    },
+    {
+      "answer": "RECOVERY",
+      "borrowed": false,
+      "clue": "Regaining abilities, sometimes\n  only in part.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 14,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "RECOVERY",
+      "priority": 2,
+      "row": 893
+    },
+    {
+      "answer": "PLAN",
+      "borrowed": false,
+      "clue": "Worth revisiting when treatment\n  stops helping.",
+      "direction": "down",
+      "grid_col": 20,
+      "grid_row": 11,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "PLAN",
+      "priority": 1,
+      "row": 886
+    },
+    {
+      "answer": "MONTH",
+      "borrowed": false,
+      "clue": "A twelfth of a year; progress may\n  take several.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 2,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "MONTH",
+      "priority": 3,
+      "row": 877
+    },
+    {
+      "answer": "CARRYOVER",
+      "borrowed": false,
+      "clue": "When a clinic win packs a bag and\n  comes home.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 5,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "CARRYOVER",
+      "priority": 1,
+      "row": 897
+    },
+    {
+      "answer": "THERAPY",
+      "borrowed": false,
+      "clue": "Guided care, not a guaranteed\n  magic wand.",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 11,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "THERAPY",
+      "priority": 1,
+      "row": 891
+    },
+    {
+      "answer": "TOOL",
+      "borrowed": false,
+      "clue": "A therapist's aid isn't always a\n  hammer.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 13,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "TOOL",
+      "priority": 2,
+      "row": 874
+    },
+    {
+      "answer": "NOISE",
+      "borrowed": false,
+      "clue": "The waiting room's least welcome\n  soundtrack.",
+      "direction": "down",
+      "grid_col": 20,
+      "grid_row": 5,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "NOISE",
+      "priority": 2,
+      "row": 881
+    },
+    {
+      "answer": "HOME",
+      "borrowed": false,
+      "clue": "Where a clinic improvement meets\n  everyday life.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 0,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "HOME",
+      "priority": 1,
+      "row": 889
+    },
+    {
+      "answer": "STEP",
+      "borrowed": false,
+      "clue": "One of these can be a mighty\n  milestone.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 12,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "STEP",
+      "priority": 2,
+      "row": 876
+    },
+    {
+      "answer": "SENSORY",
+      "borrowed": false,
+      "clue": "Describing effects involving\n  sound, light or touch.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 7,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "SENSORY",
+      "priority": 2,
+      "row": 896
+    },
+    {
+      "answer": "TREMOR",
+      "borrowed": false,
+      "clue": "A hand's unwanted rhythm that can\n  sometimes settle.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 5,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "TREMOR",
+      "priority": 1,
+      "row": 870
+    },
+    {
+      "answer": "PRACTICE",
+      "borrowed": false,
+      "clue": "Repeated effort that may help a\n  skill grow familiar.",
+      "direction": "across",
+      "grid_col": 15,
+      "grid_row": 7,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "PRACTICE",
+      "priority": 1,
+      "row": 894
+    },
+    {
+      "answer": "REMINDERS",
+      "borrowed": false,
+      "clue": "Sticky notes serving as memory's\n  tiny assistants.",
+      "direction": "down",
+      "grid_col": 22,
+      "grid_row": 1,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "REMINDERS",
+      "priority": 2,
+      "row": 900
+    },
+    {
+      "answer": "WALK",
+      "borrowed": false,
+      "clue": "Give your shoes an actual\n  destination.",
+      "direction": "across",
+      "grid_col": 19,
+      "grid_row": 13,
+      "lesson": 28,
+      "module": 9,
+      "original_answer": "WALK",
+      "priority": 1,
+      "row": 872
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "SETBACK",
+      "clue": "A detour in progress, not\n  necessarily the end.",
+      "row": 890
+    },
+    {
+      "answer": "FEEDBACK",
+      "clue": "What a therapist needs about your\n  difficult days afterward.",
+      "row": 895
+    },
+    {
+      "answer": "COMMUNICATION",
+      "clue": "Speaking, writing or using aids to\n  share meaning.",
+      "row": 904
+    },
+    {
+      "answer": "WORD",
+      "clue": "Speech may return one of these at\n  a time.",
+      "row": 873
+    },
+    {
+      "answer": "RELIEF",
+      "clue": "The feeling when a difficult\n  action suddenly eases.",
+      "row": 878
+    },
+    {
+      "answer": "TOLL",
+      "clue": "What a demanding clinic trip can\n  take out of you.",
+      "row": 880
+    },
+    {
+      "answer": "LIGHT",
+      "clue": "A bright clinic hazard for some\n  migraine sufferers.",
+      "row": 882
+    },
+    {
+      "answer": "TEAM",
+      "clue": "Patient and therapist, ideally\n  pulling together.",
+      "row": 885
+    },
+    {
+      "answer": "SLOW",
+      "clue": "How gradual improvement can seem\n  from day to day.",
+      "row": 888
+    },
+    {
+      "answer": "UNCERTAIN",
+      "clue": "How tomorrow's response to therapy\n  may remain.",
+      "row": 899
+    },
+    {
+      "answer": "CHAT",
+      "clue": "Seizure-focused care might begin\n  with a conversation.",
+      "row": 887
+    }
+  ]
+}

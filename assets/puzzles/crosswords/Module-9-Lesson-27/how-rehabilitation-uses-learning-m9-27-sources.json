@@ -1,0 +1,386 @@
+{
+  "title": "How Rehabilitation Uses Learning",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 554,
+    "lesson": 27,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 9,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 73.71,
+  "included": [
+    {
+      "answer": "PROPRIOCEPTION",
+      "borrowed": false,
+      "clue": "Knowing\n  where your elbow is with your eyes shut.",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 3,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "PROPRIOCEPTION",
+      "priority": 1,
+      "row": 868
+    },
+    {
+      "answer": "ADAPT",
+      "borrowed": false,
+      "clue": "Change the method while keeping\n  the goal.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 12,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "ADAPT",
+      "priority": 2,
+      "row": 845
+    },
+    {
+      "answer": "NEUROPLASTICITY",
+      "borrowed": false,
+      "clue": "Experience-driven\n  changes in how nervous-system networks work.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 15,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "NEUROPLASTICITY",
+      "priority": 1,
+      "row": 866
+    },
+    {
+      "answer": "RETENTION",
+      "borrowed": false,
+      "clue": "Keeping a skill after the\n  practice session is over.",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 10,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "RETENTION",
+      "priority": 1,
+      "row": 855
+    },
+    {
+      "answer": "RESPONSE",
+      "borrowed": false,
+      "clue": "A familiar action after a\n  recognizable warning.",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 13,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "RESPONSE",
+      "priority": 2,
+      "row": 859
+    },
+    {
+      "answer": "RETRIEVE",
+      "borrowed": false,
+      "clue": "Ask memory's librarian for a\n  previously saved fact.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 11,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "RETRIEVE",
+      "priority": 2,
+      "row": 865
+    },
+    {
+      "answer": "SKILL",
+      "borrowed": false,
+      "clue": "Something that can grow smoother\n  with experience.",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 8,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "SKILL",
+      "priority": 1,
+      "row": 839
+    },
+    {
+      "answer": "LIFT",
+      "borrowed": false,
+      "clue": "Raise the cup; its weight may\n  surprise your hand.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 8,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "LIFT",
+      "priority": 3,
+      "row": 853
+    },
+    {
+      "answer": "ROUTINE",
+      "borrowed": false,
+      "clue": "Yesterday's tricky steps,\n  today's well-worn path.",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 4,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "ROUTINE",
+      "priority": 2,
+      "row": 857
+    },
+    {
+      "answer": "INTEROCEPTION",
+      "borrowed": false,
+      "clue": "The body's inside-news service\n  for hunger and heartbeat.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 18,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "INTEROCEPTION",
+      "priority": 1,
+      "row": 867
+    },
+    {
+      "answer": "BRAIN",
+      "borrowed": false,
+      "clue": "That\n  three-pound student keeps learning after graduation.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 0,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "BRAIN",
+      "priority": 1,
+      "row": 836
+    },
+    {
+      "answer": "HABIT",
+      "borrowed": false,
+      "clue": "A routine that barely needs a\n  reminder anymore.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 0,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "HABIT",
+      "priority": 2,
+      "row": 837
+    },
+    {
+      "answer": "LIST",
+      "borrowed": false,
+      "clue": "A grocery aid that remembers the\n  milk for you.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 9,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "LIST",
+      "priority": 2,
+      "row": 847
+    },
+    {
+      "answer": "CUE",
+      "borrowed": false,
+      "clue": "The\n  therapist's tiny prompt, not a pool stick.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 3,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "CUE",
+      "priority": 2,
+      "row": 838
+    },
+    {
+      "answer": "SIGNAL",
+      "borrowed": false,
+      "clue": "A\n  body message, such as hunger or a heartbeat.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 17,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "SIGNAL",
+      "priority": 1,
+      "row": 848
+    },
+    {
+      "answer": "VOICE",
+      "borrowed": false,
+      "clue": "What\n  a speech therapist may help become more reliable.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 10,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "VOICE",
+      "priority": 2,
+      "row": 840
+    },
+    {
+      "answer": "SIGHT",
+      "borrowed": false,
+      "clue": "The sense recruited by a bright\n  visual target.",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 17,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "SIGHT",
+      "priority": 2,
+      "row": 843
+    },
+    {
+      "answer": "AUTOMATIC",
+      "borrowed": false,
+      "clue": "Like\n  toothbrushing, no step-by-step committee required.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 2,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "AUTOMATIC",
+      "priority": 1,
+      "row": 864
+    },
+    {
+      "answer": "LEARN",
+      "borrowed": false,
+      "clue": "What a nervous system can do\n  without enrolling in school.",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 10,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "LEARN",
+      "priority": 1,
+      "row": 835
+    },
+    {
+      "answer": "FOCUS",
+      "borrowed": false,
+      "clue": "Where\n  attention goes when one task takes priority.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 17,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "FOCUS",
+      "priority": 2,
+      "row": 854
+    },
+    {
+      "answer": "SPEAK",
+      "borrowed": false,
+      "clue": "Use words aloud instead of\n  typing them.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 21,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "SPEAK",
+      "priority": 2,
+      "row": 841
+    },
+    {
+      "answer": "NOTE",
+      "borrowed": false,
+      "clue": "Paper\n  backup when memory takes a coffee break.",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 0,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "NOTE",
+      "priority": 2,
+      "row": 846
+    },
+    {
+      "answer": "GOAL",
+      "borrowed": false,
+      "clue": "The real-world purpose behind a\n  therapy activity.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 1,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "GOAL",
+      "priority": 1,
+      "row": 851
+    },
+    {
+      "answer": "PAUSE",
+      "borrowed": false,
+      "clue": "Speech's tiny pit stop when\n  thoughts get tangled.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 18,
+      "lesson": 27,
+      "module": 9,
+      "original_answer": "PAUSE",
+      "priority": 2,
+      "row": 849
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "TRANSFER",
+      "clue": "When\n  a clinic skill turns up in your kitchen.",
+      "row": 856
+    },
+    {
+      "answer": "ATTENTION",
+      "clue": "The\n  mental spotlight with competing attractions.",
+      "row": 860
+    },
+    {
+      "answer": "FEEDBACK",
+      "clue": "Information from lifting a cup\n  lighter than expected.",
+      "row": 861
+    },
+    {
+      "answer": "REHABILITATION",
+      "clue": "Care that aims to rebuild or\n  improve everyday abilities.",
+      "row": 869
+    },
+    {
+      "answer": "TOUCH",
+      "clue": "Hot\n  mug meets fingertip: this sense calls the meeting off.",
+      "row": 842
+    },
+    {
+      "answer": "REACH",
+      "clue": "Extend\n  your arm to grab the coffee mug.",
+      "row": 844
+    },
+    {
+      "answer": "MOVE",
+      "clue": "What\n  your body does when you take a step.",
+      "row": 852
+    },
+    {
+      "answer": "PREDICT",
+      "clue": "Guess\n  a cup's weight before you lift it.",
+      "row": 858
+    },
+    {
+      "answer": "MOVEMENT",
+      "clue": "The\n  nervous system's choreography, one action at a time.",
+      "row": 862
+    },
+    {
+      "answer": "STRATEGY",
+      "clue": "A learned approach to a\n  recurring difficulty.",
+      "row": 863
+    },
+    {
+      "answer": "TRY",
+      "clue": "Give\n  a new task a first attempt.",
+      "row": 850
+    }
+  ]
+}
