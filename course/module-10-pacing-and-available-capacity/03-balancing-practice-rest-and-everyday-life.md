@@ -1,10 +1,10 @@
 # Balancing Practice, Rest, and Everyday Life
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section remains an unapproved generated draft. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section is a human-authored review draft committed November 12, 2026, pending project-lead approval and quotation verification. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
 
 Lesson 32 examines treatment benefits and burdens alongside adaptation, rest and meaningful everyday participation.
 
-*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section last reviewed October 26, 2026.*
+*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter review draft committed November 12, 2026; approval pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -368,39 +368,93 @@ Natalie and Amira were both making progress in rehabilitation, but they needed t
 
 ## For Family, Friends, and Other Supporters
 
-### When helping becomes another full-time job
+### Could you get me an orange?
 
-A rehabilitation plan might be sensible in a clinic. But then comes travel, cooking, appointments, family responsibilities, symptoms and the next day. A supporter may find themselves arranging everything and trying to keep the entire plan going.
+Owen was having a difficult afternoon. His movement had been unreliable since morning, and his migraine was making it hard to concentrate.
 
-It's possible to care deeply about someone and still be exhausted by what they're asking of you—or what the system has left you to manage.
+He'd managed some of the rehabilitation activities agreed upon with his therapist, but now he needed to rest.
 
-### Preserve the relationship as well as the plan
+Maya had spent much of the day dealing with household jobs. She'd also taken Pip for a walk, picked up groceries and arranged an appointment for the following week.
 
-Ask together: Which activities are genuinely helpful? Which feel unsustainable? Is therapy leaving enough room for meals, meaningful connection and rest? Is an accommodation helping right now, even when symptoms haven't improved?
+Owen was sitting comfortably when he noticed an orange in the fruit bowl.
 
-You can offer support without taking responsibility for recovery. The person remains the authority on their priorities; your ability to help has limits worth respecting too.
+He wanted it. Unfortunately, getting up and walking to the kitchen felt much more difficult than it ordinarily would.
 
-One useful way to talk is: “I want this plan to work for both of us. I can help with transport twice this month, but not every day. Can we ask the team what other support is available?”
+He considered asking Maya.
 
-### Hand the clinical work back where it belongs
+Then he decided it was silly. He needed help with important things often enough. Surely he could manage without an orange.
 
-If a home routine is too difficult, unsafe or worsening symptoms, request review by the **physiotherapist, OT, SLP, psychologist or other treating clinician** who recommended it. Ask about the goal, dose, safety instructions, review criteria and whether another route is available. (*citations* [1](#citation-1), [3](#citation-3))
+A few minutes later, Maya came into the room.
 
-For complex needs, **primary care or a designated care coordinator** may need to clarify responsibilities and referrals. If supporter exhaustion threatens safe care, ask about additional practical services or respite options where available. Those services depend on locality, eligibility and consent; they cannot be assumed.
+"Everything all right?"
 
-Persistent or markedly changed medical symptoms still belong to the appropriate medical team, and emergencies require emergency services—not a renegotiated family pacing schedule.
+"Yes. Actually, could you get me an orange? Don't worry about it if you're busy."
 
-### A shared review, not a scorecard
+Maya looked toward the kitchen.
 
-Together, choose one part of the current plan to **keep, modify, pause or ask the team about**. Include what the person gains and what each person's contribution costs. Continuing aids, written reminders, sensory accommodations or assistance can remain necessary alongside rehabilitation.
+"Of course. Can I do it after I've had a few minutes to sit down?"
+
+Owen immediately regretted asking.
+
+"Never mind. It's not important."
+
+"I didn't say no," Maya replied.
+
+"I know. I just hate asking you to do things I should be able to do myself."
+
+Maya sat beside him.
+
+"I don't mind getting you an orange. But I'd like to be able to say 'in a few minutes' without you thinking you've done something wrong."
+
+Owen knew she had a point. He also knew that when he was exhausted, disappointment and frustration sometimes came more quickly. He'd been trying to recognize that pattern before it affected how he spoke to her.
+
+"Sorry. That came out sharper than I meant."
+
+"It's all right," Maya said. "I've been a little short with you today, too."
+
+Pip wandered over, apparently convinced that everyone had gathered to discuss his dinner.
+
+"At least one of us knows what he wants," Owen said.
+
+Later, Maya brought him the orange while making herself a cup of tea. They sat together, enjoying a quiet afternoon with Pip curled up nearby.
+
+It wasn't a particularly remarkable moment. Nobody had completed an important rehabilitation exercise or achieved a new level of independence.
+
+But they were comfortable, enjoying each other's company, and neither felt that the afternoon had been wasted.
+
+That evening, they talked about their usual routine. Between rehabilitation appointments, home exercises, household jobs, looking after Pip and managing symptoms, some weeks seemed to leave very little room for simply enjoying life together.
+
+They agreed that Owen's rehabilitation remained important. They also wanted to protect ordinary pleasures, Maya's opportunities to rest and the times when they could be together without everything revolving around illness.
+
+If the existing treatment arrangements continued making that balance difficult, they could discuss the practical demands with Owen's care team rather than trying to solve every problem between themselves.
+
+### What does the evidence tell us?
+
+Rutten and colleagues' 2025 qualitative study interviewed people with FND, caregivers and healthcare professionals about meaningful treatment outcomes. Participants identified everyday activities, independence, wellbeing and quality of life alongside changes in neurological symptoms. [Original research](https://doi.org/10.1007/s00415-025-12912-9).
+
+One spouse described the strain of supporting someone with FND:
 
 > “I don't blame him for any of this, I just need help!”
 
-*Figure 1. Community experience.* A spouse describes caregiver strain without blaming the person with FND. [Original public source](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). (*citations* [4](#citation-4))
+*Community voice — spouse and caregiver. [Original public discussion](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). This is an individual expression of needing support, not evidence that all caregiving relationships are alike. Original wording and context require final Work verification.* ([4](#citation-4))
 
-**Something to discuss together:** “What part of our plan makes life better, and what part would we like professionals to help us rethink?”
+### Better balance and a more sustainable relationship
 
-**One small thing:** Prepare one question for the treating team about a task or support that has become difficult to sustain. You don't need to solve it alone.
+Owen's difficulty asking for an orange wasn't really about fruit. It was about the difference between needing assistance and feeling entitled to receive it.
+
+Maya's response revealed another concern. She was willing to help, but she needed the freedom to rest or postpone a request without either person interpreting that as a failure of care.
+
+Those needs can coexist. A person with FND can ask for ordinary comforts, not only essential assistance. A supporter can offer kindness while also having legitimate limits.
+
+The same applies to communication. Exhaustion, pain and other symptoms may make patience harder to maintain, but recognizing that pattern can create opportunities to postpone a disagreement, clarify a misunderstanding or apologize when words come out more sharply than intended.
+
+Rehabilitation deserves a place in the household's plans. So do necessary chores, medical care, rest, friendship and ordinary enjoyment. A treatment plan that consistently leaves too little room for these activities may deserve professional review, particularly when support demands have become difficult to sustain.
+
+Pip needs his walks and meals, but he also brings companionship and affection. Caring for him takes something from the household's available capacity while giving something meaningful in return.
+
+**Better balance means making room for both people's needs and for the ordinary pleasures that make life worth sharing—not treating every available moment as an opportunity for treatment or another task.**
+
+The aim isn't a household where nobody needs help. It's a relationship where asking, helping, resting and enjoying each other's company can all have a place.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -492,4 +546,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-3"></a>**[3]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
 | <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0320](../../research/citation-index.md#fnd-cit-0320). |
 
-*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter authoring, Clinician original-source verification, subsequent lesson audits and independent clinical review remain pending.*
+*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter project-lead approval and quotation verification, Clinician original-source verification, subsequent lesson audits and independent clinical review remain pending.*
