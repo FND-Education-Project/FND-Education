@@ -1,10 +1,10 @@
 # What Uses Your Available Capacity?
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section remains an unapproved generated draft. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section is a human-authored review draft committed November 12, 2026, pending project-lead approval and quotation verification. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
 
 Lesson 30 examines how interruptions, competing demands and changing circumstances affect what a person can manage.
 
-*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section last reviewed October 26, 2026.*
+*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter review draft committed November 12, 2026; approval pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -314,35 +314,71 @@ Natalie and Jamie weren't attempting anything unusually difficult. Their problem
 
 ## For Family, Friends, and Other Supporters
 
-### Not everything tiring looks like exercise
+### The household rule nobody could keep
 
-Imagine accompanying someone to an appointment. They sit for most of the visit. Later they can barely manage a conversation.
+Owen and Maya had an agreement: they were never supposed to be sick at the same time.
 
-It may be hard to understand why, especially if the only activity you noticed was sitting. But the person may have been managing pain, concentrating on explanations, coping with lights or sounds, finding words and remembering instructions.
+It was an excellent rule, except neither of them had any idea how to enforce it.
 
-Our course uses **available capacity** as a way to describe what a person can manage in a particular situation—not a fixed quantity of energy that can be measured or spent like money. (*citations* [1](#citation-1), [2](#citation-2))
+On Tuesday morning, Maya woke with a miserable cold. Her throat hurt, her head ached, and she wanted nothing more than to curl up on the sofa beneath a blanket.
 
-A spouse and carer explained how several health problems affected their household:
+"I think the rule's been broken," Owen announced.
 
-### Ask about the task, not just the clock
+Maya gave him a sleepy smile. "You'll have to file a complaint."
 
-Rather than saying, “But you only did that for fifteen minutes,” ask which part was difficult. Was it standing, moving, bright light, noise, the mental work of following a discussion or the journey afterward?
+Owen wanted to look after her. Maya usually handled many of the household jobs when his FND symptoms were troublesome, and he was glad to have an opportunity to return some of that care.
 
-The person may know the answer—or they may not. You can help simplify a task, divide chores, carry items, use written instructions or protect time for something they enjoy, depending on what they want.
+He made breakfast, dealt with the dishes and took their little terrier, Pip, outside. Pip was delighted with the unexpected attention and thoroughly investigated every interesting smell along the path.
 
-A supporter has capacity too. Agree what help is realistic; if needs exceed what you can provide, that's a care-planning issue rather than a personal failure.
+Back inside, Owen remembered that Maya needed something from the pharmacy. He checked what they already had, made a list and arranged to collect a few things. He also prepared lunch, answered a telephone call and returned to the kitchen to finish cleaning up.
 
-### When to involve professionals
+None of the jobs was particularly unusual. Owen had done them all before.
 
-**OT** can analyze everyday task demands and accessibility. **PT** can assess movement and safety in relation to activity. **Primary care or relevant specialists** should evaluate fatigue, sleep disorders, migraine, pain, orthostatic symptoms or other coexisting conditions; new or substantially changed symptoms need reassessment. **Psychologists** may help with adjustment or mental-health needs if desired, but cannot substitute for investigating medical contributors.
+But as the afternoon progressed, he noticed that his walking was becoming less reliable. His migraine was worsening, and he kept forgetting what he'd gone into a room to do.
 
-> “she’s in bed probably half the week through either chronic fatigue or fibromyalgia pain.”
+Maya asked whether he wanted to leave the remaining jobs.
 
-*Figure 1. Community experience.* A spouse reports coexisting fatigue and pain. These are not automatically attributed to FND. [Original public source](https://www.reddit.com/r/FND/comments/1m2st47/comment/n3s00gm/). (*citations* [4](#citation-4))
+"You're sick," Owen replied. "I can manage a few more things."
 
-**Something to discuss together:** “Which part of today used the most effort, and what would you like to save energy for?”
+She appreciated his kindness, although she was beginning to worry about how tired he looked.
 
-**One small thing:** Choose one adaptation the person welcomes—perhaps written directions, a quieter setting or help with one household task. The point is improved participation, not proving how much capacity they have.
+That evening, Owen experienced one of his familiar functional seizures. Maya followed their agreed safety plan and remained with him until he recovered sufficiently.
+
+The following morning, Maya was still sick. Owen had a severe migraine, little energy and considerable difficulty moving around.
+
+Pip stood beside his empty breakfast bowl, looking deeply disappointed in both of them.
+
+"Apparently," Maya said, "he didn't read the memo."
+
+They had very little capacity between them, but Pip still needed feeding and a walk. There were also dishes in the kitchen and a growing list of things they'd hoped to accomplish.
+
+This time, they approached the day differently.
+
+Maya arranged a simple grocery delivery. Owen fed Pip while seated and left the dishes for later. A friend agreed to take the dog for a short walk.
+
+With the immediate needs covered, they spent much of the afternoon resting together. Pip eventually curled up between them, apparently satisfied that the household had returned to its proper priorities.
+
+### What does the evidence tell us?
+
+FND occupational-therapy consensus recommendations emphasize understanding activities in their everyday context, including the demands of household routines, environmental conditions and available support. Nicholson and colleagues (2020) provide a clinical foundation for considering how ordinary tasks interact rather than evaluating each activity separately. ([1](#citation-1))
+
+An Australian survey of people with FND and carers also documented the effects that disability and caring responsibilities can have on supporters' wellbeing. The survey was self-selected, so its findings cannot tell us how frequently these difficulties occur across all households. [Experiences of Functional Neurological Disorder — Summary Report (2019)](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf).
+
+*Community voice: A suitable first-person supporter quotation about shifting household responsibilities is being sought for this lesson. The research handoff requests one rather than inserting an unrelated quotation.*
+
+### Better recognition of shared demands
+
+Owen didn't suddenly become responsible for more because his FND had changed. Maya became ill, and responsibilities that were normally shared differently shifted toward him.
+
+Each task had its own demands. Together, they required more walking, planning, remembering, physical activity and attention than he ordinarily managed. His concern for Maya was also part of the experience.
+
+We cannot establish that these additional activities caused his seizure or the following day's difficulties. But the events give Owen and Maya a reason to reconsider how they handle a day when their usual arrangements aren't possible.
+
+The important change wasn't that Owen stopped wanting to help. It was that they recognized the household needed a different plan when both were struggling.
+
+**Better recognition of shared demands means noticing when responsibilities have shifted, considering what each person can realistically contribute and finding alternatives when their combined abilities aren't enough.**
+
+A household doesn't fail because the dishes wait until tomorrow. Sometimes taking care of each other means agreeing that tomorrow can handle the dishes.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -653,4 +689,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-7"></a>**[7]** | — | Pick et al. **Case-control study of cognitive performance in functional seizures and functional motor symptoms.** *Psychological Medicine*. 2026. [Original](https://doi.org/10.1017/S0033291726103420) · [FND-CIT-0326](../../research/citation-index.md#fnd-cit-0326). |
 | <a id="citation-8"></a>**[8]** | — | Wieling et al. **Clinical review of orthostatic hypotension.** *Lancet Neurology*. 2022. [Original](https://doi.org/10.1016/S1474-4422(22)00169-7) · [FND-CIT-0333](../../research/citation-index.md#fnd-cit-0333). |
 
-*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter authoring, clinician original-source verification and citation reconciliation, subsequent lesson audits and independent clinical review remain pending.*
+*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter project-lead approval and quotation verification, clinician original-source verification and citation reconciliation, subsequent lesson audits and independent clinical review remain pending.*
