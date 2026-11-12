@@ -520,6 +520,8 @@ While she is away, the neurologist continues examining David. She lifts one of h
 
 David does not respond verbally or make a purposeful movement.
 
+The neurologist records a Glasgow Coma Scale (GCS) score of 3/15 (E1, V1, M1), indicating no observable response during the assessment.
+
 The neurologist completes these maneuvers before his wife returns. She then continues working at her computer while David remains in the room.
 
 Gradually, over the next hour, David regains some voluntary movement, although he is still drowsy and unable to communicate normally. His wife helps him transfer into the wheelchair and takes him from the office.
