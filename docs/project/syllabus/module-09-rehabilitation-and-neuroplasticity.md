@@ -1,14 +1,14 @@
 # Module 9 — Rehabilitation and Neuroplasticity
 
 **Part Three: Applying What You Have Learned**<br>
-**Status:** Approved curriculum direction; planning evidence reviewed October 26, 2026; full lesson audit and clinical review pending.<br>
+**Status:** All nine audience sections were human-authored and project-lead approved November 10, 2026. Chat Audit 1 and Work review are complete; accepted corrections applied November 12, 2026. See the [Work audit](../../../reference/_internal/course/module-09-work-audit-2026-11-11.md) for retained findings, source-access limits and validation. Independent clinical review and publication decision remain pending. Older authoring seeds below are historical; current approved language is in the lesson files.<br>
 **Moves and refines:** Former [Module 14 — Rehabilitation and Neuroplastic Change](module-14-rehabilitation-and-neuroplastic-change.md).
 
 ## Purpose
 
 Put attention, automatic control, prediction and agency into a rehabilitation context, while explaining *neuroplasticity without promises of cure*. Keep access, safety and quality of life as outcomes alongside symptom improvement.
 
-## Proposed focused lessons
+## Original focused-lesson plan (historical)
 
 ### Lesson 27 — How Rehabilitation Uses Learning
 - Neuroplasticity means nervous systems can adapt with experience, but does not guarantee recovery.
@@ -55,12 +55,12 @@ The [remaining new-lesson research briefs](../../../reference/_internal/course/n
 
 ## Person-section editorial drafts
 
-[Read the complete Person sections for this module](../../../reference/_internal/course/person-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md). These are **internal human-review drafts**, not published course pages. The Supporter and Clinician sections deliberately remain undecided. Community quotes are candidates from the project's source notebook and require verification in their original context before publication. Evidence references, research citations, accessible illustrations, puzzles and final course integration remain follow-up Work tasks.
+[Read the complete Person sections for this module](../../../reference/_internal/course/person-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md). These are **internal human-review drafts**, not published course pages. The Supporter and Clinician sections have since been human-approved in the public lesson files. This link remains a historical Person draft, not the current source of truth. Community quotes are candidates from the project's source notebook and require verification in their original context before publication. Evidence references, research citations, accessible illustrations, puzzles and final course integration remain follow-up Work tasks.
 
 ## Clinician-section editorial draft
 
-[Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **Supporter sections remain unwritten.** Clinical statements are grounded in internal source-review material, but final paper-level verification, citations and specialist sign-off are pending.
+[Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **All three Supporter sections have since been human-authored and approved; this is a historical clinician draft.** Clinical statements are grounded in internal source-review material, but final paper-level verification, citations and specialist sign-off are pending.
 
 ## Supporter-section editorial draft
 
-[Read the complete Supporter sections for this module](../../../reference/_internal/course/supporter-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md). The drafts develop **consent-based shared adaptations**, protect the person's autonomy, and show when diagnosis, safety, specialized recovery methods or treatment decisions should be passed to PT, OT, psychology, neurology, SLT or another appropriate professional. They include candidate source-linked caregiver quotations. For the [16-lesson quotation and referral framework](../../../reference/_internal/course/supporter-drafts-2026-10-26/README.md), see the internal index. **Community quotes and clinical claims still require the final source/citation review.**
+[Read the complete Supporter sections for this module](../../../reference/_internal/course/supporter-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md). These historical drafts develop **consent-based shared adaptations**, protect the person's autonomy, and show when diagnosis, safety, specialized recovery methods or treatment decisions should be passed to PT, OT, psychology, neurology, SLT or another appropriate professional. They include candidate source-linked caregiver quotations. For the [16-lesson quotation and referral framework](../../../reference/_internal/course/supporter-drafts-2026-10-26/README.md), see the internal index. **Community quotes and clinical claims still require the final source/citation review.**

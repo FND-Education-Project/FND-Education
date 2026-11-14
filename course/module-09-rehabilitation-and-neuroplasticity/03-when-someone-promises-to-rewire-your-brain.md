@@ -1,10 +1,8 @@
 # When Someone Promises to Rewire Your Brain
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Working draft:** All three audience sections are human authored and project-lead approved November 10, 2026. Chat Audit 1 and Work evidence/citation review completed; accepted corrections applied November 12, 2026. Source-access limits and owner-retained findings are recorded in the audit. Independent clinical review and publication decision remain pending.
 
-Lesson 29 explores when Someone Promises to Rewire Your Brain through everyday examples, collaborative adaptations and clinical reasoning.
-
-*Last reviewed: October 26, 2026*
+Lesson 29 compares what treatments have achieved across symptoms with what proposed brain-learning mechanisms can explain.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -16,45 +14,207 @@ Lesson 29 explores when Someone Promises to Rewire Your Brain through everyday e
 
 ## For the Person With FND
 
-### The word “rewiring” can sound wonderful
+<!-- Person section human-authored and approved by the project lead, November 10, 2026.
+Numbered sources have been inserted and figure numbering reconciled for this draft.
+Original-paper details, exact community wording/context and stable source IDs remain
+assigned to Work's original-source verification and publication audits.
+Supporter and Clinician prose were subsequently human-authored and approved November 10, 2026; evidence and publication checks remain pending. -->
 
-Imagine an advertisement: *Retrain your brain. Follow this programme. Get your old life back.*
+### A promise worth looking into
 
-It speaks directly to something many people with FND want. When life has become smaller or harder, hope matters.
+Natalie finds a website promising to *rewire the brain* and help people recover from FND.
 
-But hope and evidence are different things.
+A few weeks ago, that might have sounded mysterious. Now she recognizes some of the ideas behind it. When her walking changes, she can see why attention or prediction might be involved. She can even imagine why practising a movement differently might help.
 
-**[Neuroplasticity](../../glossary/README.md#neuroplasticity)** is real. It doesn't follow that every programme advertising brain rewiring has been shown to work for FND—or that failure to improve means the person didn't believe or practise enough. (*citations* [3](#citation-3))
+The website describes a treatment programme.
 
-### Questions worth asking
+> **Treatment programme:** A planned series of appointments or activities intended to help someone improve their health or abilities.
 
-What exactly is the treatment supposed to improve? Has it been studied in people with symptoms like yours? Were results compared with another treatment or ordinary care? Were any harms reported? How much time, money and energy does it require?
+Natalie is interested. She would welcome the chance to regain some of her abilities.
 
-Most importantly, is there room to say, “This isn't helping me,” without being blamed?
+But understanding **why something might help** isn't the same as knowing **whether it has helped**.
 
-### Evidence can be mixed
+Fortunately, researchers have tested several FND treatments. Let's see what they discovered.
 
-A study may find that some people benefit while others don't. A programme might help confidence or participation without clearly reducing the main symptom measured in a trial. A small encouraging study may still leave important questions unanswered.
+### How can we tell whether a treatment helps?
 
-Honest care should explain these limits.
+Suppose ten people try a treatment and seven improve. That sounds promising. But perhaps some would have improved during that time anyway.
 
-One person's success story is worth hearing as lived experience. It does not prove a treatment works for everyone. Neither does one disappointing story mean every version of care is useless.
+Researchers can learn more by comparing people who receive different care.
 
-### Keeping your choices yours
+> **Randomized study:** A study in which people are placed into different groups by chance, allowing researchers to compare how well treatments work.
 
-A treatment plan should include meaningful goals, reasonable effort, consent, access needs, and a way to review benefit or harm.
+The questions researchers ask also matter. A treatment could help someone walk more easily without improving every part of daily life. Or someone might regain an important ability while other symptoms continue.
 
-You can ask to slow down, modify or stop an unsuitable approach and seek guidance. You are not required to accept a theory about your childhood, your personality or your thoughts as the explanation for FND.
+### Can movement improve?
+
+One large study looked at physiotherapy for functional movement difficulties.
+
+Some people received specialist FND physiotherapy. Others received regular neurological physiotherapy.
+
+After a year, the specialist treatment hadn't clearly improved people's overall physical abilities more than the other treatment.
+
+But when people were asked about their movement symptoms, the results were different.
+
+| Treatment | People reporting improvement |
+|---|---:|
+| Specialist FND physiotherapy | **59%** |
+| Regular neurological physiotherapy | **38%** |
+
+More people receiving specialist physiotherapy reported that their movement symptoms had improved. (*citations* [1](#citation-1))
+
+A smaller study also found that people receiving both physiotherapy and talking therapy had better physical health after five months than people receiving psychological support alone. (*citations* [2](#citation-2))
+
+So there are reasons to be hopeful about movement rehabilitation, although researchers are still learning which approaches help most.
+
+### Can functional seizures become less frequent?
+
+A large study called **CODES** compared medical care alone with medical care plus talking therapy designed for functional seizures.
+
+After a year, the extra therapy hadn't clearly reduced seizure frequency more than medical care alone. However, people receiving it reported improvements in some other parts of life, including work and social activities. (*citations* [3](#citation-3))
+
+Another study, called **[ReACT](../../reference/recovery-techniques/functional_seizures/06-react-for-children-and-adolescents.md)**, tested a different treatment in children and teenagers.
+
+All 17 young people checked in the treatment group reported no seizures during the seven days researchers measured after treatment. (*citations* [4](#citation-4))
+
+That sounds remarkable, but seven seizure-free days mean different things to someone who usually has several seizures a day and someone who has only one or two a month.
+
+The results were encouraging, especially compared with the other group receiving care. But the study was small, and longer-term results were less certain.
+
+Looking at several studies together, medical experts concluded in 2026 that psychological treatments **may help some people have fewer functional seizures or become seizure-free**. (*citations* [5](#citation-5))
+
+Helen, who shared her experience of functional seizures, described a substantial change:
+
+> “I now haven’t had an attack for 4 or 5 months and hardly even think of them very often.”
+
+*Figure 1. Helen describes several months without functional seizures.* [Helen's Story](https://neurosymptoms.org/en/stories/functional-seizures/helens-story/) (*citations* [12](#citation-12))
+
+Her story involved several kinds of help, so we can't know which contributed most. But it gives us a picture of the recovery some people experience.
+
+### What about speech and memory?
+
+You might already recognize how attention and automatic control could affect speaking. But there's also research on whether treatment helps.
+
+In one study, people with functional voice difficulties who received voice therapy reported greater improvement after three months than people who didn't receive it. (*citations* [6](#citation-6))
+
+That's encouraging for people with similar voice problems. Other difficulties, such as functional stuttering, still need more research.
+
+Natalie is particularly interested in memory and concentration.
+
+In a small study, people with functional cognitive disorder tried a six-week online treatment programme.
+
+Of the 26 people who answered afterward, **16 reported at least some improvement**. Some found the treatment unhelpful or worrying.
+
+Because everyone received the treatment, researchers couldn't be sure how much improvement would have happened without it. (*citations* [7](#citation-7))
+
+Another small study compared two treatments for cognitive difficulties after concussion. Both groups felt more satisfied with their memory, although that doesn't necessarily mean their memory improved on tests. (*citations* [8](#citation-8))
+
+One participant in the online treatment described a benefit:
+
+> “It helped me realise that just because I forget things some days it doesn’t mean I will always forget.”
+
+*Figure 2. A participant describes what they learned about their memory difficulties.* [Original study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12241858/#T4) (*citations* [7](#citation-7))
+
+Researchers are still learning how best to help people regain cognitive abilities. Meanwhile, understanding and managing difficulties can also make everyday life easier.
+
+### What if research is still limited?
+
+Some symptoms haven't been studied nearly as much.
+
+In one study, **28 of 33 children** with diagnosed functional visual loss regained their measured eyesight during a short course of treatment.
+
+That was encouraging, but everyone received the treatment. Researchers couldn't tell how much recovery might have happened without it. (*citations* [9](#citation-9))
+
+Scientists still need more studies before they can confidently recommend particular treatments for functional visual loss. (*citations* [10](#citation-10))
+
+This research concerns a particular diagnosed visual problem. It doesn't automatically apply to Natalie's light sensitivity from migraine, or every visual symptom someone with FND might experience.
+
+### Have scientists actually seen the brain change?
+
+Now Natalie returns to that word: *rewiring*.
+
+In one small study, 15 adults with functional tremor received talking therapy. After twelve weeks, **11 had little or no tremor**. Researchers also saw changes in brain activity during a scan. (*citations* [11](#citation-11))
+
+But everyone received the therapy, so researchers couldn't be sure what caused the improvements. And the scan didn't show nerve cells being rewired or prove that the brain changes caused the recovery.
+
+**A treatment can help even when we don't know exactly how it works.** And seeing a change in brain activity doesn't prove which treatment caused it.
+
+Natalie can now distinguish between a believable explanation and proof that a treatment helps.
+
+<figure class="image-60center" markdown="1">
+
+![On the left, a girl dreams of identical brain minions and perfectly organized neuron connections. On the right, she looks tired but smiles while shelving a book; varied minions and an uncertain researcher occupy the less orderly brain scene.](../../assets/images/lesson-29-illustration.png)
+
+<figcaption>Real progress can be smaller than the dream of perfect rewiring—and still matter in everyday life.</figcaption>
+
+</figure>
+
+### More confident questions
+
+Natalie goes back to the website she found earlier. She still hopes the treatment might help, and she recognizes the neurological ideas behind it.
+
+But she wants to know what happened to people who actually tried **this treatment**.
+
+Did their walking improve? Did seizures stop? Were they able to speak or think more easily? How many people improved, and how long did it last?
+
+She also wants to know about the time, cost and difficulties involved.
+
+A community member expressed frustration with exaggerated promises:
 
 > “I do mind the near guarantee of a cure and when it doesn't work they blame you”
 
-*Figure 1. Community experience.* An exact excerpt from a comment about cure promises and blame; numerical prognosis claims elsewhere in that comment are not adopted. [Original public source](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/). (*citations* [4](#citation-4))
+*Figure 3. A community member objects to promises of a cure followed by blame.* [Original community discussion](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/) (*citations* [13](#citation-13))
 
-**Something to think about:** Does the language used about a treatment leave room for honest uncertainty?
+Natalie doesn't need to become a scientist. She can recognize why a treatment might help and ask whether researchers have shown that it does.
 
-**One small step:** Before committing to something new, choose one question to ask: “What evidence supports this for symptoms like mine?” or “What happens if I get worse?” A useful answer is worth more than an impressive slogan.
+And she can appreciate something hopeful: **people with different FND symptoms have regained important abilities through treatment.**
 
-Our next module turns toward day-to-day capacity—because even a good rehabilitation idea needs to fit into a real life.
+No one can promise the same result for everyone, but those improvements give researchers good reasons to keep investigating.
+
+Natalie's two questions are simple:
+
+**“Why might this treatment help with my symptoms?”**
+
+**“What happened when people tried it?”**
+
+### Something to think about
+
+Imagine a treatment advert that names a brain process you recognize. What would you ask to find out whether the treatment—not just its explanation—has helped people?
+
+### How might that feel?
+
+How might you feel knowing that some people have regained important abilities through rehabilitation, even though researchers can't predict exactly what will happen for you?
+
+### One small step
+
+If someone recommends a treatment, you could ask:
+
+**“Has this been tested for symptoms like mine, and what improved?”**
+
+You don't need to read the studies yourself. Someone recommending a treatment should be able to explain what is known, what isn't and how that information relates to you.
+
+Next, we'll explore how everyday activities use up the energy and attention we have available—and what that means for living with FND.
+
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-29" aria-label="Browse Lesson 29 crossword"><img src="{{ '/assets/puzzles/thumbnails/when-someone-promises-to-rewire-your-brain-m9-29-normal.svg' | relative_url }}" alt="Preview of the Lesson 29 crossword grid" loading="lazy" decoding="async"><span>When Someone Promises to Rewire Your Brain</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 29 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-9-Lesson-29/when-someone-promises-to-rewire-your-brain-m9-29-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-9-Lesson-29/when-someone-promises-to-rewire-your-brain-m9-29-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-9-Lesson-29/when-someone-promises-to-rewire-your-brain-m9-29-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-29-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-29-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 29 colouring-book illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-29-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 29 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-29">browse the colouring collection</a>.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -66,31 +226,193 @@ Our next module turns toward day-to-day capacity—because even a good rehabilit
 
 ## For Family, Friends, and Other Supporters
 
-### Wanting a treatment to work is understandable
+<!-- Supporter section human-authored and approved November 10, 2026.
+Two-pair story with a distinct treatment-pressure case and repeated unsolicited
+recommendations case. Work review completed with documented findings; independent clinical review pending. -->
 
-A video shows someone walking more easily after a session. A website promises to retrain the brain in six weeks. Someone you trust recommends a costly course.
+### A promising discovery
 
-You may feel hopeful and eager to share it. That's understandable. The difficulty begins when hope turns into pressure: “If you try this and work hard enough, you'll get better.”
+Priya is browsing the internet when she comes across an advertisement for a six-week FND rehabilitation programme.
 
-### Support a decision instead of selling a solution
+*Rewire Your Brain. Rediscover Your Abilities.*
 
-If the person wants help looking at a programme, read the evidence together. Ask who was studied, what changed, how long benefits lasted, what risks or costs exist and how people who did not improve were treated.
+The website has encouraging recovery stories, videos of people moving more comfortably and references to neurological research.
 
-Be careful with success stories. They can be meaningful without predicting another person's outcome. A therapist working with movement, a specialist delivering seizure-focused psychological treatment and someone selling a universal brain-rewiring programme are not offering interchangeable interventions.
+Her husband Daniel has been attending rehabilitation for several months. His hand movements have gradually become more reliable, and he's regained some useful abilities. Priya is delighted with his progress, but she knows how much effort it has required.
 
-### When the clinician needs to answer
+The new programme sounds like it might help him improve faster.
 
-Before a significant, expensive or potentially risky programme, ask the relevant **neurologist, rehabilitation professional or other qualified clinician** whether it suits this symptom presentation and what evidence supports it. Medication changes require a prescriber. Neither supporters nor clinicians should interpret non-response as proof of unwillingness. (*citations* [3](#citation-3))
+She's already familiar with **neuroplastic learning**: the nervous system can change through experience, sometimes allowing an ability to become more reliable with practice. Daniel's improvements have given them reasons to be hopeful about that possibility.
 
-You can accompany the person to appointments if invited. You can also voice concern about a treatment that worsens safety or requires unsafe exertion. The ultimate treatment choice remains shared between the person and their appropriately qualified care team.
+When Daniel joins her, she shows him the website.
 
-> “He feels gaslit and like doctors are telling him it's his own fault.”
+"Look at this! They're using neuroplasticity to help people recover."
 
-*Figure 2. Community experience.* A spouse describes how an explanation was received, not an assessment of a treatment’s efficacy. [Original public source](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). (*citations* [5](#citation-5))
+Daniel watches a short video.
 
-**Something to discuss together:** “Would you like me to help compare the actual evidence, or would you prefer not to talk about treatments today?”
+"That looks interesting."
 
-**One small thing:** If a treatment comes up, ask one respectful question about benefits, harms, costs or uncertainty. There's no need to resolve everything at once.
+"Doesn't it? Imagine if you could get more of your abilities back by Christmas."
+
+Daniel smiles, but his enthusiasm is more cautious. The programme requires frequent appointments, and they've already discovered how difficult those can be.
+
+Later that evening, Priya mentions it again. She's found the prices and discovered that the provider offers a payment plan.
+
+Daniel listens, then says, "I don't know, Priya. I'm finally getting somewhere with the treatment I'm doing."
+
+"But this could help you get there faster."
+
+"Maybe. I just don't know if I want to start something else."
+
+Priya looks disappointed.
+
+"I thought you'd be excited about getting better."
+
+Daniel puts down his cup.
+
+"Of course I want to get better. I just don't know if this is how."
+
+Priya hadn't meant to question his commitment to recovery. She'd been imagining all the things they might enjoy again, and the possibility of reaching those goals sooner had carried her away.
+
+Daniel wants those things too. But he's the one who would have to attend the appointments, manage the demands and live with the results.
+
+### Two people hoping for the same thing
+
+The next morning, Priya brings up their conversation.
+
+"I think I got a little carried away yesterday."
+
+Daniel smiles. "You did mention the programme three times."
+
+"Four, actually. I was counting."
+
+They laugh, and Priya admits that she sometimes finds it difficult watching his recovery happen so slowly. She's proud of what he's achieved, but she misses the freedom they used to have together.
+
+Daniel understands. He misses it too.
+
+"I don't mind looking at other treatments," he says. "I'd just like to know more before we spend thousands of dollars."
+
+They look at the website again, this time without trying to reach an immediate decision.
+
+One research link leads to a study of specialist physiotherapy for functional movement disorders. The study reported encouraging improvements for some participants, although the findings were mixed across different measures. (*citations* [1](#citation-1))
+
+But the study didn't test the private programme being advertised.
+
+The research may support some of the ideas behind the treatment without establishing that this particular programme produces the promised results.
+
+"So neuroplastic learning is real," Priya says, "but that doesn't mean every programme using it will work."
+
+"Exactly. I'd rather ask my physiotherapist about it before deciding."
+
+Priya agrees. She still hopes the programme might offer something worthwhile, but she no longer feels that Daniel must try it to demonstrate how badly he wants to recover.
+
+A few weeks later, Daniel manages to prepare breakfast with less difficulty than before.
+
+Priya notices him carrying two plates to the table.
+
+"Look at you! Breakfast service!"
+
+"Don't get used to it," Daniel replies. "The restaurant closes at nine."
+
+They enjoy their breakfast.
+
+Daniel's improvement may reflect neuroplastic learning becoming useful in everyday life. There's still plenty he struggles to do, but this achievement is real.
+
+And for once, neither of them is thinking about the next treatment.
+
+### When everybody has a suggestion
+
+Across town, Natalie is having a very different problem.
+
+Over the past few months, several well-meaning acquaintances have sent her articles, recovery stories and recommendations for treatments they think might help her FND.
+
+Some are about rehabilitation. Others involve special diets, supplements or expensive programmes promising remarkable improvements.
+
+Natalie appreciates that people are thinking of her, but keeping up with the suggestions has become exhausting.
+
+One person recently sent her a recovery video with the message:
+
+*This woman had FND too! Maybe you should try what she did.*
+
+Natalie watched the video. She was pleased for the woman, but her symptoms were different, and the treatment hadn't been explained very clearly.
+
+A few days later, the same acquaintance asked whether Natalie had signed up.
+
+When Natalie said she was still considering her treatment options, the response was disappointing.
+
+*Well, you've got to keep trying things if you want to get better.*
+
+Now Natalie feels she needs to explain her decisions whenever someone sends another recommendation.
+
+It's becoming another responsibility in a life already filled with medical appointments, symptoms and everyday difficulties.
+
+### An afternoon without treatment advice
+
+When Leah comes to visit, Natalie mentions the messages.
+
+"I know people mean well, but I feel like I'm constantly being given homework."
+
+Leah laughs sympathetically.
+
+"I did send you a website a few months ago, didn't I?"
+
+"The FND Education Project!" Natalie laughs. "That one actually **DID** work out. I've learned so much from it."
+
+"Oh, good! I was beginning to worry I'd added to your homework."
+
+"Well, you did. But that was homework worth doing. It helped me understand what was happening and gave me better questions to ask my doctors."
+
+Leah smiles. "I'll take that as my one successful recommendation."
+
+They both laugh. Leah understands why people send those suggestions. When someone you care about is struggling, finding something that might help can feel better than doing nothing.
+
+Natalie nods.
+
+"I understand that. And I haven't stopped looking for ways to improve. But sometimes I just want to get on with my life instead of researching another treatment."
+
+Leah thinks about the time Natalie spends managing her symptoms, arranging appointments and recovering afterward. She also remembers how hard Natalie has worked to understand FND.
+
+Perhaps all those recommendations, however kindly intended, make Natalie feel that she hasn't done enough.
+
+"Would you rather people stopped sending them?"
+
+"Not necessarily. Sometimes I find something useful. I just wish they didn't expect me to try everything."
+
+Leah understands the difference.
+
+Natalie can believe in neuroplastic learning, remain interested in rehabilitation and hope for further recovery without treating every new suggestion as an obligation.
+
+She doesn't have to explain that distinction to everyone who sends her a link.
+
+"So," Leah says, reaching for the bakery bag, "would you like to hear about my disastrous attempt at making sourdough?"
+
+Natalie looks delighted.
+
+"Finally! A problem that isn't neurological."
+
+"Don't be so sure. I think the dough lost the ability to function."
+
+They settle into their usual conversation, enjoying an afternoon that doesn't need to accomplish anything related to rehabilitation.
+
+### Hope without expectations
+
+Priya and Leah have each discovered something about wanting another person to recover.
+
+Priya's excitement briefly became an expectation that Daniel should pursue a particular treatment. Once they talked about it, she understood that questioning a programme didn't mean questioning recovery.
+
+Leah recognized another difficulty: being offered help repeatedly can become tiring when every suggestion seems to require a decision or explanation.
+
+Neither supporter needed to abandon hope. They simply found ways to share it without adding pressure.
+
+For Daniel, that leaves room to continue rehabilitation, celebrate improvements and consider other treatments when he's ready.
+
+For Natalie, it means she can explore possibilities while still enjoying time with friends that has nothing to do with treatment.
+
+**Someone can genuinely want to recover without wanting to try every proposed treatment. Respecting that difference is one way supporters can share hope without making it another responsibility.**
+
+**Something to discuss together:** "When I find a treatment that sounds promising, would you like me to share it with you, or would you rather look for those things yourself?"
+
+**One small thing:** Before forwarding a recovery story or treatment recommendation, consider whether the person has invited suggestions. Sometimes sharing an ordinary conversation is more welcome than another possible solution.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -102,29 +424,154 @@ You can accompany the person to appointments if invited. You can also voice conc
 
 ## For Clinicians and the Care Team
 
-### Explain studies without erasing either benefit or limits
+<!-- Clinician section human-authored and approved November 10, 2026.
+Work review completed with documented findings; independent clinical review pending. -->
 
-A mechanism model, a consensus statement and a randomized efficacy trial answer different questions. When presenting a programme, specify the enrolled population, comparator, primary endpoint, follow-up time, secondary findings, relevant adverse effects and access burden. A compelling therapist demonstration may inform feasibility but does not establish average efficacy or identify an active ingredient. (*citations* [3](#citation-3))
+### When the research sounds convincing
 
-**Functional motor rehabilitation — Physio4FMD:** The 2024 pragmatic randomized study did not show superiority of specialist over usual neurological physiotherapy on its primary 12-month physical-function endpoint, although several secondary outcomes favoured specialist treatment. Both arms received active care. Neither “physiotherapy cures FND” nor “physiotherapy is ineffective” follows from these results. Consider selection and missing-data limitations when counselling patients. [1](#citation-1).
+Natalie has longstanding FND, including functional movement difficulties and severe functional seizures. She has been receiving rehabilitation, but progress is slow.
 
-**Functional seizures — CODES and subsequent guidance:** The CODES trial did not find a statistically significant benefit of seizure-specific CBT added to standardized medical care for the primary monthly-seizure-frequency measure at 12 months; some relevant secondary outcomes favoured CBT. The broader 2026 AAN guideline reviews additional studies and describes psychological interventions as possibly effective. Neither finding guarantees a change in seizure frequency for a particular person; continue follow-up and attend to non-frequency outcomes. [2](#citation-2) · [3](#citation-3).
+She finds a private treatment programme online. It promises to help people *rewire their brains* through activities based on neuroplasticity.
 
-For other presentations—functional tics, visual loss, cognition, swallowing, facial symptoms, drop attacks and more—intervention-specific comparative data may be thinner. Separate professional consensus, emerging research and broad rehabilitation analogies. Do not cite a motor trial as direct evidence for a swallowing, cognitive or vocal technique.
+The website refers to a study in which 59% of people receiving specialist FND physiotherapy reported improvement.
 
-### Respond to commercial “rewiring” claims responsibly
+Natalie brings the information to her physiotherapist.
 
-Ask the patient what they were promised, what it costs, and whether outcomes are reported transparently. Explain the difference between learning-related plasticity and programme-level efficacy without shaming someone who found a private service helpful. Document patient-defined goals, burden, access inequity and reasons to pause or withdraw an unsuitable treatment.
+"That sounds pretty good. They say their treatment uses the same science. Do you think it could help me?"
 
-No treatment should require acceptance of an unsupported trauma narrative, insist symptoms are deliberate or describe ongoing disability as noncompliance. Separate treatment responsiveness from diagnosis and credibility.
+The physiotherapist recognizes the study. Its results are encouraging, but something about how they're being presented deserves closer attention.
 
-### Agree how benefit is judged
+**Does the research support this particular treatment, or is the programme borrowing support from research into something different?**
 
-Follow symptom burden alongside function, recovery time, injuries, confidence, autonomy, participation and quality of life. Choose the smallest set of useful measures; an outcome assessed in clinic may not capture the cost of daily activity or caregiver assistance. If a measure is not validated for the relevant presentation, state that limitation.
+### What was actually tested?
 
-**Clinical challenge:** What would you tell a patient whose measured tremor improves but whose falls and exhaustion are unchanged? Acknowledge the improvement, reassess the plan and retain safety/access care rather than calling the treatment complete.
+The figure Natalie found comes from a large study comparing specialist FND physiotherapy with regular neurological physiotherapy.
 
-**Evidence basis:** [1](#citation-1), [2](#citation-2), [3](#citation-3).
+After twelve months, 59% of people receiving specialist treatment reported improvement in movement symptoms, compared with 38% receiving the other physiotherapy.
+
+However, the study didn't find a clear advantage for specialist treatment in its main measurement of overall physical functioning. (*citations* [1](#citation-1))
+
+Both results matter.
+
+The research offers evidence that people can improve through rehabilitation, and that specialist approaches may have advantages for certain outcomes.
+
+But the website's programme wasn't the treatment being studied.
+
+Its activities, staff, level of support and length of treatment may be different.
+
+The physiotherapist therefore has two separate questions to consider.
+
+First, what does the research tell us about specialist physiotherapy for functional movement difficulties?
+
+Second, what evidence shows that the programme Natalie found produces similar improvements?
+
+The answer to the first question cannot automatically answer the second.
+
+### When a reasonable explanation isn't enough
+
+Suppose the private programme describes exercises involving attention, automatic movement and repeated practice.
+
+Those ideas are familiar to the physiotherapist. They appear in professional recommendations for functional movement rehabilitation.
+
+The explanation may be reasonable.
+
+However, using similar principles doesn't mean two treatments will produce the same results.
+
+Even small differences in how a treatment is delivered may matter. The people receiving it, the activities involved, the professional support and the opportunities to adjust treatment can all influence the experience.
+
+This doesn't establish that the private programme is ineffective.
+
+It means its effectiveness hasn't been demonstrated by the study Natalie was shown.
+
+A useful distinction is emerging:
+
+> **Evidence for a treatment:** Research about what happened when people received that treatment. Research into a different treatment may help explain the idea behind it, but cannot establish that the results will be the same.
+
+That distinction may be especially useful when a programme advertises neurological principles that are well established but offers little information about its own results.
+
+### What about Natalie's functional seizures?
+
+Natalie has another reason for considering the programme.
+
+The website suggests that its brain-retraining approach could also improve functional seizures.
+
+This raises a separate problem.
+
+The physiotherapy study involved functional movement disorders. It doesn't establish that the advertised activities reduce functional seizures.
+
+Research into functional seizures follows a different path.
+
+For example, the large CODES trial compared medical care alone with medical care plus seizure-focused talking therapy. The additional therapy did not clearly reduce seizure frequency more than medical care alone after twelve months, although some other outcomes improved. (*citations* [3](#citation-3))
+
+The wider research considered in the 2026 American Academy of Neurology guideline suggests that psychological interventions may improve seizure frequency and the chance of becoming seizure-free. (*citations* [5](#citation-5))
+
+Those findings offer reasons to investigate particular seizure treatments.
+
+They don't establish that a programme designed around movement exercises will produce the same benefits.
+
+For Natalie's family doctor, this distinction matters because the treatment claims concern two different symptom groups.
+
+A treatment supported for one presentation cannot simply be assumed to work for another.
+
+The question is not whether neuroplasticity could be relevant to both. It is whether the proposed treatment has demonstrated benefits for each condition it claims to address.
+
+### What could make the evidence more convincing?
+
+Natalie is understandably interested in what other people have experienced with the private programme.
+
+The provider shares several encouraging recovery stories.
+
+Those accounts may be genuine and valuable to the people involved. But they leave questions unanswered.
+
+We don't know how many people received the treatment without improving, whether participants also received other care, or how their condition might have changed without the programme.
+
+If the provider had studied its own approach, the research might offer more useful information.
+
+Were the people treated similar to Natalie? What care did they receive? How many improved, and what actually changed? Were the benefits still present months later?
+
+These questions help establish how closely the evidence matches the claim.
+
+The same reasoning applies when evaluating published rehabilitation research. A well-designed study may provide strong evidence for the people and treatment it examined while offering less certainty for a substantially different situation.
+
+### How might this change the clinical conversation?
+
+Natalie has already spent considerable time and effort seeking help.
+
+She isn't looking for a reason to reject rehabilitation. She wants to know whether this opportunity is worth considering.
+
+Her physiotherapist could explain why the movement research is encouraging while clarifying that the advertised programme hasn't been shown to produce those results.
+
+The family doctor might also consider how a proposed private treatment fits alongside Natalie's existing medical care, rehabilitation and access needs.
+
+A costly programme requiring frequent appointments could carry practical consequences, particularly if Natalie must give up other care to attend.
+
+These considerations were explored in the previous lesson. Here, they become relevant to judging whether the promised benefits are supported strongly enough to justify those demands.
+
+Suppose Natalie still wishes to explore the programme.
+
+The professionals can help her understand what is known, what remains uncertain and which questions the provider hasn't answered. That leaves room for her preferences without presenting an untested claim as established treatment.
+
+It also avoids an unhelpful choice between two extremes: believing every recovery promise or dismissing every treatment that hasn't yet been tested in a large trial.
+
+There may be reasonable approaches supported by professional experience or early research while stronger studies are still needed.
+
+**The important distinction is being clear about which level of evidence supports each claim.**
+
+### What should clinicians take from this lesson?
+
+Natalie found a treatment that used familiar neurological ideas and cited encouraging research.
+
+The research was relevant to FND rehabilitation. But it didn't test the programme she was considering, and it couldn't establish benefits for all the symptoms the provider claimed to treat.
+
+The physiotherapist could recognize the difference between established rehabilitation principles and evidence for a particular service.
+
+The family doctor could use that understanding when discussing treatment options, continuing care and the practical consequences of Natalie's decision.
+
+Neither professional needed to dismiss the possibility of improvement.
+
+They needed to identify what the research actually supported.
+
+**Clinical insight:** A treatment's explanation may be scientifically reasonable, and its supporting research may be genuine, without that research demonstrating the benefits being advertised. Understanding what was tested, in whom and with what results helps clinicians explain both the opportunities and uncertainties of rehabilitation.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -140,10 +587,18 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Nielsen G, Stone J, Lee TC, et al. **Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial.** Lancet Neurol. 2024;23:675–686. doi:10.1016/S1474-4422(24)00135-2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38768621/). [FND-CIT-0029](../../research/citation-index.md#fnd-cit-0029). |
-| <a id="citation-2"></a>**[2]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al. **Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial.** Lancet Psychiatry. 2020;7:491–505. doi:10.1016/S2215-0366(20)30128-0. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7242906/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32445688/). [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). |
-| <a id="citation-3"></a>**[3]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee.** Neurology. 2026;106:e214466; online December 10, 2025. doi:10.1212/WNL.0000000000214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41370742/). [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
-| <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0319](../../research/citation-index.md#fnd-cit-0319). |
-| <a id="citation-5"></a>**[5]** | Figure 2 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0320](../../research/citation-index.md#fnd-cit-0320). |
+| <a id="citation-1"></a>**[1]** | — | Nielsen G, Stone J, Lee TC, et al. *Specialist physiotherapy for functional motor disorder (Physio4FMD)*. Lancet Neurol. 2024;23:675–686. [Original](https://pubmed.ncbi.nlm.nih.gov/38768621/). [FND-CIT-0029](../../research/citation-index.md#fnd-cit-0029). doi:10.1016/S1474-4422(24)00135-2. Primary physical-function comparison nonsignificant; subjective motor improvement was a separate outcome. [Original investigators’ full report](https://pmc.ncbi.nlm.nih.gov/articles/PMC12477561/). |
+| <a id="citation-2"></a>**[2]** | — | Macías-García D, Méndez-DelBarrio M, Canal-Rivero M, et al. **Combined physiotherapy and cognitive behavioral therapy for functional movement disorders: a randomized clinical trial.** JAMA Neurol. 2024;81(9):966–976. doi:10.1001/jamaneurol.2024.2393. [Original](https://jamanetwork.com/journals/jamaneurology/fullarticle/2822067). [FND-CIT-0030](../../research/citation-index.md#fnd-cit-0030). 40 adults; 38 completed follow-up. Five-month physical quality-of-life advantage; three-month comparison nonsignificant. Small single-centre study. |
+| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al. *Cognitive behavioural therapy for adults with dissociative seizures (CODES)*. Lancet Psychiatry. 2020;7:491–505. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7242906/). [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). doi:10.1016/S2215-0366(20)30128-0. Primary between-group seizure-frequency result nonsignificant; secondary outcomes were not adjusted for multiple comparisons. |
+| <a id="citation-4"></a>**[4]** | — | Fobian AD, Long DM, Szaflarski JP. **Retraining and control therapy for pediatric psychogenic non-epileptic seizures.** Ann Clin Transl Neurol. 2020;7(8):1410–1419. doi:10.1002/acn3.51138. [Original](https://onlinelibrary.wiley.com/doi/10.1002/acn3.51138). [FND-CIT-0099](../../research/citation-index.md#fnd-cit-0099). Small pilot: 17 ReACT participants assessed at seven days, all seizure-free. No comparable 60-day control outcome; ongoing-seizure controls received further care. |
+| <a id="citation-5"></a>**[5]** | — | Tolchin B, Goldstein LH, Reuber M, et al. *Management of functional seizures practice guideline executive summary*. Neurology. 2026;106:e214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466). [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). doi:10.1212/WNL.0000000000214466. Online December 10, 2025; 2026 issue. Guideline based on 12 Class II–III studies; original abstract checked, full guideline not independently appraised. |
+| <a id="citation-6"></a>**[6]** | — | Ohlsson AC, Dotevall H, Gustavsson I, Hofling K, Wahle U, Österlind C. **Voice Therapy Outcome—A Randomized Clinical Trial Comparing Individual Voice Therapy, Therapy in Group, and Controls Without Therapy.** J Voice. 2020;34(2):303.e17–303.e26. doi:10.1016/j.jvoice.2018.08.023. [Original abstract](https://pubmed.ncbi.nlm.nih.gov/30344071/). [FND-CIT-0342](../../research/citation-index.md#fnd-cit-0342). 77 functional-voice patients: 31 individual, 31 group, 15 controls; three-month assessment, treated groups also followed at twelve months. Voice outcomes do not generalize to every speech symptom. Original abstract checked November 11, 2026; full article unavailable. |
+| <a id="citation-7"></a>**[7]** | Figure 2 | Cabreira V, Frostholm L, Stone J, Carson A. **Feasibility trial of a self-help digital intervention for functional cognitive disorder.** Brain Commun. 2025;7(4):fcaf248. doi:10.1093/braincomms/fcaf248. [Original and Table 4](https://pmc.ncbi.nlm.nih.gov/articles/PMC12241858/). [FND-CIT-0037](../../research/citation-index.md#fnd-cit-0037). Uncontrolled feasibility study: 30 started, 26 responded, 16 reported some cognitive improvement. Figure 2 is an exact anonymous participant quotation checked November 11, 2026; not a representative efficacy estimate. |
+| <a id="citation-8"></a>**[8]** | — | Rioux M, et al. **Pilot feasibility randomised controlled trial of cognitive–behavioural therapy for functional cognitive disorder after concussion.** BMJ Neurol Open. 2024;6(2):e000666. doi:10.1136/bmjno-2024-000666. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC11474702/). [FND-CIT-0343](../../research/citation-index.md#fnd-cit-0343). 24 people with FCD after concussion, 11 CBT/13 cognitive rehabilitation; memory satisfaction improved in both groups, no clear between-group difference and no untreated comparator. Original full text checked November 11, 2026. |
+| <a id="citation-9"></a>**[9]** | — | Abe K, Suzuki T. **Functional Visual Loss in Childhood and Suggestibility.** Clin Child Psychol Psychiatry. 2000;5(2):239–246. doi:10.1177/1359104500005002009. [Original abstract](https://journals.sagepub.com/doi/10.1177/1359104500005002009). [FND-CIT-0344](../../research/citation-index.md#fnd-cit-0344). 59 children described; 28 of 33 treated children recovered visual acuity within four sessions. No untreated comparator; not evidence for migraine photophobia. Original abstract checked November 11, 2026; full methods unavailable. |
+| <a id="citation-10"></a>**[10]** | — | Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. **Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment.** Eye. 2026;40:1784–1793. doi:10.1038/s41433-026-04648-1. [Original abstract](https://www.nature.com/articles/s41433-026-04648-1). [FND-CIT-0103](../../research/citation-index.md#fnd-cit-0103). Limited treatment evidence; original abstract checked November 11, 2026, full review not independently appraised. |
+| <a id="citation-11"></a>**[11]** | — | Espay AJ, Ries S, Maloney T, et al. **Clinical and neural responses to cognitive behavioral therapy for functional tremor.** Neurology. 2019;93(19):e1787–e1798. doi:10.1212/WNL.0000000000008442. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC6946484/). [FND-CIT-0345](../../research/citation-index.md#fnd-cit-0345). 15 adults, twelve weeks CBT, 11 remission/near remission; no untreated functional-tremor comparator. Healthy imaging controls do not establish treatment causation. Full text and author-name/Figure 4 corrections checked November 11, 2026; corrections do not alter the 11/15 outcome. |
+| <a id="citation-12"></a>**[12]** | Figure 1 | Helen. **Helen’s story.** Neurosymptoms. [Original](https://neurosymptoms.org/en/stories/functional-seizures/helens-story/). [FND-CIT-0346](../../research/citation-index.md#fnd-cit-0346). Exact first-person excerpt and original context checked November 11, 2026. Multiple helpful experiences; does not isolate a causal treatment. |
+| <a id="citation-13"></a>**[13]** | Figure 3 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/). [FND-CIT-0319](../../research/citation-index.md#fnd-cit-0319). The original excerpt was no longer available during verification on November 11, 2026. Wording and speaker context could not be independently verified. |
 
-*Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
+*Authoring and review status: All three audience sections are human authored and project-lead approved November 10, 2026. Chat Audit 1 and Work evidence/citation review completed; accepted corrections applied November 12, 2026. Source-access limits and owner-retained findings are recorded in the audit. Independent clinical review and publication decision remain pending.*
