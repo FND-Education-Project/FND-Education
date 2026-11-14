@@ -294,6 +294,14 @@ Amira looks at the little bird.
 
 She likes them too.
 
+<figure class="image-60center" markdown="1">
+
+![Amira sits at a table making a colourful robin with cut paper, wide markers and paint. She works with her left hand while the other steadies the artwork; an earlier pencil sketch lies nearby.](../../assets/images/lesson-32-illustration.png)
+
+<figcaption>Changing how she made the robin helped Amira return to art she loves.</figcaption>
+
+</figure>
+
 ### Answer key — What did you find?
 
 **Amira was making progress in one place but having difficulty using it somewhere else.**
