@@ -7,7 +7,9 @@
     "5": "Medical Safety and New Symptoms",
     "6": "Attention and Automatic Control",
     "7": "Prediction, Body Signals, and Agency",
-    "8": "Recognizing Symptoms and Finding Information"
+    "8": "Recognizing Symptoms and Finding Information",
+    "9": "Rehabilitation and Neuroplasticity",
+    "10": "Pacing, Activity, and Available Capacity"
   },
   "items": [
     {
@@ -807,6 +809,190 @@
         "Easy": "/assets/puzzles/crosswords/Module-8-Summary/fnd-education-module-8-review-m8-easy.pdf",
         "Normal": "/assets/puzzles/crosswords/Module-8-Summary/fnd-education-module-8-review-m8-normal.pdf",
         "Answer key": "/assets/puzzles/crosswords/Module-8-Summary/fnd-education-module-8-review-m8-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-27",
+      "module": 9,
+      "lesson": 27,
+      "title": "How Rehabilitation Uses Learning",
+      "image": "/assets/puzzles/thumbnails/how-rehabilitation-uses-learning-m9-27-normal.svg",
+      "course": "/course/m9/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-9-Lesson-27/how-rehabilitation-uses-learning-m9-27-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-9-Lesson-27/how-rehabilitation-uses-learning-m9-27-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-9-Lesson-27/how-rehabilitation-uses-learning-m9-27-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-27",
+      "module": 9,
+      "lesson": 27,
+      "title": "How Rehabilitation Uses Learning",
+      "image": "/assets/puzzles/colouring/lesson-27-coloring-book.png",
+      "course": "/course/m9/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-27-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-28",
+      "module": 9,
+      "lesson": 28,
+      "title": "Choosing Practice That Fits Your Life",
+      "image": "/assets/puzzles/thumbnails/choosing-practice-that-fits-your-life-m9-28-normal.svg",
+      "course": "/course/m9/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-9-Lesson-28/choosing-practice-that-fits-your-life-m9-28-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-9-Lesson-28/choosing-practice-that-fits-your-life-m9-28-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-9-Lesson-28/choosing-practice-that-fits-your-life-m9-28-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-28",
+      "module": 9,
+      "lesson": 28,
+      "title": "Choosing Practice That Fits Your Life",
+      "image": "/assets/puzzles/colouring/lesson-28-coloring-book.png",
+      "course": "/course/m9/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-28-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-29",
+      "module": 9,
+      "lesson": 29,
+      "title": "When Someone Promises to Rewire Your Brain",
+      "image": "/assets/puzzles/thumbnails/when-someone-promises-to-rewire-your-brain-m9-29-normal.svg",
+      "course": "/course/m9/3/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-9-Lesson-29/when-someone-promises-to-rewire-your-brain-m9-29-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-9-Lesson-29/when-someone-promises-to-rewire-your-brain-m9-29-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-9-Lesson-29/when-someone-promises-to-rewire-your-brain-m9-29-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-29",
+      "module": 9,
+      "lesson": 29,
+      "title": "When Someone Promises to Rewire Your Brain",
+      "image": "/assets/puzzles/colouring/lesson-29-coloring-book.png",
+      "course": "/course/m9/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-29-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "module-9-review",
+      "module": 9,
+      "lesson": null,
+      "title": "FND Education — Module 9 Review",
+      "image": "/assets/puzzles/thumbnails/fnd-education-module-9-review-m9-normal.svg",
+      "course": "/course/m9/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-9-Summary/fnd-education-module-9-review-m9-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-9-Summary/fnd-education-module-9-review-m9-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-9-Summary/fnd-education-module-9-review-m9-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-30",
+      "module": 10,
+      "lesson": 30,
+      "title": "What Uses Your Available Capacity?",
+      "image": "/assets/puzzles/thumbnails/what-uses-available-capacity-m10-30-normal.svg",
+      "course": "/course/m10/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-10-Lesson-30/what-uses-available-capacity-m10-30-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-10-Lesson-30/what-uses-available-capacity-m10-30-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-10-Lesson-30/what-uses-available-capacity-m10-30-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-30",
+      "module": 10,
+      "lesson": 30,
+      "title": "What Uses Your Available Capacity?",
+      "image": "/assets/puzzles/colouring/lesson-30-coloring-book.png",
+      "course": "/course/m10/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-30-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-31",
+      "module": 10,
+      "lesson": 31,
+      "title": "Flexible Pacing When Capacity Changes",
+      "image": "/assets/puzzles/thumbnails/flexible-pacing-when-capacity-changes-m10-31-normal.svg",
+      "course": "/course/m10/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-10-Lesson-31/flexible-pacing-when-capacity-changes-m10-31-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-10-Lesson-31/flexible-pacing-when-capacity-changes-m10-31-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-10-Lesson-31/flexible-pacing-when-capacity-changes-m10-31-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-31",
+      "module": 10,
+      "lesson": 31,
+      "title": "Flexible Pacing When Capacity Changes",
+      "image": "/assets/puzzles/colouring/lesson-31-coloring-book.png",
+      "course": "/course/m10/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-31-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-32",
+      "module": 10,
+      "lesson": 32,
+      "title": "Balancing Practice, Rest, and Everyday Life",
+      "image": "/assets/puzzles/thumbnails/balancing-practice-rest-and-everyday-life-m10-32-normal.svg",
+      "course": "/course/m10/3/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-32",
+      "module": 10,
+      "lesson": 32,
+      "title": "Balancing Practice, Rest, and Everyday Life",
+      "image": "/assets/puzzles/colouring/lesson-32-coloring-book.png",
+      "course": "/course/m10/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-32-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "module-10-review",
+      "module": 10,
+      "lesson": null,
+      "title": "FND Education — Module 10 Review",
+      "image": "/assets/puzzles/thumbnails/fnd-education-module-10-review-m10-normal.svg",
+      "course": "/course/m10/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-answer-key.pdf"
       },
       "collection": "crosswords"
     }
