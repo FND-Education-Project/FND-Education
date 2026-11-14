@@ -4,7 +4,7 @@
 
 Lesson 31 explores flexible pacing decisions, uncertainty, delayed worsening and the value of new information.
 
-*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section approved November 12, 2026; quotation verification pending.*
+*Person section editorially approved November 11, 2026, with project-lead-approved character clarification (Farah) November 14, 2026. Clinician section approved November 12, 2026. Supporter section approved November 12, 2026; minor copyedit approved November 14, 2026. Quotation verification pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -32,9 +32,9 @@ Remember, we're looking for clues, not someone to blame.
 
 Your own symptoms may make some of these decisions easier or more difficult. Notice how your experiences might change the choices you would make.
 
-### Story 1 — Priya's afternoon out
+### Story 1 — Farah's afternoon out
 
-Priya has been missing her friends. She still remembers seeing a photograph of them together, with an empty chair where she would usually sit.
+Farah has been missing her friends. She still remembers seeing a photograph of them together, with an empty chair where she would usually sit.
 
 So when a friend invites her to meet for coffee at the library café, she wants to say yes.
 
@@ -46,11 +46,11 @@ But this morning is different. Her movement is more reliable than it has been al
 
 She's already planned to finish some laundry and sort through a pile of mail. Neither is urgent.
 
-Priya looks at her friend's invitation again. She's missed them, and the idea of sitting together over coffee makes her smile.
+Farah looks at her friend's invitation again. She's missed them, and the idea of sitting together over coffee makes her smile.
 
-**Your turn:** You know how Priya has been feeling, how she slept, what she'd planned for today and how much she wants to see her friends. Would you accept the invitation? What would influence your decision?
+**Your turn:** You know how Farah has been feeling, how she slept, what she'd planned for today and how much she wants to see her friends. Would you accept the invitation? What would influence your decision?
 
-Priya decides to go.
+Farah decides to go.
 
 She leaves the laundry and mail for another day, arranges a ride that will drop her near the library entrance, and asks her friend whether they can sit somewhere quiet.
 
@@ -58,29 +58,29 @@ Before leaving, she prepares something easy for dinner. Even if the afternoon go
 
 At the café, her friends welcome her warmly. They order drinks and begin catching up.
 
-For the first twenty minutes, Priya is having a lovely time. She's laughing at a story about an unfortunate haircut when a large group arrives at the next table.
+For the first twenty minutes, Farah is having a lovely time. She's laughing at a story about an unfortunate haircut when a large group arrives at the next table.
 
-The café gets noisier. Priya starts missing parts of the conversation, and she shifts in her chair several times, trying to get comfortable.
+The café gets noisier. Farah starts missing parts of the conversation, and she shifts in her chair several times, trying to get comfortable.
 
 One friend notices and suggests moving to a quieter table near the entrance.
 
-That helps. Priya can follow the conversation again, although she's beginning to feel tired. Her legs also feel less steady when she gets up to move.
+That helps. Farah can follow the conversation again, although she's beginning to feel tired. Her legs also feel less steady when she gets up to move.
 
 A little later, the others begin talking about visiting a nearby bookshop.
 
 "Come with us," one says. "We haven't seen you in ages!"
 
-Priya loves browsing books, and she's enjoying being with everyone. But she'd arranged her ride home for shortly after coffee, and the bookshop would mean more walking and a change of plans.
+Farah loves browsing books, and she's enjoying being with everyone. But she'd arranged her ride home for shortly after coffee, and the bookshop would mean more walking and a change of plans.
 
-**Your turn again:** Priya is happy to be with her friends, but her movement has become less reliable and she's growing tired. The quieter table helped, and she hasn't seen her friends in ages. Would you go to the bookshop, or would you head home? What could make either choice reasonable?
+**Your turn again:** Farah is happy to be with her friends, but her movement has become less reliable and she's growing tired. The quieter table helped, and she hasn't seen her friends in ages. Would you go to the bookshop, or would you head home? What could make either choice reasonable?
 
-Priya considers the invitation for a moment.
+Farah considers the invitation for a moment.
 
 "I think I'll save the bookshop for another day. I've had a really nice afternoon, though."
 
 Her friend smiles. "Then we should do this again."
 
-When Priya gets home, she puts her things down, eats the dinner she prepared and spends the evening quietly. She's tired but pleased with herself.
+When Farah gets home, she puts her things down, eats the dinner she prepared and spends the evening quietly. She's tired but pleased with herself.
 
 The next morning is different.
 
@@ -90,7 +90,7 @@ She looks at the laundry she still hasn't finished.
 
 "Well, that's helpful," she mutters.
 
-Priya remembers feeling better yesterday and wonders whether going out was a mistake.
+Farah remembers feeling better yesterday and wonders whether going out was a mistake.
 
 But she's had similar outings without feeling worse afterward. She's also had difficult mornings when she barely left the house.
 
@@ -104,9 +104,9 @@ She looks at it for a while, then replies.
 
 <figure class="image-60center" markdown="1">
 
-![Priya sits with friends at a library café while another group nearby makes the room busier. She looks uncomfortable, and one friend notices as the conversation continues around their drinks.](../../assets/images/lesson-31-illustration.png)
+![Farah sits with friends at a library café while another group nearby makes the room busier. She looks uncomfortable, and one friend notices as the conversation continues around their drinks.](../../assets/images/lesson-31-illustration.png)
 
-<figcaption>Priya's afternoon was enjoyable, even as the café became harder to manage.</figcaption>
+<figcaption>Farah's afternoon was enjoyable, even as the café became harder to manage.</figcaption>
 
 </figure>
 
@@ -114,7 +114,7 @@ She looks at it for a while, then replies.
 
 **Was accepting the invitation a reasonable choice?**
 
-Priya knew she'd had a difficult week and a poor night's sleep. She also knew she was moving more reliably that morning and wanted to see her friends.
+Farah knew she'd had a difficult week and a poor night's sleep. She also knew she was moving more reliably that morning and wanted to see her friends.
 
 She couldn't know how the afternoon would turn out.
 
@@ -124,7 +124,7 @@ Those decisions gave her options and reduced some demands. But they couldn't gua
 
 **What changed at the café?**
 
-Priya was enjoying herself until the room became noisier. She had more difficulty following the conversation, and her movement became less reliable.
+Farah was enjoying herself until the room became noisier. She had more difficulty following the conversation, and her movement became less reliable.
 
 Moving tables helped with the noise, but it didn't make her feel completely better.
 
@@ -132,15 +132,15 @@ Moving tables helped with the noise, but it didn't make her feel completely bett
 
 > **Selective attention:** Concentrating on particular information while other things compete for our attention.
 
-The additional conversations around Priya may have made it harder to concentrate on her friends. We can't tell exactly how much the noise contributed to her difficulties, but we can recognize the competing demands.
+The additional conversations around Farah may have made it harder to concentrate on her friends. We can't tell exactly how much the noise contributed to her difficulties, but we can recognize the competing demands.
 
 **What about the bookshop?**
 
-Priya had already enjoyed some time with her friends, but the additional outing meant walking farther, changing her transport arrangements and continuing while she was growing tired.
+Farah had already enjoyed some time with her friends, but the additional outing meant walking farther, changing her transport arrangements and continuing while she was growing tired.
 
 She chose to go home.
 
-Another person might reasonably have made a different choice. Even Priya might choose differently on another day.
+Another person might reasonably have made a different choice. Even Farah might choose differently on another day.
 
 Pacing involves considering what's important alongside what seems manageable. It isn't a rule that tells everyone to make the same decision.
 
@@ -148,7 +148,7 @@ Pacing involves considering what's important alongside what seems manageable. It
 
 Not necessarily.
 
-Priya knew she'd slept poorly before the outing. She also knew her symptoms could vary without an obvious explanation.
+Farah knew she'd slept poorly before the outing. She also knew her symptoms could vary without an obvious explanation.
 
 We can't determine whether the outing contributed to the following day's difficulties. Nor can we establish that staying home would have prevented them.
 
@@ -156,7 +156,7 @@ That's a difficult part of pacing: sometimes you make a thoughtful choice and st
 
 **And what about her feelings?**
 
-Priya enjoyed the café visit but was disappointed by how she felt the next morning.
+Farah enjoyed the café visit but was disappointed by how she felt the next morning.
 
 > **Emotional regulation:** How we notice, understand and respond to feelings as they change.
 
@@ -164,7 +164,7 @@ Both feelings belonged to the same experience. She didn't need to decide the out
 
 And did you remember the empty chair from the beginning?
 
-Priya wasn't simply deciding how to spend her energy. She was deciding whether to take an opportunity to be part of something she had been missing.
+Farah wasn't simply deciding how to spend her energy. She was deciding whether to take an opportunity to be part of something she had been missing.
 
 That matters when we consider what a good pacing decision might look like.
 
@@ -300,7 +300,7 @@ Sometimes a useful pacing decision isn't about choosing the perfect amount of ac
 
 ### Bringing the stories together
 
-Priya made decisions as her circumstances changed. Daniel discovered that he needed more information before deciding what to do next. Neither could know everything in advance. **Flexible pacing means making reasonable choices with what we know, then reconsidering them when we learn something new.** A difficult day doesn't always mean we made a poor decision, and a successful activity doesn't always tell us the whole story.
+Farah made decisions as her circumstances changed. Daniel discovered that he needed more information before deciding what to do next. Neither could know everything in advance. **Flexible pacing means making reasonable choices with what we know, then reconsidering them when we learn something new.** A difficult day doesn't always mean we made a poor decision, and a successful activity doesn't always tell us the whole story.
 
 
 ### Optional crossword
@@ -337,7 +337,7 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 Several weeks later, Maya had recovered from her cold, and Owen was looking forward to visiting their home.
 
-They were temporarily living elsewhere while repairs were being completed during  a minor disaster - a story in itself. Tomorrow, Owen wanted to paint one of the rooms before they moved back.
+They were temporarily living elsewhere while their home was being repaired after a minor disaster—a story in itself. Tomorrow, Owen wanted to paint one of the rooms before they moved back.
 
 He pictured a peaceful afternoon. The room would be quiet, the paintbrush would move steadily across the wall, and he'd have the satisfaction of accomplishing something useful in his own home.
 
