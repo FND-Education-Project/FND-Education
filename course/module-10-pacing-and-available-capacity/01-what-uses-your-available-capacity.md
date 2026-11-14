@@ -1,10 +1,10 @@
 # What Uses Your Available Capacity?
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section was human-authored and approved by the project lead on November 12, 2026; supporter quotation sourcing and evidence verification remain pending. The Clinician section was human-authored and approved by the project lead on November 12, 2026; Work Audit 2 (original-source, clinical and technical verification) and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human authored and approved by the project lead on November 11, 2026. The Supporter section was human authored and approved by the project lead on November 12, 2026. No community quotation is retained in this lesson. The Clinician section was human authored and approved by the project lead on November 12, 2026; Work Audit 2 evidence and citation checks were performed November 14, 2026; final resolution and independent clinical review remain pending.
 
 Lesson 30 examines how interruptions, competing demands and changing circumstances affect what a person can manage.
 
-*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section approved November 12, 2026; quotation sourcing pending.*
+*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section approved November 12, 2026.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -20,7 +20,7 @@ Lesson 30 examines how interruptions, competing demands and changing circumstanc
 
 We've already learned about available capacity and the many things that can affect it. Now we're going to put that knowledge to work.
 
-> **Available capacity:** What you can manage at a particular time, considering your symptoms, the demands of an activity, the support available and what recovery may involve. It is a useful way to understand daily life, not a measured amount of energy.
+> **[Available capacity](../../glossary/README.md#available-capacity):** What you can manage at a particular time, considering your symptoms, the demands of an activity, the support available and what recovery may involve. It is a useful way to understand daily life, not a measured amount of energy.
 
 You'll read two stories about people we've met earlier in the course. Some of the clues are easy to spot. Others are hidden among ordinary details.
 
@@ -391,7 +391,7 @@ With the immediate needs covered, they spent much of the afternoon resting toget
 
 Occupational therapists working with people with FND look beyond whether someone can complete a particular task. They also consider everyday routines, surroundings and the help available. All of these can affect what a person manages. ([1](#citation-1))
 
-Supporters are part of that picture, too. Their experiences show that caring responsibilities can affect their own health and wellbeing, especially when a household is already managing illness and disability. ([Australian FND carer report](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf))
+Supporters are part of that picture, too. Their experiences show that caring responsibilities can affect their own health and wellbeing, especially when a household is already managing illness and disability. ([2](#citation-2))
 
 ### Better recognition of shared demands
 
@@ -497,13 +497,13 @@ Monday's journey combined several demands. Morgan had spent time standing, then 
 
 > **Dual-task demands:** The demands involved when someone attempts to perform two activities at the same time, such as walking while following a conversation.
 
-Research into functional gait disorder has examined how concurrent tasks affect movement under different conditions. Sandri and colleagues found differences in selected gait measures during particular dual-task conditions. These findings support looking carefully at how tasks interact rather than evaluating walking in isolation. ([6](#citation-6))
+Research into functional gait disorder has examined how concurrent tasks affect movement under different conditions. Sandri and colleagues found differences in selected gait measures during particular dual-task conditions. These findings support looking carefully at how tasks interact rather than evaluating walking in isolation. ([4](#citation-4))
 
 But Morgan's case offers another useful lesson. The outcome that changed most clearly was not the ability to complete the route. It was the ability to remember information.
 
 The clinician therefore has a practical reason to examine the order in which information and movement are required.
 
-We should also consider the visual dimming. Symptoms occurring during standing may suggest a posture-related medical problem, including possible changes in blood-pressure regulation. The episode deserves appropriate clinical history and assessment rather than being absorbed into Morgan's existing FND diagnosis. ([8](#citation-8))
+We should also consider the visual dimming. Symptoms occurring during standing may suggest a posture-related medical problem, including possible changes in blood-pressure regulation. The episode deserves appropriate clinical history and assessment rather than being absorbed into Morgan's existing FND diagnosis. ([5](#citation-5))
 
 The two visits differed in several ways, so the observations do not identify one certain cause for the improvement. That doesn't erase their value. They provide a reasonable basis for examining whether a different arrangement consistently helps Morgan.
 
@@ -631,7 +631,7 @@ Rather than judging each action for the reader, we can examine the clinical prin
 
 #### Recognizing and assessing functional seizures
 
-The American Academy of Neurology's functional-seizure guideline emphasizes obtaining a careful history, considering the characteristics of observed events, and using information from patients and witnesses when identifying functional seizures. ([5](#citation-5))
+The American Academy of Neurology's functional-seizure guideline emphasizes obtaining a careful history, considering the characteristics of observed events, and using information from patients and witnesses when identifying functional seizures. ([3](#citation-3))
 
 David's established diagnosis and his wife's familiarity with his episodes are clinically useful. They help establish whether the observed event resembles his usual pattern and inform decisions about assessment and immediate care.
 
@@ -667,7 +667,7 @@ These considerations support evaluating the necessity and proportionality of cli
 
 #### Recovery and continuity of care
 
-Individualized functional-seizure care includes attention to the person's usual recovery pattern, safety, communication needs and appropriate assistance after an event. New or concerning findings require assessment according to the clinical circumstances. ([5](#citation-5))
+Individualized functional-seizure care includes attention to the person's usual recovery pattern, safety, communication needs and appropriate assistance after an event. New or concerning findings require assessment according to the clinical circumstances. ([3](#citation-3))
 
 A person's ability to be transferred into a wheelchair is not, by itself, a complete assessment of recovery.
 
@@ -707,13 +707,10 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
-| <a id="citation-2"></a>**[2]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
-| <a id="citation-3"></a>**[3]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
-| <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1m2st47/comment/n3s00gm/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0321](../../research/citation-index.md#fnd-cit-0321). |
-| <a id="citation-5"></a>**[5]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee.** *Neurology*. 2026. [Original](https://doi.org/10.1212/WNL.0000000000214466) · [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
-| <a id="citation-6"></a>**[6]** | — | Sandri et al. **Study of dual-task gait performance in functional gait disorder.** *Journal of Neural Transmission*. Online 2024; 2025 issue. [Original](https://doi.org/10.1007/s00702-024-02829-4). Citation-index record pending reconciliation. |
-| <a id="citation-7"></a>**[7]** | — | Pick et al. **Case-control study of cognitive performance in functional seizures and functional motor symptoms.** *Psychological Medicine*. 2026. [Original](https://doi.org/10.1017/S0033291726103420) · [FND-CIT-0326](../../research/citation-index.md#fnd-cit-0326). |
-| <a id="citation-8"></a>**[8]** | — | Wieling et al. **Clinical review of orthostatic hypotension.** *Lancet Neurology*. 2022. [Original](https://doi.org/10.1016/S1474-4422(22)00169-7) · [FND-CIT-0333](../../research/citation-index.md#fnd-cit-0333). |
+| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
+| <a id="citation-2"></a>**[2]** | — | Australian National Mental Health Commission. **Experiences of Functional Neurological Disorder — Summary Report.** July 2019. [Original report](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf), pp. 9–10. [FND-CIT-0332](../../research/citation-index.md#fnd-cit-0332). |
+| <a id="citation-3"></a>**[3]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
+| <a id="citation-4"></a>**[4]** | — | Sandri A, Bonetto C, Fiorio M, et al. **Unraveling the mechanisms of high-level gait control in functional gait disorders.** *Journal of Neural Transmission*. 2025;132:95–104. Published online September 6, 2024. [Original](https://doi.org/10.1007/s00702-024-02829-4). [FND-CIT-0347](../../research/citation-index.md#fnd-cit-0347). |
+| <a id="citation-5"></a>**[5]** | — | Wieling W, Kaufmann H, Claydon VE, van Wijnen VK, Harms MPM, Juraschek SP, Thijs RD. **Diagnosis and treatment of orthostatic hypotension.** *The Lancet Neurology*. 2022;21(8):735–746. [Original](https://doi.org/10.1016/S1474-4422(22)00169-7) · [Open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10024337/). [FND-CIT-0333](../../research/citation-index.md#fnd-cit-0333). |
 
-*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter quotation sourcing and evidence verification, clinician original-source verification and citation reconciliation, subsequent lesson audits and independent clinical review remain pending.*
+*Review status: All three audience sections are human authored and project-lead approved. Work Audit 2 evidence/citation findings and source-access limits are recorded in the internal audit report. Final resolution, module publication review and independent clinical review remain pending.*

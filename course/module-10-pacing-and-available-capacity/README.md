@@ -1,6 +1,6 @@
 # Pacing, Activity, and Available Capacity
 
-> **Working draft:** This module overview remains automatically generated. All nine Person, Supporter and Clinician sections are human-authored and project-lead-approved, including the November 14, 2026 editorial decisions. **Chat Audit 1 is complete; Work Audit 2, original-source and quotation verification, technical validation, independent clinical review and publication readiness remain pending.** Crossword, colouring and illustration resources are linked for review.
+> **Working draft:** This module overview remains automatically generated. All nine Person, Supporter and Clinician sections are human-authored and project-lead-approved, including the November 14, 2026 editorial decisions. **Chat Audit 1 is complete. Work Audit 2 evidence, citation and asset checks were performed November 14, 2026; final findings resolution and final-head validation remain pending. The Lesson 31 community excerpt could not be independently reverified. Independent clinical review and module publication review remain pending.** Crossword, colouring and illustration resources are linked for review.
 
 Module 10 of the current course. Explore the lessons in order or choose the topic most useful to you.
 

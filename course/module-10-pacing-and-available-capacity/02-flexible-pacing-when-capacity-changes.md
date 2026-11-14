@@ -1,10 +1,10 @@
 # Flexible Pacing When Capacity Changes
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section was human-authored and approved by the project lead on November 12, 2026; quotation verification remains pending. The Clinician section was human-authored and approved by the project lead on November 12, 2026; Work Audit 2 (original-source, clinical and technical verification) and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human authored and approved by the project lead on November 11, 2026. The Supporter section was human authored and approved by the project lead on November 12, 2026; the original community excerpt was unavailable for independent reverification on November 14, 2026. The Clinician section was human authored and approved by the project lead on November 12, 2026; Work Audit 2 evidence and citation checks were performed November 14, 2026; final resolution and independent clinical review remain pending.
 
 Lesson 31 explores flexible pacing decisions, uncertainty, delayed worsening and the value of new information.
 
-*Person section editorially approved November 11, 2026, with project-lead-approved character clarification (Farah) November 14, 2026. Clinician section approved November 12, 2026. Supporter section approved November 12, 2026; minor copyedit approved November 14, 2026. Quotation verification pending.*
+*Person section editorially approved November 11, 2026, with project-lead-approved character clarification (Farah) November 14, 2026. Clinician section approved November 12, 2026. Supporter section approved November 12, 2026; minor copyedit approved November 14, 2026. The original community excerpt was unavailable for independent reverification on November 14, 2026.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -22,7 +22,7 @@ In our last lesson, we learned to spot demands that might be hiding in ordinary 
 
 Our characters must make decisions **before they know how things will turn out**.
 
-> **Pacing:** Adjusting activities and opportunities for recovery to suit what you can realistically manage. Pacing can change as your circumstances and abilities change.
+> **[Pacing](../../glossary/README.md#pacing):** Adjusting activities and opportunities for recovery to suit what you can realistically manage. Pacing can change as your circumstances and abilities change.
 
 As you follow each story, look for what the character knows when making a choice. What might they have overlooked? What could they reasonably predict?
 
@@ -258,7 +258,7 @@ It doesn't establish that either activity caused his symptoms. But it gives his 
 
 Possibly.
 
-> **Post-exertional malaise:** A worsening of symptoms following physical, mental or other exertion that is disproportionate to the activity. It may be delayed and can last for days or longer. It is a characteristic feature of conditions such as myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS).
+> **[Post-exertional malaise](../../reference/co-occurring-conditions/06-fatigue.md):** A worsening of symptoms following physical, mental or other exertion that is disproportionate to the activity. It may be delayed and can last for days or longer. It is a characteristic feature of conditions such as myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS). ([2](#citation-2))
 
 Not every difficult day following activity is post-exertional malaise. Daniel's story doesn't tell us whether he has this condition or why his symptoms worsened.
 
@@ -399,7 +399,7 @@ One spouse and carer described a household with considerable flexibility:
 
 > “I’m her carer and we are fortunate to be able to plan our days around how she feels although she is often bedridden.”
 
-*Community voice — spouse and carer. [Original public comment](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). This illustrates one family's flexibility, not a standard every supporter can provide. Original wording and context require final Work verification.* ([3](#citation-3))
+*Figure 1. Community voice — spouse and carer. [Original public comment](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). This illustrates one family's flexibility, not a standard every supporter can provide. The original excerpt was unavailable during the November 14, 2026 audit; its wording and context could not be independently reverified.* ([3](#citation-3))
 
 ### Better shared decision-making
 
@@ -669,6 +669,6 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-2"></a>**[2]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0322](../../research/citation-index.md#fnd-cit-0322). |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Historically recorded as checked October 26, 2026. Original excerpt unavailable during the November 14, 2026 audit; not independently reverified. Individual experience. [FND-CIT-0322](../../research/citation-index.md#fnd-cit-0322). |
 
-*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter quotation verification, Clinician original-source verification, subsequent lesson audits and independent clinical review remain pending.*
+*Review status: All three audience sections are human authored and project-lead approved. Work Audit 2 evidence/citation findings and source-access limits are recorded in the internal audit report. Final resolution, module publication review and independent clinical review remain pending.*

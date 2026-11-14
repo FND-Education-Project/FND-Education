@@ -326,3 +326,9 @@ The rest of the approved Supporter story is unchanged. Committed together with t
 Check all approved illustration captions/alts (30 B / 31 A / 32 A; **Lesson 31's person now Farah**), source PNG visual fidelity, puzzle PDF content, previews, links, stable route IDs, metadata, syllabus, and the **approved Module 10 exception to usual closing reflections** against curriculum tests. Report what was actually run, including inaccessible visual/assistive-technology checks. The project lead's supplied Audit 2 procedure requires approval **before any substantive change to human-authored prose**, and forbids merge or deployment. The final module publication-readiness decision remains a subsequent gate.
 
 **Branch synchronization is already complete**, committed `e60ded20133a3938877d961c18fa6d2e71008594`, and does **not** need any additional user GitHub action. **Module 11 PR #208 was untouched.**
+
+## Work Audit 2 — November 14, 2026
+
+Evidence, quotation, citation and asset review is recorded in [the Work Audit 2 report](module-10-audit-02-evidence-and-validation-2026-11-14.md). Routine metadata, source-index, bibliography, Figure and test repairs have been implemented without rewriting the approved teaching. Lesson 32’s community excerpt is independently verified; Lesson 31’s original excerpt is unavailable and explicitly not independently reverified. No replacement Lesson 30 quote is required.
+
+**Await project-lead decisions on R1 (one specific clinical safety sentence in David’s reflection) and W1 (factual illustration alt-text adjustment).** The report supplies exact wording and source support. All Audit 1 editorial decisions remain in force. Final-head CI, findings resolution, later Audit 3 and independent clinical review must not be conflated. Module 11 PR #208 remains untouched; do not merge or deploy.

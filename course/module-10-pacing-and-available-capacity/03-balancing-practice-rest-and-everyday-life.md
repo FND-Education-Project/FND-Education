@@ -1,10 +1,10 @@
 # Balancing Practice, Rest, and Everyday Life
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section was human-authored November 12, 2026, and **project-lead-approved with one wording clarification on November 14, 2026**; community quotation and original-source verification remain pending. The Clinician section was human-authored and approved by the project lead on November 12, 2026; Work Audit 2 (original-source, clinical and technical verification) and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human authored and approved by the project lead on November 11, 2026. The Supporter section was human authored November 12, 2026, and **project-lead-approved with one wording clarification on November 14, 2026**; the community quotation was independently verified November 14, 2026. The Clinician section was human authored and approved by the project lead on November 12, 2026; Work Audit 2 evidence and citation checks were performed November 14, 2026; final resolution and independent clinical review remain pending.
 
 Lesson 32 examines treatment benefits and burdens alongside adaptation, rest and meaningful everyday participation.
 
-*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section human-authored November 12 and editorially approved November 14, 2026, with the ordinary-comfort sentence clarified; quotation verification pending.*
+*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section human-authored November 12 and editorially approved November 14, 2026, with the ordinary-comfort sentence clarified; community quotation independently verified November 14, 2026.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -459,13 +459,13 @@ If the existing treatment arrangements continued making that balance difficult, 
 
 ### What does the evidence tell us?
 
-Rutten and colleagues' 2025 qualitative study interviewed people with FND, caregivers and healthcare professionals about meaningful treatment outcomes. Participants identified everyday activities, independence, wellbeing and quality of life alongside changes in neurological symptoms. [Original research](https://doi.org/10.1007/s00415-025-12912-9).
+Rutten and colleagues' 2025 qualitative study interviewed people with FND, caregivers and healthcare professionals about meaningful treatment outcomes. Participants identified everyday activities, independence, wellbeing and quality of life alongside changes in neurological symptoms. ([2](#citation-2))
 
 One spouse described the strain of supporting someone with FND:
 
 > “I don't blame him for any of this, I just need help!”
 
-*Community voice — spouse and caregiver. [Original public discussion](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). This is an individual expression of needing support, not evidence that all caregiving relationships are alike. Original wording and context require final Work verification.* ([4](#citation-4))
+*Figure 1. Community voice — spouse and caregiver. [Original public discussion](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). This is an individual expression of needing support, not evidence that all caregiving relationships are alike. Wording and surrounding context independently checked November 14, 2026.* ([3](#citation-3))
 
 ### Better balance and a more sustainable relationship
 
@@ -509,7 +509,7 @@ The next task is to connect what you've learned about available capacity with th
 
 Functional motor symptoms, functional seizures, communication difficulties and functional visual symptoms do not share an interchangeable treatment programme.
 
-For example, physiotherapy approaches for functional gait disorder may emphasize movement retraining, external focus and functional practice. These recommendations have a different evidence base from psychological interventions studied for functional seizures or speech-language interventions for functional voice disorders.
+For example, physiotherapy approaches for functional gait disorder may emphasize movement retraining, external focus and functional practice. These recommendations have a different evidence base from psychological interventions studied for functional seizures or speech-language interventions for functional voice disorders. ([4](#citation-4), [5](#citation-5), [6](#citation-6))
 
 The distinction matters when interpreting treatment research. A trial demonstrating improvement in functional motor symptoms does not establish that the same intervention is effective for functional seizures. Likewise, evidence supporting treatment of functional dysphonia cannot automatically be extended to functional language difficulties.
 
@@ -536,13 +536,13 @@ A biopsychosocial approach helps clinicians understand how different influences 
 
 > **Biopsychosocial approach:** A framework for understanding health through the interaction of biological factors (such as neurological conditions and physical health), psychological factors (such as attention, emotions and learned responses), and social factors (such as relationships, environment and access to care). It does not mean that FND symptoms are imagined or necessarily caused by psychological factors.
 
-For instance, motor retraining may be appropriate for an assessed functional movement presentation, yet persistent pain, joint disease, significant sensory sensitivity or suspected post-exertional malaise may influence how rehabilitation can safely proceed.
+For instance, motor retraining may be appropriate for an assessed functional movement presentation, yet persistent pain, joint disease, significant sensory sensitivity or suspected post-exertional malaise may influence how rehabilitation can safely proceed. ([7](#citation-7))
 
-Similarly, treatment directed toward functional seizures does not replace appropriate evaluation and treatment of coexisting epilepsy. Communication rehabilitation must account for the specific speech, voice or language presentation, while visual rehabilitation requires appropriate ophthalmological assessment and consideration of other visual disorders.
+Similarly, treatment directed toward functional seizures does not replace appropriate evaluation and treatment of coexisting epilepsy. Communication rehabilitation must account for the specific speech, voice or language presentation, while visual rehabilitation requires appropriate ophthalmological assessment and consideration of other visual disorders. ([8](#citation-8))
 
 These distinctions influence professional responsibilities. Neurology, physiotherapy, occupational therapy, speech-language pathology, psychology and other specialties contribute different expertise. When findings extend beyond the treating clinician's scope, appropriate medical assessment or referral becomes part of the rehabilitation plan.
 
-The objective is not to combine every available intervention. It is to select a clinically justified approach, establish meaningful outcomes, consider the demands treatment places on the patient and review whether the intervention remains appropriate.
+The objective is not to combine every available intervention. It is to select a clinically justified approach, establish meaningful outcomes, consider the demands treatment places on the patient and review whether the intervention remains appropriate. ([1](#citation-1))
 
 ### Bringing the module together
 
@@ -570,9 +570,13 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
-| <a id="citation-2"></a>**[2]** | — | Nielsen G, Stone J, Lee TC, et al. **Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial.** Lancet Neurol. 2024;23:675–686. doi:10.1016/S1474-4422(24)00135-2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38768621/). [FND-CIT-0029](../../research/citation-index.md#fnd-cit-0029). |
-| <a id="citation-3"></a>**[3]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
-| <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0320](../../research/citation-index.md#fnd-cit-0320). |
+| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
+| <a id="citation-2"></a>**[2]** | — | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Public Reddit contribution, r/FND. [Original discussion](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). Spouse/caregiver account; exact excerpt and surrounding context independently checked November 14, 2026. Individual experience, not clinical evidence. [FND-CIT-0320](../../research/citation-index.md#fnd-cit-0320). |
+| <a id="citation-4"></a>**[4]** | — | **Additional course use:** [Positive Signs and the Neurological Examination](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
+| <a id="citation-5"></a>**[5]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
+| <a id="citation-6"></a>**[6]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
+| <a id="citation-7"></a>**[7]** | — | National Institute for Health and Care Excellence. *Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management*. NG206. [Recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations). Accessed September 23, 2026. [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
+| <a id="citation-8"></a>**[8]** | — | Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w) [FND-CIT-0024](../../research/citation-index.md#fnd-cit-0024). |
 
-*Publication-readiness baseline: October 26, 2026. Person section human-authored and project-lead approved November 11, 2026; Supporter project-lead approval and quotation verification, Clinician original-source verification, subsequent lesson audits and independent clinical review remain pending.*
+*Review status: All three audience sections are human authored and project-lead approved. Work Audit 2 evidence/citation findings and source-access limits are recorded in the internal audit report. Final resolution, module publication review and independent clinical review remain pending.*
