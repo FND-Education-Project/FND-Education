@@ -1,10 +1,10 @@
 # Balancing Practice, Rest, and Everyday Life
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section is a human-authored review draft committed November 12, 2026, pending project-lead approval and quotation verification. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section was human-authored November 12, 2026, and **project-lead-approved with one wording clarification on November 14, 2026**; community quotation and original-source verification remain pending. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
 
 Lesson 32 examines treatment benefits and burdens alongside adaptation, rest and meaningful everyday participation.
 
-*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter review draft committed November 12, 2026; approval pending.*
+*Person section editorially approved: November 11, 2026. Clinician section approved: November 12, 2026. Supporter section human-authored November 12 and editorially approved November 14, 2026, with the ordinary-comfort sentence clarified; quotation verification pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -469,7 +469,7 @@ One spouse described the strain of supporting someone with FND:
 
 ### Better balance and a more sustainable relationship
 
-Owen's difficulty asking for an orange wasn't really about fruit. It was about the difference between needing assistance and feeling entitled to receive it.
+Owen's difficulty asking for an orange wasn't really about fruit. It was about needing help while wondering whether he could ask for an ordinary comfort, too.
 
 Maya's response revealed another concern. She was willing to help, but she needed the freedom to rest or postpone a request without either person interpreting that as a failure of care.
 
