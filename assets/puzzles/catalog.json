@@ -8,7 +8,8 @@
     "6": "Attention and Automatic Control",
     "7": "Prediction, Body Signals, and Agency",
     "8": "Recognizing Symptoms and Finding Information",
-    "9": "Rehabilitation and Neuroplasticity"
+    "9": "Rehabilitation and Neuroplasticity",
+    "10": "Pacing, Activity, and Available Capacity"
   },
   "items": [
     {
@@ -900,6 +901,98 @@
         "Easy": "/assets/puzzles/crosswords/Module-9-Summary/fnd-education-module-9-review-m9-easy.pdf",
         "Normal": "/assets/puzzles/crosswords/Module-9-Summary/fnd-education-module-9-review-m9-normal.pdf",
         "Answer key": "/assets/puzzles/crosswords/Module-9-Summary/fnd-education-module-9-review-m9-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-30",
+      "module": 10,
+      "lesson": 30,
+      "title": "What Uses Your Available Capacity?",
+      "image": "/assets/puzzles/thumbnails/what-uses-available-capacity-m10-30-normal.svg",
+      "course": "/course/m10/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-10-Lesson-30/what-uses-available-capacity-m10-30-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-10-Lesson-30/what-uses-available-capacity-m10-30-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-10-Lesson-30/what-uses-available-capacity-m10-30-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-30",
+      "module": 10,
+      "lesson": 30,
+      "title": "What Uses Your Available Capacity?",
+      "image": "/assets/puzzles/colouring/lesson-30-coloring-book.png",
+      "course": "/course/m10/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-30-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-31",
+      "module": 10,
+      "lesson": 31,
+      "title": "Flexible Pacing When Capacity Changes",
+      "image": "/assets/puzzles/thumbnails/flexible-pacing-when-capacity-changes-m10-31-normal.svg",
+      "course": "/course/m10/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-10-Lesson-31/flexible-pacing-when-capacity-changes-m10-31-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-10-Lesson-31/flexible-pacing-when-capacity-changes-m10-31-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-10-Lesson-31/flexible-pacing-when-capacity-changes-m10-31-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-31",
+      "module": 10,
+      "lesson": 31,
+      "title": "Flexible Pacing When Capacity Changes",
+      "image": "/assets/puzzles/colouring/lesson-31-coloring-book.png",
+      "course": "/course/m10/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-31-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-32",
+      "module": 10,
+      "lesson": 32,
+      "title": "Balancing Practice, Rest, and Everyday Life",
+      "image": "/assets/puzzles/thumbnails/balancing-practice-rest-and-everyday-life-m10-32-normal.svg",
+      "course": "/course/m10/3/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-32",
+      "module": 10,
+      "lesson": 32,
+      "title": "Balancing Practice, Rest, and Everyday Life",
+      "image": "/assets/puzzles/colouring/lesson-32-coloring-book.png",
+      "course": "/course/m10/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-32-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "module-10-review",
+      "module": 10,
+      "lesson": null,
+      "title": "FND Education — Module 10 Review",
+      "image": "/assets/puzzles/thumbnails/fnd-education-module-10-review-m10-normal.svg",
+      "course": "/course/m10/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-answer-key.pdf"
       },
       "collection": "crosswords"
     }

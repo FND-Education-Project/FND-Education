@@ -92,10 +92,10 @@ class CurriculumRevisionTests(unittest.TestCase):
             if not (6 <= page.module_number <= 10):
                 continue
             content = page.source.read_text(encoding='utf-8')
-            # Modules 6–9 have completed the project lead's authorship review.
+            # Modules 6–10 have completed the project lead's authorship review.
             # Later draft modules retain their generated-content status.
             expected_authorship = (
-                'human' if page.module_number in (6, 7, 8, 9) else 'automatically-generated')
+                'human' if page.module_number in (6, 7, 8, 9, 10) else 'automatically-generated')
             self.assertEqual(
                 PREPARE.extract_course_status_and_authorship(content, page.source),
                 ('working-draft', expected_authorship),
@@ -106,6 +106,19 @@ class CurriculumRevisionTests(unittest.TestCase):
             self.assertEqual(ids, [str(n) for n in range(1, len(ids) + 1)])
             for n in re.findall(r'\]\(#citation-(\d+)\)', content):
                 self.assertIn(n, ids)
+
+
+    def test_module10_approved_reflection_alternative(self):
+        # Preserve the owner's specific learning format without weakening other modules.
+        for page in self.lessons:
+            if page.module_number != 10:
+                continue
+            content = page.source.read_text(encoding='utf-8')
+            person = content.split('## For the Person With FND', 1)[1].split(
+                '## For Family, Friends, and Other Supporters', 1)[0]
+            self.assertEqual(len(re.findall(r'^\*\*Your turn(?: again)?:', person, re.M)), 4)
+            self.assertEqual(len(re.findall(r'^### Answer key', person, re.M)), 2)
+            self.assertIn('### Bringing the stories together', person)
 
 
 if __name__ == '__main__':

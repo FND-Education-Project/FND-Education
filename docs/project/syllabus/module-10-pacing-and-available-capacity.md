@@ -1,7 +1,7 @@
 # Module 10 — Pacing, Activity, and Available Capacity
 
 **Part Three: Applying What You Have Learned**<br>
-**Status:** Approved curriculum direction; planning evidence reviewed October 26, 2026; full lesson audit and clinical review pending.<br>
+**Status:** Approved curriculum direction; planning evidence reviewed October 26, 2026; Chat Audit 1 editorial review completed and decisions approved November 14, 2026. Work evidence/quotation/technical audit and independent clinical review remain pending.<br>
 **Moves and refines:** Former [Module 15 — Pacing, Activity, and the Boom-and-Bust Cycle](module-15-pacing-activity-and-the-boom-and-bust-cycle.md).
 
 ## Purpose
@@ -39,6 +39,15 @@ Individualize for delayed worsening, migraine, sleep disorders, pain, dysautonom
 ## Outcome
 
 Learner can reason about sustainable activity, sensible recovery and changing needs without assuming a fixed prescription fits everyone.
+
+
+## Approved Module 10 reflection format (November 14, 2026)
+
+**Explicit project-lead-approved exception to earlier lesson-ending conventions:** Lessons 30–32 deliberately use two substantial Person stories, **two decision pauses in each story**, two interpretive answer keys, and one synthesis rather than appending the usual three Person closing prompts (“Something to think about,” “How might that feel?” and “One small step”). The existing questions and answer keys are the intended reflection and active-learning activity; their purpose is to practice decisions under uncertainty without adding repetitive requirements for readers with cognitive difficulties.
+
+The Supporter sections use one connected Owen/Maya/Pip story per lesson, practical evidence/context as appropriate, and a natural synthesis. The usual two Supporter closing prompts are deliberately **omitted with project-lead approval**; the stories and concluding discussion fulfill this module's supporter reflection aim.
+
+This variance applies **only to Module 10**; it does not change the course-wide authoring standard or authorize deletion of established exercises in other modules. Existing optional crosswords, colouring activities and Module 10 review are retained. **Work Audit 2 must check and reconcile curriculum validation, learner progress requirements, headings and accessibility** with this approved format. The format approval does not substitute for scientific, technical or independent clinical review.
 
 ## Reviewed evidence and practical routes
 

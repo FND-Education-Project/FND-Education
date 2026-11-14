@@ -1,0 +1,736 @@
+{
+  "title": "FND Education — Module 10 Review",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 0,
+    "lesson": null,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "module",
+    "module": 10,
+    "seed": 1,
+    "selected_question_count": 105
+  },
+  "score": 75.19,
+  "included": [
+    {
+      "answer": "AUTOMATICMOVEMENT",
+      "borrowed": false,
+      "clue": "An action made without directing\n  each tiny step.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 7,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "AUTOMATICMOVEMENT",
+      "priority": 1,
+      "row": 1044
+    },
+    {
+      "answer": "QUIET",
+      "borrowed": false,
+      "clue": "The café quality that lets a\n  conversation breathe.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 5,
+      "lesson": 31,
+      "module": 10,
+      "original_answer": "QUIET",
+      "priority": 2,
+      "row": 993
+    },
+    {
+      "answer": "SLEEP",
+      "borrowed": false,
+      "clue": "The nightly appointment with your\n  pillow.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 4,
+      "lesson": 31,
+      "module": 10,
+      "original_answer": "SLEEP",
+      "priority": 1,
+      "row": 982
+    },
+    {
+      "answer": "LIMIT",
+      "borrowed": false,
+      "clue": "A boundary that may change from\n  day to day.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 9,
+      "lesson": 31,
+      "module": 10,
+      "original_answer": "LIMIT",
+      "priority": 2,
+      "row": 994
+    },
+    {
+      "answer": "CUE",
+      "borrowed": false,
+      "clue": "A prompt that points you back to\n  an unfinished job.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 5,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "CUE",
+      "priority": 2,
+      "row": 954
+    },
+    {
+      "answer": "SWITCH",
+      "borrowed": false,
+      "clue": "Change jobs, then try finding\n  your place again.",
+      "direction": "down",
+      "grid_col": 18,
+      "grid_row": 4,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "SWITCH",
+      "priority": 1,
+      "row": 950
+    },
+    {
+      "answer": "CUP",
+      "borrowed": false,
+      "clue": "A\n  drink container that may benefit from a lid.",
+      "direction": "across",
+      "grid_col": 18,
+      "grid_row": 8,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "CUP",
+      "priority": 2,
+      "row": 1023
+    },
+    {
+      "answer": "GARDEN",
+      "borrowed": false,
+      "clue": "Herbs, raised planters and a chair\n  with a view.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 6,
+      "lesson": 31,
+      "module": 10,
+      "original_answer": "GARDEN",
+      "priority": 2,
+      "row": 984
+    },
+    {
+      "answer": "RISK",
+      "borrowed": false,
+      "clue": "A possibility to weigh, not a\n  prediction of failure.",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 4,
+      "lesson": 31,
+      "module": 10,
+      "original_answer": "RISK",
+      "priority": 1,
+      "row": 976
+    },
+    {
+      "answer": "SYMPTOMS",
+      "borrowed": false,
+      "clue": "Experiences that can change from\n  day to day.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 5,
+      "lesson": 31,
+      "module": 10,
+      "original_answer": "SYMPTOMS",
+      "priority": 1,
+      "row": 998
+    },
+    {
+      "answer": "HERBS",
+      "borrowed": false,
+      "clue": "Leafy garden seasonings, not extra\n  physiotherapy equipment.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 12,
+      "lesson": 31,
+      "module": 10,
+      "original_answer": "HERBS",
+      "priority": 3,
+      "row": 985
+    },
+    {
+      "answer": "AID",
+      "borrowed": false,
+      "clue": "A\n  practical helper that reduces a task's demands.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 9,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "AID",
+      "priority": 2,
+      "row": 953
+    },
+    {
+      "answer": "OPTIONS",
+      "borrowed": false,
+      "clue": "Several reasonable paths when\n  plans must change.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 10,
+      "lesson": 31,
+      "module": 10,
+      "original_answer": "OPTIONS",
+      "priority": 2,
+      "row": 1004
+    },
+    {
+      "answer": "HELP",
+      "borrowed": false,
+      "clue": "Accepting this with watering\n  doesn't surrender the garden.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 11,
+      "lesson": 31,
+      "module": 10,
+      "original_answer": "HELP",
+      "priority": 2,
+      "row": 991
+    },
+    {
+      "answer": "SEATED",
+      "borrowed": false,
+      "clue": "Gardening from a chair rather than\n  standing.",
+      "direction": "across",
+      "grid_col": 18,
+      "grid_row": 4,
+      "lesson": 31,
+      "module": 10,
+      "original_answer": "SEATED",
+      "priority": 2,
+      "row": 986
+    },
+    {
+      "answer": "ADAPT",
+      "borrowed": false,
+      "clue": "Change the way you draw without\n  quitting art.",
+      "direction": "down",
+      "grid_col": 0,
+      "grid_row": 9,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "ADAPT",
+      "priority": 1,
+      "row": 1028
+    },
+    {
+      "answer": "PHOTO",
+      "borrowed": false,
+      "clue": "Camera-captured keepsake that\n  can jog a family memory.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 3,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "PHOTO",
+      "priority": 2,
+      "row": 946
+    },
+    {
+      "answer": "PHONE",
+      "borrowed": false,
+      "clue": "An\n  interruption machine, occasionally used to call people.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 3,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "PHONE",
+      "priority": 2,
+      "row": 959
+    },
+    {
+      "answer": "HAND",
+      "borrowed": false,
+      "clue": "The body part that may jerk\n  during delicate drawing.",
+      "direction": "down",
+      "grid_col": 20,
+      "grid_row": 3,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "HAND",
+      "priority": 3,
+      "row": 1024
+    },
+    {
+      "answer": "GLARE",
+      "borrowed": false,
+      "clue": "Harsh\n  lighting that may make a clinic trip harder.",
+      "direction": "down",
+      "grid_col": 22,
+      "grid_row": 0,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "GLARE",
+      "priority": 2,
+      "row": 1015
+    },
+    {
+      "answer": "ENJOY",
+      "borrowed": false,
+      "clue": "To\n  do this with art, you needn't draw perfect lines.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 9,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "ENJOY",
+      "priority": 2,
+      "row": 1029
+    },
+    {
+      "answer": "TASK",
+      "borrowed": false,
+      "clue": "One job, until three others join\n  the queue.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 13,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "TASK",
+      "priority": 1,
+      "row": 940
+    },
+    {
+      "answer": "PRIORITY",
+      "borrowed": false,
+      "clue": "The\n  job served first in a crowded mental queue.",
+      "direction": "down",
+      "grid_col": 20,
+      "grid_row": 8,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "PRIORITY",
+      "priority": 1,
+      "row": 969
+    },
+    {
+      "answer": "NOTE",
+      "borrowed": false,
+      "clue": "Pocket-sized\n  backup for a forgetful moment.",
+      "direction": "across",
+      "grid_col": 18,
+      "grid_row": 14,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "NOTE",
+      "priority": 1,
+      "row": 943
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "HUNGER",
+      "clue": "Your\n  stomach's complaint about postponed breakfast.",
+      "row": 945
+    },
+    {
+      "answer": "RECALL",
+      "clue": "Summon an old family story\n  without a calendar.",
+      "row": 948
+    },
+    {
+      "answer": "FOCUS",
+      "clue": "What\n  a noisy interruption can hijack.",
+      "row": 949
+    },
+    {
+      "answer": "PLAN",
+      "clue": "What\n  an early delivery can promptly rearrange.",
+      "row": 951
+    },
+    {
+      "answer": "DEADLINE",
+      "clue": "A clock's way of adding pressure\n  to a project.",
+      "row": 960
+    },
+    {
+      "answer": "OVERLOAD",
+      "clue": "When\n  mental traffic has more jobs than lanes.",
+      "row": 961
+    },
+    {
+      "answer": "SALIENCE",
+      "clue": "Importance the brain assigns to\n  an urgent door alarm.",
+      "row": 962
+    },
+    {
+      "answer": "RETRIEVAL",
+      "clue": "A\n  mental library checkout for stored memories.",
+      "row": 963
+    },
+    {
+      "answer": "REMINDER",
+      "clue": "A\n  written prompt when the mind drops a thread.",
+      "row": 965
+    },
+    {
+      "answer": "PLANNING",
+      "clue": "Choosing which jobs to handle,\n  and in what order.",
+      "row": 966
+    },
+    {
+      "answer": "WORKINGMEMORY",
+      "clue": "A\n  mental notepad for information needed right now.",
+      "row": 971
+    },
+    {
+      "answer": "EXECUTIVEFUNCTIONS",
+      "clue": "Thinking skills for starting,\n  switching and organizing tasks.",
+      "row": 972
+    },
+    {
+      "answer": "SELECTIVEATTENTION",
+      "clue": "Filtering\n  the room's racket to follow one voice.",
+      "row": 973
+    },
+    {
+      "answer": "CONCENTRATION",
+      "clue": "What several simultaneous\n  demands can scatter.",
+      "row": 974
+    },
+    {
+      "answer": "PACE",
+      "clue": "Set a rhythm that suits today's\n  possibilities.",
+      "row": 975
+    },
+    {
+      "answer": "FRIEND",
+      "clue": "Someone worth making room for in a\n  busy week.",
+      "row": 979
+    },
+    {
+      "answer": "CHOICE",
+      "clue": "A decision made without knowing\n  tomorrow's ending.",
+      "row": 983
+    },
+    {
+      "answer": "NOTES",
+      "clue": "Brief records that help reveal\n  delayed patterns.",
+      "row": 987
+    },
+    {
+      "answer": "LATER",
+      "clue": "When a delayed response finally\n  shows up.",
+      "row": 988
+    },
+    {
+      "answer": "CAUSE",
+      "clue": "What a bad morning cannot always\n  reveal.",
+      "row": 992
+    },
+    {
+      "answer": "FLEXIBLE",
+      "clue": "Able to change course without\n  calling it failure.",
+      "row": 995
+    },
+    {
+      "answer": "RECOVERY",
+      "clue": "Consider this after activity, not\n  just during it.",
+      "row": 996
+    },
+    {
+      "answer": "PATTERNS",
+      "clue": "What repeated delayed episodes may\n  reveal.",
+      "row": 997
+    },
+    {
+      "answer": "EXERTION",
+      "clue": "Physical or mental effort with\n  possible later effects.",
+      "row": 999
+    },
+    {
+      "answer": "EVIDENCE",
+      "clue": "What clinicians need before\n  explaining a new pattern.",
+      "row": 1000
+    },
+    {
+      "answer": "MALAISE",
+      "clue": "The unwell feeling in\n  'post-exertional ___'.",
+      "row": 1005
+    },
+    {
+      "answer": "EXHAUSTION",
+      "clue": "The day-after drain that can\n  follow a simple task.",
+      "row": 1006
+    },
+    {
+      "answer": "PRIORITIES",
+      "clue": "What matters most when not\n  everything fits today.",
+      "row": 1007
+    },
+    {
+      "answer": "UNCERTAINTY",
+      "clue": "What a thoughtful pacing plan must\n  leave room for.",
+      "row": 1008
+    },
+    {
+      "answer": "REASSESSMENT",
+      "clue": "A fresh clinical look when delayed\n  worsening repeats.",
+      "row": 1009
+    },
+    {
+      "answer": "WALK",
+      "clue": "A clinic success worth bringing\n  into daily life.",
+      "row": 1010
+    },
+    {
+      "answer": "GOAL",
+      "clue": "The\n  reason for therapy, beyond acing an exercise.",
+      "row": 1011
+    },
+    {
+      "answer": "HOME",
+      "clue": "Where a clinic skill may get its\n  next assignment.",
+      "row": 1012
+    },
+    {
+      "answer": "REST",
+      "clue": "Something that deserves calendar\n  space alongside practice.",
+      "row": 1016
+    },
+    {
+      "answer": "DRAW",
+      "clue": "Make art with marks, shapes or\n  lines.",
+      "row": 1018
+    },
+    {
+      "answer": "ART",
+      "clue": "A\n  bird picture can be this, even with wonky feet.",
+      "row": 1025
+    },
+    {
+      "answer": "SKILL",
+      "clue": "Something\n  learned in therapy to use beyond the clinic.",
+      "row": 1027
+    },
+    {
+      "answer": "TRANSFER",
+      "clue": "When supported practice finally\n  helps with ordinary chores.",
+      "row": 1030
+    },
+    {
+      "answer": "PROGRESS",
+      "clue": "An\n  improvement that may not tell the whole week's story.",
+      "row": 1031
+    },
+    {
+      "answer": "PRACTICE",
+      "clue": "A means of improving a skill,\n  not life's only purpose.",
+      "row": 1032
+    },
+    {
+      "answer": "BALANCE",
+      "clue": "What\n  keeps therapy from crowding out everyday living.",
+      "row": 1033
+    },
+    {
+      "answer": "PURPOSE",
+      "clue": "Why\n  a useful movement matters outside treatment.",
+      "row": 1035
+    },
+    {
+      "answer": "ACTIVITY",
+      "clue": "Something meaningful that may\n  need a different method.",
+      "row": 1036
+    },
+    {
+      "answer": "THERAPY",
+      "clue": "Care\n  meant to support life, not replace it.",
+      "row": 1039
+    },
+    {
+      "answer": "CAPACITY",
+      "clue": "What you can realistically\n  manage, considering symptoms and support.",
+      "row": 1040
+    },
+    {
+      "answer": "PARTICIPATION",
+      "clue": "Joining\n  an art show without perfect pencil control.",
+      "row": 1041
+    },
+    {
+      "answer": "REHABILITATION",
+      "clue": "Therapy focused on rebuilding\n  abilities, not passing exercises.",
+      "row": 1042
+    },
+    {
+      "answer": "ADAPTATION",
+      "clue": "Changing\n  tools or tasks to keep an activity possible.",
+      "row": 1043
+    },
+    {
+      "answer": "SOUND",
+      "clue": "What\n  competes with speech when the dishwasher starts.",
+      "row": 941
+    },
+    {
+      "answer": "BUZZER",
+      "clue": "A doorway alarm with dreadful\n  interruption timing.",
+      "row": 942
+    },
+    {
+      "answer": "LIST",
+      "clue": "Things to do, captured on paper\n  before they escape.",
+      "row": 944
+    },
+    {
+      "answer": "DATE",
+      "clue": "A\n  fact that can hide despite remembering the story.",
+      "row": 947
+    },
+    {
+      "answer": "LOAD",
+      "clue": "The\n  amount of work your thinking must carry.",
+      "row": 955
+    },
+    {
+      "answer": "MUTE",
+      "clue": "For once, the dishwasher\n  deserves this button.",
+      "row": 956
+    },
+    {
+      "answer": "SORT",
+      "clue": "Arrange\n  photographs into meaningful groups.",
+      "row": 957
+    },
+    {
+      "answer": "WAIT",
+      "clue": "What less urgent chores can do\n  until tomorrow.",
+      "row": 958
+    },
+    {
+      "answer": "INTERRUPT",
+      "clue": "Break into a task without being\n  invited.",
+      "row": 964
+    },
+    {
+      "answer": "DELIVERY",
+      "clue": "Goods\n  brought to your door, sometimes too early.",
+      "row": 967
+    },
+    {
+      "answer": "PRESSURE",
+      "clue": "What a ticking deadline adds to\n  a task.",
+      "row": 968
+    },
+    {
+      "answer": "ADAPTING",
+      "clue": "Changing a task's setup to\n  reduce its demands.",
+      "row": 970
+    },
+    {
+      "answer": "RIDE",
+      "clue": "Transport arranged to spare an\n  extra walk.",
+      "row": 977
+    },
+    {
+      "answer": "CAFE",
+      "clue": "A coffee shop, occasionally with\n  too much soundtrack.",
+      "row": 978
+    },
+    {
+      "answer": "NOISE",
+      "clue": "An uninvited guest at the coffee\n  table.",
+      "row": 980
+    },
+    {
+      "answer": "TABLE",
+      "clue": "A quieter one may rescue a\n  conversation.",
+      "row": 981
+    },
+    {
+      "answer": "DAYS",
+      "clue": "How long a prolonged setback may\n  last, not hours.",
+      "row": 989
+    },
+    {
+      "answer": "ASK",
+      "clue": "A useful first move before\n  changing a care plan.",
+      "row": 990
+    },
+    {
+      "answer": "FALLBACK",
+      "clue": "Another option ready if plan A\n  becomes too demanding.",
+      "row": 1001
+    },
+    {
+      "answer": "FOLLOWUP",
+      "clue": "A later check on what happened\n  after an activity.",
+      "row": 1002
+    },
+    {
+      "answer": "ADJUSTED",
+      "clue": "How an activity plan may become as\n  needs change.",
+      "row": 1003
+    },
+    {
+      "answer": "WEEK",
+      "clue": "The\n  seven-day life surrounding a single appointment.",
+      "row": 1013
+    },
+    {
+      "answer": "TRIP",
+      "clue": "Travel that uses effort before\n  therapy even starts.",
+      "row": 1014
+    },
+    {
+      "answer": "VISIT",
+      "clue": "Time\n  with a friend that's worth protecting.",
+      "row": 1017
+    },
+    {
+      "answer": "PAPER",
+      "clue": "Cut it into shapes when fine\n  pencil lines are hard.",
+      "row": 1020
+    },
+    {
+      "answer": "PAINT",
+      "clue": "An\n  art supply that doesn't need a needle-sharp point.",
+      "row": 1021
+    },
+    {
+      "answer": "MARKER",
+      "clue": "A broad-tipped alternative to a\n  fine pencil.",
+      "row": 1022
+    },
+    {
+      "answer": "JOY",
+      "clue": "What a sketchbook can offer\n  without perfect lines.",
+      "row": 1026
+    },
+    {
+      "answer": "DRAWING",
+      "clue": "A creative activity possible\n  with different materials.",
+      "row": 1034
+    },
+    {
+      "answer": "SESSION",
+      "clue": "One\n  appointment, not a complete picture of the week.",
+      "row": 1037
+    },
+    {
+      "answer": "COMFORT",
+      "clue": "What a less glaring treatment\n  room may provide.",
+      "row": 1038
+    },
+    {
+      "answer": "PRINT",
+      "clue": "Turn selected digital\n  photographs into paper copies.",
+      "row": 952
+    },
+    {
+      "answer": "ROBIN",
+      "clue": "A\n  red-breasted garden bird fit for a sketchbook.",
+      "row": 1019
+    }
+  ]
+}
