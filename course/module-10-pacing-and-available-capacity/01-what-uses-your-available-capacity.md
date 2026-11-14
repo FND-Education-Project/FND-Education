@@ -102,6 +102,14 @@ Leah replies with a laughing face.
 
 Natalie smiles, puts down her phone and decides the towels can wait.
 
+<figure class="image-60center" markdown="1">
+
+![Seated beside partly drawn curtains, Natalie tries to manage a prescription call as an early grocery delivery demands attention, with a tablet, handwritten note and breakfast close by.](../../assets/images/lesson-30-illustration.png)
+
+<figcaption>The challenge wasn't either task alone—it was the unexpected interruption.</figcaption>
+
+</figure>
+
 ### Answer key — What did you notice?
 
 **The interruption changed the demands of the morning.**
