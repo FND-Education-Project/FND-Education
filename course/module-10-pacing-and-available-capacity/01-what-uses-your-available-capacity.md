@@ -1,6 +1,6 @@
 # What Uses Your Available Capacity?
 
-> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section was human-authored and approved by the project lead on November 12, 2026; supporter quotation sourcing and evidence verification remain pending. The Clinician section was human-authored and approved by the project lead on November 12, 2026; evidence verification, lesson audits and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human-authored and approved by the project lead on November 11, 2026. The Supporter section was human-authored and approved by the project lead on November 12, 2026; supporter quotation sourcing and evidence verification remain pending. The Clinician section was human-authored and approved by the project lead on November 12, 2026; Work Audit 2 (original-source, clinical and technical verification) and independent clinical review remain pending.
 
 Lesson 30 examines how interruptions, competing demands and changing circumstances affect what a person can manage.
 
