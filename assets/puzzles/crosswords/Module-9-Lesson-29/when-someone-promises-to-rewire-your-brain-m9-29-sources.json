@@ -1,0 +1,386 @@
+{
+  "title": "When Someone Promises to Rewire Your Brain",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 581,
+    "lesson": 29,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 9,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 74.95,
+  "included": [
+    {
+      "answer": "UNCERTAINTY",
+      "borrowed": false,
+      "clue": "What careful research admits\n  instead of promising a cure.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 14,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "UNCERTAINTY",
+      "priority": 1,
+      "row": 939
+    },
+    {
+      "answer": "PROOF",
+      "borrowed": false,
+      "clue": "What\n  a convincing explanation isn't automatically.",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 13,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "PROOF",
+      "priority": 1,
+      "row": 906
+    },
+    {
+      "answer": "GROUP",
+      "borrowed": false,
+      "clue": "A set of participants compared\n  with another.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 11,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "GROUP",
+      "priority": 2,
+      "row": 909
+    },
+    {
+      "answer": "FREQUENCY",
+      "borrowed": false,
+      "clue": "How\n  often an event happens, such as a seizure.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 17,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "FREQUENCY",
+      "priority": 1,
+      "row": 930
+    },
+    {
+      "answer": "DATA",
+      "borrowed": false,
+      "clue": "Numbers\n  expected to do the heavy lifting in research.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 12,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "DATA",
+      "priority": 1,
+      "row": 912
+    },
+    {
+      "answer": "CLAIM",
+      "borrowed": false,
+      "clue": "A sales pitch that needs\n  evidence, not applause.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 11,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "CLAIM",
+      "priority": 1,
+      "row": 905
+    },
+    {
+      "answer": "PARTICIPATION",
+      "borrowed": false,
+      "clue": "A trial outcome about joining\n  work or community, not seizure counts.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 9,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "PARTICIPATION",
+      "priority": 1,
+      "row": 937
+    },
+    {
+      "answer": "SCORE",
+      "borrowed": false,
+      "clue": "A\n  test number that may miss everyday life.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 16,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "SCORE",
+      "priority": 2,
+      "row": 920
+    },
+    {
+      "answer": "OUTCOMES",
+      "borrowed": false,
+      "clue": "What researchers measure after\n  people receive treatment.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 20,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "OUTCOMES",
+      "priority": 1,
+      "row": 925
+    },
+    {
+      "answer": "RISK",
+      "borrowed": false,
+      "clue": "Possible treatment downside\n  deserving larger print.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 19,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "RISK",
+      "priority": 2,
+      "row": 915
+    },
+    {
+      "answer": "COMPARE",
+      "borrowed": false,
+      "clue": "Put treatment results side by\n  side before judging.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 9,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "COMPARE",
+      "priority": 1,
+      "row": 927
+    },
+    {
+      "answer": "IMPROVEMENT",
+      "borrowed": false,
+      "clue": "A\n  meaningful change, whether in symptoms or daily function.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 1,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "IMPROVEMENT",
+      "priority": 1,
+      "row": 938
+    },
+    {
+      "answer": "LIMITED",
+      "borrowed": false,
+      "clue": "How\n  evidence from a small study may be described.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 7,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "LIMITED",
+      "priority": 2,
+      "row": 934
+    },
+    {
+      "answer": "RESULTS",
+      "borrowed": false,
+      "clue": "What\n  happened in the study, not on the billboard.",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 4,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "RESULTS",
+      "priority": 1,
+      "row": 928
+    },
+    {
+      "answer": "SCAN",
+      "borrowed": false,
+      "clue": "A\n  brain picture that can't photograph rewired synapses.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 19,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "SCAN",
+      "priority": 2,
+      "row": 924
+    },
+    {
+      "answer": "TEENS",
+      "borrowed": false,
+      "clue": "Adolescents included in a small\n  seizure-treatment study.",
+      "direction": "across",
+      "grid_col": 13,
+      "grid_row": 22,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "TEENS",
+      "priority": 2,
+      "row": 917
+    },
+    {
+      "answer": "ASK",
+      "borrowed": false,
+      "clue": "A wise response to a\n  guaranteed-recovery advertisement.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 19,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "ASK",
+      "priority": 2,
+      "row": 923
+    },
+    {
+      "answer": "ESTIMATE",
+      "borrowed": false,
+      "clue": "A researcher's informed\n  numerical guess, not a promise.",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 2,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "ESTIMATE",
+      "priority": 2,
+      "row": 933
+    },
+    {
+      "answer": "COST",
+      "borrowed": false,
+      "clue": "Ask\n  about this before signing up for a programme.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 19,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "COST",
+      "priority": 2,
+      "row": 914
+    },
+    {
+      "answer": "TRIAL",
+      "borrowed": false,
+      "clue": "A\n  research showdown between different treatments.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 3,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "TRIAL",
+      "priority": 1,
+      "row": 908
+    },
+    {
+      "answer": "VISION",
+      "borrowed": false,
+      "clue": "A sense with some promising but\n  limited FND studies.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 5,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "VISION",
+      "priority": 2,
+      "row": 919
+    },
+    {
+      "answer": "PATIENTS",
+      "borrowed": false,
+      "clue": "Real people behind impressive\n  research percentages.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 1,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "PATIENTS",
+      "priority": 2,
+      "row": 929
+    },
+    {
+      "answer": "TIME",
+      "borrowed": false,
+      "clue": "Seven days of results aren't the\n  same as a year.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 6,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "TIME",
+      "priority": 2,
+      "row": 913
+    },
+    {
+      "answer": "REWIRING",
+      "borrowed": false,
+      "clue": "A catchy brain metaphor that\n  scans cannot literally show.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 0,
+      "lesson": 29,
+      "module": 9,
+      "original_answer": "REWIRING",
+      "priority": 2,
+      "row": 931
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "STUDY",
+      "clue": "A research project, not\n  tomorrow's school exam.",
+      "row": 907
+    },
+    {
+      "answer": "BIAS",
+      "clue": "What\n  fair assignment to study groups aims to reduce.",
+      "row": 910
+    },
+    {
+      "answer": "CURE",
+      "clue": "A miracle sales pitch's\n  favourite word.",
+      "row": 911
+    },
+    {
+      "answer": "HOPE",
+      "clue": "A\n  reason to explore treatment, not evidence it works.",
+      "row": 922
+    },
+    {
+      "answer": "CONTROL",
+      "clue": "The\n  comparison group in a treatment trial.",
+      "row": 926
+    },
+    {
+      "answer": "EVIDENCE",
+      "clue": "A\n  treatment pitch's most important missing ingredient.",
+      "row": 932
+    },
+    {
+      "answer": "RANDOMIZATION",
+      "clue": "Assigning\n  study participants to groups by chance.",
+      "row": 936
+    },
+    {
+      "answer": "GAINS",
+      "clue": "Improvements\n  that needn't add up to total recovery.",
+      "row": 916
+    },
+    {
+      "answer": "SHAKE",
+      "clue": "The\n  movement you can see in a tremor.",
+      "row": 918
+    },
+    {
+      "answer": "FEWER",
+      "clue": "What people hope their seizures\n  will become.",
+      "row": 921
+    },
+    {
+      "answer": "BENEFITS",
+      "clue": "Possible improvements weighed\n  against time, effort and cost.",
+      "row": 935
+    }
+  ]
+}
