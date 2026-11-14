@@ -102,6 +102,14 @@ She looks at it for a while, then replies.
 
 "That was lovely. We should do it again."
 
+<figure class="image-60center" markdown="1">
+
+![Priya sits with friends at a library café while another group nearby makes the room busier. She looks uncomfortable, and one friend notices as the conversation continues around their drinks.](../../assets/images/lesson-31-illustration.png)
+
+<figcaption>Priya's afternoon was enjoyable, even as the café became harder to manage.</figcaption>
+
+</figure>
+
 ### Answer key — What did you discover?
 
 **Was accepting the invitation a reasonable choice?**
