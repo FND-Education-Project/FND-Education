@@ -4,7 +4,7 @@
 
 # Care When No Local FND Specialist Is Available
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Editorial status:** The Person section was human-authored and approved November 14, 2026. The remaining audiences, original page title and introduction, citations, and illustration are still pre-rewrite working material.
 
 Specialist FND services are not available everywhere. Lack of a nearby clinic is an access problem—not proof that nothing can be done.
 
@@ -18,61 +18,239 @@ Specialist FND services are not available everywhere. Lack of a nearby clinic is
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-### Definition
+### An appointment five hours away
 
-A **supported local-care model** means local clinicians provide appropriate care while using specialist advice, training, consultation or telehealth when those are available.
+Graham is forty-six and lives in a small community several hours from the nearest major city. He's been living with FND for six years.
 
-![A person and local clinician connect to specialist guidance, while ordinary medical care and review stay local.](../../assets/illustrations/module-13-page-3-local-specialist-support.svg)
+His walking is unreliable, and functional seizures sometimes leave him unable to move or respond. He also has difficulty concentrating and remembering information, particularly when several things are happening at once.
 
-*Illustration: specialist knowledge can support local care. It does not remove the need for a clinician who knows you and follows what happens.*
+Over the years, Graham has seen numerous specialists, tried different treatments and spent a considerable amount of time looking for help. Some appointments have been worthwhile. Others have left him with more questions than answers.
 
-### If you read only one thing
+He has a family doctor, Dr. Singh, and a local physiotherapist who's been supportive, although she has limited experience treating FND. What he hasn't found is a rehabilitation programme that he can realistically attend.
 
-Useful care may begin with one informed clinician and one clear goal. Remote advice can add expertise, but it cannot replace every examination, emergency decision or ongoing relationship.
+One morning, a letter arrives from a neurological rehabilitation clinic in a larger city.
 
-### Build from what is available
+After months of waiting, he's finally been offered an appointment.
 
-A local clinician may be able to:
+At nine o'clock in the morning.
 
-- review the diagnosis and other conditions;
-- read current FND guidance or consult a specialist;
-- adapt ordinary rehabilitation skills to the person's presentation;
-- arrange telehealth where it is suitable and accessible;
-- treat pain, migraine, sleep, mood or another coexisting condition;
-- provide continuity while referrals are pending.
+Nearly five hours away.
 
-Ask what a remote service can and cannot do, who will act on its recommendations, and what happens after the consultation. Cost, technology, sensory needs, fatigue, language and privacy can all affect whether telehealth is genuinely accessible. (*citations* [1](#citation-1), [2](#citation-2))
+Graham looks at the letter and sighs.
 
-### Keep a route back to assessment
+He no longer drives because of his seizures, so someone will need to take him. They'll probably need a hotel room the night before. Then there's fuel, meals, parking and the journey home.
 
-An online program, workbook or peer group is not a substitute for medical assessment. New, severe or substantially changed symptoms may need local or urgent care. A clinician should also review a treatment that causes injury, sustained deterioration or a new problem.
+And that's assuming he can manage the trip without his symptoms becoming too difficult.
 
-### Community experiences for review
+He starts adding up the expenses.
 
-These accounts describe both the gap and one route to individualized care.
+*This is going to cost a fortune.*
 
-**Option 1 — limited specialist availability**
+But he's been waiting a long time for help. What if this appointment finally leads to something useful?
 
-> “there’s not a lot of specialized care or even understanding of FND”
+The letter says he'll receive an assessment and recommendations.
 
-— The writer noted that access depends on location. [Read the public source](https://www.reddit.com/r/FND/comments/1b1az9w/recently_diagnosed/).
+Graham remembers an assessment he attended a couple of years earlier, required as part of a disability application. He'd spent hours answering questions and completing tests. The process was exhausting, and although the resulting report was detailed, it hadn't led to any treatment.
 
-**Option 2 — finding care outside a major centre**
+He understands now that the assessment was intended to inform a disability decision, not arrange rehabilitation. Still, he remembers how disappointing it was to put so much effort into something that didn't improve his access to care.
 
-> “we worked on an individualized treatment plan.”
+Looking at the new appointment letter, Graham realizes he doesn't know what will happen afterward.
 
-— One person described private neuropsychology care; affordability and suitability vary. [Read the public source](https://www.reddit.com/r/FND/comments/11aerci/out_of_curiosity_have_any_of_you_actually_healed/).
+*Are they actually going to treat me, or am I coming home with another report?*
 
-### Questions
+### A question worth asking
 
-#### Which part of care could be local if your clinician had suitable guidance?
+At his next appointment with Dr. Singh, Graham brings the letter.
 
-#### What barrier—distance, cost, technology, energy or something else—most needs a workaround?
+"I finally got into that rehabilitation clinic," he says.
 
-### One small thing you can do
+"That's good news. You've been waiting a long time."
 
-Write one sentence for a referral or appointment: **“I am looking for help with ___, and I need the service to be accessible by ___.”**
+"Yeah, but I'm not sure it's worth the trip."
 
+Dr. Singh looks up.
+
+"It's an opportunity to have your condition assessed by people who know about FND."
+
+"I know. But it's ten hours of driving, probably a hotel, and someone taking time off work. What happens after they assess me?"
+
+Dr. Singh checks the referral information.
+
+"I'm not sure whether they provide ongoing treatment for someone living that far away."
+
+"That's what worries me. I've had plenty of assessments. I don't really need another person telling me my walking is difficult. I've noticed."
+
+Dr. Singh smiles.
+
+"Fair enough. What would you most like their help with?"
+
+"My walking. I'd like to know whether there's something my physio could actually work on with me."
+
+"That's worth asking. The clinic may be able to provide guidance, even if they can't see you regularly."
+
+"Could we find out before I spend a thousand dollars getting there?"
+
+"Yes. Let's contact them."
+
+A couple of weeks later, they receive a reply. The clinic can provide a specialist assessment and recommendations, but it doesn't offer regular remote rehabilitation appointments for patients in Graham's area.
+
+Graham is disappointed.
+
+"So they might tell us what to do, but there's no guarantee anyone here can do it?"
+
+"That's right. Their advice could still be useful, but we should talk to your physiotherapist about what she might be able to offer."
+
+Graham thinks about that. His physiotherapist knows him well, and she's been interested in learning more about FND. Perhaps specialist advice would help her. Or perhaps the treatment would require training or supervision she doesn't have.
+
+"Let's ask her first," he says. "I'd rather know what we're getting into."
+
+They agree to keep the specialist appointment for now while Dr. Singh helps explore the local options.
+
+Graham still doesn't know whether he'll make the trip. But he now has a better idea of what he needs to find out before deciding.
+
+### The work involved in getting healthcare
+
+There's something important about Graham's situation that deserves attention.
+
+Getting healthcare takes work.
+
+> **Treatment burden:** The time, money, effort and other demands involved in getting and managing healthcare. This can include appointments, travel, paperwork, treatment routines and arranging help from other people.
+
+Think about what a specialist appointment might involve for you.
+
+You may need to arrange transportation, deal with an unfamiliar building, sit beneath bright lights or explain your medical history while struggling with pain, fatigue or cognitive symptoms.
+
+Perhaps you need someone to accompany you. They may have to take time off work, arrange childcare or set aside other responsibilities. You might also have expenses that aren't covered by insurance or your healthcare system.
+
+And when you get home, there may be forms, prescriptions, follow-up calls or further appointments to manage.
+
+We've already learned how the demands of an activity can affect your available capacity. What's different here is that **the healthcare intended to help you can place considerable demands on the very abilities you're struggling with.**
+
+It's reasonable to consider those demands when deciding whether another appointment is worthwhile.
+
+That doesn't mean avoiding difficult appointments. Some assessments and treatments are important even when attending them is challenging.
+
+But your circumstances matter, and the effort involved deserves to be part of the conversation.
+
+### An assessment isn't necessarily treatment
+
+Remember Graham's earlier disability assessment?
+
+He'd spent hours being examined and answering questions, hoping the process might lead to something useful for his recovery.
+
+But the assessment had been arranged to answer questions about his disability, not to provide treatment.
+
+The rehabilitation clinic has a different purpose. Its assessment might help Graham and his local clinicians understand which treatments could be appropriate.
+
+Yet there's another distinction worth recognizing: **receiving recommendations doesn't mean the recommended treatment will be available.**
+
+Imagine being told that a particular kind of rehabilitation might help you, only to discover that nobody within travelling distance offers it.
+
+You'd have learned something useful, but you'd still have the original problem of accessing care.
+
+This is why Graham wants to know what might happen after the specialist appointment. He's not questioning whether the clinic's expertise is valuable. He's trying to understand whether that expertise can make a practical difference in his life.
+
+The same question can apply to other referrals. An appointment might clarify a diagnosis, offer treatment, provide an opinion or help another clinician make a decision. Knowing its purpose can help you decide what value it might have for you.
+
+### What if the specialist isn't available?
+
+Perhaps you've already spent years looking for someone with experience treating FND.
+
+You've been referred to specialists who aren't accepting patients, discovered that a clinic is too far away or learned that a recommended treatment isn't covered.
+
+Maybe someone has suggested another professional, but you're no longer sure you have the money, time or capacity to keep searching.
+
+Those are real barriers. Understanding FND doesn't make them disappear.
+
+You may also have encountered professionals who know relatively little about the condition. That can be frustrating when you've spent considerable time learning about it yourself.
+
+But the absence of an FND specialist doesn't mean all the healthcare available to you is useless.
+
+Consider Graham's situation.
+
+He has a family doctor who knows his medical history and a physiotherapist who wants to help. Neither can offer everything he needs, but they may be able to provide useful care within their areas of expertise.
+
+His family doctor can continue treating other health problems, reviewing new concerns and helping decide whether further referrals are needed.
+
+His physiotherapist might be able to build on her existing skills with appropriate specialist guidance. Or she might recognize that a particular treatment requires expertise she doesn't have.
+
+Either outcome gives Graham something important: a clearer understanding of what care is realistically available.
+
+Sometimes, the answer will still be disappointing. A treatment may exist but remain out of reach.
+
+You can recognize that limitation without pretending an unsuitable alternative is just as good.
+
+### When is another appointment worth pursuing?
+
+There's no single answer, but Graham's experience gives us something useful to consider.
+
+Before receiving the clinic's letter, he knew he wanted rehabilitation. Once the appointment arrived, however, he began asking a more specific question.
+
+*What might this appointment change?*
+
+For Graham, the answer depends partly on whether the clinic can offer guidance that his local physiotherapist could reasonably use.
+
+Your situation might be different.
+
+Perhaps you're uncertain about an earlier diagnosis, and another specialist could help clarify it. Or you may have a separate health problem, such as migraine, that still needs treatment.
+
+You might already have a useful care arrangement and want another opinion only if something important changes.
+
+Sometimes, another appointment could open a door that has been closed for years. At other times, it might repeat an assessment you've already had without offering anything new.
+
+And sometimes, even a potentially valuable appointment may be too difficult or expensive to attend right now.
+
+Choosing to postpone or decline a nonurgent consultation can be reasonable when you understand what it might offer and what you may be giving up. That doesn't mean deciding that you no longer deserve treatment.
+
+You can continue hoping for better care while making choices that reflect the life you're living today.
+
+### You don't need an enormous treatment team
+
+You may have seen descriptions of FND treatment programmes involving neurologists, physiotherapists, occupational therapists, psychologists and several other professionals.
+
+When those services are available and suited to your needs, working with different specialists can be helpful.
+
+But what if your healthcare consists of a family doctor and the occasional specialist appointment? What if you depend on a parent to arrange appointments, or you live alone and have nobody available to take you?
+
+An ideal treatment programme isn't much use if you can't access it.
+
+That doesn't mean you should accept inadequate care. It means your plan needs to take account of what's actually possible.
+
+Graham has decided to concentrate on one problem: finding out whether suitable rehabilitation for his walking can be provided through his existing clinicians, perhaps with specialist advice.
+
+He hasn't abandoned other healthcare needs, and he hasn't ruled out travelling to the clinic. He's simply trying to find an approach that might lead to treatment rather than another disconnected recommendation.
+
+You may have a different priority. Perhaps getting better migraine care matters most right now, or you need help with a daily activity that's become particularly difficult.
+
+You don't have to solve every healthcare problem at once.
+
+And you shouldn't have to organize every part of your healthcare yourself. If a family doctor or another clinician can help coordinate the next step, that assistance may make care more manageable.
+
+**A small care arrangement that addresses your actual needs may be more useful than a long list of referrals that never come together.**
+
+### What have we learned from this module?
+
+We've now met three people facing very different situations.
+
+Callum learned how understanding FND helped him recognize and explain his experiences, even though his symptoms hadn't improved very much.
+
+Nadia discovered that she could respect her doctor while asking whether a referral addressed the problem she'd originally brought to him.
+
+And Graham began looking beyond simply obtaining appointments to consider whether the care offered could realistically help him.
+
+None has found a perfect solution. Callum still struggles with his speech, Nadia still needs migraine care, and Graham doesn't yet know whether suitable rehabilitation will become available.
+
+But each has learned something that changes how they approach the next step.
+
+Perhaps you recognize parts of your own experience in their stories. You may still have severe symptoms, unanswered questions or limited access to treatment. You may also be tired of searching for help that never quite arrives.
+
+The knowledge you've gained throughout this course doesn't remove those difficulties, but it may help you understand your choices, explain your needs and recognize which questions are worth pursuing.
+
+Sometimes the next step will be another specialist. Sometimes it will be a better conversation with a professional you already know. And sometimes it will be recognizing that a particular service isn't meeting your needs and considering what else might be possible.
+
+**You deserve healthcare that addresses the problems that matter to you, and the process of obtaining that care should take your circumstances into account.**
+
+In the next module, we'll return to Nadia as she attends her psychological assessment. We'll explore what happens when psychological care is offered, what questions it raises and how someone with FND can decide whether that care is appropriate for them.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -142,4 +320,4 @@ The recommendations discuss specialist-supported local care and telehealth as ac
 
 This page still needs review by people without local specialist access, rural and remote clinicians, telehealth specialists and accessibility reviewers.
 
-*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
+*Person section human-authored and approved: November 14, 2026 · Remaining sections, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
