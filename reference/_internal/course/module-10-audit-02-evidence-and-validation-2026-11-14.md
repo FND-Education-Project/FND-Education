@@ -73,3 +73,7 @@ No material new diagnostic assertion or guaranteed treatment outcome was found. 
 Changed files: three Module 10 lessons; Module 10 overview; central citation index; curriculum and browser tests; this report; Module 10 audience editorial handoff. No Module 11 lesson, handoff, branch or PR change is included. Generated website assets are not committed.
 
 Final audit implementation requires the project lead’s decisions on R1 and W1, followed by affected checks and final-head CI. R5 remains a documented source-access limitation even if retaining the excerpt is accepted. Audit 3 should consume this report and the accepted decisions rather than repeat the full evidence/editorial audit. Independent clinical review remains outstanding.
+
+## Repair-commit validation follow-up
+
+Implementation commit `7510dd56edcadf4743616f043928ebea6f3f2d01` passed generation, curriculum checks, Jekyll build and search indexing in CI run `43621370168`. The built-site validator then caught an incorrectly selected usage paragraph in Lesson 32’s new Nielsen bibliography row. It was replaced with the actual original citation; the original claim remained unchanged. The Wieling source-use note was also moved above an intervening historical heading. All lesson callouts match their bibliography rows (5/3/8), with unique IDs. A replacement final-head run is required; no deployment occurred.

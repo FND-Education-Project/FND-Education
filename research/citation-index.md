@@ -405,7 +405,7 @@ Use this source for its broad clinical overview, diagnostic-pitfall table, posit
 **Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
 
 
-**Concepts-first course use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); .
+**Concepts-first course use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
 
 **Module 7 current use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
 
@@ -509,7 +509,7 @@ Use this consensus source for flexible, person-chosen functional goals and its d
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
 
-**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md); ; ; ; ; .
+**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
 **Module 7 current use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
@@ -3343,11 +3343,13 @@ Wieling W, Kaufmann H, Claydon VE, van Wijnen VK, Harms MPM, Juraschek SP, Thijs
 **Current use:** [Lesson 25, Person and Clinician](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
 
 
+**Module 10 current use (November 14, 2026):** [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md)
+
 ## Historical Module 8 community source — not in current lessons
 
 Q002 / S01 was removed from Lesson 25 during publication-readiness review on November 8, 2026. [Original comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Retrieval remained unsuccessful; exact wording and speaker perspective are **unverified**. No permanent citation ID was allocated. The historical excerpt and retrieval record remain in the internal publication-readiness report. Removal closes the publication dependency without claiming verification; no current lesson uses this source.
 
-**Module 10 current use (November 14, 2026):** [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md)
+
 
 
 ## FND-CIT-0334
