@@ -358,6 +358,27 @@ It's also, "Is what we're doing helping me live the life I'm working toward?"
 
 Natalie and Amira were both making progress in rehabilitation, but they needed to consider how that progress fitted into everyday life. Natalie wanted treatment that left room for her other needs. Amira wanted to improve her movement while continuing to enjoy art. **Rehabilitation, adaptations, rest and meaningful activities can all have a place in the same life.** The challenge is finding an approach that supports what matters to the person, rather than making everything else revolve around treatment.
 
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-32" aria-label="Browse Lesson 32 crossword"><img src="{{ '/assets/puzzles/thumbnails/balancing-practice-rest-and-everyday-life-m10-32-normal.svg' | relative_url }}" alt="Preview of the Lesson 32 crossword grid" loading="lazy" decoding="async"><span>Balancing Practice, Rest, and Everyday Life</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 32 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-32-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-32-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 32 colouring-book illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-32-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 32 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-32">browse the colouring collection</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
