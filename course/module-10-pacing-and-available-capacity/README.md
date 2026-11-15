@@ -1,10 +1,10 @@
 # Pacing, Activity, and Available Capacity
 
-> **Working draft:** This module overview remains automatically generated. All nine Person, Supporter and Clinician sections are human-authored and project-lead-approved, including the November 14, 2026 editorial decisions. **Chat Audit 1 is complete. Work Audit 2 evidence, citation and asset checks were performed November 14, 2026; technical validation passed on November 14, 2026; approved findings were resolved November 15, 2026. The Lesson 31 community excerpt could not be independently reverified. Independent clinical review and module publication review remain pending.** Crossword, colouring and illustration resources are linked for review.
+> **Working draft:** This module overview remains automatically generated. All nine Person, Supporter and Clinician sections are human-authored and project-lead-approved, including the November 14, 2026 editorial decisions. **Chat Audit 1 is complete. Work Audit 2 evidence, citation and asset checks were performed November 14, 2026; technical validation passed on November 14, 2026; approved findings were resolved November 15, 2026. The Lesson 31 community excerpt could not be independently reverified. Module publication-readiness review completed November 15, 2026; independent clinical review and the project lead’s publication decision remain pending.** Crossword, colouring and illustration resources are linked for review.
 
 Module 10 of the current course. Explore the lessons in order or choose the topic most useful to you.
 
-*Resource integration and project-lead-approved Chat Audit 1 editorial decisions updated: November 14, 2026. This overview does not certify Work evidence or technical checks.*
+*Publication-readiness review: November 15, 2026. The documented quotation-access and external-review limitations remain in effect.*
 
 - [Lesson 30: What Uses Your Available Capacity?](01-what-uses-your-available-capacity.md)
 - [Lesson 31: Flexible Pacing When Capacity Changes](02-flexible-pacing-when-capacity-changes.md)

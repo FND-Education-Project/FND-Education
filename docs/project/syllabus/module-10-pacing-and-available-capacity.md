@@ -1,14 +1,14 @@
 # Module 10 — Pacing, Activity, and Available Capacity
 
 **Part Three: Applying What You Have Learned**<br>
-**Status:** Approved curriculum direction; planning evidence reviewed October 26, 2026; Chat Audit 1 editorial review completed and decisions approved November 14, 2026. Work evidence/quotation/technical audit and independent clinical review remain pending.<br>
+**Status:** Approved curriculum direction; planning evidence reviewed October 26, 2026; Chat Audit 1 editorial review completed and decisions approved November 14, 2026. Work Audit 2 and all accepted corrections are complete as of November 15, 2026. Publication-readiness review is recorded in the [Module 10 report](../../../reference/_internal/course/module-10-publication-readiness-2026-11-15.md). Independent clinical review and the project lead’s publication decision remain pending.<br>
 **Moves and refines:** Former [Module 15 — Pacing, Activity, and the Boom-and-Bust Cycle](module-15-pacing-activity-and-the-boom-and-bust-cycle.md).
 
 ## Purpose
 
 Teach practical decision-making when movement, attention, sensory tolerance, energy and recovery vary. Build on the introductory capacity discussion in Module 1 and the concepts/rehabilitation modules without promising that careful pacing will resolve symptoms.
 
-## Proposed focused lessons
+## Focused lessons — approved titles; original planning notes
 
 ### Lesson 30 — What Uses Your Available Capacity?
 - Physical, cognitive, sensory, emotional and social activities may each carry costs.
@@ -22,7 +22,7 @@ Teach practical decision-making when movement, attention, sensory tolerance, ene
 - Preserve accommodations, recovery opportunities and meaningful chosen activities.
 - Avoid routine encouragement to push through delayed or prolonged deterioration; assess post-exertional symptom exacerbation and coexisting conditions appropriately.
 
-### Lesson 32 — Balancing Rehabilitation, Rest, and Change
+### Lesson 32 — Balancing Practice, Rest, and Everyday Life
 - Practice, daily tasks and recreation share time and can add to the total demands a person manages. Capacity is descriptive; this is not a claim that all activities draw on one measured biological store.
 - Collaboratively review whether activity is sustainable, useful and safe.
 - Adjust plans after setbacks without attaching blame or promising steady improvement.
