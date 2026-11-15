@@ -36,7 +36,7 @@ Choose a collection, module and lesson. These optional activities offer a lighte
 
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
 
-**Jump to a crossword:** [Lesson 15](#lesson-15-crossword) · [Lesson 16](#lesson-16-crossword) · [Lesson 17](#lesson-17-crossword) · [Module 4 review](#module-4-review-crossword) · [Module 5 review](#module-5-review-crossword) · [Module 6 review](#module-6-review-crossword) · [Lesson 12](#lesson-12-crossword) · [Lesson 13](#lesson-13-crossword) · [Lesson 14](#lesson-14-crossword) · [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword) · [Lesson 18](#lesson-18-crossword) · [Lesson 19](#lesson-19-crossword) · [Lesson 20](#lesson-20-crossword) · [Lesson 21](#lesson-21-crossword) · [Lesson 22](#lesson-22-crossword) · [Lesson 23](#lesson-23-crossword) · [Module 7 review](#module-7-review-crossword) · [Lesson 24](#lesson-24-crossword) · [Lesson 25](#lesson-25-crossword) · [Lesson 26](#lesson-26-crossword) · [Module 8 review](#module-8-review-crossword) · [Lesson 27](#lesson-27-crossword) · [Lesson 28](#lesson-28-crossword) · [Lesson 29](#lesson-29-crossword) · [Module 9 review](#module-9-review-crossword)
+**Jump to a crossword:** [Lesson 15](#lesson-15-crossword) · [Lesson 16](#lesson-16-crossword) · [Lesson 17](#lesson-17-crossword) · [Module 4 review](#module-4-review-crossword) · [Module 5 review](#module-5-review-crossword) · [Module 6 review](#module-6-review-crossword) · [Lesson 12](#lesson-12-crossword) · [Lesson 13](#lesson-13-crossword) · [Lesson 14](#lesson-14-crossword) · [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword) · [Lesson 18](#lesson-18-crossword) · [Lesson 19](#lesson-19-crossword) · [Lesson 20](#lesson-20-crossword) · [Lesson 21](#lesson-21-crossword) · [Lesson 22](#lesson-22-crossword) · [Lesson 23](#lesson-23-crossword) · [Module 7 review](#module-7-review-crossword) · [Lesson 24](#lesson-24-crossword) · [Lesson 25](#lesson-25-crossword) · [Lesson 26](#lesson-26-crossword) · [Module 8 review](#module-8-review-crossword) · [Lesson 27](#lesson-27-crossword) · [Lesson 28](#lesson-28-crossword) · [Lesson 29](#lesson-29-crossword) · [Module 9 review](#module-9-review-crossword) · [Lesson 30](#lesson-30-crossword) · [Lesson 31](#lesson-31-crossword) · [Lesson 32](#lesson-32-crossword) · [Module 10 review](#module-10-review-crossword)
 
 ## Crosswords
 
@@ -697,11 +697,78 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 <a href="{{ '/course/m9/' | relative_url }}">Read the module</a>
 
+<span id="lesson-30-crossword"></span>
+
+### What Uses Your Available Capacity?
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-30" aria-label="Browse What Uses Your Available Capacity? crossword"><img src="{{ '/assets/puzzles/thumbnails/what-uses-available-capacity-m10-30-normal.svg' | relative_url }}" alt="Preview of What Uses Your Available Capacity? crossword grid" loading="lazy" decoding="async"><span>What Uses Your Available Capacity?</span></a>
+<div class="puzzle-downloads" role="group" aria-label="What Uses Your Available Capacity? PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-30/what-uses-available-capacity-m10-30-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-30/what-uses-available-capacity-m10-30-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-30/what-uses-available-capacity-m10-30-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m10/1/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-31-crossword"></span>
+
+### Flexible Pacing When Capacity Changes
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-31" aria-label="Browse Flexible Pacing When Capacity Changes crossword"><img src="{{ '/assets/puzzles/thumbnails/flexible-pacing-when-capacity-changes-m10-31-normal.svg' | relative_url }}" alt="Preview of Flexible Pacing When Capacity Changes crossword grid" loading="lazy" decoding="async"><span>Flexible Pacing When Capacity Changes</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Flexible Pacing When Capacity Changes PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-31/flexible-pacing-when-capacity-changes-m10-31-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-31/flexible-pacing-when-capacity-changes-m10-31-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-31/flexible-pacing-when-capacity-changes-m10-31-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m10/2/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-32-crossword"></span>
+
+### Balancing Practice, Rest, and Everyday Life
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-32" aria-label="Browse Balancing Practice, Rest, and Everyday Life crossword"><img src="{{ '/assets/puzzles/thumbnails/balancing-practice-rest-and-everyday-life-m10-32-normal.svg' | relative_url }}" alt="Preview of Balancing Practice, Rest, and Everyday Life crossword grid" loading="lazy" decoding="async"><span>Balancing Practice, Rest, and Everyday Life</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Balancing Practice, Rest, and Everyday Life PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Lesson-32/balancing-practice-rest-and-everyday-life-m10-32-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m10/3/' | relative_url }}">Read the lesson</a>
+
+<span id="module-10-review-crossword"></span>
+
+### FND Education — Module 10 Review
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=module-10-review" aria-label="Browse FND Education — Module 10 Review crossword"><img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-10-review-m10-normal.svg' | relative_url }}" alt="Preview of FND Education — Module 10 Review crossword grid" loading="lazy" decoding="async"><span>FND Education — Module 10 Review</span></a>
+<div class="puzzle-downloads" role="group" aria-label="FND Education — Module 10 Review PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m10/' | relative_url }}">Read the module</a>
+
 ## Colouring pages
 
 Choose a preview to open the printable PDF. Select landscape orientation and fit to page when printing.
 
 <div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-30-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-30-coloring-book.png' | relative_url }}" alt="Lesson 30 colouring-book preview" loading="lazy" decoding="async"><span>Lesson 30: What Uses Your Available Capacity? <small>PDF</small></span></a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-31-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-31-coloring-book.png' | relative_url }}" alt="Lesson 31 colouring-book preview" loading="lazy" decoding="async"><span>Lesson 31: Flexible Pacing When Capacity Changes <small>PDF</small></span></a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-32-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-32-coloring-book.png' | relative_url }}" alt="Lesson 32 colouring-book preview" loading="lazy" decoding="async"><span>Lesson 32: Balancing Practice, Rest, and Everyday Life <small>PDF</small></span></a>
 <a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-27-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-27-coloring-book.png' | relative_url }}" alt="Lesson 27 colouring-book preview" loading="lazy" decoding="async"><span>Lesson 27: How Rehabilitation Uses Learning <small>PDF</small></span></a>
 <a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-28-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-28-coloring-book.png' | relative_url }}" alt="Lesson 28 colouring-book preview" loading="lazy" decoding="async"><span>Lesson 28: Choosing Practice That Fits Your Life <small>PDF</small></span></a>
 <a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-29-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-29-coloring-book.png' | relative_url }}" alt="Lesson 29 colouring-book preview" loading="lazy" decoding="async"><span>Lesson 29: When Someone Promises to Rewire Your Brain <small>PDF</small></span></a>

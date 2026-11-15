@@ -1,0 +1,386 @@
+{
+  "title": "What Uses Available Capacity",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 593,
+    "lesson": 30,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 10,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 74.36,
+  "included": [
+    {
+      "answer": "EXECUTIVEFUNCTIONS",
+      "borrowed": false,
+      "clue": "Thinking skills for starting,\n  switching and organizing tasks.",
+      "direction": "down",
+      "grid_col": 4,
+      "grid_row": 4,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "EXECUTIVEFUNCTIONS",
+      "priority": 1,
+      "row": 972
+    },
+    {
+      "answer": "CONCENTRATION",
+      "borrowed": false,
+      "clue": "What several simultaneous\n  demands can scatter.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 20,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "CONCENTRATION",
+      "priority": 1,
+      "row": 974
+    },
+    {
+      "answer": "WAIT",
+      "borrowed": false,
+      "clue": "What less urgent chores can do\n  until tomorrow.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 18,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "WAIT",
+      "priority": 2,
+      "row": 958
+    },
+    {
+      "answer": "PRINT",
+      "borrowed": false,
+      "clue": "Turn selected digital\n  photographs into paper copies.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 9,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "PRINT",
+      "priority": 3,
+      "row": 952
+    },
+    {
+      "answer": "PHONE",
+      "borrowed": false,
+      "clue": "An\n  interruption machine, occasionally used to call people.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 12,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "PHONE",
+      "priority": 2,
+      "row": 959
+    },
+    {
+      "answer": "LIST",
+      "borrowed": false,
+      "clue": "Things to do, captured on paper\n  before they escape.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 17,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "LIST",
+      "priority": 2,
+      "row": 944
+    },
+    {
+      "answer": "PLAN",
+      "borrowed": false,
+      "clue": "What\n  an early delivery can promptly rearrange.",
+      "direction": "down",
+      "grid_col": 0,
+      "grid_row": 12,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "PLAN",
+      "priority": 1,
+      "row": 951
+    },
+    {
+      "answer": "PRESSURE",
+      "borrowed": false,
+      "clue": "What a ticking deadline adds to\n  a task.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 6,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "PRESSURE",
+      "priority": 2,
+      "row": 968
+    },
+    {
+      "answer": "ADAPTING",
+      "borrowed": false,
+      "clue": "Changing a task's setup to\n  reduce its demands.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 14,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "ADAPTING",
+      "priority": 2,
+      "row": 970
+    },
+    {
+      "answer": "DATE",
+      "borrowed": false,
+      "clue": "A\n  fact that can hide despite remembering the story.",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 4,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "DATE",
+      "priority": 2,
+      "row": 947
+    },
+    {
+      "answer": "INTERRUPT",
+      "borrowed": false,
+      "clue": "Break into a task without being\n  invited.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 12,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "INTERRUPT",
+      "priority": 2,
+      "row": 964
+    },
+    {
+      "answer": "SALIENCE",
+      "borrowed": false,
+      "clue": "Importance the brain assigns to\n  an urgent door alarm.",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 6,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "SALIENCE",
+      "priority": 1,
+      "row": 962
+    },
+    {
+      "answer": "SORT",
+      "borrowed": false,
+      "clue": "Arrange\n  photographs into meaningful groups.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 11,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "SORT",
+      "priority": 2,
+      "row": 957
+    },
+    {
+      "answer": "LOAD",
+      "borrowed": false,
+      "clue": "The\n  amount of work your thinking must carry.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 1,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "LOAD",
+      "priority": 2,
+      "row": 955
+    },
+    {
+      "answer": "AID",
+      "borrowed": false,
+      "clue": "A\n  practical helper that reduces a task's demands.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 20,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "AID",
+      "priority": 2,
+      "row": 953
+    },
+    {
+      "answer": "NOTE",
+      "borrowed": false,
+      "clue": "Pocket-sized\n  backup for a forgetful moment.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 2,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "NOTE",
+      "priority": 1,
+      "row": 943
+    },
+    {
+      "answer": "RETRIEVAL",
+      "borrowed": false,
+      "clue": "A\n  mental library checkout for stored memories.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 5,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "RETRIEVAL",
+      "priority": 1,
+      "row": 963
+    },
+    {
+      "answer": "HUNGER",
+      "borrowed": false,
+      "clue": "Your\n  stomach's complaint about postponed breakfast.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 15,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "HUNGER",
+      "priority": 1,
+      "row": 945
+    },
+    {
+      "answer": "RECALL",
+      "borrowed": false,
+      "clue": "Summon an old family story\n  without a calendar.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 5,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "RECALL",
+      "priority": 1,
+      "row": 948
+    },
+    {
+      "answer": "SWITCH",
+      "borrowed": false,
+      "clue": "Change jobs, then try finding\n  your place again.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 1,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "SWITCH",
+      "priority": 1,
+      "row": 950
+    },
+    {
+      "answer": "CUE",
+      "borrowed": false,
+      "clue": "A prompt that points you back to\n  an unfinished job.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 0,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "CUE",
+      "priority": 2,
+      "row": 954
+    },
+    {
+      "answer": "DEADLINE",
+      "borrowed": false,
+      "clue": "A clock's way of adding pressure\n  to a project.",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 10,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "DEADLINE",
+      "priority": 1,
+      "row": 960
+    },
+    {
+      "answer": "PLANNING",
+      "borrowed": false,
+      "clue": "Choosing which jobs to handle,\n  and in what order.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 4,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "PLANNING",
+      "priority": 1,
+      "row": 966
+    },
+    {
+      "answer": "SOUND",
+      "borrowed": false,
+      "clue": "What\n  competes with speech when the dishwasher starts.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 1,
+      "lesson": 30,
+      "module": 10,
+      "original_answer": "SOUND",
+      "priority": 2,
+      "row": 941
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "TASK",
+      "clue": "One job, until three others join\n  the queue.",
+      "row": 940
+    },
+    {
+      "answer": "FOCUS",
+      "clue": "What\n  a noisy interruption can hijack.",
+      "row": 949
+    },
+    {
+      "answer": "OVERLOAD",
+      "clue": "When\n  mental traffic has more jobs than lanes.",
+      "row": 961
+    },
+    {
+      "answer": "REMINDER",
+      "clue": "A\n  written prompt when the mind drops a thread.",
+      "row": 965
+    },
+    {
+      "answer": "PRIORITY",
+      "clue": "The\n  job served first in a crowded mental queue.",
+      "row": 969
+    },
+    {
+      "answer": "WORKINGMEMORY",
+      "clue": "A\n  mental notepad for information needed right now.",
+      "row": 971
+    },
+    {
+      "answer": "SELECTIVEATTENTION",
+      "clue": "Filtering\n  the room's racket to follow one voice.",
+      "row": 973
+    },
+    {
+      "answer": "BUZZER",
+      "clue": "A doorway alarm with dreadful\n  interruption timing.",
+      "row": 942
+    },
+    {
+      "answer": "PHOTO",
+      "clue": "Camera-captured keepsake that\n  can jog a family memory.",
+      "row": 946
+    },
+    {
+      "answer": "MUTE",
+      "clue": "For once, the dishwasher\n  deserves this button.",
+      "row": 956
+    },
+    {
+      "answer": "DELIVERY",
+      "clue": "Goods\n  brought to your door, sometimes too early.",
+      "row": 967
+    }
+  ]
+}
