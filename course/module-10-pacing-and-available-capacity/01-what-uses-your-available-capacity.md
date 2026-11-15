@@ -1,6 +1,6 @@
 # What Uses Your Available Capacity?
 
-> **Working draft:** The **For the Person With FND** section was human authored and approved by the project lead on November 11, 2026. The Supporter section was human authored and approved by the project lead on November 12, 2026. No community quotation is retained in this lesson. The Clinician section was human authored and approved by the project lead on November 12, 2026; Work Audit 2 evidence and citation checks were performed November 14, 2026; final resolution and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human authored and approved by the project lead on November 11, 2026. The Supporter section was human authored and approved by the project lead on November 12, 2026. No community quotation is retained in this lesson. The Clinician section was human authored and approved by the project lead on November 12, 2026; Work Audit 2 evidence and citation checks were performed November 14, 2026; approved Work Audit 2 corrections were applied November 15, 2026. Independent clinical review remains pending.
 
 Lesson 30 examines how interruptions, competing demands and changing circumstances affect what a person can manage.
 
@@ -661,6 +661,8 @@ This distinction is particularly important when considering examination maneuver
 
 Their value depends on the clinical question, the information they can reliably provide, and whether that information is needed to guide care. Clinicians must also consider the potential pain, distress or injury associated with the examination and whether less burdensome alternatives are available.
 
+During functional seizures, sternal rubs and other painful stimuli are not recommended because they can cause injury and distress, including when awareness is retained. ([6](#citation-6))
+
 David's later account changes what is known about the examination's effects. The absence of a visible response did not mean he experienced no pain or distress.
 
 These considerations support evaluating the necessity and proportionality of clinical procedures without requiring the reader to reach a predetermined judgment about the fictional neurologist.
@@ -712,5 +714,6 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-3"></a>**[3]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
 | <a id="citation-4"></a>**[4]** | — | Sandri A, Bonetto C, Fiorio M, et al. **Unraveling the mechanisms of high-level gait control in functional gait disorders.** *Journal of Neural Transmission*. 2025;132:95–104. Published online September 6, 2024. [Original](https://doi.org/10.1007/s00702-024-02829-4). [FND-CIT-0347](../../research/citation-index.md#fnd-cit-0347). |
 | <a id="citation-5"></a>**[5]** | — | Wieling W, Kaufmann H, Claydon VE, van Wijnen VK, Harms MPM, Juraschek SP, Thijs RD. **Diagnosis and treatment of orthostatic hypotension.** *The Lancet Neurology*. 2022;21(8):735–746. [Original](https://doi.org/10.1016/S1474-4422(22)00169-7) · [Open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10024337/). [FND-CIT-0333](../../research/citation-index.md#fnd-cit-0333). |
+| <a id="citation-6"></a>**[6]** | — | Cock HR, Edwards MJ. **Functional neurological disorders: acute presentations and management.** *Clinical Medicine*. 2018;18(5):414–417. doi:10.7861/clinmedicine.18-5-414. [Original full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6334101/). [FND-CIT-0348](../../research/citation-index.md#fnd-cit-0348). |
 
-*Review status: All three audience sections are human authored and project-lead approved. Work Audit 2 evidence/citation findings and source-access limits are recorded in the internal audit report. Final resolution, module publication review and independent clinical review remain pending.*
+*Review status: All three audience sections are human authored and project-lead approved. Work Audit 2 evidence/citation findings and source-access limits are recorded in the internal audit report. Approved Work Audit 2 corrections were applied November 15, 2026; module publication review and independent clinical review remain pending.*

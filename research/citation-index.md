@@ -195,6 +195,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0345](#fnd-cit-0345) | Espay et al., 2019 | Uncontrolled treatment and imaging study | rehabilitation, learning, outcomes | [Lesson 29](../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md) |
 | [FND-CIT-0346](#fnd-cit-0346) | Helen’s story | Individual lived experience | rehabilitation, learning, outcomes | [Lesson 29](../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md) |
 | [FND-CIT-0347](#fnd-cit-0347) | Sandri et al., 2025 | Cross-sectional gait study | concurrent tasks, gait | [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md) |
+| [FND-CIT-0348](#fnd-cit-0348) | Cock & Edwards, 2018 | Clinical review | functional seizures, acute assessment, examination safety | [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -3463,3 +3464,11 @@ Sandri A, Bonetto C, Fiorio M, et al. **Unraveling the mechanisms of high-level 
 **Evidence and verification:** Original publisher full text checked November 14, 2026. Cross-sectional study of 87 adults with functional gait disorders and 48 healthy controls; selected gait measures differed across task conditions. The study did not test Morgan’s fictional instruction-recall outcome or demonstrate a treatment effect. Selected ambulatory sample; relevant comorbidities and persistent dissociative seizures were excluded.
 
 **Module 10 current use (November 14, 2026):** [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md)
+
+## FND-CIT-0348
+
+Cock HR, Edwards MJ. **Functional neurological disorders: acute presentations and management.** *Clinical Medicine*. 2018;18(5):414–417. doi:10.7861/clinmedicine.18-5-414. [Original full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6334101/).
+
+**Evidence and verification:** Clinical review; original full text independently checked November 14, 2026. The examination section advises against sternal rubs, nail-bed pressure and other noxious stimuli during dissociative/functional seizures because of injury and distress, including in people who retain awareness but cannot respond. This is clinical guidance, not a comparative treatment trial or a single-sign diagnostic rule. Project-lead-approved sentence added November 15, 2026.
+
+**Module 10 current use (November 15, 2026):** [Lesson 30, Clinician examination reflection](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md#examination-awareness-and-clinical-judgment).

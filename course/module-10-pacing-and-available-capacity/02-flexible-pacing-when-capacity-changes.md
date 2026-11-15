@@ -1,6 +1,6 @@
 # Flexible Pacing When Capacity Changes
 
-> **Working draft:** The **For the Person With FND** section was human authored and approved by the project lead on November 11, 2026. The Supporter section was human authored and approved by the project lead on November 12, 2026; the original community excerpt was unavailable for independent reverification on November 14, 2026. The Clinician section was human authored and approved by the project lead on November 12, 2026; Work Audit 2 evidence and citation checks were performed November 14, 2026; final resolution and independent clinical review remain pending.
+> **Working draft:** The **For the Person With FND** section was human authored and approved by the project lead on November 11, 2026. The Supporter section was human authored and approved by the project lead on November 12, 2026; the original community excerpt was unavailable for independent reverification on November 14, 2026. The Clinician section was human authored and approved by the project lead on November 12, 2026; Work Audit 2 evidence and citation checks were performed November 14, 2026; approved Work Audit 2 corrections were applied November 15, 2026. Independent clinical review remains pending.
 
 Lesson 31 explores flexible pacing decisions, uncertainty, delayed worsening and the value of new information.
 
@@ -104,7 +104,7 @@ She looks at it for a while, then replies.
 
 <figure class="image-60center" markdown="1">
 
-![Farah sits with friends at a library café while another group nearby makes the room busier. She looks uncomfortable, and one friend notices as the conversation continues around their drinks.](../../assets/images/lesson-31-illustration.png)
+![Farah sits at a café table with a hand against her forehead while other customers and a barista add activity around her. A drink and muffin are on the table.](../../assets/images/lesson-31-illustration.png)
 
 <figcaption>Farah's afternoon was enjoyable, even as the café became harder to manage.</figcaption>
 
@@ -671,4 +671,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
 | <a id="citation-3"></a>**[3]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Historically recorded as checked October 26, 2026. Original excerpt unavailable during the November 14, 2026 audit; not independently reverified. Individual experience. [FND-CIT-0322](../../research/citation-index.md#fnd-cit-0322). |
 
-*Review status: All three audience sections are human authored and project-lead approved. Work Audit 2 evidence/citation findings and source-access limits are recorded in the internal audit report. Final resolution, module publication review and independent clinical review remain pending.*
+*Review status: All three audience sections are human authored and project-lead approved. Work Audit 2 evidence/citation findings and source-access limits are recorded in the internal audit report. Approved Work Audit 2 corrections were applied November 15, 2026; module publication review and independent clinical review remain pending.*
