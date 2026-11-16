@@ -391,11 +391,13 @@ Graham continues to need appropriate medical care, review of his other health co
 
 What remains uncertain is whether Graham will obtain the rehabilitation he has been seeking.
 
-A brief clinical record might capture the situation:
+Dr. Singh considers what remains unresolved. Graham has an appointment for a specialist assessment, but no established route to the rehabilitation he hopes to receive. His physiotherapist is willing to collaborate, although some recommendations might require training or supervision she doesn't currently have.
 
-*Graham is awaiting specialist neurological rehabilitation assessment. Significant travel and financial burden. Local physiotherapist is willing to collaborate but has identified limits to her FND-specific treatment expertise. With Graham's agreement, seeking clarification about specialist consultation and practical implementation of recommendations. Appointment retained pending further information; family-doctor review planned before travel.*
+That distinction matters beyond the referral itself. If the clinic cannot offer suitable support, Graham may still have an unmet rehabilitation need, even after receiving a detailed assessment.
 
-The record preserves the outstanding treatment need without suggesting that accepting a referral means rehabilitation has become available.
+With Graham's agreement, Dr. Singh will clarify what the specialist service can provide and arrange another discussion before the journey. Graham's local care continues in the meantime, within the expertise of the professionals already involved.
+
+The next conversation may reveal a realistic opportunity for rehabilitation, or it may confirm that an important service remains inaccessible. Either result will help Graham and his clinicians understand what has actually become possible, rather than confusing the existence of a referral with access to treatment.
 
 ### What makes the assessment worthwhile?
 
