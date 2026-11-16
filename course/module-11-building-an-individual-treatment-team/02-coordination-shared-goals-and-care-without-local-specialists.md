@@ -4,7 +4,7 @@
 
 # Shared Goals and Clear Responsibilities
 
-> **Editorial status:** The Person section was human-authored and approved November 14, 2026. The remaining audiences, original page title and introduction, citations, and illustration are still pre-rewrite working material.
+> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was human-authored and approved November 16, 2026. The Supporter section, original page title and introduction, source table, and illustration still require editorial reconciliation.
 
 A team is easier to use when everyone knows what matters now, who is doing what and when the plan will be reviewed.
 
@@ -265,24 +265,85 @@ You can notice conflicting instructions, but do not quietly choose which clinici
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### When a reasonable referral answers the wrong question
 
-**Option 1 — Tolchin et al., 2026**
+"So what are we going to do about my migraines?" Nadia asks.
 
-> “engage in shared decision making regarding the treatment plan”
+Dr. Chen opens the referral letter he sent several weeks earlier. Nadia has established FND, including movement difficulties and functional seizures, but she originally attended because her migraines were becoming more frequent and her medication wasn't helping enough.
 
-**Option 2 — British Psychological Society, 2024**
+The letter describes her functional symptoms in detail and discusses possible psychological contributors. Her worsening headaches receive barely a sentence.
 
-> “whole-system care pathway”
+Dr. Chen remembers why he'd suggested the assessment. He'd been making a genuine effort to understand FND better, reading rehabilitation recommendations and treatment research. Psychological approaches appeared frequently, and he'd begun to see an assessment as a promising way to help Nadia with her complex health problems.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [3](#citation-3), [4](#citation-4))*
+He hadn't questioned her honesty or doubted that her symptoms were neurological. But looking at the referral now, he realizes he'd devoted more attention to a possible psychological explanation than to the migraine problem she had actually brought him.
 
-### Turn parallel referrals into coordinated care
+Something about his recent reading comes back to mind.
 
-Use a concise, shared formulation that distinguishes confirmed FND symptoms, comorbidities, open diagnostic questions, access needs and chosen goals. Name a lead or key contact. Send referrals with a specific purpose and enough evidence to avoid making the patient retell the entire history.
+### Something he noticed in the literature
 
-Agree measures that reflect the patient's priorities, not symptom count alone. Record adverse effects and burden as well as benefit. If professionals disagree, explain the uncertainty and arrange responsibility for the decision rather than leaving the patient to arbitrate. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+One paper in particular has stayed with Dr. Chen. In 2004, Sonoo published a study examining a bedside sign for distinguishing functional leg weakness from other causes of weakness. While discussing Hoover's sign, the author described two patients as having **"succeeded in tricking the examiner."** He also suggested that the newer hip-abductor sign would be difficult for someone he called *hysterical* to use to deceive the examiner.
 
+The study itself had a narrower purpose than that language suggests. It compared 16 patients classified as having functional leg weakness with 17 who had other causes of weakness. The hip-abductor sign correctly classified all 33 participants in that small sample, although the examination wasn't blinded and agreement between different examiners wasn't measured. The findings concerned the diagnostic performance of a physical examination sign. They didn't establish whether anyone was deliberately trying to deceive the examiner. ([Sonoo, 2004](https://pubmed.ncbi.nlm.nih.gov/14707320/); [FND-CIT-0058](../../research/citation-index.md#fnd-cit-0058))
+
+Dr. Chen remembers feeling uncomfortable with the wording. He's never doubted Nadia's honesty, and the paper hasn't changed that. What stayed with him was how easily a useful clinical observation could be described in language that implied something about the patient's intentions.
+
+His other reading had repeatedly brought him back to psychological factors and psychological treatments. Much of it offered useful information, but the studies weren't necessarily answering the same questions. Research about psychological associations couldn't establish what caused Nadia's symptoms, just as a study of a diagnostic sign couldn't establish deliberate deception.
+
+He begins to wonder whether that repeated emphasis on psychology had influenced his choice of referral. He'd been trying to follow the evidence, yet he hadn't clearly identified what psychological problem he wanted the referral to address.
+
+Meanwhile, Nadia had been asking for help with increasingly troublesome migraines. He still thinks psychological support might be worthwhile. But looking at the referral letter, he can see that he'd pursued that possibility before properly addressing the question Nadia brought to him.
+
+### What has changed in our understanding?
+
+Dr. Chen also recognizes how substantially the medical understanding of FND has changed. Earlier literature frequently approached functional symptoms through psychological explanations, but contemporary understanding recognizes FND as a **neurological disorder involving genuine, involuntary symptoms**.
+
+Diagnosis now emphasizes positive clinical findings rather than assuming an underlying psychological cause. A major milestone came in 2013, when the DSM-5 removed the requirement to identify an associated psychological stressor. Our [History of FND](../../reference/history-of-fnd.md) traces these changes and explains how older terminology and theories continue to appear in medical literature.
+
+This distinction matters for Dr. Chen's decision. Psychological factors may be relevant to someone's health, and psychological treatment can have a valuable role in FND care. But neither establishes that psychological factors caused that person's functional symptoms.
+
+For Nadia, the more immediate question remains unchanged: her migraines are becoming more troublesome, and she needs appropriate assessment and treatment for them.
+
+### Returning to the migraine
+
+Dr. Chen turns back to Nadia. "You're right. I offered the psychological referral, but I haven't properly addressed what you came in about."
+
+They review her headache history, including the increase in frequency, whether the headache characteristics have changed, the treatments she's tried and how well she's tolerated them. Nadia describes the continuing disability caused by the migraines, particularly alongside her functional symptoms.
+
+The interaction between migraine and FND may be relevant to her overall functioning. They can coexist and may influence one another, although the evidence doesn't establish that one universally explains the other ([Stone and colleagues, 2025](https://doi.org/10.1093/braincomms/fcaf288); [FND-CIT-0049](../../research/citation-index.md#fnd-cit-0049)).
+
+The immediate question is more practical: does Nadia's changing headache pattern require further assessment, a different migraine treatment or specialist input?
+
+Dr. Chen reviews the available migraine-specific options with her, and they agree to consider an appropriate next treatment based on her history. They arrange a follow-up appointment in four weeks to review the headache plan and whether specialist referral is needed, with earlier reassessment if her symptoms change significantly. Her migraine care no longer depends on what the psychologist might conclude.
+
+### What is the psychological referral actually for?
+
+Dr. Chen returns to the referral. The psychologist may still have something valuable to offer, but its purpose is too broad. Asking whether psychological factors explain Nadia's difficulties isn't the same as identifying what she wants help with.
+
+He asks how Nadia feels about her functional seizures and the disruptions they cause.
+
+"They make planning anything difficult," she explains. "I never know whether I'll manage what I've arranged."
+
+"Would you be interested in support with that part of your life? Not as an explanation for why you have the seizures, but to explore whether there are strategies that might help with the disruption and uncertainty?"
+
+"Yes, I think that could be useful. I just don't want the migraines forgotten."
+
+Dr. Chen now has a clearer purpose for the referral. If Nadia wishes to proceed, the psychologist could assess whether psychological support might help her manage the practical and emotional effects of unpredictable functional seizures. Whether that support is useful remains to be determined; it doesn't require assuming psychological causation or replacing migraine care.
+
+They discuss the revised purpose, and with Nadia's agreement he clarifies the referral.
+
+### Two questions, two plans
+
+Before Nadia leaves, Dr. Chen updates his record:
+
+*Migraine: Increasing frequency with inadequate benefit from current medication. Headache characteristics and previous treatment reviewed. Migraine-specific treatment options discussed; follow-up arranged in four weeks to review management and consider specialist input.*
+
+*FND: Established movement symptoms and functional seizures. Nadia is interested in exploring whether psychological support could help with the disruption and uncertainty associated with her seizures. Referral purpose clarified with patient agreement. Migraine management remains under family-doctor follow-up.*
+
+Dr. Chen hasn't abandoned his interest in psychological approaches or concluded that the earlier referral was necessarily inappropriate. But Nadia's question has prompted a more precise use of the evidence he's been reading: a diagnostic-sign study cannot establish intent, psychological treatment research doesn't establish an individual's cause, and an established FND diagnosis doesn't settle an increasingly troublesome migraine.
+
+**What problem are we trying to address, and what evidence makes this the right next step for this patient?**
+
+This time, he and Nadia have an answer for both concerns.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -311,4 +372,4 @@ The sources support shared decisions, patient-centred outcomes and coordinated p
 
 This page still needs review by people coordinating FND care, people with FND, supporters and accessibility reviewers.
 
-*Person section human-authored and approved: November 14, 2026 · Remaining sections, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
+*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
