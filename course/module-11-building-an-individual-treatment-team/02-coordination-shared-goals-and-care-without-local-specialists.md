@@ -229,6 +229,18 @@ You may not always agree with your healthcare professionals. You may not receive
 **Working with a doctor doesn't require agreeing about everything. It requires finding a way to discuss what matters, including the things you see differently.**
 
 In the next lesson, we'll explore another challenge: what happens when you know what kind of care you need, but accessing it is difficult, expensive, exhausting or simply not possible where you live.
+
+### Something to think about
+
+Can you agree to a referral while still having questions about the explanation behind it or another health concern that needs attention?
+
+### How might that feel?
+
+How might it feel to disagree with a doctor you trust, especially when you depend on that doctor for care?
+
+### One small step
+
+The next time you notice a familiar symptom, consider which nervous-system processes might be involved. If useful, write down a few words so you can explain your thinking at a healthcare appointment.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
