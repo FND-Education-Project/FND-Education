@@ -301,24 +301,105 @@ Help keep other diagnoses and ordinary healthcare visible. If a symptom is new, 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### When the patient already understands
 
-**Option 1 — Lehn et al., 2025**
+Callum is seventeen and has an established diagnosis of FND, with unreliable walking and episodes when speaking becomes difficult or temporarily impossible. He attends an appointment with his father, hoping to discuss an upcoming school presentation.
 
-> “requires a comprehensive, multidisciplinary approach”
+His family doctor notices a change since their last meeting. Previously, much of the consultation was spent discussing what FND meant and why Callum's abilities varied. Today, Callum speaks comfortably about automaticity, attention and the possible processes contributing to his symptoms.
 
-**Option 2 — Nicholson et al., 2020**
+He's been following an educational course about FND, and his father has been learning alongside him.
 
-> “rehabilitation within functional activity”
+"I still have all the problems," Callum explains, "but at least I understand some of what's happening now."
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+He describes a recent episode in a crowded school hallway. When speaking became difficult, he recognized that concentrating intensely on producing words might be interfering with an automatic skill. He moved somewhere quieter and used his phone to communicate until speaking became easier.
 
-### Build around needs and ownership
+The doctor is interested in his reasoning. Callum has developed a useful understanding of his condition, and his father reports that they no longer spend so much time trying to explain every unusual symptom.
 
-Identify the symptom phenotype, comorbidities, disability, risks, patient goals and barriers before assigning disciplines. Record who owns diagnostic review, new-symptom assessment, medication, rehabilitation and communication. The patient should not have to infer this from a referral list.
+But Callum has something more immediate on his mind.
 
-Recommendations for multidisciplinary care largely combine discipline-specific evidence with expert consensus. Team size, sequence, intensity and duration have not been established for every presentation. Coordinate a workable local plan and retain continuity when a referral is declined or treatment does not help. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+"I've got a group presentation coming up. I've done loads of research for it, but I don't know if I'll be able to talk when it's my turn."
 
+### From explaining symptoms to deciding what matters
+
+Callum's teacher knows about his FND but isn't sure how to handle the unpredictable speech difficulties. She has wondered whether someone else should present Callum's part.
+
+Callum would rather remain involved.
+
+"I want to do it myself. If I can't talk, maybe I could type something and have someone read it."
+
+His father asks whether a medical letter might help the school understand his needs.
+
+The doctor now has a useful clinical question. Callum isn't asking to avoid the presentation, and he isn't expecting an assurance that his speech will work perfectly. He's asking for a way to participate despite uncertainty.
+
+This opens a discussion about two related goals: making the upcoming activity accessible and exploring rehabilitation that could improve the reliability of his communication.
+
+The distinction is familiar clinically, but Callum's understanding allows him to take a more active role in deciding how those goals fit together.
+
+### When accommodation and rehabilitation meet
+
+The possibility of typed communication raises an interesting question. Could an alternative way of communicating become something Callum relies on instead of practising spoken communication?
+
+It's worth considering, particularly when rehabilitation may involve working toward more automatic, reliable speech. Yet removing an accommodation doesn't necessarily promote rehabilitation, just as providing one doesn't necessarily discourage recovery.
+
+Callum offers a useful perspective.
+
+"I still want to talk. I'd just like another option if my speech stops working."
+
+That helps clarify the immediate goal. The presentation is an educational activity, not a rehabilitation exercise. Callum wants to participate using speech when available, with an alternative that keeps him involved when it isn't.
+
+The doctor and family can discuss how this might be explained to the school without turning the accommodation into a prediction about his future abilities.
+
+The longer-term question concerns whether Callum would benefit from assessment and treatment by a speech and language therapist familiar with functional communication difficulties.
+
+Baker and colleagues' 2021 consensus recommendations describe individualized approaches to assessing and treating functional communication disorders, including attention to meaningful communication activities. These provide a professional framework, rather than evidence that one particular strategy will work for Callum. (*citation* [3](#citation-3))
+
+If an appropriate service is available, Callum's knowledge and observations may give the therapist a useful starting point. His school accommodation and any rehabilitation plan can then be considered together, with each serving a clear purpose.
+
+### Making use of the patient's understanding
+
+There's another opportunity in Callum's account.
+
+He has begun developing explanations for his experiences rather than simply listing symptoms. His ideas about attention and automaticity are informed by established FND concepts, although they don't establish which processes caused a particular episode.
+
+The doctor could spend considerable time evaluating each proposed mechanism. Some discussion may be useful, especially where it changes the clinical formulation or raises a question requiring assessment.
+
+But the more productive development may be that Callum can now describe what happens, what he notices and what he wants help achieving.
+
+His understanding has changed the starting point of the appointment.
+
+The conversation can move directly toward meaningful decisions while leaving room to examine his interpretations as rehabilitation progresses.
+
+This also offers an opportunity to recognize the work Callum has done without suggesting that understanding should have made his symptoms disappear.
+
+For someone who hasn't yet received appropriate rehabilitation, education may be an accomplishment and a preparation for further care, rather than evidence that recovery has already occurred.
+
+### What has changed clinically?
+
+The doctor has enough information to support a discussion with the school and consider whether specialist communication assessment would be useful.
+
+A concise clinical summary might read:
+
+*Callum demonstrates improved understanding of FND and can describe possible contributors to his communication difficulties. Intermittent speech disruption continues to affect school participation. He wishes to present his own work using speech when possible, with typed communication available if needed. Discussed school arrangements and possible specialist speech and language assessment.*
+
+The summary recognizes his progress, continuing disability and immediate priorities without treating them as contradictory.
+
+There may also be value in noting how Callum's father has contributed. Their shared understanding has improved communication at home, and his father can help support Callum's participation in healthcare without taking over decisions that Callum is increasingly able to discuss himself.
+
+In time, rehabilitation may offer further opportunities for improvement. For now, the clinician and family have moved beyond explaining the diagnosis toward discussing a practical problem, identifying an appropriate goal and considering what professional support might help.
+
+### A different benefit of FND education
+
+Much of FND care understandably focuses on whether symptoms improve and whether treatment changes everyday function. Yet education can have value before either outcome occurs.
+
+Callum's learning hasn't restored reliable speech or movement. It has helped him describe his experiences, communicate with his father and participate more confidently in decisions about his care.
+
+For the clinician, this creates an opportunity to build on understanding already established rather than repeatedly returning to the foundations of the diagnosis.
+
+The important question may no longer be whether Callum understands FND.
+
+It may be **what that understanding now allows him and his clinical team to accomplish together**.
+
+In this case, it has helped turn a difficult school presentation into a clearer conversation about participation, communication needs and possible rehabilitation.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -347,4 +428,4 @@ These sources support need-based multidisciplinary care and distinguish professi
 
 This page still needs review by people with FND, clinicians from different disciplines, supporters and accessibility reviewers.
 
-*Person section human-authored and approved: November 14, 2026 · Remaining sections, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
+*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
