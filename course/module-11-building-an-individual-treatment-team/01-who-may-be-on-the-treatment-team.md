@@ -265,6 +265,18 @@ But he has something he didn't have at the beginning: knowledge he can use, ques
 **That's an accomplishment in its own right.**
 
 In the next lesson, we'll explore what happens when you bring that understanding into a healthcare appointment—particularly when you and a healthcare professional don't see a problem in quite the same way.
+
+### Something to think about
+
+What did you relate to in Callum's story? Perhaps struggling to communicate, recognizing a familiar mechanism, finding another way to do something, or explaining FND to someone else.
+
+### How might that feel?
+
+How does it feel to have a better understanding of the processes that might be affecting you?
+
+### One small step
+
+If something you've learned about FND comes to mind during everyday life, try explaining it in a sentence or two to someone you trust. Or simply enjoy recognizing it yourself.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
