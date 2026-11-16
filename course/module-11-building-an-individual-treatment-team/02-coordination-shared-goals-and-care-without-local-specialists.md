@@ -333,17 +333,17 @@ They discuss the revised purpose, and with Nadia's agreement he clarifies the re
 
 ### Two questions, two plans
 
-Before Nadia leaves, Dr. Chen updates his record:
+Before Nadia leaves, Dr. Chen considers where their discussion has taken them.
 
-*Migraine: Increasing frequency with inadequate benefit from current medication. Headache characteristics and previous treatment reviewed. Migraine-specific treatment options discussed; follow-up arranged in four weeks to review management and consider specialist input.*
+Her migraines have become more frequent despite her current medication. They've reviewed the changes, considered migraine-specific treatment options and arranged to revisit the plan in four weeks, with earlier reassessment if her headaches change significantly. That remains part of Dr. Chen's care regardless of whether Nadia attends the psychological assessment.
 
-*FND: Established movement symptoms and functional seizures. Nadia is interested in exploring whether psychological support could help with the disruption and uncertainty associated with her seizures. Referral purpose clarified with patient agreement. Migraine management remains under family-doctor follow-up.*
+The psychological referral now has a different, more specific purpose. Nadia is interested in exploring whether support could help her manage the uncertainty and disruption associated with her functional seizures. She and Dr. Chen have agreed to clarify that question with the psychologist, without assuming a psychological cause for her symptoms.
 
-Dr. Chen hasn't abandoned his interest in psychological approaches or concluded that the earlier referral was necessarily inappropriate. But Nadia's question has prompted a more precise use of the evidence he's been reading: a diagnostic-sign study cannot establish intent, psychological treatment research doesn't establish an individual's cause, and an established FND diagnosis doesn't settle an increasingly troublesome migraine.
+Dr. Chen hasn't abandoned his interest in psychological approaches or concluded that his earlier referral was necessarily inappropriate. What has changed is how he applies the evidence he's been reading.
 
-**What problem are we trying to address, and what evidence makes this the right next step for this patient?**
+A study of a diagnostic sign tells him something about examination findings, not the patient's intentions. Psychological treatment research may offer useful possibilities, but it doesn't explain Nadia's worsening migraines.
 
-This time, he and Nadia have an answer for both concerns.
+The two concerns can now be explored on their own merits, with Nadia involved in both decisions.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
