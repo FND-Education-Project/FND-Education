@@ -4,7 +4,7 @@
 
 # Care When No Local FND Specialist Is Available
 
-> **Editorial status:** The Person section was human-authored and approved November 14, 2026. The remaining audiences, original page title and introduction, citations, and illustration are still pre-rewrite working material.
+> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was human-authored and approved November 16, 2026. The Supporter section, original page title and introduction, sources, and illustration still require editorial reconciliation.
 
 Specialist FND services are not available everywhere. Lack of a nearby clinic is an access problem—not proof that nothing can be done.
 
@@ -291,24 +291,131 @@ Do not pressure the person to buy an unproven program because local services are
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### When specialist advice isn't the same as specialist care
 
-**Option 1 — Lehn et al., 2025**
+"I'm not sure I could provide that treatment."
 
-> “effective management is possible with accurate diagnosis and clear explanations”
+Dr. Singh is speaking with Graham's local physiotherapist, who practises in the small community where he lives. They've been discussing an assessment Graham has been offered at a neurological rehabilitation clinic nearly five hours away.
 
-**Option 2 — British Psychological Society, 2024**
+Graham has longstanding FND, including unreliable walking and functional seizures. He's been hoping to obtain specialized rehabilitation, but the distant clinic has confirmed that it can provide an assessment and recommendations, not ongoing remote treatment.
 
-> “FND services are best located within neurological/neurorehabilitation services”
+Dr. Singh had hoped the specialist recommendations might help Graham receive rehabilitation closer to home.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+The physiotherapist shares his interest, although she has concerns.
 
-### Make consultation lead to local action
+"I've read some of the FND rehabilitation guidance," she explains. "But if they recommend a particular movement-retraining approach, I'm not sure I'd know how to apply it properly. I haven't had specialist training."
 
-Provide a positive diagnostic explanation, assess comorbidity and translate specialist advice into a named local plan. Clarify who monitors benefit, adverse effects and diagnostic change. Remote input may support capacity building, but suitability depends on phenotype, risk, disability, technology and patient preference.
+Dr. Singh wonders whether a sufficiently detailed report could provide the direction she needs.
 
-The evidence does not establish telehealth or a hub-and-spoke model as equivalent to in-person specialist programs for every FND presentation. Do not abandon follow-up because ideal services are absent. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+"Perhaps for some things," she replies. "But what happens if Graham responds differently than expected? I'd want to know whether I was adapting the approach appropriately."
 
+It's a reasonable concern. Dr. Singh is thinking about how specialist knowledge might become accessible locally. The physiotherapist is considering what she can competently deliver once a recommendation becomes an actual treatment.
+
+They agree that a report could be valuable. What remains uncertain is how much of it could be put into practice.
+
+### Where does local expertise fit?
+
+Graham's physiotherapist already knows his mobility difficulties and has been interested in learning more about FND. Her existing skills and therapeutic relationship offer something useful, even though she doesn't have extensive experience with FND-specific rehabilitation.
+
+She can continue helping within her professional expertise, including appropriate mobility assessment and support for everyday activities. If the specialist clinic recommends an approach she understands and can safely provide, that may offer another opportunity.
+
+The harder question concerns recommendations that depend on specialist clinical judgment.
+
+A treatment report might describe a useful rehabilitation principle without showing how to adapt it to Graham's particular presentation. Would the physiotherapist need a demonstration, additional training or an opportunity to discuss his response with someone experienced in FND rehabilitation?
+
+That question interests Dr. Singh because it changes what he'd want from the specialist clinic.
+
+Professional FND management recommendations discuss individualized rehabilitation and cooperation between disciplines, including the possible contribution of clinicians who aren't based in specialist centres (Lehn and colleagues, 2025). But those general approaches cannot determine the skills available in Graham's community or what support his physiotherapist would need. (*citation* [1](#citation-1))
+
+The two clinicians begin identifying which aspects of care are already available locally and which would depend on further specialist involvement.
+
+This is more useful than assuming either that the physiotherapist can provide the recommended rehabilitation or that she has nothing to contribute.
+
+### What would the referral need to accomplish?
+
+Dr. Singh has already learned that the clinic won't provide ongoing remote rehabilitation. That doesn't necessarily make the assessment unhelpful, but its value is becoming more dependent on what follows.
+
+There are several possibilities.
+
+The specialists might identify a rehabilitation approach Graham's physiotherapist can reasonably use. They might offer a consultation with her, helping clarify what to do when questions arise during treatment.
+
+Alternatively, they might recommend a programme requiring expertise or facilities that Graham cannot access.
+
+Dr. Singh and the physiotherapist don't yet know which outcome is most likely.
+
+This leads them to a more specific clinical question: **Could the clinic provide enough information or professional support to make any recommended rehabilitation practical in Graham's community?**
+
+They decide that clarification would be useful before Graham undertakes the expensive journey.
+
+There are different ways to obtain it. Graham could ask the clinic what patients typically receive after an assessment. Administrative staff may be able to explain which services are offered.
+
+The question about training, supervision and implementation is more clinical. With Graham's agreement, Dr. Singh could discuss it with the specialist service or help arrange communication between the clinic and the physiotherapist.
+
+In this situation, Dr. Singh chooses to pursue that conversation because the answer may influence both the referral decision and the care his team can offer.
+
+It isn't simply another task assigned to Graham, who already faces considerable difficulty arranging and attending appointments.
+
+### A decision Graham can participate in
+
+When Dr. Singh next speaks with Graham, he explains what the physiotherapist has raised.
+
+"She wants to help, and she thinks specialist advice could be useful. But there may be recommendations she'd need additional training or support to carry out."
+
+Graham considers this.
+
+"So they could tell us what treatment I need, but we might still have nobody who can provide it?"
+
+"That's one possibility. We don't know yet whether the clinic could help your physiotherapist use its recommendations."
+
+Graham has previously undergone assessments that didn't lead to treatment. He's understandably reluctant to spend more money and energy on another consultation unless it has a realistic purpose.
+
+At the same time, he recognizes that the specialist opinion might identify something useful that hasn't been considered locally.
+
+Dr. Singh explains what he hopes to clarify with the clinic. Graham agrees that a discussion with his physiotherapist would be worthwhile, particularly if the specialists can help identify what might actually be delivered near home.
+
+For now, Graham chooses to retain the appointment while they seek that information.
+
+He hasn't committed himself to travelling regardless of the outcome, and Dr. Singh hasn't promised that the referral will produce an accessible treatment.
+
+They've agreed on what they need to know before making the next decision.
+
+### When the available services cannot provide everything
+
+Even if the clinic offers useful recommendations, some aspects of Graham's rehabilitation may remain unavailable.
+
+That possibility doesn't change the value of the care his local professionals can competently provide. Nor does it mean that ordinary physiotherapy should be presented as a substitute for specialist FND rehabilitation.
+
+For Dr. Singh, an important part of coordinating care is keeping those distinctions visible.
+
+Graham continues to need appropriate medical care, review of his other health concerns and a clinician he can return to when circumstances change. His physiotherapist can continue providing support within her expertise while considering whether specialist input would expand what she can offer.
+
+What remains uncertain is whether Graham will obtain the rehabilitation he has been seeking.
+
+A brief clinical record might capture the situation:
+
+*Graham is awaiting specialist neurological rehabilitation assessment. Significant travel and financial burden. Local physiotherapist is willing to collaborate but has identified limits to her FND-specific treatment expertise. With Graham's agreement, seeking clarification about specialist consultation and practical implementation of recommendations. Appointment retained pending further information; family-doctor review planned before travel.*
+
+The record preserves the outstanding treatment need without suggesting that accepting a referral means rehabilitation has become available.
+
+### What makes the assessment worthwhile?
+
+The conversation between Dr. Singh and the physiotherapist has changed the way they think about Graham's referral.
+
+Initially, the value seemed to lie in obtaining an assessment from someone with specialized knowledge. That remains a potential benefit, but they've identified another consideration: what would need to happen for the assessment to lead to useful care?
+
+A specialist opinion may be valuable even when it doesn't result in immediate treatment. It can clarify uncertainty, inform local decisions or identify options that weren't previously considered.
+
+For Graham, however, the considerable cost of attending makes the practical consequences particularly important.
+
+The clinicians may ultimately discover that the clinic cannot provide the professional support needed to implement its recommendations locally. Graham might still choose to attend, or he might decide that the likely benefit doesn't justify the journey at present.
+
+Neither decision establishes that the referral was inappropriate.
+
+What has improved is their understanding of its purpose, its limitations and the choices available.
+
+**The interesting clinical question isn't simply whether specialist expertise would benefit Graham. It's how that expertise might become useful in the care he can realistically access.**
+
+Dr. Singh and the physiotherapist may not be able to remove the barriers, but their collaboration gives Graham a clearer basis for deciding what to pursue next.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -336,4 +443,4 @@ The recommendations discuss specialist-supported local care and telehealth as ac
 
 This page still needs review by people without local specialist access, rural and remote clinicians, telehealth specialists and accessibility reviewers.
 
-*Person section human-authored and approved: November 14, 2026 · Remaining sections, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
+*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
