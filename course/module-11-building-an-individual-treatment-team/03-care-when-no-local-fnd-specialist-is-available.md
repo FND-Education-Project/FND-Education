@@ -251,6 +251,22 @@ Sometimes the next step will be another specialist. Sometimes it will be a bette
 **You deserve healthcare that addresses the problems that matter to you, and the process of obtaining that care should take your circumstances into account.**
 
 In the next module, we'll return to Nadia as she attends her psychological assessment. We'll explore what happens when psychological care is offered, what questions it raises and how someone with FND can decide whether that care is appropriate for them.
+
+### Something to think about
+
+What is one thing about getting healthcare that you wish were easier?
+
+### How might that feel?
+
+How might it feel if a healthcare professional understood how difficult accessing care can be and helped you find a realistic way forward?
+
+### One small step
+
+Complete this sentence, even if only in your thoughts:
+
+"The help I'd most like with my health right now is ______."
+
+You don't need an upcoming appointment or a treatment plan to do this.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
