@@ -375,17 +375,13 @@ For someone who hasn't yet received appropriate rehabilitation, education may be
 
 ### What has changed clinically?
 
-The doctor has enough information to support a discussion with the school and consider whether specialist communication assessment would be useful.
+The doctor considers what Callum's teacher needs to understand. Callum speaks comfortably during today's consultation, but his communication difficulties still disrupt school activities. More importantly, Callum has explained what he wants: to present his own work, using spoken communication when possible and another method when necessary.
 
-A concise clinical summary might read:
+That gives the doctor a practical direction for discussing school arrangements without making assumptions about Callum's future abilities.
 
-*Callum demonstrates improved understanding of FND and can describe possible contributors to his communication difficulties. Intermittent speech disruption continues to affect school participation. He wishes to present his own work using speech when possible, with typed communication available if needed. Discussed school arrangements and possible specialist speech and language assessment.*
+His father can help with those conversations, but Callum has taken an increasingly active role in identifying his needs. The doctor also has a clearer reason to consider specialist speech and language assessment: Callum wants to explore whether rehabilitation could make his communication more reliable.
 
-The summary recognizes his progress, continuing disability and immediate priorities without treating them as contradictory.
-
-There may also be value in noting how Callum's father has contributed. Their shared understanding has improved communication at home, and his father can help support Callum's participation in healthcare without taking over decisions that Callum is increasingly able to discuss himself.
-
-In time, rehabilitation may offer further opportunities for improvement. For now, the clinician and family have moved beyond explaining the diagnosis toward discussing a practical problem, identifying an appropriate goal and considering what professional support might help.
+These are two opportunities arising from the same appointment. One addresses participation now; the other considers possible improvement through rehabilitation. **Callum's growing understanding has helped him take part in shaping both.**
 
 ### A different benefit of FND education
 
