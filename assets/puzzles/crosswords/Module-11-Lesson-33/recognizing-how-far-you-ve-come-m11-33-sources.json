@@ -1,0 +1,371 @@
+{
+  "title": "Recognizing How Far You've Come",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 632,
+    "lesson": 33,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 11,
+    "seed": 1,
+    "selected_question_count": 32
+  },
+  "score": 77.33,
+  "included": [
+    {
+      "answer": "UNDERSTANDING",
+      "borrowed": false,
+      "clue": "Making sense of experiences\n  without necessarily changing symptoms.",
+      "direction": "down",
+      "grid_col": 22,
+      "grid_row": 1,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "UNDERSTANDING",
+      "priority": 1,
+      "row": 1073
+    },
+    {
+      "answer": "NEUROSCIENCE",
+      "borrowed": false,
+      "clue": "The science of the brain and\n  nerves, not rocket science.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 4,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "NEUROSCIENCE",
+      "priority": 2,
+      "row": 1076
+    },
+    {
+      "answer": "CLASS",
+      "borrowed": false,
+      "clue": "Students sharing a lesson, or\n  their group.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 1,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "CLASS",
+      "priority": 3,
+      "row": 1054
+    },
+    {
+      "answer": "PAUSE",
+      "borrowed": false,
+      "clue": "A brief 'hold that thought' in a\n  conversation.",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 2,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "PAUSE",
+      "priority": 2,
+      "row": 1055
+    },
+    {
+      "answer": "TEACH",
+      "borrowed": false,
+      "clue": "Explain an idea so someone else\n  can use it.",
+      "direction": "down",
+      "grid_col": 19,
+      "grid_row": 3,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "TEACH",
+      "priority": 2,
+      "row": 1057
+    },
+    {
+      "answer": "TYPE",
+      "borrowed": false,
+      "clue": "Use a keyboard when your voice\n  clocks out.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 2,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "TYPE",
+      "priority": 1,
+      "row": 1049
+    },
+    {
+      "answer": "WORDS",
+      "borrowed": false,
+      "clue": "They can get stuck despite knowing\n  what you want to say.",
+      "direction": "across",
+      "grid_col": 19,
+      "grid_row": 10,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "WORDS",
+      "priority": 1,
+      "row": 1050
+    },
+    {
+      "answer": "ATTENTION",
+      "borrowed": false,
+      "clue": "The mental spotlight that can land\n  on your speech.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 0,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "ATTENTION",
+      "priority": 1,
+      "row": 1071
+    },
+    {
+      "answer": "SPEAK",
+      "borrowed": false,
+      "clue": "Say something aloud rather than\n  send a message.",
+      "direction": "across",
+      "grid_col": 22,
+      "grid_row": 6,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "SPEAK",
+      "priority": 2,
+      "row": 1051
+    },
+    {
+      "answer": "SUPPORT",
+      "borrowed": false,
+      "clue": "What a good companion provides,\n  not a running commentary.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 5,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "SUPPORT",
+      "priority": 2,
+      "row": 1065
+    },
+    {
+      "answer": "VOICE",
+      "borrowed": false,
+      "clue": "A communication tool that doesn't\n  always cooperate.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 3,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "VOICE",
+      "priority": 2,
+      "row": 1062
+    },
+    {
+      "answer": "QUIET",
+      "borrowed": false,
+      "clue": "The calmer alternative to a\n  bustling school corridor.",
+      "direction": "down",
+      "grid_col": 24,
+      "grid_row": 3,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "QUIET",
+      "priority": 2,
+      "row": 1052
+    },
+    {
+      "answer": "SKILL",
+      "borrowed": false,
+      "clue": "An ability that may become easier\n  with learning.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 5,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "SKILL",
+      "priority": 2,
+      "row": 1061
+    },
+    {
+      "answer": "POINT",
+      "borrowed": false,
+      "clue": "Indicate a place without saying a\n  word.",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 8,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "POINT",
+      "priority": 3,
+      "row": 1060
+    },
+    {
+      "answer": "PATTERN",
+      "borrowed": false,
+      "clue": "A repeated sequence you can begin\n  to recognize.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 8,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "PATTERN",
+      "priority": 2,
+      "row": 1072
+    },
+    {
+      "answer": "NOTE",
+      "borrowed": false,
+      "clue": "A few reminders saved for the\n  doctor's visit.",
+      "direction": "down",
+      "grid_col": 20,
+      "grid_row": 9,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "NOTE",
+      "priority": 2,
+      "row": 1053
+    },
+    {
+      "answer": "FAMILIAR",
+      "borrowed": false,
+      "clue": "How a once-confusing idea feels\n  after you revisit it.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 7,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "FAMILIAR",
+      "priority": 2,
+      "row": 1069
+    },
+    {
+      "answer": "NOISE",
+      "borrowed": false,
+      "clue": "Too many sounds competing for\n  first prize.",
+      "direction": "across",
+      "grid_col": 22,
+      "grid_row": 12,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "NOISE",
+      "priority": 2,
+      "row": 1046
+    },
+    {
+      "answer": "FOCUS",
+      "borrowed": false,
+      "clue": "A mental zoom lens that can get\n  stuck on speech.",
+      "direction": "down",
+      "grid_col": 25,
+      "grid_row": 8,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "FOCUS",
+      "priority": 1,
+      "row": 1059
+    },
+    {
+      "answer": "KNOWLEDGE",
+      "borrowed": false,
+      "clue": "What grows even while an illness\n  stays troublesome.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 14,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "KNOWLEDGE",
+      "priority": 1,
+      "row": 1066
+    },
+    {
+      "answer": "HELP",
+      "borrowed": false,
+      "clue": "You can request this without\n  giving up independence.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 9,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "HELP",
+      "priority": 2,
+      "row": 1056
+    },
+    {
+      "answer": "CROWD",
+      "borrowed": false,
+      "clue": "A hallway traffic jam made\n  entirely of people.",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 10,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "CROWD",
+      "priority": 3,
+      "row": 1047
+    },
+    {
+      "answer": "TEACHER",
+      "borrowed": false,
+      "clue": "Someone who should know that\n  typing can count as answering.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 10,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "TEACHER",
+      "priority": 2,
+      "row": 1067
+    },
+    {
+      "answer": "LEARN",
+      "borrowed": false,
+      "clue": "Gain new understanding without\n  needing symptoms to disappear.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 7,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "LEARN",
+      "priority": 1,
+      "row": 1063
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "PHONE",
+      "clue": "A pocket-sized backup when\n  speaking becomes difficult.",
+      "row": 1048
+    },
+    {
+      "answer": "FEEDBACK",
+      "clue": "Information about how an attempt\n  turned out.",
+      "row": 1064
+    },
+    {
+      "answer": "SALIENCE",
+      "clue": "Why a school bell gets the brain's\n  VIP pass.",
+      "row": 1070
+    },
+    {
+      "answer": "AUTOMATICITY",
+      "clue": "The reason you don't normally\n  coach each mouth movement.",
+      "row": 1074
+    },
+    {
+      "answer": "COMMUNICATION",
+      "clue": "When meaning travels by speaking,\n  typing, or gestures.",
+      "row": 1075
+    },
+    {
+      "answer": "SHARE",
+      "clue": "Let someone else benefit from what\n  you learned.",
+      "row": 1058
+    },
+    {
+      "answer": "DESCRIBE",
+      "clue": "Put an experience into words\n  someone else can follow.",
+      "row": 1068
+    },
+    {
+      "answer": "BELL",
+      "clue": "A school's loudest way of saying\n  'Move along.'",
+      "row": 1045
+    }
+  ]
+}
