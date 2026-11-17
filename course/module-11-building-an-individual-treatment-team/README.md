@@ -1,26 +1,26 @@
-# Module 11 — Building an Individual Treatment Team
+# Module 11 — Recognizing Progress and Navigating Healthcare
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › **Module 11: Building an Individual Treatment Team**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › **Module 11: Recognizing Progress and Navigating Healthcare**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Editorial status:** All nine Person, Supporter and Clinician sections in Lessons 33–35 were human-authored and approved by the project lead by November 17, 2026. The module and lesson titles were approved November 17. Chat Audit 1 editorial review is complete; independent clinical review, Work Audit 2 original-source verification, accessibility checks and publication-readiness review remain pending.
 
-This module breaks team care into three smaller questions: who may help, how responsibilities connect, and what is possible when no specialist clinic is nearby.
+This module explores the value of understanding FND, communicating with healthcare professionals and finding realistic paths through barriers to care.
 
 ## In this module
 
-- You can build around your actual needs rather than a required list of professionals.
-- A shared plan can name your priority, each person's role and a review point.
-- Local care may sometimes be supported by specialist advice or telehealth.
+- Learning about FND can help you communicate and participate even when symptoms have not improved.
+- Asking what a referral is meant to address can keep your priorities and separate medical concerns visible.
+- The travel, expense and practical support required for healthcare matter, especially when an assessment may not lead to accessible treatment.
 
-Current recommendations support individualized multidisciplinary care and clear coordination, while evidence does not establish one ideal team for everyone. (*citations* [1](#citation-1), [2](#citation-2))
+Care decisions can be individualized, and neither a single referral nor an idealized team guarantees access to treatment. The references below require reconciliation with this revised module in Work Audit 2.
 
 ## Pages
 
-- **[Who May Be on the Treatment Team](01-who-may-be-on-the-treatment-team.md)** — understand possible roles without assuming everybody needs every discipline.
-- **[Shared Goals and Clear Responsibilities](02-coordination-shared-goals-and-care-without-local-specialists.md)** — connect what matters to you with named responsibilities and review.
-- **[Care When No Local FND Specialist Is Available](03-care-when-no-local-fnd-specialist-is-available.md)** — consider supported local care, remote advice and their limits.
+- **[Recognizing How Far You've Come](01-who-may-be-on-the-treatment-team.md)** (Lesson 33) — acknowledge knowledge, communication and participation as meaningful progress before symptom improvement.
+- **[Working With Your Healthcare Professionals](02-coordination-shared-goals-and-care-without-local-specialists.md)** (Lesson 34) — distinguish a referral's purpose from the health concern that prompted the visit, while preserving mutual respect and patient autonomy.
+- **[Finding Your Way Through Healthcare Barriers](03-care-when-no-local-fnd-specialist-is-available.md)** (Lesson 35) — consider travel, treatment burden, local expertise and the difference between a specialist assessment and accessible ongoing care.
 
 For a profession-facing version of this question, see **[Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md)**. It starts with a specialty table, then gives each profession a short role description, cautions, search tags and links to relevant FND material.
 
@@ -29,7 +29,7 @@ For a profession-facing version of this question, see **[Professional Roles in F
 > Every page in this module uses these same four main sections.
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Start with Who May Be on the Treatment Team](01-who-may-be-on-the-treatment-team.md)
+**Continue:** [Start with Recognizing How Far You've Come](01-who-may-be-on-the-treatment-team.md)
 
 **Navigate:** [Reference Library](../../reference/README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
@@ -38,13 +38,13 @@ For a profession-facing version of this question, see **[Professional Roles in F
 
 ## Research and Sources
 
-These sources support multidisciplinary care and patient-chosen outcomes. The recommendations combine research and expert consensus. (*citations* [1](#citation-1), [2](#citation-2))
+These existing sources concern individualized management and patient-valued outcomes; Work Audit 2 must check claim-to-source alignment with the newly approved lesson sequence and reconcile any additional sources cited within lessons. (*citations* [1](#citation-1), [2](#citation-2))
 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
 | <a id="citation-2"></a>**[2]** | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
 
-This overview still needs review by people with FND, multidisciplinary clinicians, supporters and accessibility reviewers.
+This overview's revised title and lesson descriptions are editorially approved; independent clinical, reference, rendering and accessibility checks remain outstanding.
 
-*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
+*Module identity and course navigation updated: November 17, 2026 · Work Audit 2 and clinical review pending*
