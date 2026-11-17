@@ -4,7 +4,7 @@
 
 # Care When No Local FND Specialist Is Available
 
-> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was human-authored and approved November 16, 2026. The Supporter section, original page title and introduction, sources, and illustration still require editorial reconciliation.
+> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was approved November 16, 2026; and the Supporter section was approved November 17, 2026. The page title and introduction, sources, and illustration remain pending editorial reconciliation.
 
 Specialist FND services are not available everywhere. Lack of a nearby clinic is an access problem—not proof that nothing can be done.
 
@@ -277,10 +277,107 @@ You don't need an upcoming appointment or a treatment plan to do this.
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Practical help may include testing the video setup, writing down the question, arranging transport or helping compare recommendations after the appointment. Ask which task is wanted.
+### It's more than a lift
 
-Do not pressure the person to buy an unproven program because local services are scarce. Limited access can make cure claims especially persuasive; check qualifications, evidence, cost, risks and follow-up.
+Lena has known Graham for years. Since his functional seizures made driving unsafe, she's occasionally taken him to appointments or helped with errands when his walking was unreliable.
 
+She's delighted when he tells her he's finally been offered an appointment at a neurological rehabilitation clinic. He's spent years looking for appropriate FND treatment.
+
+Then she sees the letter.
+
+Nine o'clock in the morning. Nearly five hours away.
+
+Lena checks her calendar. They'd need to travel the day before, stay overnight and drive home after the appointment. She'd have to rearrange work, and there would be fuel, accommodation and meals to consider.
+
+She wants to help. But what she'd imagined as a lift has become a two-day commitment, possibly longer if Graham has difficulty travelling.
+
+A few days later, she visits to discuss the arrangements.
+
+"I think I could get the time off. Have you decided whether you're going?"
+
+"Not yet. Dr. Singh contacted the clinic. They'll assess me and make recommendations, but they don't provide ongoing remote rehabilitation where I live."
+
+Lena is surprised. She'd assumed the clinic would either treat Graham or arrange treatment closer to home.
+
+"So what happens after the assessment?"
+
+"That's what we're trying to find out. My physiotherapist might be able to use some of their advice, but she hasn't had specialist FND training."
+
+Lena considers what that could mean. Graham might make the exhausting journey, receive useful recommendations and still have nobody available to provide the treatment.
+
+There's something she needs to clarify, too.
+
+"I could probably help with this appointment. But if you ended up needing weekly treatment in the city, I couldn't keep making the trip."
+
+"I know," Graham replies. "I wouldn't expect you to."
+
+He's already been through assessments that produced detailed reports without leading to treatment. He doesn't want to spend another thousand dollars simply to discover what he still can't access.
+
+Lena understands. He isn't looking for an excuse to abandon the appointment. He's trying to find out whether it could lead somewhere useful.
+
+Dr. Singh is exploring what support the clinic might offer Graham's local physiotherapist. They've decided to keep the appointment while they learn more.
+
+Lena agrees to check her work schedule, and they leave the travel arrangements open until Graham knows more.
+
+### What can a supporter realistically offer?
+
+On her way home, Lena feels better about their conversation.
+
+She'd worried that admitting her limits might discourage Graham. Instead, they'd both been able to explain what mattered.
+
+He wanted appropriate rehabilitation. She wanted to help him access it. Neither could promise that one specialist appointment would achieve those things.
+
+The practical demands of supporting someone through healthcare are easy to underestimate.
+
+A 2019 Australian report on FND experiences included 66 carers, many of whom described financial and other effects of caring. The respondents were a self-selected group, but their experiences illustrate why supporters' circumstances deserve consideration, too.
+
+*[Experiences of Functional Neurological Disorder — Summary Report, Australian National Mental Health Commission (2019)](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf).*
+
+Lena has responsibilities beyond helping Graham. She can rearrange some of them, but not indefinitely.
+
+And Graham understands that. He doesn't want his friend's kindness to become an obligation she can't sustain.
+
+### One journey isn't a treatment plan
+
+The following week, Graham phones with an update. Dr. Singh is still clarifying what professional support the clinic could offer his physiotherapist.
+
+Lena has checked her schedule. She could probably arrange the time away for the initial appointment if Graham decides to attend.
+
+"Thanks. I really appreciate it," Graham says.
+
+"Of course. I just wish getting treatment wasn't so complicated."
+
+"Me too."
+
+They agree to revisit the travel plans once he has more information.
+
+Lena hopes Graham will finally find rehabilitation that helps. But she won't pressure him to make the journey simply because she's offered to drive.
+
+If he decides the assessment is worthwhile, she'll help where she can. If he postpones it because the likely benefit remains uncertain, she'll respect that decision.
+
+Graham's healthcare choices are his to make.
+
+### Helping without becoming the solution
+
+There's an important distinction in Lena's experience.
+
+**A supporter may be able to help someone attend an appointment without being able to help them access the treatment that follows.**
+
+A specialist assessment might be valuable, but written recommendations don't automatically create a qualified local provider, an affordable treatment programme or reliable transportation.
+
+Those gaps belong to the healthcare-access problem. They aren't evidence that the person with FND hasn't tried hard enough, or that their supporter hasn't offered enough.
+
+Some people have a friend like Lena who can occasionally help. Others have nobody available to accompany them. Even a willing supporter may face limits involving work, finances, health or family responsibilities.
+
+The person with FND needs to understand what care is actually being offered. The supporter needs to be clear about what assistance they can realistically provide.
+
+Both sets of information matter when considering the next step.
+
+Lena hasn't removed Graham's barriers, and she hasn't decided whether he should attend. She's offered the help she can manage and left him free to make an informed choice.
+
+**Supporting someone's access to healthcare doesn't mean becoming responsible for providing that access.**
+
+Graham still deserves appropriate rehabilitation, whether or not Lena can drive him to every appointment. And Lena can remain a caring friend without promising more than she can deliver.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -445,4 +542,4 @@ The recommendations discuss specialist-supported local care and telehealth as ac
 
 This page still needs review by people without local specialist access, rural and remote clinicians, telehealth specialists and accessibility reviewers.
 
-*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
+*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section approved: November 17, 2026 · Sources, navigation and metadata pending reconciliation · Independent clinical review pending*
