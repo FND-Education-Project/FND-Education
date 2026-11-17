@@ -1,12 +1,12 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › [Module 13](README.md) › **Who May Be on the Treatment Team**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › [Module 11: Recognizing Progress and Navigating Healthcare](README.md) › **Recognizing How Far You've Come**
 <!-- NAV-BREADCRUMB:END -->
 
-# Who May Be on the Treatment Team
+# Recognizing How Far You've Come
 
-> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was approved November 16, 2026; the Supporter section was human-authored and approved November 17, 2026. The original page title and introduction, citations, and illustration remain pending reconciliation.
+> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was approved November 16, 2026; the Supporter section was human-authored and approved November 17, 2026. The page title and introduction were reconciled with the approved curriculum on November 17, 2026; original-source verification and illustration-fidelity review remain pending.
 
-FND care may involve more than one kind of professional. That does not mean everyone needs a large team.
+Understanding FND can improve communication and participation even before symptoms improve or rehabilitation becomes available.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -552,7 +552,7 @@ In this case, it has helped turn a difficult school presentation into a clearer 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Shared Goals and Clear Responsibilities](02-coordination-shared-goals-and-care-without-local-specialists.md)
+**Continue:** [Next page: Working With Your Healthcare Professionals](02-coordination-shared-goals-and-care-without-local-specialists.md)
 
 **Navigate:** [← Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
