@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › **Module 11: Recognizing Progress and Navigating Healthcare**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** All nine Person, Supporter and Clinician sections in Lessons 33–35 were human authored and approved by the project lead by November 17, 2026. The module and lesson titles were approved November 17. Chat Audit 1 editorial review is complete; Work Audit 2 evidence, citation and asset checks were performed November 17, 2026, with verification limits recorded in the internal audit report. Independent clinical review, full assistive-technology acceptance and module publication-readiness review remain pending.
+> **Working draft:** All nine Person, Supporter and Clinician sections in Lessons 33–35 were human authored and approved by the project lead by November 17, 2026. The module and lesson titles were approved November 17. Chat Audit 1 editorial review is complete; Work Audit 2 evidence, citation and asset checks were performed November 17, 2026, with verification limits recorded in the internal audit report. Module publication-readiness review completed November 17, 2026. Independent clinical review, full assistive-technology acceptance and the project lead’s publication decision remain pending.
 
 This module explores the value of understanding FND, communicating with healthcare professionals and finding realistic paths through barriers to care.
 

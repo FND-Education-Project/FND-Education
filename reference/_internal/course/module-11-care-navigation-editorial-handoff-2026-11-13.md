@@ -1,5 +1,8 @@
 # Module 11 — Acknowledgement, working with doctors, and healthcare barriers: editorial handoff
 
+**Current status — November 17, 2026:** Chat Audit 1 decisions and Work Audit 2 repairs are complete. [Module publication-readiness review](module-11-publication-readiness-2026-11-17.md) is complete; the exact final commit and CI result are recorded in PR #208. All nine audience sections are human authored and owner-approved. The WellSpouses quotation remains independently unverified; Sonoo wording/sample findings were checked in the original abstract and methods limitations in a contemporary review, not the inaccessible original full text. Independent clinical review, full assistive-technology acceptance and the owner’s merge decision remain pending. This supersedes historical pending-work notes below. No merge, deployment or Module 12 change.
+
+
 **Prepared:** November 13, 2026  
 **Repository:** FND-Education-Project/FND-Education  
 **Branch:** editorial/module-11-care-navigation-handoff-20261113  

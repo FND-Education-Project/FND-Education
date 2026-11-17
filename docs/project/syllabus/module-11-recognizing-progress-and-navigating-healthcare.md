@@ -5,7 +5,7 @@
 **Part Four: Treatment and Living With FND**  
 **Current lessons:** 33–35, three audience sections per lesson.  
 **Editorial approval:** Person sections November 14, 2026; Clinician sections November 16, 2026; Supporter sections November 17, 2026. Module and public lesson titles approved November 17, 2026.  
-**Review status:** Chat Audit 1 completed, with owner decisions recorded in the [editorial audit](../../../reference/_internal/course/module-11-audit-01-editorial-findings-2026-11-17.md). Work Audit 2, source and quotation verification, independent clinical review, publication-readiness audit, and full assistive-technology acceptance remain pending.
+**Review status:** Chat Audit 1 completed, with owner decisions recorded in the [editorial audit](../../../reference/_internal/course/module-11-audit-01-editorial-findings-2026-11-17.md). Work Audit 2 and module publication-readiness review are complete; see the [publication report](../../../reference/_internal/course/module-11-publication-readiness-2026-11-17.md). The WellSpouses excerpt remains unverified, and original Sonoo full-methods access was unavailable. Independent clinical review, full assistive-technology acceptance and the project lead’s publication decision remain pending.
 
 ## Purpose
 
@@ -24,7 +24,7 @@ Help people recognize useful learning before symptom recovery, communicate needs
 - **Person:** Nadia and Dr. Chen distinguish the purpose of a psychological referral from her unmet migraine treatment question; diagnostic overshadowing, ambiguity in clinical language and respectful disagreement matter.
 - **Supporter:** Nadia's friend learns not to substitute her own opinions or speech for Nadia's, particularly when Nadia needs time and a written cue to recover a thought.
 - **Clinician:** Dr. Chen revisits the clinical question, assesses worsening migraine on its own terms, and identifies a consent-based possible purpose for psychological support without assuming psychological causation.
-- **Historical-source policy:** Where a historical examination paper contains stigmatizing language, the modern understanding of genuine and involuntary FND symptoms comes first. The shortest owner-approved historical quotation is retained pending independent Work verification; original-paper links are kept in internal notes, with unlinked plain-text public bibliography and stable ID.
+- **Historical-source policy:** Where a historical examination paper contains stigmatizing language, the modern understanding of genuine and involuntary FND symptoms comes first. The shortest owner-approved historical quotation is retained with original-abstract wording verification; original full-methods access was unavailable; original-paper links are kept in internal notes, with unlinked plain-text public bibliography and stable ID.
 
 ### [Lesson 35 — Finding Your Way Through Healthcare Barriers](../../../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md)
 
