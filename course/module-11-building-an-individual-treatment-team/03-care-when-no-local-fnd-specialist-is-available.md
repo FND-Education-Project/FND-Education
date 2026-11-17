@@ -1,12 +1,12 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › [Module 13](README.md) › **Care When No Local FND Specialist Is Available**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › [Module 11: Recognizing Progress and Navigating Healthcare](README.md) › **Finding Your Way Through Healthcare Barriers**
 <!-- NAV-BREADCRUMB:END -->
 
-# Care When No Local FND Specialist Is Available
+# Finding Your Way Through Healthcare Barriers
 
-> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was approved November 16, 2026; and the Supporter section was approved November 17, 2026. The page title and introduction, sources, and illustration remain pending editorial reconciliation.
+> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was approved November 16, 2026; and the Supporter section was approved November 17, 2026. The page title and introduction were reconciled with the approved curriculum on November 17, 2026; source verification and illustration-fidelity review remain pending.
 
-Specialist FND services are not available everywhere. Lack of a nearby clinic is an access problem—not proof that nothing can be done.
+Getting healthcare can require money, travel and help from others; an assessment is not the same as treatment that is realistically available.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
