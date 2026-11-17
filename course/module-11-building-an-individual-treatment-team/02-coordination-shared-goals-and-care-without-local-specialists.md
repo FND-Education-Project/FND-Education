@@ -393,9 +393,11 @@ Something about his recent reading comes back to mind.
 
 ### Something he noticed in the literature
 
+Current clinical understanding recognizes FND symptoms as genuine and involuntary. Positive diagnostic signs can provide evidence for FND, but they do not establish that a patient is deliberately producing symptoms. Dr. Chen keeps that distinction in mind as he recalls an older paper.
+
 One paper in particular has stayed with Dr. Chen. In 2004, Sonoo published a study examining a bedside sign for distinguishing functional leg weakness from other causes of weakness. While discussing Hoover's sign, the author described two patients as having **"succeeded in tricking the examiner."** He also suggested that the newer hip-abductor sign would be difficult for someone he called *hysterical* to use to deceive the examiner.
 
-The study itself had a narrower purpose than that language suggests. It compared 16 patients classified as having functional leg weakness with 17 who had other causes of weakness. The hip-abductor sign correctly classified all 33 participants in that small sample, although the examination wasn't blinded and agreement between different examiners wasn't measured. The findings concerned the diagnostic performance of a physical examination sign. They didn't establish whether anyone was deliberately trying to deceive the examiner. ([Sonoo, 2004](https://pubmed.ncbi.nlm.nih.gov/14707320/); [FND-CIT-0058](../../research/citation-index.md#fnd-cit-0058))
+The study itself had a narrower purpose than that language suggests. It compared 16 patients classified as having functional leg weakness with 17 who had other causes of weakness. The hip-abductor sign correctly classified all 33 participants in that small sample, although the examination wasn't blinded and agreement between different examiners wasn't measured. The findings concerned the diagnostic performance of a physical examination sign. They didn't establish whether anyone was deliberately trying to deceive the examiner. (Sonoo, 2004; FND-CIT-0058.)
 
 Dr. Chen remembers feeling uncomfortable with the wording. He's never doubted Nadia's honesty, and the paper hasn't changed that. What stayed with him was how easily a useful clinical observation could be described in language that implied something about the patient's intentions.
 
@@ -481,6 +483,7 @@ The sources support shared decisions, patient-centred outcomes and coordinated p
 | <a id="citation-2"></a>**[2]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
 | <a id="citation-3"></a>**[3]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
 | <a id="citation-4"></a>**[4]** | Figure 1 | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
+| Historical source (plain-text exception) | — | Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. FND-CIT-0058. The paper's exact wording and methods await Work Audit 2 verification; see the internal Module 11 evidence handoff for the original link. |
 
 This page still needs review by people coordinating FND care, people with FND, supporters and accessibility reviewers.
 
