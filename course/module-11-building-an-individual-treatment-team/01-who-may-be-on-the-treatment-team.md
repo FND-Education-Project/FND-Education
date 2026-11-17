@@ -4,7 +4,7 @@
 
 # Who May Be on the Treatment Team
 
-> **Editorial status:** The Person section was human-authored and approved November 14, 2026. The remaining audience sections, original page title and introduction, citations, and illustration are still pre-rewrite working material.
+> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was approved November 16, 2026; the Supporter section was human-authored and approved November 17, 2026. The original page title and introduction, citations, and illustration remain pending reconciliation.
 
 FND care may involve more than one kind of professional. That does not mean everyone needs a large team.
 
@@ -287,10 +287,143 @@ If something you've learned about FND comes to mind during everyday life, try ex
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Ask what role the person wants you to have. You might take notes, help carry information between appointments or notice an access problem. Do not become the treatment supervisor or assume that more appointments must be better.
+### The drawer labelled "brain stuff"
 
-Help keep other diagnoses and ordinary healthcare visible. If a symptom is new, severe, injured or meaningfully different, follow the person's safety plan and seek appropriate assessment rather than deciding it is “just FND.”
+Callum's father had spent nearly two years watching his son struggle with things that once came naturally. Some days his walking was unreliable. At other times, speaking became difficult, even when he knew exactly what he wanted to say.
 
+His father had learned a great deal about FND during those years, although some of the terminology still escaped him.
+
+One Saturday afternoon, they were finishing lunch when Callum offered to help clear the table.
+
+His father watched him collect two plates and head toward the kitchen. Callum had walked through the room several times already that morning, but carrying the plates seemed to make the journey considerably harder.
+
+His steps became awkward, and he stopped partway through to steady himself. When he finally reached the counter, he put the plates down and leaned against it.
+
+"That seemed harder than usual," his father observed.
+
+"Yeah. And I'm really tired now. All I did was carry two plates."
+
+His father offered to finish clearing the table while Callum rested.
+
+As he put the remaining dishes away, he wondered what had changed. Callum had managed the same walk earlier. Why had carrying something made such a difference?
+
+He remembered learning about attention and automatic movement, but couldn't quite put the ideas together.
+
+### Finding an explanation together
+
+Later, when Callum had rested, his father brought it up.
+
+"Wasn't there something in the course about doing two things at once?"
+
+"I think so. Was it automaticity?"
+
+"Possibly. I've filed all those words in the same drawer."
+
+"What drawer?"
+
+"The one labelled 'brain stuff.' Very sophisticated filing system."
+
+Callum laughed.
+
+Neither could remember the explanation clearly, so they opened the FND Education Project and found the earlier lessons.
+
+One familiar idea caught his father's attention:
+
+> **Automaticity:** The nervous system's ability to carry out familiar actions without consciously controlling every movement.
+
+They also found the discussion about doing two things at once. If walking already requires considerable attention, carrying something while walking may add competing demands and make the activity more difficult.
+
+That seemed relevant to what he'd witnessed.
+
+As they read, his father realized he'd been concentrating on whether Callum could make it to the kitchen. He hadn't appreciated how much effort the journey might require.
+
+The explanation didn't establish exactly why Callum had struggled. The plates had weight, and fatigue could have several contributors. But they had found a useful possibility to consider together.
+
+"Well, that makes a bit more sense," his father said.
+
+"Yeah. And at least we found the right drawer."
+
+They put the tablet away.
+
+### Learning alongside someone
+
+When Callum first became ill, his father had often felt helpless. They'd spent hours searching for explanations, sometimes finding useful information and sometimes ending up with more questions.
+
+Their conversations had gradually changed. They shared enough knowledge now that neither had to begin from the beginning whenever something familiar happened.
+
+His father had also started learning independently. He didn't want Callum to carry all the responsibility for understanding his condition.
+
+One spouse, writing about supporting someone with functional seizures, expressed a similar intention:
+
+> “I'm trying to be supportive and to learn about it on my own so she doesn't have to fully educate me.”
+
+*Community voice — spouse describing an effort to understand a loved one's condition. [Original public discussion](https://www.reddit.com/r/WellSpouses/comments/1q2nlh9/pnes_experience/).*
+
+Callum's father recognized the sentiment. Sometimes Callum remembered a term he'd forgotten. Other times, his father remembered an example that helped them find what they were looking for.
+
+Neither needed to become the expert. They could remain curious together.
+
+### Knowing when to leave things alone
+
+Later that afternoon, they settled down to watch a film.
+
+Callum's legs were still tired, but he seemed comfortable on the sofa. He laughed at something on the screen, and before long they were debating which character was going to cause the next disaster.
+
+When the film ended, Callum shifted forward as though preparing to stand, then settled back again.
+
+His father noticed and briefly wondered whether attention was affecting his movement.
+
+After their earlier reading, it was tempting to ask.
+
+But Callum seemed content, and there was no need to turn the moment into another investigation.
+
+"Want anything while I'm up?" his father asked.
+
+"Some water would be great."
+
+His father brought him a glass and returned to his chair.
+
+A few minutes later, Callum recognized an actor on the television.
+
+"He's been in something else we watched. What's his name?"
+
+His father searched his memory without success.
+
+"No idea. I know the face, though."
+
+They spent a minute trying to remember before looking him up.
+
+"Another visit to the brain-stuff drawer," Callum remarked.
+
+"Apparently the filing system needs some maintenance."
+
+They laughed and returned to their film.
+
+### Recognizing progress from the supporter's side
+
+For a long time, Callum's father had naturally looked for progress in his son's symptoms.
+
+Was his walking becoming more reliable? Was speaking getting easier? Could he participate in more activities than before?
+
+Those questions still mattered. Callum continued to experience considerable disability, and his father hoped that appropriate rehabilitation might eventually help.
+
+But he was beginning to recognize other changes, too.
+
+Their conversations were easier. They shared a language for discussing some of Callum's experiences, and his father could better appreciate why an apparently simple activity might be difficult or exhausting.
+
+He also felt less pressure to find an explanation for every familiar symptom. When they encountered a question worth exploring, they could look for information together. When something needed professional assessment, they could bring that concern to the appropriate clinician rather than trying to resolve it themselves.
+
+And when Callum didn't want to discuss FND, his father could respect that choice.
+
+None of these developments meant Callum's symptoms had disappeared. They didn't establish that his rehabilitation needs had been met, either.
+
+But his father no longer measured the value of everything they'd learned solely by whether Callum could walk farther or speak more reliably.
+
+Their shared understanding had become useful in its own right.
+
+**He was learning how to understand his son's experiences without needing to explain every one of them—and how to remain his father, rather than becoming an investigator of everything his son's nervous system did.**
+
+There was still a great deal they hoped would improve. But that Saturday afternoon reminded him that they had already come a considerable way together.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -424,4 +557,4 @@ These sources support need-based multidisciplinary care and distinguish professi
 
 This page still needs review by people with FND, clinicians from different disciplines, supporters and accessibility reviewers.
 
-*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
+*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section approved: November 17, 2026 · Quote, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
