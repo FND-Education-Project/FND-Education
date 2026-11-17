@@ -134,6 +134,12 @@ Nadia leaves with a clearer understanding of what happens next.
 
 Her psychological appointment is still ahead of her. We'll return to Nadia in Module 12 to see how she handles that assessment and the questions it raises.
 
+<figure class="image-60center" markdown="1">
+
+![Nadia and her family doctor, Dr. Chen, sit together in an examination room reviewing a psychological referral letter while discussing her worsening migraines and the different purposes of the referral and migraine care.](../../assets/images/lesson-34-illustration.png)
+
+</figure>
+
 ### Why was that conversation so difficult?
 
 There's something about Nadia's situation that goes beyond knowing the right medical words.
@@ -241,6 +247,13 @@ How might it feel to disagree with a doctor you trust, especially when you depen
 ### One small step
 
 The next time you notice a familiar symptom, consider which nervous-system processes might be involved. If useful, write down a few words so you can explain your thinking at a healthcare appointment.
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-34-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-34-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 34 printable colouring illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-34-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 34 colouring PDF (new tab)</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
