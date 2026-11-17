@@ -4,7 +4,7 @@
 
 # Finding Your Way Through Healthcare Barriers
 
-> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was approved November 16, 2026; and the Supporter section was approved November 17, 2026. The page title and introduction were reconciled with the approved curriculum on November 17, 2026; source verification and illustration-fidelity review remain pending.
+> **Working draft:** All three audience sections are human authored. Person approved November 14, 2026; Clinician November 16, 2026; Supporter November 17, 2026. Work Audit 2 evidence, citation and asset checks: November 17, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
 Getting healthcare can require money, travel and help from others; an assessment is not the same as treatment that is realistically available.
 
@@ -276,6 +276,12 @@ Complete this sentence, even if only in your thoughts:
 
 You don't need an upcoming appointment or a treatment plan to do this.
 
+### Optional crossword
+
+<img src="{{ '/assets/puzzles/thumbnails/finding-your-way-through-healthcare-barriers-m11-35-normal.svg' | relative_url }}" alt="Preview of Finding Your Way Through Healthcare Barriers crossword" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async">
+
+<a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-35/finding-your-way-through-healthcare-barriers-m11-35-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-35/finding-your-way-through-healthcare-barriers-m11-35-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-35/finding-your-way-through-healthcare-barriers-m11-35-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a>
+
 ### Optional colouring activity
 
 <a href="{{ '/assets/puzzles/colouring/lesson-35-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-35-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 35 printable colouring illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
@@ -344,7 +350,7 @@ He wanted appropriate rehabilitation. She wanted to help him access it. Neither 
 
 The practical demands of supporting someone through healthcare are easy to underestimate.
 
-A 2019 Australian report on FND experiences included 66 carers, many of whom described financial and other effects of caring. The respondents were a self-selected group, but their experiences illustrate why supporters' circumstances deserve consideration, too.
+A 2019 Australian report on FND experiences included 66 carers, many of whom described financial and other effects of caring. The respondents were a self-selected group, but their experiences illustrate why supporters' circumstances deserve consideration, too. (*citations* [1](#citation-1))
 
 *[Experiences of Functional Neurological Disorder — Summary Report, Australian National Mental Health Commission (2019)](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf).*
 
@@ -437,7 +443,7 @@ A treatment report might describe a useful rehabilitation principle without show
 
 That question interests Dr. Singh because it changes what he'd want from the specialist clinic.
 
-Professional FND management recommendations discuss individualized rehabilitation and cooperation between disciplines, including the possible contribution of clinicians who aren't based in specialist centres (Lehn and colleagues, 2025). But those general approaches cannot determine the skills available in Graham's community or what support his physiotherapist would need. (*citation* [1](#citation-1))
+Professional FND management recommendations discuss individualized rehabilitation and cooperation between disciplines, including the possible contribution of clinicians who aren't based in specialist centres (Lehn and colleagues, 2025). But those general approaches cannot determine the skills available in Graham's community or what support his physiotherapist would need. (*citations* [2](#citation-2))
 
 The two clinicians begin identifying which aspects of care are already available locally and which would depend on further specialist involvement.
 
@@ -547,14 +553,13 @@ Dr. Singh and the physiotherapist may not be able to remove the barriers, but th
 
 ## Research and Sources
 
-The recommendations discuss specialist-supported local care and telehealth as access strategies. They do not prove that remote care fits every person or replaces hands-on assessment. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+The consultation records carers’ experiences in a self-selected sample. The professional recommendations discuss individualized, specialist-supported care; they do not establish that suitable expertise is available in every community.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | — | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../research/citation-index.md#fnd-cit-0013). [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
+| <a id="citation-1"></a>**[1]** | — | Australian National Mental Health Commission. **Experiences of Functional Neurological Disorder — Summary Report.** July 2019. [Original report](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf), p. 6. [FND-CIT-0332](../../research/citation-index.md#fnd-cit-0332). |
+| <a id="citation-2"></a>**[2]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). |
 
 This page still needs review by people without local specialist access, rural and remote clinicians, telehealth specialists and accessibility reviewers.
 
-*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section approved: November 17, 2026 · Sources, navigation and metadata pending reconciliation · Independent clinical review pending*
+*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section approved: November 17, 2026 · Work Audit 2 checks: November 17, 2026; verification limits recorded in audit report · Independent clinical review pending*

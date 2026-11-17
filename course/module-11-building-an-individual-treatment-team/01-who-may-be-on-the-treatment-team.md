@@ -4,7 +4,7 @@
 
 # Recognizing How Far You've Come
 
-> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was approved November 16, 2026; the Supporter section was human-authored and approved November 17, 2026. The page title and introduction were reconciled with the approved curriculum on November 17, 2026; original-source verification and illustration-fidelity review remain pending.
+> **Working draft:** All three audience sections are human authored. Person approved November 14, 2026; Clinician November 16, 2026; Supporter November 17, 2026. Work Audit 2 evidence, citation and asset checks: November 17, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
 Understanding FND can improve communication and participation even before symptoms improve or rehabilitation becomes available.
 
@@ -286,6 +286,12 @@ How does it feel to have a better understanding of the processes that might be a
 
 If something you've learned about FND comes to mind during everyday life, try explaining it in a sentence or two to someone you trust. Or simply enjoy recognizing it yourself.
 
+### Optional crossword
+
+<img src="{{ '/assets/puzzles/thumbnails/recognizing-how-far-you-ve-come-m11-33-normal.svg' | relative_url }}" alt="Preview of Recognizing How Far You&#x27;ve Come crossword" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async">
+
+<a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-33/recognizing-how-far-you-ve-come-m11-33-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-33/recognizing-how-far-you-ve-come-m11-33-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-33/recognizing-how-far-you-ve-come-m11-33-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a>
+
 ### Optional colouring activity
 
 <a href="{{ '/assets/puzzles/colouring/lesson-33-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-33-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 33 printable colouring illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
@@ -372,7 +378,7 @@ One spouse, writing about supporting someone with functional seizures, expressed
 
 > “I'm trying to be supportive and to learn about it on my own so she doesn't have to fully educate me.”
 
-*Community voice — spouse describing an effort to understand a loved one's condition. [Original public discussion](https://www.reddit.com/r/WellSpouses/comments/1q2nlh9/pnes_experience/).*
+*Figure 1. Community voice — spouse describing an effort to understand a loved one's condition. [Original public discussion](https://www.reddit.com/r/WellSpouses/comments/1q2nlh9/pnes_experience/).* (*citations* [1](#citation-1))
 
 Callum's father recognized the sentiment. Sometimes Callum remembered a term he'd forgotten. Other times, his father remembered an example that helped them find what they were looking for.
 
@@ -485,7 +491,7 @@ The distinction is familiar clinically, but Callum's understanding allows him to
 
 ### When accommodation and rehabilitation meet
 
-The possibility of typed communication raises an interesting question. Could an alternative way of communicating become something Callum relies on instead of practising spoken communication?
+The possibility of [typed communication](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md) raises an interesting question. Could an alternative way of communicating become something Callum relies on instead of practising spoken communication?
 
 It's worth considering, particularly when rehabilitation may involve working toward more automatic, reliable speech. Yet removing an accommodation doesn't necessarily promote rehabilitation, just as providing one doesn't necessarily discourage recovery.
 
@@ -493,13 +499,13 @@ Callum offers a useful perspective.
 
 "I still want to talk. I'd just like another option if my speech stops working."
 
-That helps clarify the immediate goal. The presentation is an educational activity, not a rehabilitation exercise. Callum wants to participate using speech when available, with an alternative that keeps him involved when it isn't.
+That helps clarify the immediate goal. The presentation is an educational activity, not a rehabilitation exercise. Callum wants to participate using speech when available, with an alternative that keeps him involved when it isn't. (*citations* [2](#citation-2))
 
 The doctor and family can discuss how this might be explained to the school without turning the accommodation into a prediction about his future abilities.
 
 The longer-term question concerns whether Callum would benefit from assessment and treatment by a speech and language therapist familiar with functional communication difficulties.
 
-Baker and colleagues' 2021 consensus recommendations describe individualized approaches to assessing and treating functional communication disorders, including attention to meaningful communication activities. These provide a professional framework, rather than evidence that one particular strategy will work for Callum. (*citation* [3](#citation-3))
+Baker and colleagues' 2021 consensus recommendations describe individualized approaches to assessing and treating functional communication disorders, including attention to meaningful communication activities. These provide a professional framework, rather than evidence that one particular strategy will work for Callum. (*citations* [3](#citation-3))
 
 If an appropriate service is available, Callum's knowledge and observations may give the therapist a useful starting point. His school accommodation and any rehabilitation plan can then be considered together, with each serving a clear purpose.
 
@@ -561,15 +567,14 @@ In this case, it has helped turn a difficult school presentation into a clearer 
 
 ## Research and Sources
 
-These sources support need-based multidisciplinary care and distinguish professional roles. Much of the role guidance is consensus rather than comparative evidence for one ideal team. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+The clinical sources address communication access and individualized functional speech care. The community excerpt is retained with its verification limit below.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-3"></a>**[3]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
-| <a id="citation-4"></a>**[4]** | — | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../research/citation-index.md#fnd-cit-0013). [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Reddit, r/WellSpouses. *PNES experience*. Original public discussion: https://www.reddit.com/r/WellSpouses/comments/1q2nlh9/pnes_experience/. Retained spouse excerpt unavailable for independent verification on November 17, 2026; exact wording, attribution and surrounding context could not be reconfirmed. [FND-CIT-0349](../../research/citation-index.md#fnd-cit-0349). |
+| <a id="citation-2"></a>**[2]** | — | American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed September 17, 2026. [Source](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/). [FND-CIT-0106](../../research/citation-index.md#fnd-cit-0106). |
+| <a id="citation-3"></a>**[3]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 
 This page still needs review by people with FND, clinicians from different disciplines, supporters and accessibility reviewers.
 
-*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section approved: November 17, 2026 · Quote, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
+*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section approved: November 17, 2026 · Work Audit 2 checks: November 17, 2026; community excerpt unverified · Independent clinical review pending*

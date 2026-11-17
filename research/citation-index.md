@@ -194,6 +194,8 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0344](#fnd-cit-0344) | Abe & Suzuki, 2000 | Uncontrolled childhood series | rehabilitation, learning, outcomes | [Lesson 29](../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md) |
 | [FND-CIT-0345](#fnd-cit-0345) | Espay et al., 2019 | Uncontrolled treatment and imaging study | rehabilitation, learning, outcomes | [Lesson 29](../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md) |
 | [FND-CIT-0346](#fnd-cit-0346) | Helen’s story | Individual lived experience | rehabilitation, learning, outcomes | [Lesson 29](../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md) |
+| [FND-CIT-0347](#fnd-cit-0347) | Sandri et al., 2025 | Cross-sectional gait study | concurrent tasks, gait | [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md) |
+| [FND-CIT-0348](#fnd-cit-0348) | Cock & Edwards, 2018 | Clinical review | functional seizures, acute assessment, examination safety | [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -404,7 +406,7 @@ Use this source for its broad clinical overview, diagnostic-pitfall table, posit
 **Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
 
 
-**Concepts-first course use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md).
+**Concepts-first course use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
 
 **Module 7 current use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
 
@@ -415,6 +417,8 @@ Use this source for its broad clinical overview, diagnostic-pitfall table, posit
 Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
 
 Use this source for the modern inclusionary diagnostic approach, removal of psychological stress as a required diagnostic criterion, broad treatment concepts, and limitations of older psychogenic assumptions. Later pages should distinguish DSM diagnostic criteria from broader mechanism proposals in the article.
+
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
 
 ## FND-CIT-0003
 
@@ -490,6 +494,10 @@ Use this source for current American Academy of Neurology evidence-based guidanc
 
 **Module 9 current use (November 12, 2026):** [Lesson 29](../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
 
+**Module 10 current use (November 14, 2026):** [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
+
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
+
 ## FND-CIT-0011
 
 Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281)
@@ -505,13 +513,16 @@ Use this consensus source for flexible, person-chosen functional goals and its d
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
 
-**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md); ; ; [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
+**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
 **Module 7 current use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
 **Module 8 current use (claim-level evidence check November 7, 2026; access limits in the Work audit):** [Lesson 24](../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
 
 **Module 9 current use (November 12, 2026):** [Lesson 27](../course/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 28](../course/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
+**Module 10 current use (November 14, 2026):** [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 31](../course/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
+
 
 ## FND-CIT-0012
 
@@ -520,6 +531,10 @@ Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in funct
 Use this source for the importance of patient-centred outcomes that include symptoms, emotional wellbeing, daily activities, independence and quality of life. It reports the views of a purposively sampled UK group and should not be treated as a population estimate or individual prognosis.
 
 **Module 8 current use (claim-level evidence check November 7, 2026; access limits in the Work audit):** [Lesson 24](../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+
+**Module 10 current use (November 14, 2026):** [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
+
+**Module 11 current use (November 17, 2026):** [Module 11 overview](../course/module-11-building-an-individual-treatment-team/README.md).
 
 ## FND-CIT-0013
 
@@ -612,6 +627,9 @@ Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *E
 
 Use this source for a positive approach to functional visual symptoms that demonstrates preserved vision, communicates the finding constructively and considers comorbid eye or neurological disease. Individual signs do not replace a complete ophthalmic assessment.
 
+**Module 10 current use (November 14, 2026):** [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
+
+
 ## FND-CIT-0025
 
 Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
@@ -630,6 +648,10 @@ Use this source for professional consensus on positive assessment and speech-and
 **Module 7 current use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
 
 **Module 9 current use (November 12, 2026):** [Lesson 27](../course/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md).
+
+**Module 10 current use (November 14, 2026):** [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
+
+**Module 11 current use (November 17, 2026):** [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md).
 
 ## FND-CIT-0026
 
@@ -675,6 +697,9 @@ Use this source for education, redirected attention, task-oriented automatic mov
 
 **Module 9 current use (November 12, 2026):** [Lesson 27](../course/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md).
 
+**Module 10 current use (November 14, 2026):** [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
+
+
 ## FND-CIT-0029
 
 Nielsen G, Stone J, Lee TC, et al.; Physio4FMD study group. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. *The Lancet Neurology*. 2024;23(7):675–686. [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2)
@@ -684,7 +709,6 @@ Use this source for program-level evidence about specialist FND physiotherapy. T
 **Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
 
 
-**Concepts-first course use:** ; ; [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
 
 **Module 9 current use (November 12, 2026):** [Lesson 29](../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
 
@@ -824,6 +848,8 @@ Use this source for the relationship between migraine and FND. The review found 
 
 **Module 8 current use (claim-level evidence check November 7, 2026; access limits in the Work audit):** [Lesson 24](../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 25](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
+
 ## FND-CIT-0050
 
 Nightscales R, McCartney L, Auvrez C, et al. Mortality in patients with psychogenic nonepileptic seizures. *Neurology*. 2020;95(6):e643–e652. [https://doi.org/10.1212/WNL.0000000000009855](https://doi.org/10.1212/WNL.0000000000009855)
@@ -891,6 +917,8 @@ Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic par
 Use this source for the bilateral hip-abductor comparison described in unilateral lower-limb paresis. Preserve the historical terminology only when quoting or giving the article title; use current non-stigmatizing language elsewhere. Do not extrapolate the result to bilateral or widespread paralysis.
 
 **Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
 
 ## FND-CIT-0059
 
@@ -1046,6 +1074,8 @@ Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: tr
 Use these recommendations for need-based multidisciplinary care, professional roles, coordination, supported local care and practical rehabilitation principles. The paper combines available research with multidisciplinary expert consensus in an Australian context; do not treat it as a comparative trial of team designs or proof that telehealth fits every person.
 
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+**Module 11 current use (November 17, 2026):** [Lesson 35](../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md); [Module 11 overview](../course/module-11-building-an-individual-treatment-team/README.md).
 
 ## FND-CIT-0077
 
@@ -1236,6 +1266,8 @@ Review of ophthalmic and neurological causes of photophobia; not proof of effica
 American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed September 17, 2026. [Source](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/).
 
 Professional communication-access guidance across conditions. Supports individualized AAC and continued access; not an FND treatment trial. The speech collection explicitly distinguishes this access approach from FND-CIT-0025’s caution about aids in functional mutism.
+
+**Module 11 current use (November 17, 2026):** [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md).
 
 ## FND-CIT-0107
 
@@ -1780,6 +1812,8 @@ Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functi
 
 **Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md).
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
+
 ## FND-CIT-0184
 
 Walczak TS, Bogolioubov A. Weeping during psychogenic nonepileptic seizures. *Epilepsia*. 1996;37(2):208-210. [DOI](https://doi.org/10.1111/j.1528-1157.1996.tb00013.x). [PMID: 8635432](https://pubmed.ncbi.nlm.nih.gov/8635432/).
@@ -2066,6 +2100,8 @@ Guideline for headache treatment and medication-overuse management; not an FND t
 
 **Current use:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md); [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md).
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
+
 ## FND-CIT-0200
 
 Headache Classification Committee of the International Headache Society. The International Classification of Headache Disorders, 3rd edition. *Cephalalgia*. 2018;38:1–211. [Classification](https://ichd-3.org/). doi:10.1177/0333102417738202.
@@ -2128,8 +2164,8 @@ ME/CFS guideline: energy management is not a cure; fixed incremental exercise pr
 
 **Additional current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
 
+**Module 10 current use (November 14, 2026):** [Lesson 31](../course/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
 
-**Concepts-first course use:** [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
 
 ## FND-CIT-0207
 
@@ -3204,22 +3240,29 @@ Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comme
 Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
 
 
-**Concepts-first course use:** ; [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
 
 **Module 9 current use (November 12, 2026):** None; former lesson excerpt removed. Historical provenance retained.
+
+**Module 10 current use (November 14, 2026):** [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
+
+
+**Verification update (November 14, 2026):** Exact current excerpt and original context independently verified. Speaker describes caring for her husband alongside work and family demands and asks for help. The lesson excerpt does not endorse the speaker’s diagnostic interpretation or beliefs about acceptance and recovery.
 
 ## FND-CIT-0321
 
 Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1m2st47/comment/n3s00gm/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
 
+**Module 10 current use (November 14, 2026):** None; former lesson quotation removed. Historical provenance retained.
 
-**Concepts-first course use:** [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md).
 
 ## FND-CIT-0322
 
 Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
 
-**Concepts-first course use:** [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md).
+**Module 10 current use (November 14, 2026):** [Lesson 31](../course/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md)
+
+
+**Verification update (November 14, 2026):** Original excerpt unavailable through the comment, parent discussion and indexed search; wording, speaker perspective and context could not be independently reverified. Historical verification is not current verification. This does not establish whether the author deleted it.
 
 ## FND-CIT-0323
 
@@ -3304,6 +3347,13 @@ Australian National Mental Health Commission. **Experiences of Functional Neurol
 
 **Current use:** [Lesson 25, Figure 1](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
 
+**Module 10 current use (November 14, 2026):** [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md)
+
+
+**Module 10 scope:** Summary-report pages 9–10 support the general carer-burden statement. Self-selected responses (113 consumers, 66 carers); not a representative prevalence estimate.
+
+**Module 11 current use (November 17, 2026):** [Lesson 35](../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md).
+
 ## FND-CIT-0333
 
 Wieling W, Kaufmann H, Claydon VE, van Wijnen VK, Harms MPM, Juraschek SP, Thijs RD. **Diagnosis and treatment of orthostatic hypotension.** *The Lancet Neurology*. 2022;21(8):735–746. [Original](https://doi.org/10.1016/S1474-4422(22)00169-7) · [Open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10024337/).
@@ -3313,9 +3363,14 @@ Wieling W, Kaufmann H, Claydon VE, van Wijnen VK, Harms MPM, Juraschek SP, Thijs
 **Current use:** [Lesson 25, Person and Clinician](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
 
 
+**Module 10 current use (November 14, 2026):** [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md)
+
 ## Historical Module 8 community source — not in current lessons
 
 Q002 / S01 was removed from Lesson 25 during publication-readiness review on November 8, 2026. [Original comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Retrieval remained unsuccessful; exact wording and speaker perspective are **unverified**. No permanent citation ID was allocated. The historical excerpt and retrieval record remain in the internal publication-readiness report. Removal closes the publication dependency without claiming verification; no current lesson uses this source.
+
+
+
 
 ## FND-CIT-0334
 
@@ -3420,3 +3475,40 @@ Helen. **Helen’s story.** Neurosymptoms. [Original](https://neurosymptoms.org/
 **Evidence and verification:** Exact first-person excerpt and original context checked November 11, 2026. Multiple helpful experiences; does not isolate a causal treatment.
 
 **Current use:** [Lesson 29](../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
+
+## FND-CIT-0347
+
+Sandri A, Bonetto C, Fiorio M, et al. **Unraveling the mechanisms of high-level gait control in functional gait disorders.** *Journal of Neural Transmission*. 2025;132:95–104. Published online September 6, 2024. [Original](https://doi.org/10.1007/s00702-024-02829-4).
+
+**Evidence and verification:** Original publisher full text checked November 14, 2026. Cross-sectional study of 87 adults with functional gait disorders and 48 healthy controls; selected gait measures differed across task conditions. The study did not test Morgan’s fictional instruction-recall outcome or demonstrate a treatment effect. Selected ambulatory sample; relevant comorbidities and persistent dissociative seizures were excluded.
+
+**Module 10 current use (November 14, 2026):** [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md)
+
+## FND-CIT-0348
+
+Cock HR, Edwards MJ. **Functional neurological disorders: acute presentations and management.** *Clinical Medicine*. 2018;18(5):414–417. doi:10.7861/clinmedicine.18-5-414. [Original full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6334101/).
+
+**Evidence and verification:** Clinical review; original full text independently checked November 14, 2026. The examination section advises against sternal rubs, nail-bed pressure and other noxious stimuli during dissociative/functional seizures because of injury and distress, including in people who retain awareness but cannot respond. This is clinical guidance, not a comparative treatment trial or a single-sign diagnostic rule. Project-lead-approved sentence added November 15, 2026.
+
+**Module 10 current use (November 15, 2026):** [Lesson 30, Clinician examination reflection](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md#examination-awareness-and-clinical-judgment).
+
+
+## FND-CIT-0349
+
+Reddit, r/WellSpouses. *PNES experience*. Original public discussion: https://www.reddit.com/r/WellSpouses/comments/1q2nlh9/pnes_experience/. Retained spouse excerpt unavailable for independent verification on November 17, 2026; exact wording, attribution and surrounding context could not be reconfirmed.
+
+**Evidence type:** Unverified community experience; not clinical evidence. Preserve the approved excerpt without implying current independent verification. Access failure does not establish deletion.
+
+**Module 11 current use (November 17, 2026):** [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md).
+
+
+## Module 11 — current source usage, November 17, 2026
+
+This mapping supersedes source-use assumptions from the earlier team-building draft. Removed unused lesson-table entries: Lehn, Nicholson OT and Dworetzky in Lesson 33; Rutten, Lehn and BPS in Lesson 34; BPS and Dworetzky in Lesson 35. Their other course and reference uses remain unchanged.
+
+| Page | Actual sources |
+|---|---|
+| [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md) | FND-CIT-0349, FND-CIT-0106, FND-CIT-0025 |
+| [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md) | FND-CIT-0002, FND-CIT-0058, FND-CIT-0183, FND-CIT-0049, FND-CIT-0199, FND-CIT-0010 |
+| [Lesson 35](../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md) | FND-CIT-0332, FND-CIT-0076 |
+| [Overview](../course/module-11-building-an-individual-treatment-team/README.md) | FND-CIT-0076, FND-CIT-0012 |

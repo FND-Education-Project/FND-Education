@@ -1,0 +1,386 @@
+{
+  "title": "Balancing Practice, Rest, and Everyday Life",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 620,
+    "lesson": 32,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 10,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 76.85,
+  "included": [
+    {
+      "answer": "PURPOSE",
+      "borrowed": false,
+      "clue": "Why\n  a useful movement matters outside treatment.",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 4,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "PURPOSE",
+      "priority": 1,
+      "row": 1035
+    },
+    {
+      "answer": "GOAL",
+      "borrowed": false,
+      "clue": "The\n  reason for therapy, beyond acing an exercise.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 8,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "GOAL",
+      "priority": 1,
+      "row": 1011
+    },
+    {
+      "answer": "THERAPY",
+      "borrowed": false,
+      "clue": "Care\n  meant to support life, not replace it.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 4,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "THERAPY",
+      "priority": 1,
+      "row": 1039
+    },
+    {
+      "answer": "AUTOMATICMOVEMENT",
+      "borrowed": false,
+      "clue": "An action made without directing\n  each tiny step.",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 10,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "AUTOMATICMOVEMENT",
+      "priority": 1,
+      "row": 1044
+    },
+    {
+      "answer": "SKILL",
+      "borrowed": false,
+      "clue": "Something\n  learned in therapy to use beyond the clinic.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 8,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "SKILL",
+      "priority": 1,
+      "row": 1027
+    },
+    {
+      "answer": "REST",
+      "borrowed": false,
+      "clue": "Something that deserves calendar\n  space alongside practice.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 7,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "REST",
+      "priority": 1,
+      "row": 1016
+    },
+    {
+      "answer": "HAND",
+      "borrowed": false,
+      "clue": "The body part that may jerk\n  during delicate drawing.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 9,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "HAND",
+      "priority": 3,
+      "row": 1024
+    },
+    {
+      "answer": "VISIT",
+      "borrowed": false,
+      "clue": "Time\n  with a friend that's worth protecting.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 0,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "VISIT",
+      "priority": 2,
+      "row": 1017
+    },
+    {
+      "answer": "JOY",
+      "borrowed": false,
+      "clue": "What a sketchbook can offer\n  without perfect lines.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 2,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "JOY",
+      "priority": 2,
+      "row": 1026
+    },
+    {
+      "answer": "COMFORT",
+      "borrowed": false,
+      "clue": "What a less glaring treatment\n  room may provide.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 6,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "COMFORT",
+      "priority": 2,
+      "row": 1038
+    },
+    {
+      "answer": "GLARE",
+      "borrowed": false,
+      "clue": "Harsh\n  lighting that may make a clinic trip harder.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 7,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "GLARE",
+      "priority": 2,
+      "row": 1015
+    },
+    {
+      "answer": "PRACTICE",
+      "borrowed": false,
+      "clue": "A means of improving a skill,\n  not life's only purpose.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 6,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "PRACTICE",
+      "priority": 1,
+      "row": 1032
+    },
+    {
+      "answer": "PARTICIPATION",
+      "borrowed": false,
+      "clue": "Joining\n  an art show without perfect pencil control.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 1,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "PARTICIPATION",
+      "priority": 1,
+      "row": 1041
+    },
+    {
+      "answer": "WALK",
+      "borrowed": false,
+      "clue": "A clinic success worth bringing\n  into daily life.",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 12,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "WALK",
+      "priority": 1,
+      "row": 1010
+    },
+    {
+      "answer": "CUP",
+      "borrowed": false,
+      "clue": "A\n  drink container that may benefit from a lid.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 4,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "CUP",
+      "priority": 2,
+      "row": 1023
+    },
+    {
+      "answer": "HOME",
+      "borrowed": false,
+      "clue": "Where a clinic skill may get its\n  next assignment.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 8,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "HOME",
+      "priority": 1,
+      "row": 1012
+    },
+    {
+      "answer": "TRANSFER",
+      "borrowed": false,
+      "clue": "When supported practice finally\n  helps with ordinary chores.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 6,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "TRANSFER",
+      "priority": 1,
+      "row": 1030
+    },
+    {
+      "answer": "BALANCE",
+      "borrowed": false,
+      "clue": "What\n  keeps therapy from crowding out everyday living.",
+      "direction": "down",
+      "grid_col": 20,
+      "grid_row": 0,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "BALANCE",
+      "priority": 1,
+      "row": 1033
+    },
+    {
+      "answer": "DRAWING",
+      "borrowed": false,
+      "clue": "A creative activity possible\n  with different materials.",
+      "direction": "across",
+      "grid_col": 18,
+      "grid_row": 3,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "DRAWING",
+      "priority": 2,
+      "row": 1034
+    },
+    {
+      "answer": "PAINT",
+      "borrowed": false,
+      "clue": "An\n  art supply that doesn't need a needle-sharp point.",
+      "direction": "down",
+      "grid_col": 22,
+      "grid_row": 1,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "PAINT",
+      "priority": 2,
+      "row": 1021
+    },
+    {
+      "answer": "MARKER",
+      "borrowed": false,
+      "clue": "A broad-tipped alternative to a\n  fine pencil.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 0,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "MARKER",
+      "priority": 2,
+      "row": 1022
+    },
+    {
+      "answer": "ADAPT",
+      "borrowed": false,
+      "clue": "Change the way you draw without\n  quitting art.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 12,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "ADAPT",
+      "priority": 1,
+      "row": 1028
+    },
+    {
+      "answer": "ART",
+      "borrowed": false,
+      "clue": "A\n  bird picture can be this, even with wonky feet.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 5,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "ART",
+      "priority": 1,
+      "row": 1025
+    },
+    {
+      "answer": "TRIP",
+      "borrowed": false,
+      "clue": "Travel that uses effort before\n  therapy even starts.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 12,
+      "lesson": 32,
+      "module": 10,
+      "original_answer": "TRIP",
+      "priority": 2,
+      "row": 1014
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "DRAW",
+      "clue": "Make art with marks, shapes or\n  lines.",
+      "row": 1018
+    },
+    {
+      "answer": "PROGRESS",
+      "clue": "An\n  improvement that may not tell the whole week's story.",
+      "row": 1031
+    },
+    {
+      "answer": "ACTIVITY",
+      "clue": "Something meaningful that may\n  need a different method.",
+      "row": 1036
+    },
+    {
+      "answer": "CAPACITY",
+      "clue": "What you can realistically\n  manage, considering symptoms and support.",
+      "row": 1040
+    },
+    {
+      "answer": "REHABILITATION",
+      "clue": "Therapy focused on rebuilding\n  abilities, not passing exercises.",
+      "row": 1042
+    },
+    {
+      "answer": "ADAPTATION",
+      "clue": "Changing\n  tools or tasks to keep an activity possible.",
+      "row": 1043
+    },
+    {
+      "answer": "WEEK",
+      "clue": "The\n  seven-day life surrounding a single appointment.",
+      "row": 1013
+    },
+    {
+      "answer": "PAPER",
+      "clue": "Cut it into shapes when fine\n  pencil lines are hard.",
+      "row": 1020
+    },
+    {
+      "answer": "ENJOY",
+      "clue": "To\n  do this with art, you needn't draw perfect lines.",
+      "row": 1029
+    },
+    {
+      "answer": "SESSION",
+      "clue": "One\n  appointment, not a complete picture of the week.",
+      "row": 1037
+    },
+    {
+      "answer": "ROBIN",
+      "clue": "A\n  red-breasted garden bird fit for a sketchbook.",
+      "row": 1019
+    }
+  ]
+}

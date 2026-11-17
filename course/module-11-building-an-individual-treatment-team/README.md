@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › **Module 11: Recognizing Progress and Navigating Healthcare**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Editorial status:** All nine Person, Supporter and Clinician sections in Lessons 33–35 were human-authored and approved by the project lead by November 17, 2026. The module and lesson titles were approved November 17. Chat Audit 1 editorial review is complete; independent clinical review, Work Audit 2 original-source verification, accessibility checks and publication-readiness review remain pending.
+> **Working draft:** All nine Person, Supporter and Clinician sections in Lessons 33–35 were human authored and approved by the project lead by November 17, 2026. The module and lesson titles were approved November 17. Chat Audit 1 editorial review is complete; Work Audit 2 evidence, citation and asset checks were performed November 17, 2026, with verification limits recorded in the internal audit report. Independent clinical review, full assistive-technology acceptance and module publication-readiness review remain pending.
 
 This module explores the value of understanding FND, communicating with healthcare professionals and finding realistic paths through barriers to care.
 
@@ -14,7 +14,13 @@ This module explores the value of understanding FND, communicating with healthca
 - Asking what a referral is meant to address can keep your priorities and separate medical concerns visible.
 - The travel, expense and practical support required for healthcare matter, especially when an assessment may not lead to accessible treatment.
 
-Care decisions can be individualized, and neither a single referral nor an idealized team guarantees access to treatment. The references below require reconciliation with this revised module in Work Audit 2.
+Care decisions can be individualized, and neither a single referral nor an idealized team guarantees access to treatment. The sources below address individualized care and patient-valued outcomes.
+
+## Optional module crossword
+
+<img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-11-review-m11-normal.svg' | relative_url }}" alt="Preview of FND Education — Module 11 Review crossword" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async">
+
+<a href="{{ '/assets/puzzles/crosswords/Module-11-Summary/fnd-education-module-11-review-m11-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Summary/fnd-education-module-11-review-m11-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Summary/fnd-education-module-11-review-m11-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a>
 
 ## Pages
 
@@ -38,13 +44,13 @@ For a profession-facing version of this question, see **[Professional Roles in F
 
 ## Research and Sources
 
-These existing sources concern individualized management and patient-valued outcomes; Work Audit 2 must check claim-to-source alignment with the newly approved lesson sequence and reconcile any additional sources cited within lessons. (*citations* [1](#citation-1), [2](#citation-2))
+These sources concern individualized management and patient-valued outcomes. (*citations* [1](#citation-1), [2](#citation-2))
 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
 | <a id="citation-2"></a>**[2]** | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
 
-This overview's revised title and lesson descriptions are editorially approved; independent clinical, reference, rendering and accessibility checks remain outstanding.
+This overview's title and lesson descriptions are editorially approved. Independent clinical review and full assistive-technology acceptance remain outstanding.
 
-*Module identity and course navigation updated: November 17, 2026 · Work Audit 2 and clinical review pending*
+*Module identity and course navigation updated: November 17, 2026 · Work Audit 2 checks: November 17, 2026 · Independent clinical review pending*

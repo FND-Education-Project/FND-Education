@@ -4,7 +4,7 @@
 
 # Working With Your Healthcare Professionals
 
-> **Editorial status:** The Person section was approved November 14, 2026; the Clinician section November 16, 2026; and the Supporter section November 17, 2026. The page title and introduction were reconciled with the approved curriculum on November 17, 2026; the original-source table and illustration-fidelity review remain pending.
+> **Working draft:** All three audience sections are human authored. Person approved November 14, 2026; Clinician November 16, 2026; Supporter November 17, 2026. Work Audit 2 evidence, citation and asset checks: November 17, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
 A useful referral should address a clear question, and other healthcare concerns—such as worsening migraine—must remain visible.
 
@@ -172,7 +172,7 @@ She still had a medical concern that needed attention.
 
 There's a term that helps explain another difficulty Nadia encountered.
 
-> **Diagnostic overshadowing:** When an existing diagnosis receives so much attention that another health problem is overlooked, dismissed or not adequately assessed.
+> **[Diagnostic overshadowing](../../glossary/README.md#diagnostic-overshadowing):** When an existing diagnosis receives so much attention that another health problem is overlooked, dismissed or not adequately assessed.
 
 People with FND can develop other medical conditions, just like anyone else. Having FND doesn't mean every headache, digestive problem, episode of dizziness or other symptom must be part of that disorder. And having another condition doesn't mean the FND diagnosis was necessarily incorrect.
 
@@ -249,6 +249,12 @@ How might it feel to disagree with a doctor you trust, especially when you depen
 ### One small step
 
 The next time you notice a familiar symptom, consider which nervous-system processes might be involved. If useful, write down a few words so you can explain your thinking at a healthcare appointment.
+
+### Optional crossword
+
+<img src="{{ '/assets/puzzles/thumbnails/working-with-your-healthcare-professionals-m11-34-normal.svg' | relative_url }}" alt="Preview of Working With Your Healthcare Professionals crossword" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async">
+
+<a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-34/working-with-your-healthcare-professionals-m11-34-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-34/working-with-your-healthcare-professionals-m11-34-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-34/working-with-your-healthcare-professionals-m11-34-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a>
 
 ### Optional colouring activity
 
@@ -393,11 +399,13 @@ Something about his recent reading comes back to mind.
 
 ### Something he noticed in the literature
 
-Current clinical understanding recognizes FND symptoms as genuine and involuntary. Positive diagnostic signs can provide evidence for FND, but they do not establish that a patient is deliberately producing symptoms. Dr. Chen keeps that distinction in mind as he recalls an older paper.
+Current clinical understanding recognizes FND symptoms as genuine and involuntary. Positive diagnostic signs can provide evidence for FND, but they do not establish that a patient is deliberately producing symptoms. Dr. Chen keeps that distinction in mind as he recalls an older paper. (*citations* [1](#citation-1))
 
 One paper in particular has stayed with Dr. Chen. In 2004, Sonoo published a study examining a bedside sign for distinguishing functional leg weakness from other causes of weakness. While discussing Hoover's sign, the author described two patients as having **"succeeded in tricking the examiner."** He also suggested that the newer hip-abductor sign would be difficult for someone he called *hysterical* to use to deceive the examiner.
 
-The study itself had a narrower purpose than that language suggests. It compared 16 patients classified as having functional leg weakness with 17 who had other causes of weakness. The hip-abductor sign correctly classified all 33 participants in that small sample, although the examination wasn't blinded and agreement between different examiners wasn't measured. The findings concerned the diagnostic performance of a physical examination sign. They didn't establish whether anyone was deliberately trying to deceive the examiner. (Sonoo, 2004; FND-CIT-0058.)
+*Figure 1. Historical wording from Sonoo (2004); FND-CIT-0058.* (*citations* [2](#citation-2))
+
+The study itself had a narrower purpose than that language suggests. It compared 16 patients classified as having functional leg weakness with 17 who had other causes of weakness. The hip-abductor sign correctly classified all 33 participants in that small sample, although the examination wasn't blinded and agreement between different examiners wasn't measured. The findings concerned the diagnostic performance of a physical examination sign. They didn't establish whether anyone was deliberately trying to deceive the examiner. (*citations* [2](#citation-2), [3](#citation-3))
 
 Dr. Chen remembers feeling uncomfortable with the wording. He's never doubted Nadia's honesty, and the paper hasn't changed that. What stayed with him was how easily a useful clinical observation could be described in language that implied something about the patient's intentions.
 
@@ -411,7 +419,7 @@ Meanwhile, Nadia had been asking for help with increasingly troublesome migraine
 
 Dr. Chen also recognizes how substantially the medical understanding of FND has changed. Earlier literature frequently approached functional symptoms through psychological explanations, but contemporary understanding recognizes FND as a **neurological disorder involving genuine, involuntary symptoms**.
 
-Diagnosis now emphasizes positive clinical findings rather than assuming an underlying psychological cause. A major milestone came in 2013, when the DSM-5 removed the requirement to identify an associated psychological stressor. Our [History of FND](../../reference/history-of-fnd.md) traces these changes and explains how older terminology and theories continue to appear in medical literature.
+Diagnosis now emphasizes positive clinical findings rather than assuming an underlying psychological cause. A major milestone came in 2013, when the DSM-5 removed the requirement to identify an associated psychological stressor. Our [History of FND](../../reference/history-of-fnd.md) traces these changes and explains how older terminology and theories continue to appear in medical literature. (*citations* [1](#citation-1))
 
 This distinction matters for Dr. Chen's decision. Psychological factors may be relevant to someone's health, and psychological treatment can have a valuable role in FND care. But neither establishes that psychological factors caused that person's functional symptoms.
 
@@ -423,11 +431,11 @@ Dr. Chen turns back to Nadia. "You're right. I offered the psychological referra
 
 They review her headache history, including the increase in frequency, whether the headache characteristics have changed, the treatments she's tried and how well she's tolerated them. Nadia describes the continuing disability caused by the migraines, particularly alongside her functional symptoms.
 
-The interaction between migraine and FND may be relevant to her overall functioning. They can coexist and may influence one another, although the evidence doesn't establish that one universally explains the other ([Stone and colleagues, 2025](https://doi.org/10.1093/braincomms/fcaf288); [FND-CIT-0049](../../research/citation-index.md#fnd-cit-0049)).
+The interaction between migraine and FND may be relevant to her overall functioning. They can coexist and may influence one another, although the evidence doesn't establish that one universally explains the other. (*citations* [4](#citation-4))
 
 The immediate question is more practical: does Nadia's changing headache pattern require further assessment, a different migraine treatment or specialist input?
 
-Dr. Chen reviews the available migraine-specific options with her, and they agree to consider an appropriate next treatment based on her history. They arrange a follow-up appointment in four weeks to review the headache plan and whether specialist referral is needed, with earlier reassessment if her symptoms change significantly. Her migraine care no longer depends on what the psychologist might conclude.
+Dr. Chen reviews the available migraine-specific options with her, and they agree to consider an appropriate next treatment based on her history. They arrange a follow-up appointment in four weeks to review the headache plan and whether specialist referral is needed, with earlier reassessment if her symptoms change significantly. Her migraine care no longer depends on what the psychologist might conclude. (*citations* [5](#citation-5))
 
 ### What is the psychological referral actually for?
 
@@ -441,7 +449,7 @@ He asks how Nadia feels about her functional seizures and the disruptions they c
 
 "Yes, I think that could be useful. I just don't want the migraines forgotten."
 
-Dr. Chen now has a clearer purpose for the referral. If Nadia wishes to proceed, the psychologist could assess whether psychological support might help her manage the practical and emotional effects of unpredictable functional seizures. Whether that support is useful remains to be determined; it doesn't require assuming psychological causation or replacing migraine care.
+Dr. Chen now has a clearer purpose for the referral. If Nadia wishes to proceed, the psychologist could assess whether psychological support might help her manage the practical and emotional effects of unpredictable functional seizures. Whether that support is useful remains to be determined; it doesn't require assuming psychological causation or replacing migraine care. (*citations* [6](#citation-6))
 
 They discuss the revised purpose, and with Nadia's agreement he clarifies the referral.
 
@@ -475,16 +483,17 @@ The two concerns can now be explored on their own merits, with Nadia involved in
 
 ## Research and Sources
 
-The sources support shared decisions, patient-centred outcomes and coordinated pathways. They do not establish one universal care-plan format. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+These sources distinguish contemporary diagnostic understanding, historical wording, migraine care and functional-seizure management. Sonoo’s quoted wording and sample results were checked in the original abstract; the methods limitations were checked against Dolbow and colleagues’ 2025 review because the original full text was not retrievable.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
-| <a id="citation-2"></a>**[2]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
-| <a id="citation-4"></a>**[4]** | Figure 1 | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| Historical source (plain-text exception) | — | Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. FND-CIT-0058. The paper's exact wording and methods await Work Audit 2 verification; see the internal Module 11 evidence handoff for the original link. |
+| <a id="citation-1"></a>**[1]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) [FND-CIT-0002](../../research/citation-index.md#fnd-cit-0002). |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. FND-CIT-0058. Historical source retained as unlinked plain text. |
+| <a id="citation-3"></a>**[3]** | — | Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [PMID: 40423819](https://pubmed.ncbi.nlm.nih.gov/40423819/). [FND-CIT-0183](../../research/citation-index.md#fnd-cit-0183). |
+| <a id="citation-4"></a>**[4]** | — | Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) [FND-CIT-0049](../../research/citation-index.md#fnd-cit-0049). |
+| <a id="citation-5"></a>**[5]** | — | National Institute for Health and Care Excellence. *Headaches in over 12s: diagnosis and management*. CG150. [Recommendations](https://www.nice.org.uk/guidance/cg150/chapter/recommendations). Accessed September 23, 2026. [FND-CIT-0199](../../research/citation-index.md#fnd-cit-0199). |
+| <a id="citation-6"></a>**[6]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
 
 This page still needs review by people coordinating FND care, people with FND, supporters and accessibility reviewers.
 
-*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section approved: November 17, 2026 · Sources, navigation and metadata pending reconciliation · Independent clinical review pending*
+*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section approved: November 17, 2026 · Work Audit 2 checks: November 17, 2026; verification limits recorded in audit report · Independent clinical review pending*

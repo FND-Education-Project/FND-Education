@@ -1,14 +1,14 @@
 # Module 10 — Pacing, Activity, and Available Capacity
 
 **Part Three: Applying What You Have Learned**<br>
-**Status:** Approved curriculum direction; planning evidence reviewed October 26, 2026; full lesson audit and clinical review pending.<br>
+**Status:** Approved curriculum direction; planning evidence reviewed October 26, 2026; Chat Audit 1 editorial review completed and decisions approved November 14, 2026. Work Audit 2 and all accepted corrections are complete as of November 15, 2026. Publication-readiness review is recorded in the [Module 10 report](../../../reference/_internal/course/module-10-publication-readiness-2026-11-15.md). Independent clinical review and the project lead’s publication decision remain pending.<br>
 **Moves and refines:** Former [Module 15 — Pacing, Activity, and the Boom-and-Bust Cycle](module-15-pacing-activity-and-the-boom-and-bust-cycle.md).
 
 ## Purpose
 
 Teach practical decision-making when movement, attention, sensory tolerance, energy and recovery vary. Build on the introductory capacity discussion in Module 1 and the concepts/rehabilitation modules without promising that careful pacing will resolve symptoms.
 
-## Proposed focused lessons
+## Focused lessons — approved titles; original planning notes
 
 ### Lesson 30 — What Uses Your Available Capacity?
 - Physical, cognitive, sensory, emotional and social activities may each carry costs.
@@ -22,7 +22,7 @@ Teach practical decision-making when movement, attention, sensory tolerance, ene
 - Preserve accommodations, recovery opportunities and meaningful chosen activities.
 - Avoid routine encouragement to push through delayed or prolonged deterioration; assess post-exertional symptom exacerbation and coexisting conditions appropriately.
 
-### Lesson 32 — Balancing Rehabilitation, Rest, and Change
+### Lesson 32 — Balancing Practice, Rest, and Everyday Life
 - Practice, daily tasks and recreation share time and can add to the total demands a person manages. Capacity is descriptive; this is not a claim that all activities draw on one measured biological store.
 - Collaboratively review whether activity is sustainable, useful and safe.
 - Adjust plans after setbacks without attaching blame or promising steady improvement.
@@ -39,6 +39,15 @@ Individualize for delayed worsening, migraine, sleep disorders, pain, dysautonom
 ## Outcome
 
 Learner can reason about sustainable activity, sensible recovery and changing needs without assuming a fixed prescription fits everyone.
+
+
+## Approved Module 10 reflection format (November 14, 2026)
+
+**Explicit project-lead-approved exception to earlier lesson-ending conventions:** Lessons 30–32 deliberately use two substantial Person stories, **two decision pauses in each story**, two interpretive answer keys, and one synthesis rather than appending the usual three Person closing prompts (“Something to think about,” “How might that feel?” and “One small step”). The existing questions and answer keys are the intended reflection and active-learning activity; their purpose is to practice decisions under uncertainty without adding repetitive requirements for readers with cognitive difficulties.
+
+The Supporter sections use one connected Owen/Maya/Pip story per lesson, practical evidence/context as appropriate, and a natural synthesis. The usual two Supporter closing prompts are deliberately **omitted with project-lead approval**; the stories and concluding discussion fulfill this module's supporter reflection aim.
+
+This variance applies **only to Module 10**; it does not change the course-wide authoring standard or authorize deletion of established exercises in other modules. Existing optional crosswords, colouring activities and Module 10 review are retained. **Work Audit 2 must check and reconcile curriculum validation, learner progress requirements, headings and accessibility** with this approved format. The format approval does not substitute for scientific, technical or independent clinical review.
 
 ## Reviewed evidence and practical routes
 
