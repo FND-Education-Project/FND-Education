@@ -1,12 +1,12 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › [Module 13](README.md) › **Shared Goals and Clear Responsibilities**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › [Module 11: Recognizing Progress and Navigating Healthcare](README.md) › **Working With Your Healthcare Professionals**
 <!-- NAV-BREADCRUMB:END -->
 
-# Shared Goals and Clear Responsibilities
+# Working With Your Healthcare Professionals
 
-> **Editorial status:** The Person section was approved November 14, 2026; the Clinician section November 16, 2026; and the Supporter section November 17, 2026. The original page title and introduction, source table, and illustration still require editorial reconciliation.
+> **Editorial status:** The Person section was approved November 14, 2026; the Clinician section November 16, 2026; and the Supporter section November 17, 2026. The page title and introduction were reconciled with the approved curriculum on November 17, 2026; the original-source table and illustration-fidelity review remain pending.
 
-A team is easier to use when everyone knows what matters now, who is doing what and when the plan will be reviewed.
+A useful referral should address a clear question, and other healthcare concerns—such as worsening migraine—must remain visible.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -466,7 +466,7 @@ The two concerns can now be explored on their own merits, with Nadia involved in
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Care When No Local FND Specialist Is Available](03-care-when-no-local-fnd-specialist-is-available.md)
+**Continue:** [Next page: Finding Your Way Through Healthcare Barriers](03-care-when-no-local-fnd-specialist-is-available.md)
 
 **Navigate:** [← Previous page](01-who-may-be-on-the-treatment-team.md) · [Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
