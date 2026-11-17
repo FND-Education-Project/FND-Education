@@ -447,3 +447,39 @@ The project lead approved Lesson 35 Supporter after requesting a ~25% faster pac
 **Authoring status:** All nine Person, Clinician, and Supporter sections in Module 11 are project-lead-approved and committed. This is **not a claim of publication readiness or completion of Chat Audit 1, Work Audit 2, independent clinical review, research/quote/source-index reconciliation, page-title/syllabus/navigation updates, activity/illustration assets, CI or accessibility acceptance**. Existing generated top matter and page metadata still require reconciliation. Do not merge without the project lead's decision.
 
 **Next step:** Illustration chat to draft one specific literal scene from each **Person** section; owner explicitly requests **three brief prompts** and follows the established comic-book art and coloring-book derivative workflow. Candidate moments: (33) Callum in crowded school hallway typing his communication message on his phone while a classmate waits nearby; (34) Nadia and Dr. Chen seated in an examination room at the point she is clarifying the psychological referral versus migraine care; (35) Graham at home reading the nine-AM distant clinic letter, considering the practical journey and cost, rather than inventing a trip that hasn't occurred. The artist should read the actual approved Person sections for fidelity; no illustration has yet been commissioned or generated here.
+
+
+## November 17, 2026 — Lessons 33–35 illustration and colouring integration
+
+**Owner task:** Link the three existing original colour illustrations and the three existing printable colouring books directly in the **For the Person With FND** sections, then offer two caption-and-alt-text alternatives per colour illustration for project-lead selection. The story scenes were selected in the prior illustration discussion and correspond to **Lesson 33 option 3**, **Lesson 34 option 3**, and **Lesson 35 option 2**. This entry concerns asset integration **only**; it is **not** Chat Audit 1, evidence verification, an accessibility signoff, or publication approval.
+
+**Colour images linked, captions awaiting selection:**
+
+- **Lesson 33**, `assets/images/lesson-33-illustration.png`, after the **“Teaching Dad a little neuroscience”** conversation and **before “Think back to where you started.”** Selected literal scene: Callum, 17, **at home explaining his difficulty speaking at school to his father**, while his father listens and makes notes for teacher/doctor communication. No additional characters or invented speech labels. Current figure has **temporary scene-identifying alt text and no caption** pending owner choice.
+- **Lesson 34**, `assets/images/lesson-34-illustration.png`, after Nadia's **“Coming back to the original question”** doctor visit and **before “Why was that conversation so difficult?”** Selected scene: Nadia and Dr. Chen together in an examination room **review a psychological referral letter and distinguish its purpose from the still-unanswered migraine-care question**. Current alt is temporary and there is no final caption.
+- **Lesson 35**, `assets/images/lesson-35-illustration.png`, after Graham's **“An appointment five hours away”** thoughts and **before “A question worth asking.”** Selected scene: Graham, 46, at home considering a distant specialist appointment; a thought bubble contains **road, clinic, hotel, fuel and meals**. No fixed prices, no imagined successful trip, and **no words on the notepad**. Current alt is temporary and there is no final caption.
+
+**Colouring-book links completed:** Each Person section now includes an **“Optional colouring activity”** after its approved “One small step,” displaying the existing preview image (`assets/puzzles/colouring/lesson-33-coloring-book.png`, similarly 34 and 35) and linking the exact existing printable PDF (`assets/puzzles/colouring/lesson-33-coloring-book.pdf`, similarly 34 and 35). Links open in a new tab and use standard `relative_url`, `noopener`, lazy image loading and 180px responsive thumbnails. Original PDFs, PNGs, human-approved prose, audience content and reflections are unchanged.
+
+### Caption and alt-text options — project-lead selection pending
+
+**Lesson 33 — Callum and his father, at home**
+
+- **A (recommended)** — Caption: “Understanding his FND helps Callum explain what happened at school—and what might help next time.” Alt: “At home, seventeen-year-old Callum tells his father about having difficulty speaking at school. His father listens and makes notes about what Callum wants to share with his teacher and doctor.”
+- **B** — Caption: “Callum and his dad turn a difficult school day into a clearer conversation.” Alt: “Callum talks with his father at home about his speech difficulty in a noisy school hallway while his father writes down their plans for explaining it to school staff and the doctor.”
+
+**Lesson 34 — Nadia and Dr. Chen reviewing her referral**
+
+- **A (recommended)** — Caption: “A referral can be worth considering without answering the concern that brought someone to the doctor.” Alt: “Nadia and Dr. Chen sit together in an examination room reviewing a psychological referral letter. Nadia asks about its purpose while they also discuss care for her worsening migraines.”
+- **B** — Caption: “Nadia and Dr. Chen clarify two different questions: psychological support and migraine care.” Alt: “At her family doctor's office, Nadia and Dr. Chen look at a psychological referral letter together, discussing what the referral may address and what care her worsening migraines still need.”
+
+**Lesson 35 — Graham and the costs of a distant appointment**
+
+- **A (recommended)** — Caption: “The cost of an appointment includes far more than the distance to a clinic.” Alt: “Graham sits at home looking at a distant specialist appointment letter and considering travel expenses. In a thought bubble are a winding road, clinic, hotel, fuel pump and meal.”
+- **B** — Caption: “Before deciding whether to go, Graham considers everything the journey would require.” Alt: “Graham reviews an appointment letter and estimates travel, accommodation, fuel and meal costs. A thought bubble illustrates the long drive and the services he would need along the way.”
+
+**Important limitation:** Repository file SHA/path presence was confirmed, but the GitHub connector did **not** provide viewable original PNG pixels for an image-to-alt factual check. Options reflect the **selected illustration briefs and approved Person stories**, not a completed visual-accessibility audit. When the project lead chooses A/B for each, apply the chosen caption and alt text to the embedded image, visually verify any specific objects/colors/perspectives if possible, and record exact approvals. If a depicted detail proves inaccurate, propose a narrowly corrected alt for owner approval; do not invent details, edit the uploaded image or rewrite the stories.
+
+**Puzzle browser timing:** To avoid conflicts with still-separate Module 10 PR #206's updates to shared `assets/puzzles/catalog.json` and `assets/puzzles/README.md`, the three Lesson 33–35 colouring books are **linked in the lessons only for now**. Before publication, after synchronizing with the merged Module 10 catalog, add their three catalogue/fallback entries without dropping Module 9–10 entries. **This is a documented integration follow-up, not a failure of the direct lesson links.**
+
+**Still pending:** Owner illustration caption/alt choices; any further module-level puzzle catalogue integration; asset rendering/accessibility checks; title, syllabus and citation reconciliation; Chat Audit 1; Work Audit 2; independent clinical review; CI and module-level publication readiness. **Do not merge or deploy.** Module 10 PR #206 was untouched by this task.
