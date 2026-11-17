@@ -4,7 +4,7 @@
 
 # Shared Goals and Clear Responsibilities
 
-> **Editorial status:** The Person section was human-authored and approved November 14, 2026; the Clinician section was human-authored and approved November 16, 2026. The Supporter section, original page title and introduction, source table, and illustration still require editorial reconciliation.
+> **Editorial status:** The Person section was approved November 14, 2026; the Clinician section November 16, 2026; and the Supporter section November 17, 2026. The original page title and introduction, source table, and illustration still require editorial reconciliation.
 
 A team is easier to use when everyone knows what matters now, who is doing what and when the plan will be reviewed.
 
@@ -251,10 +251,107 @@ The next time you notice a familiar symptom, consider which nervous-system proce
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-If invited, help the person keep their own words at the centre. Ask whether they want you to listen, take notes, describe an event or speak when they lose words. Agree this before the appointment when possible.
+### When helping gets in the way
 
-You can notice conflicting instructions, but do not quietly choose which clinician is “right.” Help the person ask the team to resolve the conflict and name who will follow up.
+Nadia's friend has known her for years. She's seen how unpredictable movement, functional seizures and persistent migraines have affected her life. She also knows Nadia isn't someone who enjoys unnecessary disagreements.
 
+Today, they've settled down with coffee when Nadia hands her a referral letter from Dr. Chen, her family doctor.
+
+Her friend reads through it. The letter describes Nadia's FND and requests a psychological assessment to explore whether psychological factors might be contributing to her difficulties.
+
+"Hang on. Didn't you see him because your migraines were getting worse?"
+
+"Yes. That's why I'm confused."
+
+"Then why is he sending you to a psychologist?"
+
+Nadia explains that Dr. Chen has helped her for years. She trusts him and isn't opposed to psychological treatment. But her migraine medication hasn't helped enough, and she'd hoped to discuss other options.
+
+Her friend is already getting frustrated.
+
+"I'd be asking why he isn't treating the headaches. You shouldn't have to fight to get someone to listen."
+
+Nadia starts to respond, then pauses. She's lost her thought.
+
+Her friend continues, certain she understands.
+
+"Especially when you've already got an FND diagnosis. They can't just assume everything is psychological."
+
+"Hang on a moment," Nadia says, raising her hand in a stop gesture, "that's not what I was thinking, but give me a moment to remember."
+
+She looks down at the letter again, finding the paragraph she'd been reading earlier. Her friend waits while Nadia follows it with her finger.
+
+"That's what I was trying to say. He's asked the psychologist to look at whether psychological factors are contributing to my symptoms. But I don't know which symptoms he means, or what treatment he's hoping they'll suggest."
+
+Her friend hadn't noticed that distinction.
+
+"And I still need help with my migraines," Nadia adds. "I'm not saying the referral is wrong. I just don't understand how it's supposed to help with what I went there for."
+
+Her friend puts down her coffee.
+
+"I think I was getting more annoyed about it than you were."
+
+"A little," Nadia replies, smiling.
+
+### Whose disagreement is it?
+
+As they talk, her friend begins to appreciate why the situation is difficult for Nadia.
+
+Dr. Chen isn't an unfamiliar doctor who dismissed her after a single appointment. He's someone Nadia has trusted for years. She values his judgment, even when she doesn't entirely understand his recommendations.
+
+Her friend had been ready to challenge the referral. Nadia wanted to understand it.
+
+Those are different goals.
+
+"Would you rather ask him what the psychologist is meant to help with?" her friend asks.
+
+"Yes. And whether we're still going to look at migraine treatments."
+
+"Both seem like reasonable questions."
+
+Nadia nods. She still feels uncomfortable raising the issue, especially because Dr. Chen was trying to help. But talking it through has made the problem clearer.
+
+Her friend thinks back to the moment Nadia lost her train of thought. She'd immediately filled the silence with her own interpretation. It hadn't occurred to her that Nadia might still be trying to retrieve what she wanted to say.
+
+The referral letter had helped Nadia recover the thread. Her friend hadn't needed to finish the sentence.
+
+"I interrupted you earlier," she says. "I thought I knew what you meant."
+
+"I know. It's just that when I lose a thought, sometimes I need a moment to find it again. If someone starts talking, I can lose it completely."
+
+"I'll remember that."
+
+"Thanks. Although if I stare at the ceiling for ten minutes, you can probably check whether I'm still with you."
+
+Her friend laughs.
+
+Nadia has made her point without needing a lecture about listening or an elaborate plan for future conversations.
+
+### Helping without choosing the answer
+
+Before leaving, her friend asks whether Nadia would like company at her next appointment.
+
+Nadia considers the offer. Having someone there could be useful, particularly if her migraine makes concentrating difficult. But she'd prefer to speak with Dr. Chen herself this time.
+
+Her friend accepts that.
+
+She doesn't know whether the psychological assessment will prove useful, and neither does Nadia. That's something Nadia and her healthcare professionals can explore.
+
+What matters now is that Nadia has identified a question her earlier appointment left unanswered.
+
+Her friend had originally wanted to defend Nadia by telling her what she should say to Dr. Chen. Instead, they'd worked through the referral together, and Nadia had decided what she wanted to understand.
+
+On her way home, her friend reflects on how easily concern can turn into taking charge. She'd seen someone she cared about struggling to obtain appropriate healthcare and wanted to do something about it.
+
+But Nadia wasn't asking her to decide whether Dr. Chen was right or wrong. She needed someone who would listen while she worked out what she thought.
+
+That's a distinction worth remembering when supporting someone through an uncertain medical decision.
+
+A supporter may notice something important, ask a useful question or offer another perspective. They may also misunderstand what the person is trying to say. Being helpful doesn't require having the answer, and caring about someone doesn't make their decisions yours to make.
+
+**Nadia's friend hadn't resolved the disagreement with Dr. Chen. She'd helped Nadia understand what she wanted to ask—and left the decision about how to proceed where it belonged.**
+
+Sometimes that's the most valuable support a friend can offer.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -372,4 +469,4 @@ The sources support shared decisions, patient-centred outcomes and coordinated p
 
 This page still needs review by people coordinating FND care, people with FND, supporters and accessibility reviewers.
 
-*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section, sources, navigation and metadata pending reconciliation · Independent clinical review pending*
+*Person section approved: November 14, 2026 · Clinician section approved: November 16, 2026 · Supporter section approved: November 17, 2026 · Sources, navigation and metadata pending reconciliation · Independent clinical review pending*
