@@ -136,7 +136,9 @@ Her psychological appointment is still ahead of her. We'll return to Nadia in Mo
 
 <figure class="image-60center" markdown="1">
 
-![Nadia and her family doctor, Dr. Chen, sit together in an examination room reviewing a psychological referral letter while discussing her worsening migraines and the different purposes of the referral and migraine care.](../../assets/images/lesson-34-illustration.png)
+![At her family doctor's office, Nadia and Dr. Chen look at a psychological referral letter together, discussing what the referral may address and what care her worsening migraines still need.](../../assets/images/lesson-34-illustration.png)
+
+<figcaption>Nadia and Dr. Chen clarify two different questions: psychological support and migraine care.</figcaption>
 
 </figure>
 
