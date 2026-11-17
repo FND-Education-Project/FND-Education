@@ -58,6 +58,12 @@ Looking at the new appointment letter, Graham realizes he doesn't know what will
 
 *Are they actually going to treat me, or am I coming home with another report?*
 
+<figure class="image-60center" markdown="1">
+
+![Graham sits at home with a distant specialist appointment letter and considers travel expenses. A thought bubble shows the long road to a clinic, a hotel, fuel and meals.](../../assets/images/lesson-35-illustration.png)
+
+</figure>
+
 ### A question worth asking
 
 At his next appointment with Dr. Singh, Graham brings the letter.
@@ -267,6 +273,13 @@ Complete this sentence, even if only in your thoughts:
 "The help I'd most like with my health right now is ______."
 
 You don't need an upcoming appointment or a treatment plan to do this.
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-35-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-35-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 35 printable colouring illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-35-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 35 colouring PDF (new tab)</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
