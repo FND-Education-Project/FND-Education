@@ -148,6 +148,12 @@ His father raises an eyebrow.
 
 "Yeah. We may need to discuss that one."
 
+<figure class="image-60center" markdown="1">
+
+![Callum talks with his father at home about difficulty speaking at school while his father takes notes on what they could share with his teacher and doctor.](../../assets/images/lesson-33-illustration.png)
+
+</figure>
+
 ### Think back to where you started
 
 Callum's afternoon wasn't an example of his FND disappearing. He still had trouble speaking, and he still needed another way to communicate.
@@ -277,6 +283,13 @@ How does it feel to have a better understanding of the processes that might be a
 ### One small step
 
 If something you've learned about FND comes to mind during everyday life, try explaining it in a sentence or two to someone you trust. Or simply enjoy recognizing it yourself.
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-33-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-33-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 33 printable colouring illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-33-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 33 colouring PDF (new tab)</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
