@@ -60,7 +60,9 @@ Looking at the new appointment letter, Graham realizes he doesn't know what will
 
 <figure class="image-60center" markdown="1">
 
-![Graham sits at home with a distant specialist appointment letter and considers travel expenses. A thought bubble shows the long road to a clinic, a hotel, fuel and meals.](../../assets/images/lesson-35-illustration.png)
+![Graham reviews an appointment letter and estimates travel, accommodation, fuel and meal costs. A thought bubble illustrates the long drive and the services he would need along the way.](../../assets/images/lesson-35-illustration.png)
+
+<figcaption>Before deciding whether to go, Graham considers everything the journey would require.</figcaption>
 
 </figure>
 
