@@ -150,7 +150,9 @@ His father raises an eyebrow.
 
 <figure class="image-60center" markdown="1">
 
-![Callum talks with his father at home about difficulty speaking at school while his father takes notes on what they could share with his teacher and doctor.](../../assets/images/lesson-33-illustration.png)
+![Callum talks with his father at home about his speech difficulty in a noisy school hallway while his father writes down their plans for explaining it to school staff and the doctor.](../../assets/images/lesson-33-illustration.png)
+
+<figcaption>Callum and his dad turn a difficult school day into a clearer conversation.</figcaption>
 
 </figure>
 
