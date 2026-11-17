@@ -1,0 +1,19 @@
+{
+  "name": "My FND Journey — Prototype",
+  "short_name": "FND Journey",
+  "description": "Private Activity Room layout prototype; not a health tracker yet.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14201f",
+  "theme_color": "#234f4b",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
