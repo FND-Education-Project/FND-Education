@@ -18,59 +18,177 @@ Therapy names describe broad families of treatment. The individual therapist, go
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-### Definition
+### What would make treatment worthwhile?
 
-**Therapy fit** means that the approach, therapist, setting, goals and access needs are a reasonable match for you. A **shared therapy goal** states what you want to change and how you will review benefit or harm together.
+Graham misses going to the park.
 
-![Five pieces—target, approach, therapist, access and review—surround a central question: does this fit me?](../../assets/illustrations/module-16-page-2-therapy-fit.svg)
+It's a quiet place with a short walking path, a few benches and trees that provide shade on hot days. He used to enjoy sitting there, watching the birds and occasionally chatting with people passing by.
 
-*Illustration: a therapy is more than its three-letter name. Fit includes the actual target, person, setting, access and review.*
+But Graham hasn't visited for a long time.
 
-### If you read only one thing
+He's forty-six and has lived with FND for six years. His walking is unreliable, and functional seizures sometimes leave him unable to move or respond. He doesn't always notice a warning before a seizure.
 
-Ask what this therapy is meant to help **you** with. “You have FND” is not a complete treatment goal.
+He's had seizures away from home before. The thought of being unable to move while alone outdoors is frightening, and for good reason. He could fall, hurt himself or be left waiting for someone to find him.
 
-### Translate the labels
+His friend Lena can sometimes accompany him, but she has her own responsibilities. So Graham usually stays home.
 
-- **CBT** often explores links among situations, thoughts, feelings, body responses and actions, then tests practical changes.
-- **ACT** often works on making room for difficult experiences while moving toward chosen values.
-- **Mindfulness-based approaches** practise noticing present experience in a particular way; they are not suitable or calming for everyone.
-- **Psychodynamic or relational therapies** may explore emotions, relationships and recurring patterns.
-- **Trauma-focused therapy** treats trauma-related difficulties when trauma is relevant, the person wants this work and suitable safeguards are in place.
+Recently, his family doctor, Dr. Singh, suggested cognitive behavioural therapy, or CBT, for his functional seizures.
 
-These descriptions are broad. Ask the therapist what they actually do, what evidence applies to your symptoms and what alternatives exist. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+> **Treatment:** Healthcare intended to help with an illness or its effects. Treatment might reduce symptoms, make everyday activities easier or help someone manage difficulties caused by illness. It doesn't always remove the illness itself.
 
-### Agree how you will know
+Graham understands why fewer seizures would be valuable. But what else might psychological treatment offer?
 
-A goal might be fewer injuries during episodes, less fear, better sleep, returning to one relationship or activity, treating PTSD, or coping with continuing symptoms. Decide when you will review it and what would count as no benefit or harm.
+"I want fewer seizures," he tells Dr. Singh. "I don't want to spend months talking about my childhood."
 
-Fit also includes disability access, communication, culture, language, cost, privacy and timing alongside other treatments. You can ask for adaptations, a different therapist or a different approach.
+"That's reasonable," Dr. Singh replies. "There's a form of CBT designed specifically for functional seizures. We could find out what it involves and what the research tells us."
 
-### Community experiences for review
+Graham agrees to learn more before deciding.
 
-These accounts show strongly different experiences of therapy.
+### More than talking about feelings
 
-**Option 1 — trauma treatment felt life-changing**
+At home, Graham reads about CBT for functional seizures. He discovers that CBT involves talking, but it can also include practising skills between appointments.
 
-> “Finally, I tried EMDR. It saved me—not just FND.”
+The therapist and patient first try to understand the person's seizures and how they're affecting daily life. If someone notices warning signs, they may practise ways to respond when those signs appear.
 
-— One person's description; it does not establish that EMDR treats FND generally or that trauma causes every case. [Read the public source](https://www.reddit.com/r/FND/comments/1h3hzmp/did_healing_your_trauma_resolve_your_fnd_symptoms/).
+Other sessions might explore fear of another seizure, thoughts that make situations harder, or activities someone has stopped doing. Sometimes emotional difficulties or past experiences are discussed, when they matter to the person and their treatment.
 
-**Option 2 — therapy felt harmful**
+Graham likes that the approach doesn't require someone to discover a hidden traumatic event.
 
-> “I have tried psychological therapy and it was the worst experience I have ever had.”
+One programme called **CODES** involved twelve appointments over several months, followed by another appointment later. People practised between sessions, and the therapists had special training in treating functional seizures.
 
-— One person's experience; “therapy” is not one uniform intervention. [Read the public source](https://www.reddit.com/r/FND/comments/1il1abc/it_hard_for_me_to_accept_that_fnd_is/).
+But Graham has questions. Sometimes his seizures happen without warning. Would the treatment still make sense for him?
 
-### Questions
+His memory and concentration are also unreliable. Would he be expected to keep detailed records and complete difficult homework?
 
-#### What would a therapist need to understand about you for the work to feel like a fit?
+He decides to ask rather than assume.
 
-#### Which change would tell you the therapy is useful in your actual life?
+### What did the research show?
 
-### One small thing you can do
+Graham finds two studies about treatment for functional seizures.
 
-Write one question for a therapist: **“What would we work on first, and how would we know if it helps?”**
+The first is the large **CODES study**. Researchers compared two groups of adults with functional seizures. Everyone received medical care, but one group also received CBT designed for their seizures.
+
+A year later, the researchers looked at how many seizures people were having. The CBT group generally reported fewer seizures, but the difference between the groups wasn't clear enough for researchers to conclude confidently that adding CBT had reduced monthly seizure numbers.
+
+That was the main question the study was trying to answer.
+
+However, people offered CBT also reported some other improvements. They went longer between seizures and had fewer difficulties with certain work and social activities.
+
+These results were encouraging, but they didn't mean everyone improved or that CBT had been proved to stop seizures. Graham thinks about the park. Having fewer seizures would be wonderful. But what if treatment could also help him enjoy being outdoors again, even if his seizures continued?
+
+The second study is newer.
+
+**Re-PROGRAM**, reported in October 2026, tested a different treatment programme. It involved short lessons over five weeks. Some people worked through the lessons themselves, while others received help from a therapist.
+
+In this smaller study, people using the programme on their own had fewer seizures than people receiving their usual care. The researchers couldn't clearly show that the group receiving therapist help did better than usual care. They also couldn't conclude that doing the programme alone was better than doing it with a therapist.
+
+The results were promising, but more research is needed. Graham also doesn't know whether this programme is available where he lives.
+
+He understands something important: **different treatments can have different results, and one person's improvement doesn't promise the same result for everyone.**
+
+### A walk in the park
+
+Dr. Singh arranges a video appointment with a therapist trained in CBT for functional seizures.
+
+The therapist asks Graham what he'd most like to change.
+
+"Fewer seizures," he answers.
+
+"Of course. Is there anything the seizures have stopped you doing?"
+
+Graham tells her about the park.
+
+"I used to go there quite often. Now I won't go alone. If I have a seizure, I could be lying there unable to move, and nobody might notice."
+
+"That sounds like a real concern," she replies. "Especially when your seizures sometimes happen without warning."
+
+Graham is relieved. He'd worried she might tell him he was being too frightened.
+
+"What about going with Lena?" she asks.
+
+"She'd come sometimes. But I hate asking. What if I have a seizure and ruin her afternoon?"
+
+"Has Lena said she'd feel that way?"
+
+"No. Actually, she's offered to come with me."
+
+"So there are two different concerns here. One is the risk of having a seizure while alone. The other is worrying that having someone with you would make you a burden. Could we look at those separately?"
+
+Graham thinks about it. He knows the danger of being alone is real. But perhaps he's been making an assumption about Lena that he hasn't checked.
+
+The therapist suggests a small task for him to consider between appointments. What if he asked Lena whether she'd enjoy visiting the park for ten minutes sometime? He wouldn't be asking her to become responsible for his seizures, and she'd be free to decline.
+
+They could also review his existing seizure-safety plan, his walking difficulties, places to rest and what help might be available if an episode occurred.
+
+Graham takes out his phone and writes:
+
+*Would you like to go to the park with me one afternoon? Just for a short visit if you're free.*
+
+He saves the message without sending it. He wants time to think.
+
+"What if I still don't feel comfortable going?" he asks.
+
+"Then we can discuss why and whether anything needs to change. You don't have to go simply because we've talked about it."
+
+Graham realizes this is different from being told to stop avoiding the park.
+
+The therapist isn't promising he'll be safe or that another seizure won't happen. They're looking at what makes the activity difficult, which concerns are real dangers and which assumptions might be worth checking.
+
+For the first time, Graham can imagine how CBT might help him with something specific.
+
+### What happens between appointments?
+
+Graham has another question.
+
+"Will I have homework every week? My memory isn't very good."
+
+"There would usually be something to practise or notice between appointments," the therapist explains. "But we'd choose tasks that fit your abilities. We might use a short reminder, a few words on paper or something you can review with me next time."
+
+Graham likes that answer, although he understands the treatment might still be difficult.
+
+The CODES study required participants to keep seizure records and answer questions about their symptoms independently. That means the results may not tell us as much about people who have greater memory or concentration difficulties.
+
+Graham also asks whether any counsellor who offers CBT could provide this treatment.
+
+"Not necessarily," the therapist replies. "The people delivering CBT in CODES already had training in CBT, plus additional training and supervision for functional seizures. Some were psychologists, but others came from different healthcare professions."
+
+"So I should ask what experience they have treating functional seizures?"
+
+"Exactly. And what kind of treatment they're offering."
+
+Graham also asks about using a workbook at home. He learns that some people use seizure-focused materials with a therapist, while other resources are intended for self-help.
+
+He finds an online account from someone who had already received general CBT but later tried a seizure-focused workbook:
+
+> “I was originally dismissive of CBT And FND as I had been in CBT for a few years, but this focused approach has been really helpful for me.”
+
+— [A community member describing their experience](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/)
+
+It's one person's experience, not proof that the same workbook will help Graham. But it helps explain why the particular treatment matters.
+
+### How would Graham know if it helped?
+
+Before ending the appointment, Graham and the therapist discuss what they would look for if he decided to continue.
+
+He would want to know whether he was having fewer seizures. He'd also like to find out whether they were disrupting his life less, whether he felt more comfortable doing things he enjoyed and whether he could spend more time outdoors.
+
+They would also consider the effort involved. If the appointments and practice were exhausting him without providing enough benefit, that would matter too.
+
+Graham asks for a written explanation of the proposed treatment so he can read it when he's rested.
+
+He hasn't committed to months of CBT, and he hasn't sent Lena the message yet. But he has something he didn't have before: a clearer idea of what he might be doing and why.
+
+**A treatment is easier to consider when you know what you'll practise, what might improve and how you'll decide whether it's helping.**
+
+For Graham, fewer seizures would be an important improvement. Being able to enjoy the park again, with appropriate support, would matter too.
+
+One doesn't have to replace the other.
+
+In our next lesson, Callum will face a different choice. CBT is easier for him to access, but specialist speech therapy is much farther away. He'll need to understand what each treatment could help with before deciding what fits his needs.
+
+---
+
+**Free resources:** The [University of Sheffield's Non-Epileptic Attacks resources](https://non-epileptic-attacks.sites.sheffield.ac.uk/resources) include free information and practical worksheets, although they aren't a complete CBT workbook. The seizure-focused [*Taking Control of Your Seizures* workbook](https://academic.oup.com/book/1357) usually requires purchase or access through a library or therapist.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
