@@ -262,7 +262,7 @@ In the next module, we'll return to Nadia as she attends her psychological asses
 
 ### Something to think about
 
-What's one thing about getting healthcare that you wish were easier? Is the difficulty related to travel, cost, waiting, communication or something else?
+Is there something about getting healthcare you wish were easier? It might involve travel, cost, waiting or communication. If care is working well for you, what helps?
 
 ### How might that feel?
 
@@ -270,9 +270,7 @@ How might it feel if a healthcare professional understood the barrier and worked
 
 ### One small step
 
-Think about one barrier to accessing care.
-
-Complete these sentences if useful:
+Think about a real or imagined barrier to accessing care. Complete these sentences if useful:
 
 **"What's getting in the way is ___."**
 
