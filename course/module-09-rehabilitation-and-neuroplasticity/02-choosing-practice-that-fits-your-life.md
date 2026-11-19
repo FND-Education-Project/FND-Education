@@ -247,22 +247,21 @@ She can tell her care professional that an activity was easier than expected, th
 
 ### Something to think about
 
-Which of these rehabilitation experiences surprised you, or reminded you of something you've experienced yourself?
+Think about a rehabilitation activity that felt useful, difficult or especially tiring. If you haven't received rehabilitation, choose one of the experiences described in this lesson.
+
+What part of that experience would help someone decide whether the practice fitted the person's abilities and goals?
 
 ### How might that feel?
 
-How might you feel if you began noticing small improvements without knowing how much further you might progress?
+When progress is uncertain, what helps you stay connected to the reason for practising, rather than measuring yourself only by the result?
 
 ### One small step
 
-If you're receiving rehabilitation, think about one experience you'd like your care professional to understand better.
+If you already have rehabilitation activities, choose one experience you'd like your care professional to understand better.
 
-Perhaps an activity felt easier, the appointment was particularly tiring, or you noticed a change when you got home.
+You might describe what felt manageable, what was too demanding or what changed afterwards. You don't need to explain why it happened or add new practice.
 
-You could describe what happened without needing to explain why.
-
-In Lesson 29, we'll examine what treatment studies have found about different FND symptoms and how to judge claims about recovery and neuroplasticity.
-
+If you're not receiving rehabilitation, you can think through one of the lesson's examples instead.
 
 ### Optional crossword
 
