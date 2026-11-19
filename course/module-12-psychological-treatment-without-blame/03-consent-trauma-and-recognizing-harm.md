@@ -70,6 +70,14 @@ Now he's worrying about how to disagree without disappointing her. That takes so
 
 "If my speech stops, I need the phone. Otherwise I can't explain what's happening. Sometimes I can't even ask someone to wait."
 
+<figure class="image-60center" markdown="1">
+
+![Seventeen-year-old Callum sits in a psychologist's office, speaking while reaching toward his smartphone on the table. The psychologist watches and listens attentively.](../../assets/images/lesson-38-illustration.png)
+
+<figcaption>Callum explains why his phone matters, helping his psychologist reconsider the exercise.</figcaption>
+
+</figure>
+
 The psychologist thinks for a moment. She knows his speech can stop. But when he reaches for his phone *before* trying to speak, she'd wondered whether expecting difficulty sometimes leads him to avoid speaking. She hadn't checked that idea.
 
 "Can I check something?" she asks. "When you reach for your phone, is that because you can't speak, or because you're afraid you won't be able to?"
