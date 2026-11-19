@@ -9,6 +9,21 @@
 **Maintenance:** Rebuild this file whenever the Person section of a lesson is approved or edited, using `python tools/course/build_thought_heart_activity_inventory.py` (see internal authoring policy). After all Module 12 Person sections are approved, agree new, distinct Thought/Heart/Activity prompts for Lessons 36–38 and only then add them to public pages.
 
 
+## Initial editorial review — Lessons 1–35
+
+**Counts of explicit headings in the earlier human-authored Person sections (not quality scores):** Thought **22/35**; Heart **18/35**; Activity **30/35**; earlier generic \`Questions\` or \`Questions to reflect on\` **8/35**; **4/35** have none of the recognized headings. Many early lessons have multiple useful questions without a separate Heart heading; Module 10 (Lessons 30–32) teaches by observation exercises *inside its stories*, not by a separate end-of-lesson trio. Lesson 10 also does not have a matching end heading. Treat absence of a heading as a formatting observation, **not** proof that a lesson has no reflective or active learning.
+
+**What works:** By Modules 7–9, Thought usually applies a mechanism to a recognizable event; Heart asks what matters about living with the difficulty; Activity often invites one small adaptation, communication step or question to take to care. Module 11 continues that pattern. Prompts commonly allow readers to think rather than journal, and many avoid promising symptom control.
+
+**What could be stronger:** Several Heart prompts ask readers how a hypothetical positive outcome *might feel*, which may be less personal than asking which loss, need, value or hope matters *now*. Some Activities repeat writing down a question for a clinician, despite being reasonable in their own lessons. Some invite noticing but not trying or reviewing a chosen response. The next phase should vary the tasks, let people recognize **situation → thought or expectation → feeling → action**, and, only if they wish, choose an accessible, low-risk next response. This is CBT-*informed educational reflection*, **not** unsupervised exposure, diagnosis, a treatment protocol or a request to prove that thoughts caused symptoms.
+
+**Module 12 editorial task (not yet approved or published):** Design Lesson 36 to connect the purpose of psychology to the reader's own goals, Lesson 37 to consider which change would make treatment worthwhile, and Lesson 38 to practise noticing an expectation or worry and choosing a small, safe response in a familiar situation. Review all nine prompts together, avoid reusing similar generic "ask your clinician" tasks, and retain consent and optionality. The approved Person prose for Lessons 36–37 intentionally omits these headings. The current Lesson 38 public-source questions belong to an older generated draft and must **not** be mistaken for approved prompts for Callum's new story.
+
+## Verbatim inventory
+
+The section between the markers below is extracted from course files and may be regenerated; do not hand-edit it. Entries preserve source punctuation and source heading names, including older formats.
+
+<!-- AUTO-INVENTORY:START -->
 ## Module 1
 
 ### Lesson 1 — What “Functional” Means and How FND Can Appear
@@ -814,19 +829,19 @@ You don't need an upcoming appointment or a treatment plan to do this.
 
 ### Lesson 36 — Why Psychological Treatment Does Not Mean Imaginary
 
-[Source lesson](../../../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md) · Module 12 (PR #210 working copy)
+[Source lesson](../../../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md) · Module 12
 
 **No matching reflection/activity headings in this Person section.**
 
 ### Lesson 37 — Choose a Therapy and Set Goals
 
-[Source lesson](../../../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) · Module 12 (PR #210 working copy)
+[Source lesson](../../../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) · Module 12
 
 **No matching reflection/activity headings in this Person section.**
 
 ### Lesson 38 — Consent, Trauma, and Recognizing Harm
 
-[Source lesson](../../../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) · Module 12 (PR #210 working copy)
+[Source lesson](../../../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) · Module 12
 
 **Earlier questions** (source heading: *Questions*)
 
@@ -1155,3 +1170,4 @@ Choose only one area from the list. Finish three lines: **before — now — wha
 
 Write one sentence: **“For the next month, my priority is ___, and the support I need is ___.”** Choose another review period if a month does not fit. Add it to your handbook or ask someone to help you communicate it.
 
+<!-- AUTO-INVENTORY:END -->
