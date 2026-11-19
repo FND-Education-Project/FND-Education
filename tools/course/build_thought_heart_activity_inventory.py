@@ -118,9 +118,6 @@ def render_inventory() -> str:
             previous_module = module_number
 
         source_label = f"[Source lesson](../../../{path}) · Module {module_number}"
-        if module_number == 12:
-            source_label += " (PR #210 working copy)"
-
         pieces.append(f"### Lesson {lesson_number} — {title}\n\n{source_label}\n\n")
         if not prompts:
             pieces.append("**No matching reflection/activity headings in this Person section.**\n\n")
