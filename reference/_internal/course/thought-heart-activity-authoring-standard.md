@@ -39,14 +39,14 @@ Before submitting a Person section for project-lead approval:
 
 ## Maintenance and automated checking
 
-**Canonical source:** The live Person sections are the authority; the inventory is a reproducible record. Its auto-generated region copies the exact prompts, including legacy \`Questions\` labels and empty/missing sections.
+**Canonical source:** The live Person sections are the authority; the inventory is a reproducible record. Its auto-generated region copies the exact prompts, including legacy `Questions` labels and empty/missing sections.
 
 After **every** course Person-section change or newly approved lesson:
 
 1. Update the public lesson only with authorized prose.
-2. Run \`python tools/course/build_thought_heart_activity_inventory.py\` from a checkout that contains the **latest approved base branch and the proposed lesson changes**.
+2. Run `python tools/course/build_thought_heart_activity_inventory.py` from a checkout that contains the **latest approved base branch and the proposed lesson changes**.
 3. Commit the regenerated [inventory](thought-heart-activity-inventory.md) in the *same PR/commit series* as the lesson. If prompts are deferred by an explicit handoff decision, keep their absence visible and recorded.
-4. Run \`python tools/course/build_thought_heart_activity_inventory.py --check\` before handoff or merge. The read-only CI check can use this command on the PR's merged checkout. A regenerated inventory is **not** evidence of human authorship, clinical validation, or publication readiness.
+4. Run `python tools/course/build_thought_heart_activity_inventory.py --check` before handoff or merge. The read-only CI check can use this command on the PR's merged checkout. A regenerated inventory is **not** evidence of human authorship, clinical validation, or publication readiness.
 
 The generator does not edit lessons. It does not automatically invent questions, judge educational quality or infer which generated drafts have been approved.
 
