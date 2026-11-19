@@ -944,3 +944,138 @@ Choose a calm moment and finish: “When _____ happens, I need _____.” The oth
 
 Agree one sentence for a difficult moment, such as: “Please sit nearby but do not ask questions yet.” Write one boundary for each person. If care is unsafe or either person feels threatened, seek outside professional or safeguarding help.
 
+
+## Module 15
+
+### Lesson 46 — Prepare for and Communicate During Appointments
+
+[Source lesson](../../../course/module-15-healthcare-communication-and-self-advocacy/01-preparing-for-and-communicating-during-appointments.md) · Module 15
+
+**Earlier questions** (source heading: *Questions*)
+
+#### What do you most need the clinician to understand about your life, not only your symptoms?
+
+#### What happens to your thinking or speech in appointments, and what would make that easier?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Write only: “Today I need help with _____.” If that is all you can prepare, it is enough. New or urgent symptoms still need appropriate assessment rather than being folded automatically into FND.
+
+### Lesson 47 — Records, Written Plans, and Follow-Up
+
+[Source lesson](../../../course/module-15-healthcare-communication-and-self-advocacy/02-records-written-plans-second-opinions-and-follow-up.md) · Module 15
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Which part of your health story is hardest to hold in memory or explain repeatedly?
+
+#### What uncertainty would feel safer if it were written down honestly?
+
+**Activity** (source heading: *One small thing you can do*)
+
+After one visit, write three lines: **decision — next action — when to review**. If a record contains a factual error, copy the exact wording before contacting the service so you do not have to reconstruct it from memory.
+
+### Lesson 48 — When Healthcare Communication Breaks Down
+
+[Source lesson](../../../course/module-15-healthcare-communication-and-self-advocacy/03-when-healthcare-communication-breaks-down.md) · Module 15
+
+**Earlier questions** (source heading: *Questions*)
+
+#### What happened in care that you need someone to acknowledge clearly?
+
+#### What would repair look like for you: an explanation, correction, apology, reassessment or another clinician?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Write one sentence: **“The problem was _____, and I am asking for _____.”** Save copies. Ask an advocate or trusted person to help if the process is too much; inability to pursue a complaint does not make the experience less real.
+
+
+## Module 16
+
+### Lesson 49 — Work, School, and Accommodations
+
+[Source lesson](../../../course/module-16-work-disability-and-community-participation/01-work-school-disability-and-accommodations.md) · Module 16
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Which hidden demand of work or school costs you the most before or afterward?
+
+#### What would you want others to understand if an accommodation still did not make attendance possible?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Choose one task and finish: **“The barrier is _____; a change that might help is _____.”** If safety-critical work, driving, machinery, heights, water, lone work or episodes are involved, seek individualized occupational and medical advice.
+
+### Lesson 50 — Community Participation and Meaningful Roles
+
+[Source lesson](../../../course/module-16-work-disability-and-community-participation/02-community-participation-meaningful-roles-and-variable-capacity.md) · Module 16
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Where do you feel known as a person rather than assessed as a patient?
+
+#### What tiny version of a valued role would still feel real to you—not like a consolation prize?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Choose one person or place and ask for one access change. A lower-demand version could be sending an emoji, listening for five minutes or asking for a recording. Doing nothing today is also allowed.
+
+### Lesson 51 — Describe Variable Function for Accommodations and Benefits
+
+[Source lesson](../../../course/module-16-work-disability-and-community-participation/03-describing-variable-function-for-accommodations-and-benefits.md) · Module 16
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Which thing can you sometimes do, but not reliably enough for other people to understand the problem?
+
+#### What does the task cost you afterward that a form or appointment might miss?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Write one example using only **task — reliability — safety — recovery — support**. Ask someone to help type or remember it if needed. Stop if recording symptoms is worsening distress or taking more capacity than it returns.
+
+
+## Module 17
+
+### Lesson 52 — Recognize a Setback Versus Medical Change
+
+[Source lesson](../../../course/module-17-setbacks-relapse-and-changing-symptoms/01-recognizing-a-setback-versus-medical-change.md) · Module 17
+
+**Earlier questions** (source heading: *Questions*)
+
+#### When symptoms vary but still feel familiar, what helps you recognize your usual pattern?
+
+#### What change would make you want reassessment instead of assuming it is FND?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Write two lines: **“usual for me”** and **“different enough to get help.”** Add one example under each. Ask a clinician to review the second line when possible. A lower-demand version is to say the examples aloud while someone you trust writes them.
+
+### Lesson 53 — Respond During a Setback
+
+[Source lesson](../../../course/module-17-setbacks-relapse-and-changing-symptoms/02-responding-recovering-and-updating-the-plan.md) · Module 17
+
+**Earlier questions** (source heading: *Questions*)
+
+#### When things worsen, which one familiar action helps you feel safer or less overwhelmed?
+
+#### What do you tend to push through because stopping feels like failure?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Make a four-word prompt: **safe — basics — familiar — help**. Put it where you can find it. A lower-demand version is to ask a supporter to remember those four words. Stop and seek appropriate care when the event falls outside your plan.
+
+### Lesson 54 — Recover, Review, and Update the Plan
+
+[Source lesson](../../../course/module-17-setbacks-relapse-and-changing-symptoms/03-recovering-reviewing-and-updating-the-plan.md) · Module 17
+
+**Earlier questions** (source heading: *Questions*)
+
+#### After your last difficult period, what did you learn that could make the next one safer or kinder?
+
+#### Which expectation about “getting back to normal” is helping you, and which one is adding pressure?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Complete one sentence: **“Next time, keep ___ and change ___.”** “I do not know yet” is a valid answer. If the setback involved injury, a new pattern or treatment harm, review it with an appropriate clinician.
+
