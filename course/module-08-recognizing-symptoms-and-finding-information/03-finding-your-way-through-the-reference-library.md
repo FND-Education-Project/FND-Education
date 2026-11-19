@@ -256,33 +256,23 @@ And that's enough.
 
 ### Something to think about
 
-Imagine reading a description of a functional symptom you've been diagnosed with and discovering that it describes an experience you've struggled to explain for years.
+Imagine finding a description of a functional symptom you've already been diagnosed with and recognizing something you've struggled to explain.
 
-What might it mean to discover that this experience is recognized and that other people have reported something similar?
-
-Perhaps it would help you feel less alone. Or perhaps it would give you a better understanding of the diagnosis you've been living with.
+How might that help you understand your own experience?
 
 ### How might that feel?
 
-Imagine learning that your symptoms have been described in medical research and that different treatment or rehabilitation approaches have been developed for them.
+Learning that an experience is recognized by clinicians and researchers might bring relief, hope, caution or frustration.
 
-You might feel hopeful, cautious or even frustrated that you hadn't heard about some of these possibilities before.
-
-What difference might it make to feel more informed about your condition and more involved in decisions about your care?
+What would being better informed mean to you?
 
 ### One small step
 
-If you'd like to understand one of your **previously diagnosed FND symptoms** better, you could visit the [Reference Library](../../reference/README.md).
+If you'd like to learn more about a **previously diagnosed FND symptom**, choose its page in the [Reference Library](../../reference/README.md).
 
-Start with its **Understanding and Diagnosis** page. See whether the descriptions help you recognize your experience and learn how clinicians assess that particular presentation.
+You can begin with how it's understood and assessed, then explore the matching recovery information if useful. One question to bring to a suitable care professional is enough.
 
-If you'd like to explore possibilities for improvement, follow the link to the matching **Recovery Techniques** page. You can bring a question about anything that interests you to the appropriate care professional.
-
-Perhaps you want to understand what findings supported your diagnosis. Perhaps you'd like to know whether a treatment or rehabilitation approach might be suitable for you.
-
-Or perhaps simply discovering that your experience is recognized and understood would be enough for today.
-
-**You don't need to become an expert in FND to take a more informed part in your care.**
+You don't need to become an expert, and you don't need to search for unfamiliar symptoms.
 
 ### Optional crossword
 
