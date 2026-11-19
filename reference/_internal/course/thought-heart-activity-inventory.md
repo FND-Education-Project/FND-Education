@@ -831,28 +831,71 @@ You don't need an upcoming appointment or a treatment plan to do this.
 
 [Source lesson](../../../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md) · Module 12
 
-**No matching reflection/activity headings in this Person section.**
+**Thought** (source heading: *Something to think about*)
+
+Think about a difficulty you might want help with. Does knowing why it began tell you everything about what could help you now?
+
+**Heart** (source heading: *How might that feel?*)
+
+When you think about getting help, what hope or concern would you most want a therapist to understand?
+
+**Activity** (source heading: *One small step*)
+
+Complete this sentence, even if only in your thoughts:
+
+**"I'd like help with ___ because being able to ___ matters to me."**
+
+You don't need to be considering psychological treatment to do this.
 
 ### Lesson 37 — Choose a Therapy and Set Goals
 
 [Source lesson](../../../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) · Module 12
 
-**No matching reflection/activity headings in this Person section.**
+**Thought** (source heading: *Something to think about*)
+
+Graham wants fewer seizures, but he'd also love to enjoy the park again. If his seizures continued, what other changes might still make treatment worthwhile to him?
+
+**Heart** (source heading: *How might that feel?*)
+
+Is there something you enjoy, miss or want to protect that you'd like a treatment to help with? Why is it important to you?
+
+**Activity** (source heading: *One small step*)
+
+Think of one treatment goal, real or imagined. Complete these two sentences:
+
+**"I'd know it was helping if ___."**
+
+**"I'd want to rethink it if ___."**
+
+You can simply think about your answers. No treatment or written record is required.
 
 ### Lesson 38 — Consent, Trauma, and Recognizing Harm
 
 [Source lesson](../../../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) · Module 12
 
-**Earlier questions** (source heading: *Questions*)
+**Thought** (source heading: *Something to think about*)
 
-#### What helps you know that you still have choice and control in a healthcare relationship?
+Have you ever agreed with a goal but been unsure about the suggested way to reach it? What would you want to understand before deciding whether to try?
 
-#### Is there a boundary you would want to state before beginning therapy?
+**Heart** (source heading: *How might that feel?*)
 
-**Activity** (source heading: *One small thing you can do*)
+If you needed to tell someone helping you that something wasn't working, what might make that conversation easier or harder?
 
-Write one boundary: **“I do not consent to ___”** or **“Please ask before ___.”** You do not need to explain why.
+**Activity** (source heading: *One small step*)
 
+Try a little of what Callum learned about CBT.
+
+Think of one small, safe everyday situation that was difficult. In your thoughts or on paper, finish:
+
+**"I thought ___."**
+
+**"I felt ___."**
+
+**"I did ___."**
+
+Now ask yourself: **"Could there be another way to understand what happened, or one small change that might help next time?"**
+
+If it's safe and manageable, you might try that change and notice what happens. You can also leave this as a thought exercise. This isn't about testing your FND symptoms or making them disappear.
 
 ## Module 13
 
