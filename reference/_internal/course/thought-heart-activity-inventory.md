@@ -1079,3 +1079,79 @@ Make a four-word prompt: **safe — basics — familiar — help**. Put it where
 
 Complete one sentence: **“Next time, keep ___ and change ___.”** “I do not know yet” is a valid answer. If the setback involved injury, a new pattern or treatment harm, review it with an appropriate clinician.
 
+
+## Module 18
+
+### Lesson 55 — Choose What Belongs in the Handbook
+
+[Source lesson](../../../course/module-18-building-your-personal-fnd-handbook/01-what-belongs-in-the-personal-fnd-handbook.md) · Module 18
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Which fact about you is most often missing when someone tries to help?
+
+#### Which part of your experience is important to record as uncertain rather than force into an answer?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Open a blank page and write only four headings: **health — patterns — access — plans**. Add one item under the easiest heading. A supporter may write while you choose the words. New or changed symptoms belong in clinical reassessment, not in self-diagnosis.
+
+### Lesson 56 — Build a Short Safety and Communication Summary
+
+[Source lesson](../../../course/module-18-building-your-personal-fnd-handbook/02-building-using-and-reviewing-the-handbook.md) · Module 18
+
+**Earlier questions** (source heading: *Questions*)
+
+#### If you could communicate only one safety need during a difficult episode, what would it be?
+
+#### Which action from other people makes you feel safer, and which makes the situation harder?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Write one line beginning **“What is usual for me is…”** and one beginning **“Get more help if…”** Ask an appropriate clinician to check the second line. Do not wait for this summary if you need urgent help now.
+
+### Lesson 57 — Use, Protect, and Update the Handbook
+
+[Source lesson](../../../course/module-18-building-your-personal-fnd-handbook/03-using-protecting-and-updating-the-handbook.md) · Module 18
+
+**Earlier questions** (source heading: *Questions*)
+
+#### When your capacity is lowest, where would you actually look for important information?
+
+#### Which part of your handbook should remain private unless you choose to share it?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Add **last reviewed: [date]** to the front page. Then remove one item that is outdated or has no clear use. If digital security is difficult, ask a trusted person or local service for help without giving them more access than needed.
+
+
+## Module 19
+
+### Lesson 58 — Recognize Progress Across More Than Symptoms
+
+[Source lesson](../../../course/module-19-reviewing-progress/01-measuring-progress-and-choosing-next-steps.md) · Module 19
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Which change in your life matters to you even if another person might overlook it?
+
+#### What became harder or remained unmet and deserves to be named without turning it into failure?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Choose only one area from the list. Finish three lines: **before — now — what I need.** A lower-demand version is to choose three words. Stop if tracking becomes obsessive, shaming or more burdensome than useful.
+
+### Lesson 59 — Choose Next Steps and Finish the Course
+
+[Source lesson](../../../course/module-19-reviewing-progress/02-choosing-next-steps-and-finishing-the-course.md) · Module 19
+
+**Earlier questions** (source heading: *Questions*)
+
+#### What do you want the next part of care or daily life to protect—not only improve?
+
+#### Which one thing would you keep, adjust, stop or ask someone to reassess?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Write one sentence: **“For the next month, my priority is ___, and the support I need is ___.”** Choose another review period if a month does not fit. Add it to your handbook or ask someone to help you communicate it.
+
