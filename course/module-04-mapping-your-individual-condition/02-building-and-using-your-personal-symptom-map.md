@@ -163,21 +163,19 @@ The map belongs to you. You decide what to include, whom to share it with and wh
 
 ### Something to think about
 
-Imagine showing your map to someone who knows very little about your health.
+Imagine showing your symptom map to someone who knows very little about your health. What's the first thing you'd want them to understand? What unanswered question would you most like help with?
 
-What is the first thing you'd want them to understand?
+### How might that feel?
 
-And what one unanswered question would you most like help with?
+What would it mean to have your difficulties, remaining abilities and helpful adaptations recognized together, rather than having someone notice only your symptoms?
 
-Those two thoughts could be a good place to start.
+### One small step
 
-### What can you try at home?
+Make or update three short entries on your symptom map:
 
-Find a piece of paper or open a note on your phone.
+**One diagnosed condition. One question you still have. One thing that helps.**
 
-Write down one diagnosed condition, one question you'd like to ask and one thing that helps you manage daily life.
-
-That's enough for a first version. Add to it whenever it helps you.
+A few words are enough. You can use paper, your phone or help from someone you trust. Your map doesn't need to become a diary.
 
 **Your health story is much bigger than a page of notes. The map simply helps you carry the important pieces when you need them.**
 
