@@ -1,23 +1,23 @@
 # Thought, Heart, and Activity — course-wide Person-question inventory
 
-**Source:** Current Person sections of the numbered course lessons on the Module 12 editorial branch of PR #210; collected November 19, 2026. **Scope:** all 59 lesson pages listed in `SITEMAP.md` (modules 1–19). Text is reproduced as it appears in the source; entries are not proposed replacements or an independent clinical review.
+**Source:** Person sections of the numbered course lessons on the dedicated Thought–Heart–Activity harmonization branch, based on Module 12 PR #210 and the current human-authored lessons on `main`; updated November 19, 2026. **Scope:** all 59 lesson pages listed in `SITEMAP.md` (modules 1–19). Text is reproduced as it appears in the source; entries are not proposed replacements or an independent clinical review.
 
 **Meaning:** **Thought** asks readers to recognize and apply the lesson's central idea; **Heart** asks how it connects to feelings, needs, hopes or values without suggesting the reader must feel a prescribed emotion; **Activity** offers a manageable, optional, safe way to use the idea. **Earlier questions** preserves other labels (such as `Questions`) without pretending they were written as Thought or Heart. Missing sections are recorded rather than invented.
 
-**Editorial status:** Lessons 1–35 are the previously human-authored course sequence. Lessons 36–37 are committed human-authored Person sections whose Thought/Heart/Activity items are intentionally deferred; Lesson 38 Person is under review and its generated public page may still contain old `Questions` prompts that are **not approved for the new story**. Lessons 39–59 remain earlier generated drafts and should not be treated as human-approved. The registry is a record, not a publication approval.
+**Editorial status:** Harmonized Thought–Heart–Activity questions for Lessons **1–29 and 33–35** were checked against their current human-authored Person lessons and committed on the dedicated harmonization branch. Lessons **30–32 (Module 10)** remain wholly untouched. Lessons **36–38 (Module 12)** retain their previously approved questions unchanged from PR #210. Lessons 39–59 remain earlier generated drafts and must not be treated as human-approved. This registry records wording; it is not an independent clinical or publication audit.
 
-**Maintenance:** Rebuild this file whenever the Person section of a lesson is approved or edited, using `python tools/course/build_thought_heart_activity_inventory.py` (see internal authoring policy). After all Module 12 Person sections are approved, agree new, distinct Thought/Heart/Activity prompts for Lessons 36–38 and only then add them to public pages.
+**Maintenance:** Rebuild this file whenever a Person section is approved or edited using `python tools/course/build_thought_heart_activity_inventory.py`. Validate with its read-only `--check` mode from a checkout of the proposed merged branch. Questions 1–29 and 33–35 were harmonized on this branch; Module 12's approved questions are already present and require no further wording changes.
 
 
-## Initial editorial review — Lessons 1–35
+## Historical baseline review — Lessons 1–35 (before harmonization)
 
-**Counts of explicit headings in the earlier human-authored Person sections (not quality scores):** Thought **22/35**; Heart **18/35**; Activity **30/35**; earlier generic `Questions` or `Questions to reflect on` **8/35**; **4/35** have none of the recognized headings. Many early lessons have multiple useful questions without a separate Heart heading; Module 10 (Lessons 30–32) teaches by observation exercises *inside its stories*, not by a separate end-of-lesson trio. Lesson 10 also does not have a matching end heading. Treat absence of a heading as a formatting observation, **not** proof that a lesson has no reflective or active learning.
+**Counts of explicit headings *before* this harmonization, in the earlier human-authored Person sections (historical, not present-day counts or quality scores):** Thought **22/35**; Heart **18/35**; Activity **30/35**; earlier generic `Questions` or `Questions to reflect on` **8/35**; **4/35** have none of the recognized headings. Many early lessons have multiple useful questions without a separate Heart heading; Module 10 (Lessons 30–32) teaches by observation exercises *inside its stories*, not by a separate end-of-lesson trio. Lesson 10 also does not have a matching end heading. Treat absence of a heading as a formatting observation, **not** proof that a lesson has no reflective or active learning.
 
 **What works:** By Modules 7–9, Thought usually applies a mechanism to a recognizable event; Heart asks what matters about living with the difficulty; Activity often invites one small adaptation, communication step or question to take to care. Module 11 continues that pattern. Prompts commonly allow readers to think rather than journal, and many avoid promising symptom control.
 
 **What could be stronger:** Several Heart prompts ask readers how a hypothetical positive outcome *might feel*, which may be less personal than asking which loss, need, value or hope matters *now*. Some Activities repeat writing down a question for a clinician, despite being reasonable in their own lessons. Some invite noticing but not trying or reviewing a chosen response. The next phase should vary the tasks, let people recognize **situation → thought or expectation → feeling → action**, and, only if they wish, choose an accessible, low-risk next response. This is CBT-*informed educational reflection*, **not** unsupervised exposure, diagnosis, a treatment protocol or a request to prove that thoughts caused symptoms.
 
-**Module 12 editorial task (not yet approved or published):** Design Lesson 36 to connect the purpose of psychology to the reader's own goals, Lesson 37 to consider which change would make treatment worthwhile, and Lesson 38 to practise noticing an expectation or worry and choosing a small, safe response in a familiar situation. Review all nine prompts together, avoid reusing similar generic "ask your clinician" tasks, and retain consent and optionality. The approved Person prose for Lessons 36–37 intentionally omits these headings. The current Lesson 38 public-source questions belong to an older generated draft and must **not** be mistaken for approved prompts for Callum's new story.
+**Module 12 completion:** All nine prompts for Lessons 36–38 have been approved and committed in PR #210. They progress from a meaningful treatment goal (36), to criteria for useful treatment and reconsideration (37), to a small optional CBT-informed reflection on a situation, thought, feeling and possible response (38). The harmonization branch preserves all three sets verbatim.
 
 ## Verbatim inventory
 
@@ -786,7 +786,7 @@ You can keep that sentence in mind for a future conversation if it becomes usefu
 
 **Thought** (source heading: *Something to think about*)
 
-What's one thing about getting healthcare that you wish were easier? Is the difficulty related to travel, cost, waiting, communication or something else?
+Is there something about getting healthcare you wish were easier? It might involve travel, cost, waiting or communication. If care is working well for you, what helps?
 
 **Heart** (source heading: *How might that feel?*)
 
@@ -794,9 +794,7 @@ How might it feel if a healthcare professional understood the barrier and worked
 
 **Activity** (source heading: *One small step*)
 
-Think about one barrier to accessing care.
-
-Complete these sentences if useful:
+Think about a real or imagined barrier to accessing care. Complete these sentences if useful:
 
 **"What's getting in the way is ___."**
 
