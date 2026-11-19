@@ -253,7 +253,7 @@ What part of that experience would help someone decide whether the practice fitt
 
 ### How might that feel?
 
-When progress is uncertain, what helps you stay connected to the reason for practising, rather than measuring yourself only by the result?
+When progress is uncertain, what might help someone stay connected to their goal, rather than measuring the experience only by that day's result?
 
 ### One small step
 
