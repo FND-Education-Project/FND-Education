@@ -156,6 +156,23 @@ For now, she sets the page aside and rests. She doesn't need to decide today.
 
 **In the next lesson**, we'll follow Graham as he considers cognitive behavioral therapy for functional seizures: what it might help with, what research has actually found and what meaningful progress could look like. **Then we'll return to Callum**, who must weigh available CBT against a distant speech-language therapist, considering access, consent and the different goals of each treatment.
 
+### Something to think about
+
+Think about a difficulty you might want help with. Does knowing why it began tell you everything about what could help you now?
+
+### How might that feel?
+
+When you think about getting help, what hope or concern would you most want a therapist to understand?
+
+### One small step
+
+Complete this sentence, even if only in your thoughts:
+
+**"I'd like help with ___ because being able to ___ matters to me."**
+
+You don't need to be considering psychological treatment to do this.
+
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
