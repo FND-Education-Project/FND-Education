@@ -310,33 +310,22 @@ Next, we'll use what you've learned to help prepare your individual safety plan.
 
 **Thought** (source heading: *Something to think about*)
 
-Look back at the safety needs you identified on your symptom map.
+Is there a situation in which your symptoms could make it difficult to explain what help you need?
 
-Has one particular difficulty come up more than once?
+What information would be most important for someone helping you to know?
 
-Maybe you've repeatedly found yourself wishing you had something with you.
+**Heart** (source heading: *How might that feel?*)
 
-Or perhaps there's a situation where you'd feel more comfortable knowing someone understood how to help.
+What everyday activity might feel more manageable if you knew essential safety information and arrangements were already in place?
 
-What small change might make that situation easier next time?
+**Activity** (source heading: *One small step*)
 
-You may already have a solution in place.
+Choose one safety need you've identified. Consider whether the people who might help you have the information they need, or whether something in your existing plan should be reviewed.
 
-If so, that's part of your safety planning too.
+One useful addition or question is enough. Medical safety instructions should follow your individual care plan.
 
-**Activity** (source heading: *One small thing you can do*)
+If you don't have a specific safety need, you can simply think about what helps you explain your health at an appointment.
 
-Choose **one safety need** you've already identified.
-
-Rather than writing it down all over again, think about what might help with it.
-
-Perhaps there's something you could prepare, a change to your surroundings worth exploring, or a question you'd like to ask an occupational therapist or another clinician.
-
-You can add that next step to your existing map, if you want.
-
-And if you've already made an adaptation that helps, take a moment to recognise it.
-
-You've been doing some safety planning already.
 
 ### Lesson 14 — Using Your Safety Plan and Deciding When to Get Urgent Help
 
@@ -344,37 +333,19 @@ You've been doing some safety planning already.
 
 **Thought** (source heading: *Something to think about*)
 
-Think about a place you visit regularly.
+Think of a place you visit regularly. Are there arrangements that already help you manage it safely? If someone supports you, do those arrangements also work for them?
 
-Is there anything you've already changed to make it safer or easier to manage?
+**Heart** (source heading: *How might that feel?*)
 
-Perhaps you've found somewhere comfortable to sit, arranged accessible transport or learned to carry something useful.
+If you felt more prepared, what would you most want to enjoy—on your own or with someone helping you?
 
-Now consider someone who helps you.
+**Activity** (source heading: *One small step*)
 
-Do you both feel comfortable with the arrangements you've made?
+Before a familiar outing, consider one practical question:
 
-Is there something that would make helping safer or easier for them?
+**"If I needed help here, what would make things easier and safer for everyone involved?"**
 
-These can be valuable conversations to have when you're both feeling up to them.
-
-**Activity** (source heading: *One small thing you can do*)
-
-The next time you're preparing to go somewhere, think about **one practical safety question**.
-
-For example:
-
-"If I needed help here, what would make things easier?"
-
-You might already know the answer.
-
-Perhaps you need to bring something, choose a more accessible route or have a quick conversation with someone accompanying you.
-
-And if you've already worked out a solution, there's no need to start again.
-
-You've been using your safety plan.
-
-**The goal is to help everyone involved feel more prepared, so there's more room to enjoy everyday life.**
+You may already have the answer. If something needs changing, discuss it with the relevant people before relying on the new arrangement.
 
 <figure class="image-60center" markdown="1">
 
@@ -393,25 +364,22 @@ You've been using your safety plan.
 
 **Thought** (source heading: *Something to think about*)
 
-In Module 5, we looked at things that help when you go somewhere or need support.
+Imagine visiting someone while trying to follow a conversation, manage a headache and ignore other people talking nearby.
 
-Imagine you've planned a visit. You know where to sit and how you'll get home if you need to leave early. But once you're there, you're trying to follow a conversation while other people are talking and your head hurts.
-
-Which part of the visit takes the most attention? What else is competing for it?
+Which part takes the most attention? What else is competing for it?
 
 **Heart** (source heading: *How might that feel?*)
 
-You went because you wanted to enjoy someone's company, not spend the afternoon struggling to keep up. What would you most like to pay attention to if some of those other demands were smaller?
+You went because you wanted to enjoy someone's company. What would you most like to pay attention to if some of those competing demands were smaller?
 
 **Activity** (source heading: *One small step*)
 
-Think of one familiar activity where you sometimes lose your place.
+Choose one familiar activity where you sometimes lose your place. Try one small change that makes room for your attention, such as a short reminder, fewer interruptions or a quieter place.
 
-Choose **one small change** that makes more room for your attention. You might leave two words about your next step, keep a useful browser tab open, or ask for a little quiet while you finish.
-
-See whether returning to the activity feels easier. You can keep the support that works for you, change it, or save this idea for another day.
+Notice whether returning to the activity feels easier. You can keep, change or set aside the idea.
 
 Next, we'll look at how your brain handles familiar actions with less step-by-step conscious direction.
+
 
 ### Lesson 16 — Automatic Control and Conscious Effort
 
@@ -419,25 +387,22 @@ Next, we'll look at how your brain handles familiar actions with less step-by-st
 
 **Thought** (source heading: *Something to think about*)
 
-When you do something familiar, such as getting dressed or reaching for a cup, do you usually think about the goal or about every little movement along the way?
+When you do something familiar, such as getting dressed or reaching for a cup, do you usually think about the goal or every little movement along the way?
 
 **Heart** (source heading: *How might that feel?*)
 
-Think about something you used to do without paying much attention to the movements, such as getting dressed, reaching for a cup or walking across a room.
-
-If it now takes a lot more effort, what part of that activity do you miss most? What would help you enjoy that part again, even if you still need equipment or help?
+If a familiar activity now requires much more effort, what part do you miss most? What would help you enjoy it again, even if you still needed equipment or support?
 
 **Activity** (source heading: *One small step*)
 
-Choose a familiar, **safe** activity you can already do, such as sorting a few lightweight objects into a box while seated securely.
+Choose a familiar, safe activity you can already do, such as sorting a few lightweight objects while securely seated.
 
-Think about the goal—getting the objects where they belong—rather than giving yourself instructions for each movement.
+Think about the goal rather than instructing yourself through each movement. Keep your usual supports and stop whenever you need to.
 
-Keep your usual supports. Try it only for as long as it feels comfortable, and rest when you need to.
-
-If an activity brings a risk of falling or injury, you can describe it to your physiotherapist or occupational therapist instead. They can help you explore a safe version together.
+If doing an activity isn't suitable, you can imagine how the approach might work instead. If it could cause a fall or injury, discuss a safe approach with your rehabilitation clinician rather than trying it alone.
 
 Next, we'll look more closely at how changing the focus, instructions, or surroundings may affect what happens during an activity.
+
 
 ### Lesson 17 — Distraction, External Focus, and Context
 
@@ -445,25 +410,19 @@ Next, we'll look more closely at how changing the focus, instructions, or surrou
 
 **Thought** (source heading: *Something to think about*)
 
-Have you noticed a familiar task becoming easier or harder depending on how you're doing it?
-
-Perhaps putting a book on a shelf feels different from being asked to lift your arm just to show someone you can. Or perhaps the difference involves where you are, who is watching or how you're given instructions.
+Have you noticed a familiar task becoming easier or harder depending on where you are, what you're trying to accomplish or how someone gives instructions?
 
 What changed between those situations?
 
 **Heart** (source heading: *How might that feel?*)
 
-When something works better in one situation than another, what would you most want the people around you to understand? Would it help if they were interested in what made the activity easier, rather than expecting you to repeat it whenever they asked?
+When something works better in one situation than another, what would you most want others to understand? Would you prefer curiosity about what helped rather than pressure to repeat the result?
 
 **Activity** (source heading: *One small step*)
 
-Choose one familiar, safe activity and **one small change** to the setting or support around it.
+Choose one familiar, safe activity and one small change to the surroundings, instructions or support.
 
-Maybe you'd like more time to answer during a conversation. Perhaps a clear place to put things would help with a task, or you'd prefer one agreed reminder instead of several instructions at once.
-
-See whether the activity feels easier or more comfortable. Your symptoms might change, or they might stay the same.
-
-Keep the supports and safety measures you already need. If exploring a movement could involve falling or injury, you can bring the idea to your rehabilitation clinician instead.
+Notice whether it becomes easier or more comfortable. Keep the aids and safety measures you need, and don't use risky movements to test the idea.
 
 
 ## Module 7
@@ -474,17 +433,22 @@ Keep the supports and safety measures you already need. If exploring a movement 
 
 **Thought** (source heading: *Something to think about*)
 
-Think about a time when your body didn't do what you expected. Perhaps a familiar step suddenly felt difficult, your words wouldn't come, or a sound seemed much louder than you expected. What did you expect to happen, and what happened instead?
+Think about a time when something didn't happen as you expected. Perhaps a familiar movement became difficult, your words wouldn't come, a memory slipped away or a sound seemed unusually loud.
+
+What did you expect, and what happened instead?
 
 **Heart** (source heading: *How might that feel?*)
 
-When something familiar becomes unpredictable, what bothers you most? Is it the surprise, not knowing what will happen next, or missing out on something you wanted to do? What might make the situation feel more manageable?
+When something familiar becomes unpredictable, what bothers you most: the surprise, the uncertainty or missing out on something important?
 
 **Activity** (source heading: *One small step*)
 
-Remember the ways you've already made places safer or easier to use? The same thinking can help with an activity you enjoy. Keeping things where you expect to find them, or choosing a route you know well, may make that activity more comfortable. A familiar arrangement that's already helping is worth keeping.
+Think of a familiar activity you enjoy. Is there an arrangement that makes it easier to know what to expect, such as keeping useful objects in the same place or choosing a familiar accessible route?
+
+You may already have found something that helps. There's no need to provoke a symptom to test a prediction.
 
 In our next lesson, we'll meet the different kinds of information your brain receives from your body and surroundings. That will help us understand what predictions are being compared *with*.
+
 
 ### Lesson 19 — Interoception, Proprioception, and Outside Senses
 
