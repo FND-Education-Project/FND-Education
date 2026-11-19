@@ -168,61 +168,69 @@ You can remember the question, write it down or ask someone to help you bring it
 
 [Source lesson](../../../course/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md) · Module 3
 
+**Thought** (source heading: *Something to think about*)
+
+What, if anything, do you remember about when your FND began? Is that different from what seems to affect your symptoms or daily activities now?
+
+You may have no clear answer to either question.
+
+**Heart** (source heading: *How might that feel?*)
+
+How does it feel to have some answers about your health while other questions remain uncertain? Would understanding what might help now still matter if the original cause stayed unclear?
+
 **Activity** (source heading: *One small step*)
 
-Choose one question to ask your clinician:
+Keep these two questions separate:
 
-> “What do we understand about how my symptoms began, and what are we still learning?”
+**"What may have contributed when my symptoms began?"**
 
-One question is enough to begin. New or very different symptoms are also important to have medically assessed.
+**"What might make life easier now?"**
+
+You can leave either unanswered. If the distinction raises a question for your clinician, you can bring it to a future appointment.
+
 
 ### Lesson 8 — Brain Networks, Prediction, Attention, and Agency
 
 [Source lesson](../../../course/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) · Module 3
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-Which part of your nervous system experience would you most like to understand?
+Researchers sometimes measure differences in brain activity or networks, then propose explanations for what those differences might mean.
 
-You might choose movement, awareness, memory, seizures, sensation, speech, pain, fatigue, or something else.
+Can you recognize the difference between a finding they measured and an explanation they're still investigating?
 
-As you think back over this lesson, can you spot one measured research finding and one idea that scientists are still testing?
+**Heart** (source heading: *How might that feel?*)
 
-If you feel comfortable, you might also ask: how does it feel to hear what researchers have found and what they are still exploring?
-
-You can leave that question for another day.
+What interests you most about this research? Does learning about both the discoveries and the uncertainty change how you understand your own experience?
 
 **Activity** (source heading: *One small step*)
 
-At your next appointment, you could ask:
+The next time you encounter an explanation of FND, ask yourself:
 
-> “What have researchers measured about symptoms like mine, and which ideas are they still exploring?”
+**"Did researchers measure this, or is it an idea they're still testing?"**
 
-Your job is to share what you notice, at a pace that works for you. Your clinician can help connect those experiences with the examination and the growing research.
+You don't need to investigate every claim. Simply recognizing the difference is useful.
+
 
 ### Lesson 9 — Physical, Psychological, and Social Factors—and How to Judge Claims
 
 [Source lesson](../../../course/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) · Module 3
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-How could a change to someone's physical health, feelings or surroundings make an everyday activity easier?
+Imagine someone whose everyday activity becomes harder because of pain, worry and a noisy room.
 
-What would you most like your treatment and support to make possible in your own life?
+Could changes to any of those difficulties help the activity become easier, without proving what caused their FND?
+
+**Heart** (source heading: *How might that feel?*)
+
+If one difficulty became more manageable, what part of life would you most want to enjoy or participate in?
 
 **Activity** (source heading: *One small step*)
 
-Think of something you enjoy or value that has become difficult.
+Think of something you enjoy that has become difficult. Consider one manageable change to your surroundings, support or care that might make it easier.
 
-What might make it a little easier?
-
-Maybe there's a health concern you could discuss with your clinician, a change you could make to your surroundings or some help you could ask for.
-
-Choose one possibility that feels manageable.
-
-Sometimes a small change can make room for something important.
-
-If you experience a new symptom or a major change in an existing one, your healthcare team can help assess it.
+You don't have to explain your FND to recognize a useful adjustment. New or significantly changed medical symptoms still need appropriate assessment.
 
 
 ## Module 4
@@ -231,7 +239,22 @@ If you experience a new symptom or a major change in an existing one, your healt
 
 [Source lesson](../../../course/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md) · Module 4
 
-**No matching reflection/activity headings in this Person section.**
+**Thought** (source heading: *Something to think about*)
+
+Imagine explaining your health to a new doctor. You have an FND diagnosis, another health condition and a symptom that hasn't been assessed yet.
+
+Why might it help to keep those three things separate?
+
+**Heart** (source heading: *How might that feel?*)
+
+What would you want someone to understand about your health without assuming that every difficulty must be part of FND?
+
+**Activity** (source heading: *One small step*)
+
+Choose one important detail about your health: something already diagnosed or a question still needing assessment.
+
+Write or remember one sentence about it. That's enough to begin a personal symptom map.
+
 
 ### Lesson 11 — Building and Using Your Personal Symptom Map
 
@@ -239,13 +262,21 @@ If you experience a new symptom or a major change in an existing one, your healt
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine showing your map to someone who knows very little about your health.
+Imagine showing your symptom map to someone who knows very little about your health. What's the first thing you'd want them to understand? What unanswered question would you most like help with?
 
-What is the first thing you'd want them to understand?
+**Heart** (source heading: *How might that feel?*)
 
-And what one unanswered question would you most like help with?
+What would it mean to have your difficulties, remaining abilities and helpful adaptations recognized together, rather than having someone notice only your symptoms?
 
-Those two thoughts could be a good place to start.
+**Activity** (source heading: *One small step*)
+
+Make or update three short entries on your symptom map:
+
+**One diagnosed condition. One question you still have. One thing that helps.**
+
+A few words are enough. You can use paper, your phone or help from someone you trust. Your map doesn't need to become a diary.
+
+**Your health story is much bigger than a page of notes. The map simply helps you carry the important pieces when you need them.**
 
 
 ## Module 5
@@ -256,35 +287,22 @@ Those two thoughts could be a good place to start.
 
 **Thought** (source heading: *Something to think about*)
 
-Think of a symptom or episode you've experienced before.
+Think of a familiar symptom that has already been medically assessed. What makes it recognizable to you?
 
-What makes it familiar to you?
+If something important about it changed, what would make you seek medical advice rather than assume it was the same experience?
 
-Now imagine something important about it changes.
+**Heart** (source heading: *How might that feel?*)
 
-Would you know who to ask for medical advice?
+What would help you feel taken seriously when describing a symptom that is new, different or difficult to explain?
 
-If you're unsure, that's a useful question to bring to your next appointment.
+**Activity** (source heading: *One small step*)
 
-**Activity** (source heading: *One small thing you can do*)
+If useful, describe one familiar, medically assessed symptom in a short sentence about what usually happens.
 
-Remember your symptom map?
-
-If you'd like, choose one familiar, medically assessed symptom and add a short description of what usually happens.
-
-For example:
-
-"My usual episodes involve shaking and difficulty speaking. Afterwards, I generally need some quiet time to recover."
-
-Already have something like that written down? Great. You can leave it as it is.
-
-You could also ask your clinician which changes would mean getting more medical help.
-
-And if writing or remembering feels like too much today, this activity can wait.
-
-**The idea is to make getting care easier, not give yourself another chore.**
+You can add it to your symptom map. If something new or concerning is happening now, seek the appropriate medical advice rather than waiting to complete an activity.
 
 Next, we'll use what you've learned to help prepare your individual safety plan.
+
 
 ### Lesson 13 — Emergency Information and Individual Safety Plans
 
