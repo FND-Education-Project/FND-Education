@@ -126,33 +126,25 @@ Researchers are studying how brain activity, signalling and chemistry may be inv
 
 **Key idea:** Useful care can begin now, while your personal explanation continues to develop.
 
-### Pause and think
+### Something to think about
 
-Start with one question:
+What, if anything, do you remember about when your FND began? Is that different from what seems to affect your symptoms or daily activities now?
 
-What do I remember about the time my FND began?
+You may have no clear answer to either question.
 
-Your answer might be an illness, an injury, a stressful time, nothing unusual or “I do not know yet.” Each answer is useful information.
+### How might that feel?
 
-Then consider a second question:
-
-What affects my symptoms or daily activities now?
-
-Different symptoms may have different patterns, and your answers can change over time.
-
-If you feel comfortable, you might also ask:
-
-How does it feel to have some answers and some uncertainty?
-
-You can skip this question or return to it another day.
+How does it feel to have some answers about your health while other questions remain uncertain? Would understanding what might help now still matter if the original cause stayed unclear?
 
 ### One small step
 
-Choose one question to ask your clinician:
+Keep these two questions separate:
 
-> “What do we understand about how my symptoms began, and what are we still learning?”
+**"What may have contributed when my symptoms began?"**
 
-One question is enough to begin. New or very different symptoms are also important to have medically assessed.
+**"What might make life easier now?"**
+
+You can leave either unanswered. If the distinction raises a question for your clinician, you can bring it to a future appointment.
 
 ### Optional learning activity
 
