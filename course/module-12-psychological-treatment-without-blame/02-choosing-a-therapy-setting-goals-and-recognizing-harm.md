@@ -186,6 +186,25 @@ One doesn't have to replace the other.
 
 In our next lesson, Callum will face a different choice. CBT is easier for him to access, but specialist speech therapy is much farther away. He'll need to understand what each treatment could help with before deciding what fits his needs.
 
+### Something to think about
+
+Graham wants fewer seizures, but he'd also love to enjoy the park again. If his seizures continued, what other changes might still make treatment worthwhile to him?
+
+### How might that feel?
+
+Is there something you enjoy, miss or want to protect that you'd like a treatment to help with? Why is it important to you?
+
+### One small step
+
+Think of one treatment goal, real or imagined. Complete these two sentences:
+
+**"I'd know it was helping if ___."**
+
+**"I'd want to rethink it if ___."**
+
+You can simply think about your answers. No treatment or written record is required.
+
+
 ---
 
 **Free resources:** The [University of Sheffield's Non-Epileptic Attacks resources](https://non-epileptic-attacks.sites.sheffield.ac.uk/resources) include free information and practical worksheets, although they aren't a complete CBT workbook. The seizure-focused [*Taking Control of Your Seizures* workbook](https://academic.oup.com/book/1357) usually requires purchase or access through a library or therapist.
