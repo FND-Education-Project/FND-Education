@@ -132,18 +132,21 @@ You may also hear clinicians mention a **risk factor**, which is linked with a g
 
 We explored these terms in [Lesson 7](../module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md). Here, we're simply giving useful observations a place to live.
 
-### A small place to start
+### Something to think about
 
-What would you most want a clinician to know about your health?
+Imagine explaining your health to a new doctor. You have an FND diagnosis, another health condition and a symptom that hasn't been assessed yet.
 
-Perhaps it's a symptom already diagnosed as FND, another health condition or a question that's still open.
+Why might it help to keep those three things separate?
 
-You can write just one line about it. That's a useful beginning.
+### How might that feel?
 
-In [Lesson 11](02-building-and-using-your-personal-symptom-map.md), we'll look at what helps, what remains possible and how to build those notes into a simple map.
+What would you want someone to understand about your health without assuming that every difficulty must be part of FND?
 
-**Your health story is bigger than a page. The map helps you keep the important pieces within reach.**
+### One small step
 
+Choose one important detail about your health: something already diagnosed or a question still needing assessment.
+
+Write or remember one sentence about it. That's enough to begin a personal symptom map.
 
 ### Optional crossword
 
