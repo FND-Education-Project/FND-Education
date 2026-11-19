@@ -156,26 +156,21 @@ Sometimes rehabilitation means working toward a movement with a therapist. Somet
 
 ### Something to think about
 
-When you do something familiar, such as getting dressed or reaching for a cup, do you usually think about the goal or about every little movement along the way?
+When you do something familiar, such as getting dressed or reaching for a cup, do you usually think about the goal or every little movement along the way?
 
 ### How might that feel?
 
-Think about something you used to do without paying much attention to the movements, such as getting dressed, reaching for a cup or walking across a room.
-
-If it now takes a lot more effort, what part of that activity do you miss most? What would help you enjoy that part again, even if you still need equipment or help?
+If a familiar activity now requires much more effort, what part do you miss most? What would help you enjoy it again, even if you still needed equipment or support?
 
 ### One small step
 
-Choose a familiar, **safe** activity you can already do, such as sorting a few lightweight objects into a box while seated securely.
+Choose a familiar, safe activity you can already do, such as sorting a few lightweight objects while securely seated.
 
-Think about the goal—getting the objects where they belong—rather than giving yourself instructions for each movement.
+Think about the goal rather than instructing yourself through each movement. Keep your usual supports and stop whenever you need to.
 
-Keep your usual supports. Try it only for as long as it feels comfortable, and rest when you need to.
-
-If an activity brings a risk of falling or injury, you can describe it to your physiotherapist or occupational therapist instead. They can help you explore a safe version together.
+If doing an activity isn't suitable, you can imagine how the approach might work instead. If it could cause a fall or injury, discuss a safe approach with your rehabilitation clinician rather than trying it alone.
 
 Next, we'll look more closely at how changing the focus, instructions, or surroundings may affect what happens during an activity.
-
 
 ### Further reading in the Reference Library
 
