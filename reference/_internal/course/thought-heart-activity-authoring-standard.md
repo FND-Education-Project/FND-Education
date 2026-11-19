@@ -25,6 +25,14 @@ A safe, low-pressure Activity can:
 
 Do not turn the course into self-directed exposure therapy, trauma processing, seizure-interruption instructions, forced positive thinking, or symptom monitoring that grows burdensome. Do not ask readers to test unsafe walking, ignore medical advice, withdraw communication or mobility aids, or repeat activities that pose injury risk. Reflective action is not proof of rehabilitation or of a psychological cause.
 
+## Inclusion across FND presentations
+
+Specific examples are valuable in a lesson about walking, seizures, speech, cognition, senses or another presentation. The **end-of-lesson questions must not require readers to experience that symptom themselves**. Where the example is specific, readers may use the story's person, another familiar difficulty, or an imagined situation to answer. An activity can be considered rather than physically attempted when that is more accessible or safer.
+
+Check readers who have only one symptom, severe disability, no regular supporter, limited medical access, or no active rehabilitation. Do not make a doctor, mobility task, seizure warning sign, recovery milestone, journal or treatment programme an unavoidable prerequisite. A question can still be relevant if a reader's answer is “no,” “not yet,” or “I haven't experienced that.”
+
+Across lessons, build skills gradually from recognizing a distinction and identifying what matters, through choosing a support or manageable action, to evaluating care and eventually a CBT-informed situation–thought–feeling–action reflection. Do not move an advanced skill earlier just to force the three prompts to seem increasingly therapeutic.
+
 ## Quality review for each lesson
 
 Before submitting a Person section for project-lead approval:
@@ -56,4 +64,4 @@ The generator does not edit lessons. It does not automatically invent questions,
 - **Lesson 37, Graham:** Consider what a particular treatment would involve, what research can and cannot promise, and what meaningful progress would be in one's actual life. Respect safety and different care needs.
 - **Lesson 38, Callum:** Understand continuing consent and collaboration inside treatment. The optional Activity can invite a CBT-informed recognition of an ordinary situation, thought, feeling and possible response, with no requirement to perform a feared action or give up communication support.
 
-**Editorial hold:** No Thought, Heart or Activity prompts have yet been approved for the new Module 12 Person stories. Review the **nine proposed items together** after Lesson 38 Person prose is approved; update all three lessons only after project-lead decisions. Do not resurrect unapproved legacy Lesson 38 questions.
+**Approved status (November 19, 2026):** All nine Module 12 Thought, Heart, and Activity prompts were approved by the project lead and committed in PR #210. Lessons 36–38 retain those exact prompts in the harmonization branch. The earlier generated Lesson 38 questions are superseded. Do not rewrite these approved prompts as part of harmonizing other lessons.
