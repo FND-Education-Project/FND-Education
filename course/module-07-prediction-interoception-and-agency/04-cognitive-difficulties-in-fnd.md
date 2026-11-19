@@ -433,15 +433,19 @@ And we've seen how understanding the particular difficulty can help us explain i
 
 ### Something to think about
 
-Remember losing your place while cooking, forgetting what was agreed during a telephone call, or reaching for a word you know? Which comes closest to your experience? Did the information disappear while you were using it, or was it hard to bring back later?
+Think about someone losing their place during a task, forgetting a conversation or reaching for a familiar word. Was the information lost while they were using it, or was it hard to bring back later?
+
+If you've experienced something similar, which fits best?
 
 ### How might that feel?
 
-When something important goes missing, what would you want the person beside you to understand? What kind of help would let you continue without feeling rushed or questioned?
+If you or someone else has trouble finding important information, what kind of help would let them continue without feeling tested or rushed?
 
 ### One small step
 
-If an interruption makes it hard to finish something you enjoy, a simple place-marker may help: a tick beside the last recipe step or a short note about what was agreed on a call. A reminder that's already working is just as useful. The point is to make the activity easier, not test your memory.
+If an interruption makes it hard to finish something you enjoy, try a simple place-marker, such as a tick beside the last step or a short reminder. An existing reminder is just as useful.
+
+If this isn't a difficulty you have, you can think about how that support might help someone else. The point is to make an activity easier, not test anyone's memory.
 
 In our next lesson, we'll explore what happens when thinking difficulties enter an emotional situation.
 

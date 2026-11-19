@@ -78,17 +78,19 @@ Your clinician will consider the sign together with your health history and the 
 
 Your clinician should explain the diagnosis in a way you can understand. You can ask which sign they found, what it showed, and what other possibilities they considered. When appropriate, you can also ask them to demonstrate the sign. If you notice a new symptom or a major change, tell a healthcare professional so it can be assessed.
 
-### Questions to reflect on
+### Something to think about
 
-Which part of the explanation made the most sense to you? Which part would you like explained again?
+If your clinician showed you a positive sign of FND, what did they observe? What did they explain that finding might show about your nervous system?
 
-If your clinician showed you a positive sign, how would you explain what it showed about your nervous system?
+### How might that feel?
+
+What would help you feel comfortable asking questions about your diagnosis, especially if part of the explanation is difficult to understand?
 
 ### One small step
 
-Write down or talk through the explanation in two parts: **the sign that was found** and **what the clinician believes it shows**. You can bring a note or ask someone to help you remember it at your next appointment. Ask for any part to be explained again.
+Try separating the explanation into two parts: **what the clinician found** and **what the finding means**.
 
-Use the positive sign as information from your clinician rather than as a test to repeat by yourself. Hoover’s sign, tremor tests, and other neurological tests need training and context to interpret. At home, focus on the strategies recommended by your care team and note any changes you want to discuss with them.
+You can ask for either part to be explained again. There's no need to repeat neurological tests yourself; they require professional training and interpretation.
 
 ### Optional learning activity
 

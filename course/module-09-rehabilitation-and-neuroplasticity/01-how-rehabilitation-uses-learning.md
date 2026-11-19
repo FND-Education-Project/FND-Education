@@ -234,25 +234,19 @@ Perhaps there's still a little learning left to do.
 
 ### Something to think about
 
-Since developing FND, have you learned to recognize a body signal, respond differently to a symptom, or adapt an everyday activity?
-
-**Can you recognize how neuroplastic learning might have contributed to that change?**
+Think of something you've learned or adapted, in everyday life or while living with FND. How might learning and neuroplasticity be involved, without assuming that you know exactly what changed in your brain?
 
 ### How might that feel?
 
-How might you feel if rehabilitation helped you regain an ability or made something important easier, even while other symptoms remained difficult?
+What ability or activity would you most value making easier through rehabilitation, even if some symptoms remained?
 
 ### One small step
 
-If you're receiving rehabilitation, you could ask your therapist:
+If you're receiving rehabilitation, you could ask:
 
-"What might my nervous system be learning through this activity, and how would we recognize that learning outside therapy?"
+**"What might my nervous system be learning through this activity, and how would we recognize that learning outside therapy?"**
 
-Perhaps the goal is to make an action more automatic, use sensory information differently or develop a more reliable response to a familiar difficulty.
-
-You don't need to practise anything new or test your symptoms to complete this lesson.
-
-Understanding the connection between **neuroplastic learning, a rehabilitation activity and something meaningful in your life** can help you take a more informed part in your rehabilitation.
+You can also simply consider how an activity connects to something meaningful in your life. You don't need to practise anything new to complete the reflection.
 
 ### Optional crossword
 

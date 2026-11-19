@@ -9,7 +9,8 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 ## Course editorial handoffs
 
 - [Thought, Heart, and Activity authoring standard](course/thought-heart-activity-authoring-standard.md) — the course-wide teaching aim, safe CBT-informed reflection and per-lesson maintenance rule.
-- [Thought, Heart, and Activity inventory](course/thought-heart-activity-inventory.md) — exact collected Person questions and activities for all 59 lessons, with approval-stage distinctions and initial editorial assessment.
+- [Thought, Heart, and Activity inventory](course/thought-heart-activity-inventory.md)
+- [Thought, Heart, and Activity harmonization verification](course/thought-heart-activity-harmonization-verification-2026-11-19.md) — full 35-lesson prerequisite and symptom-inclusion checks, coordinated wording updates, and preservation results. — exact collected Person questions and activities for all 59 lessons, with approval-stage distinctions and initial editorial assessment.
 
 - [Crossword clue-authoring standard](course/crossword-clue-authoring-standard.md) — internal writing and review guide for person-facing lesson clue banks; separate from puzzle PDF formatting.
 

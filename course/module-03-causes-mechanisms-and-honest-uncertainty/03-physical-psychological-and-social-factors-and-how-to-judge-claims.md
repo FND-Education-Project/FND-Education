@@ -298,25 +298,21 @@ Those are meaningful goals.
 
 **Key idea:** Understanding what affects our daily lives can help us make choices about care, support and recovery. We can work toward things that matter to us while science continues to learn more about FND.
 
-### Questions to reflect on
+### Something to think about
 
-How could a change to someone's physical health, feelings or surroundings make an everyday activity easier?
+Imagine someone whose everyday activity becomes harder because of pain, worry and a noisy room.
 
-What would you most like your treatment and support to make possible in your own life?
+Could changes to any of those difficulties help the activity become easier, without proving what caused their FND?
+
+### How might that feel?
+
+If one difficulty became more manageable, what part of life would you most want to enjoy or participate in?
 
 ### One small step
 
-Think of something you enjoy or value that has become difficult.
+Think of something you enjoy that has become difficult. Consider one manageable change to your surroundings, support or care that might make it easier.
 
-What might make it a little easier?
-
-Maybe there's a health concern you could discuss with your clinician, a change you could make to your surroundings or some help you could ask for.
-
-Choose one possibility that feels manageable.
-
-Sometimes a small change can make room for something important.
-
-If you experience a new symptom or a major change in an existing one, your healthcare team can help assess it.
+You don't have to explain your FND to recognize a useful adjustment. New or significantly changed medical symptoms still need appropriate assessment.
 
 ### Optional learning activity
 

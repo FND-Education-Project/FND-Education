@@ -352,15 +352,19 @@ Understanding the kinds of information your brain receives gives us better words
 
 ### Something to think about
 
-Picture walking on uneven ground, sitting in a bright room, or noticing an uncomfortable feeling inside your body. Which information seems most important in that moment: where your body is, what is happening around you, or what you're feeling inside? You don't need to work out the cause to describe the experience.
+Picture walking on uneven ground, sitting in a bright room or noticing an uncomfortable feeling inside your body.
+
+Which information matters most in that moment: where your body is, what's happening around you or what you're feeling inside?
 
 ### How might that feel?
 
-If someone couldn't see or feel what was making that situation difficult, what would you want them to understand? Would having better words for it make asking for help a little easier?
+If someone couldn't see or feel what made that situation difficult, what would you most want them to understand?
 
 ### One small step
 
-Think of a place you'd like to enjoy more comfortably. Softer light for reading, a quieter place to talk, or a safer route across uneven ground might help. The useful change may be something you've already arranged; what matters is whether it helps you take part.
+Think of a place you'd like to enjoy more comfortably. Consider one helpful change, such as softer light, a quieter place to talk or a safer route.
+
+You don't have to explain the cause of a sensation to ask for an arrangement that helps.
 
 In our next lesson, we'll explore why some information becomes particularly important to the brain—and why certain sensations, sounds or demands can become so difficult to ignore.
 

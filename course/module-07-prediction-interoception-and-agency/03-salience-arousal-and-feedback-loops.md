@@ -374,15 +374,19 @@ They also give us useful questions to explore with our care team.
 
 ### Something to think about
 
-Imagine trying to talk with a friend in a busy café. There's music, people moving around, and perhaps pain or tiredness competing for your attention. Which demands would be hardest for you to set aside? Does something similar happen during another ordinary activity?
+Imagine talking with a friend in a busy café while music, movement, pain or tiredness compete for your attention.
+
+Which demand would be hardest to set aside?
 
 ### How might that feel?
 
-When several demands pile up, what part of the activity do you most want to keep enjoying? Perhaps it's the conversation, being out with someone, or simply having enough energy to stay a little longer.
+When several demands pile up, what part of the activity do you most want to keep enjoying?
 
 ### One small step
 
-See whether one demand could be made smaller without losing the part you enjoy. A quieter seat, the television turned off during a conversation, or fewer instructions at once may be enough. If a change to your surroundings already helps, it may also be useful in another activity. There's no need to provoke symptoms to find out.
+Consider whether one demand could be reduced without losing the part you value: a quieter seat, a television turned off or fewer questions at once.
+
+If a similar adjustment already works elsewhere, it might be useful here too. There's no need to deliberately create overload.
 
 Next, we'll explore cognitive difficulties: why questions, words and familiar information sometimes seem to disappear, and how this relates to—but isn't the same as—a diagnosis of FCD.
 
