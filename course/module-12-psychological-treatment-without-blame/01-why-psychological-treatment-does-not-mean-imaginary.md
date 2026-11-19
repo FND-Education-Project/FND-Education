@@ -136,6 +136,14 @@ Perhaps. But Nadia still doesn't know what they would actually work toward. She 
 
 Nadia thanks her and leaves, frustrated but relieved. The psychologist had been courteous, and some questions were reasonable. Yet the appointment seemed focused on explaining why she became ill, rather than finding out what help she wanted now.
 
+<figure class="image-60center" markdown="1">
+
+![Nadia walks away from a psychologist's office wearing wraparound rose-tinted glasses and a fashionable wide-brimmed hat, holding a slightly crumpled paper of questions.](../../assets/images/lesson-36-illustration.png)
+
+<figcaption>Nadia leaves with her questions unanswered—but they're still hers to ask.</figcaption>
+
+</figure>
+
 ### Two different questions
 
 Nadia arrived hoping to discuss the possible *purpose* of psychological treatment. The psychologist spent much of the visit exploring a possible *cause* of her FND. Both questions might be worth asking, but they aren't interchangeable.
