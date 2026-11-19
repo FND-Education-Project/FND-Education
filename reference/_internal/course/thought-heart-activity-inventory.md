@@ -30,41 +30,40 @@ The section between the markers below is extracted from course files and may be 
 
 [Source lesson](../../../course/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) · Module 1
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-How would you explain your FND diagnosis to someone else?
+How would you explain your FND diagnosis to someone else? What would you most want them to understand about symptoms that are real and involuntary, even when they change?
+
+**Heart** (source heading: *How might that feel?*)
+
+When someone understands that your symptoms are real, what difference might that make to you? Is there something you wish people understood without needing an explanation?
 
 **Activity** (source heading: *One small step*)
 
-Write down how you would explain your FND diagnosis to someone else.
+Try explaining FND in one or two sentences using your own words. You could write them, say them to someone you trust or simply think them through.
 
-You might include what FND means, how it affects the nervous system, why symptoms can change, and what you want the other person to understand about your experience.
+This isn't a test, and your explanation can change as you learn more.
 
-Use your own words. This is not a test, and your explanation can change as you learn more.
 
 ### Lesson 2 — The Biopsychosocial Model and Misconceptions
 
 [Source lesson](../../../course/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) · Module 1
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-How do you think having a good support group around you could improve your ability to manage everyday life?
+Have you noticed anything physical, psychological or social that affects your symptoms or daily activities? Are there also times when no pattern is apparent?
 
-Have you noticed anything that repeatedly affects your symptoms, whether physical, psychological or social? Or are your symptoms sometimes unpredictable?
+How is noticing something that affects you different from knowing what caused your FND?
+
+**Heart** (source heading: *How might that feel?*)
+
+What would you want someone to understand about the different things affecting your life, without assuming that you're responsible for your symptoms?
 
 **Activity** (source heading: *One small step*)
 
-If you're able and find it useful, you might write down what was happening around a change in your symptoms.
+Think of one familiar difficulty using three possible headings: **Body and brain**, **Thoughts and feelings**, and **Life and surroundings**.
 
-Try three headings:
-
-- **Body and brain**
-- **Thoughts and feelings**
-- **Life and surroundings**
-
-You can leave any heading blank if you don't know what belongs there.
-
-This isn't about proving why you have FND. It is simply a way of looking for patterns that might help you make everyday life a little easier.
+You can leave any heading blank. If something suggests a small change that might make daily life easier, consider it. You don't need to keep a journal or find an explanation for every symptom.
 
 **Don't worry if you can't journal!**
 
@@ -72,69 +71,51 @@ Personally, my functional symptoms affect my memory, and I've found journaling n
 
 Your experience may be different. Not finding a pattern is useful information too.
 
-If keeping notes is difficult, you might instead choose one small practical change, such as reducing noise, asking for help with an activity or allowing more time to recover after an appointment.
-
-You don't need to keep records or perform exercises to prove that you are trying.
 
 ### Lesson 3 — Remission, Recovery, and What Improvement Can Mean
 
 [Source lesson](../../../course/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) · Module 1
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-If one part of your health or everyday life could improve, which change would mean the most to you?
+If one part of your health or everyday life could improve, which change would mean the most to you? What might recovery mean if some symptoms remained?
 
-What would recovery mean to you if some of your symptoms remained?
+**Heart** (source heading: *How might that feel?*)
+
+What would that improvement give you more room for—perhaps comfort, independence, enjoyment, time with someone or a feeling of safety?
 
 **Activity** (source heading: *One small step*)
 
 Choose one sign of improvement that would make a meaningful difference to your life.
 
-It might be something related directly to your symptoms, such as shorter episodes or less pain.
+It could involve symptoms, but it might also mean preparing a meal, spending time with someone or returning to your usual activities more easily after an episode.
 
-Or it could be something else:
+You can remember that possibility without tracking it every day.
 
-- Feeling safer during an everyday activity.
-- Preparing part of a meal.
-- Spending more time with someone you care about.
-- Becoming more comfortable asking for help.
-- Returning to your usual level more easily after an episode.
-
-If you wish, write down one sentence describing that improvement.
-
-You don't need to track it every day. It's simply a way to recognize something that matters to you.
 
 ### Lesson 4 — Available Capacity, Spoons, and Early Action
 
 [Source lesson](../../../course/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) · Module 1
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-When your available capacity starts to drop, what changes do you notice first?
+When your available capacity starts to drop, what changes do you notice first? Are there times when you receive no useful warning?
 
-Is there something you already do that helps make the situation more manageable?
+**Heart** (source heading: *How might that feel?*)
+
+When your capacity is limited, what part of your day would you most like to protect? What makes that activity important to you?
 
 **Activity** (source heading: *One small step*)
 
-Think about a familiar situation in which your capacity sometimes becomes limited.
+Think about a familiar situation and complete these statements if they fit:
 
-Try completing these three sentences:
+**"An early sign I sometimes notice is ___."**
 
-- **My early sign:** "One change I sometimes notice is..."
+**"One adjustment that may help is ___."**
 
-- **My first adjustment:** "One thing I could change is..."
+**"If ___ happens, I need to stop or get help."**
 
-- **My safety limit:** "If this happens, I need to stop or get help..."
-
-If you have no reliable early sign, you can say so. Your plan can focus on what helps when symptoms occur.
-
-You don't have to write the answers down if that is difficult.
-
-You can think about the questions on your own. You could talk them through with someone you trust. Or you could ask a supporter to help you remember.
-
-And if a flare happens despite your plan, that doesn't mean the plan was worthless or that you did something wrong.
-
-Sometimes a plan can't stop a flare. It can still help keep you safer or make it easier to get help when you need it.
+If you have no reliable warning sign, your plan can begin with what helps when symptoms occur. You can use your existing supports, and a flare doesn't mean you've failed.
 
 
 ## Module 2
@@ -143,35 +124,42 @@ Sometimes a plan can't stop a flare. It can still help keep you safer or make it
 
 [Source lesson](../../../course/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md) · Module 2
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-Which part of the explanation made the most sense to you? Which part would you like explained again?
+If your clinician showed you a positive sign of FND, what did they observe? What did they explain that finding might show about your nervous system?
 
-If your clinician showed you a positive sign, how would you explain what it showed about your nervous system?
+**Heart** (source heading: *How might that feel?*)
+
+What would help you feel comfortable asking questions about your diagnosis, especially if part of the explanation is difficult to understand?
 
 **Activity** (source heading: *One small step*)
 
-Write down or talk through the explanation in two parts: **the sign that was found** and **what the clinician believes it shows**. You can bring a note or ask someone to help you remember it at your next appointment. Ask for any part to be explained again.
+Try separating the explanation into two parts: **what the clinician found** and **what the finding means**.
 
-Use the positive sign as information from your clinician rather than as a test to repeat by yourself. Hoover’s sign, tremor tests, and other neurological tests need training and context to interpret. At home, focus on the strategies recommended by your care team and note any changes you want to discuss with them.
+You can ask for either part to be explained again. There's no need to repeat neurological tests yourself; they require professional training and interpretation.
+
 
 ### Lesson 6 — Tests, Diagnostic Uncertainty, and Coexisting Conditions
 
 [Source lesson](../../../course/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) · Module 2
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-Take your time with these. Any answer you have is a good starting point.
+A medical test can answer an important question without answering every question about someone's health.
 
-Which part of the explanation for your diagnosis makes sense to you?
+Can you distinguish what a result tells you from what it leaves uncertain?
 
-Is there one question you would still like your clinician to answer?
+**Heart** (source heading: *How might that feel?*)
+
+What would help you feel that your FND diagnosis and your other health concerns were both being taken seriously?
 
 **Activity** (source heading: *One small step*)
 
-Choose one question to bring to your next appointment. You can write it down, record a voice note or ask someone to help you remember it. For example: “What findings support my FND diagnosis, and is there anything else we still need to check?”
+Choose one unanswered question you would like clarified.
 
-Your care team is there to explain test results with you. You can ask for explanations in a form that works for you, with support whenever you want it.
+For example: **"What does this result tell us, and is there anything else that needs assessment?"**
+
+You can remember the question, write it down or ask someone to help you bring it to an appointment.
 
 
 ## Module 3
