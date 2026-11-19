@@ -352,3 +352,16 @@ The [course-wide reflection inventory](thought-heart-activity-inventory.md) was 
 **Next editorial work:** The project lead reports that the three illustrations and colouring-book assets have been uploaded. Caption and descriptive alt-text *options* are under discussion based on the approved illustration prompts. No particular caption/alt text or illustration placement is approved by this commit; inspect the rendered final images before final accessibility acceptance. Review and repair the old Lesson 36/37 teaser lines that still preview Callum choosing between CBT and distant speech therapy (a superseded direction). Do not treat the old teaser as current curriculum intent; review those lines with the project lead before modifying approved narration.
 
 **Scope caution:** Human author approval of all Person prose and end reflections does not constitute independent clinical review or completion of sources, full accessibility acceptance, or final publication-readiness audit. Remaining module audiences are not approved in this step.
+
+
+## November 19, 2026 — Approved illustration integration for Lessons 36–38
+
+**Project-lead approval:** Choose **A** for all three previously discussed illustration captions and alt text. The final illustration images were uploaded to the repository's `main` branch before integration. Their exact file names were verified in `assets/images/` on `main`: `lesson-36-illustration.png`, `lesson-37-illustration.png`, and `lesson-38-illustration.png`. These assets are not duplicated onto the older PR branch; the URLs are correct for the eventual merged tree.
+
+The approved captions/alt text were inserted into the human-authored **For the Person With FND** sections in PR #210, using the existing `<figure class="image-60center" markdown="1">` / `<figcaption>` pattern:
+
+- **36, Nadia:** placed after she leaves the psychological assessment, before the 'Two different questions' explanation. Caption: “Nadia leaves with her questions unanswered—but they're still hers to ask.” Alt describes wraparound rose-tinted glasses, fashionable wide-brimmed hat, walking away and the crumpled question sheet.
+- **37, Graham:** placed after he starts imagining CBT as useful for the park, before the discussion of between-session tasks. Caption: “Graham considers one small step toward enjoying the park again.” Alt describes Graham texting at home and the thought-bubble park visit with Lena.
+- **38, Callum:** placed immediately after he explains why he needs the phone in the therapy session, before the psychologist reflects. Caption: “Callum explains why his phone matters, helping his psychologist reconsider the exercise.” Alt describes him reaching toward his smartphone while speaking and the psychologist listening.
+
+**Scope and audit boundary:** Colouring-book downloads, thumbnails, preview artwork, crossword integration, rendered visual checking and the full accessibility acceptance remain **for the audit thread**. This commit integrates only the three narrative illustrations; it does not alter the approved story prose, reflection questions, Supporter sections or Clinician sections.
