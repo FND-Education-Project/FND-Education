@@ -224,7 +224,7 @@ Think of a place you visit regularly. Are there arrangements that already help y
 
 ### How might that feel?
 
-If both you and someone helping you felt better prepared, what would you most want to enjoy together?
+If you felt more prepared, what would you most want to enjoy—on your own or with someone helping you?
 
 ### One small step
 
