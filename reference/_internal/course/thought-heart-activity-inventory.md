@@ -744,15 +744,20 @@ Next, we'll explore how everyday activities use up the energy and attention we h
 
 **Thought** (source heading: *Something to think about*)
 
-What did you relate to in Callum's story? Perhaps struggling to communicate, recognizing a familiar mechanism, finding another way to do something, or explaining FND to someone else.
+What did you relate to in Callum's story? Perhaps struggling to communicate, recognizing a familiar mechanism or finding another way to do something.
+
+Is there something you understand now that was confusing earlier in the course?
 
 **Heart** (source heading: *How might that feel?*)
 
-How does it feel to have a better understanding of the processes that might be affecting you?
+What difference does understanding more about your experience make to you, even if your symptoms haven't improved?
 
 **Activity** (source heading: *One small step*)
 
-If something you've learned about FND comes to mind during everyday life, try explaining it in a sentence or two to someone you trust. Or simply enjoy recognizing it yourself.
+If something you've learned about FND comes to mind during everyday life, try explaining it in a sentence or two to someone you trust.
+
+Or simply enjoy recognizing it yourself.
+
 
 ### Lesson 34 — Working With Your Healthcare Professionals
 
@@ -760,15 +765,20 @@ If something you've learned about FND comes to mind during everyday life, try ex
 
 **Thought** (source heading: *Something to think about*)
 
-Can you agree to a referral while still having questions about the explanation behind it or another health concern that needs attention?
+Can you agree to a referral while still having questions about the explanation behind it, or another health concern needing attention?
 
 **Heart** (source heading: *How might that feel?*)
 
-How might it feel to disagree with a doctor you trust, especially when you depend on that doctor for care?
+How might it feel to disagree with a doctor you trust, especially when you depend on that doctor for care? What would help you express your concern?
 
 **Activity** (source heading: *One small step*)
 
-The next time you notice a familiar symptom, consider which nervous-system processes might be involved. If useful, write down a few words so you can explain your thinking at a healthcare appointment.
+Imagine needing to clarify two different parts of your healthcare. Try completing:
+
+**"I understand this referral is for ___. I still need help with ___."**
+
+You can keep that sentence in mind for a future conversation if it becomes useful.
+
 
 ### Lesson 35 — Finding Your Way Through Healthcare Barriers
 
@@ -776,19 +786,23 @@ The next time you notice a familiar symptom, consider which nervous-system proce
 
 **Thought** (source heading: *Something to think about*)
 
-What is one thing about getting healthcare that you wish were easier?
+What's one thing about getting healthcare that you wish were easier? Is the difficulty related to travel, cost, waiting, communication or something else?
 
 **Heart** (source heading: *How might that feel?*)
 
-How might it feel if a healthcare professional understood how difficult accessing care can be and helped you find a realistic way forward?
+How might it feel if a healthcare professional understood the barrier and worked with you on a realistic way forward?
 
 **Activity** (source heading: *One small step*)
 
-Complete this sentence, even if only in your thoughts:
+Think about one barrier to accessing care.
 
-"The help I'd most like with my health right now is ______."
+Complete these sentences if useful:
 
-You don't need an upcoming appointment or a treatment plan to do this.
+**"What's getting in the way is ___."**
+
+**"One possibility worth asking about is ___."**
+
+You don't need to arrange an appointment or solve the problem today.
 
 
 ## Module 12
