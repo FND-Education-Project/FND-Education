@@ -205,24 +205,145 @@ Support access if wanted: transport, privacy, technology, childcare or quiet rec
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### What makes a psychological assessment useful?
 
-**Option 1 — Gutkin et al., 2021**
+Psychological treatment has a legitimate place in FND care, but the reason for offering it deserves careful consideration.
 
-> “both CBT and PDT appear to potentially offer some benefit for FND”
+A referral might concern a particular functional symptom, fear or avoidance associated with that symptom, the emotional consequences of disability, or a coexisting psychiatric condition. These are different clinical problems. They may overlap, but they do not necessarily require the same treatment.
 
-**Option 2 — British Psychological Society, 2024**
+There's another distinction worth making: **what might be contributing to a patient's difficulties is not necessarily what psychological treatment needs to address.**
 
-> “the purely psychological view is now widely considered to be unsustainable”
+A clinician may suspect that emotional processes influence a patient's symptoms. That could be a useful hypothesis to explore. Yet a patient might benefit from psychological care directed toward participation, distress or an independently diagnosed mental-health condition without the original cause of FND ever being established.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+The research supports considering psychological treatment while remaining careful about the claims made for it.
 
-### Explain target, rationale and limits
+Gutkin and colleagues' 2021 systematic review examined psychotherapy studies involving adults with FND. It identified potentially beneficial approaches, including cognitive behavioural and psychodynamic therapies. However, differences in the populations studied, treatment methods and outcome measures, alongside limitations in study quality, restrict how confidently those findings can be generalized to an individual patient.
 
-State whether the referral concerns a specific FND presentation, adjustment to illness, cognitive or emotional processes relevant to rehabilitation, or a comorbid psychiatric condition. Do not use the referral as retrospective proof of causation.
+The British Psychological Society's 2024 briefing similarly places psychological approaches within broader, individualized care rather than treating FND as a disorder requiring a single psychological explanation. Its recommendations are professional guidance, not experimental evidence that a particular intervention will work.
 
-Evidence varies by modality, phenotype and outcome. Discuss mixed trial findings, alternatives, burden and patient preference. Psychological care should sit within continuing neurological and general healthcare, with reassessment of new or changed symptoms. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+These sources support a useful clinical starting point: psychological care may be appropriate, but the indication, intended outcome and limitations should be understandable to both clinician and patient. (*citations* [1](#citation-1), [2](#citation-2))
 
+This becomes particularly important when an assessment begins with a referral that already suggests a psychological explanation.
+
+### Nadia's assessment: when the purpose becomes unclear
+
+Nadia is a fictional patient with established FND involving functional seizures and movement difficulties, alongside migraines that have recently worsened.
+
+Her family doctor, Dr. Chen, initially suggested a psychological assessment while she was seeking help for worsening migraines. They subsequently clarified that her migraine care would continue separately. Nadia agreed to attend the assessment because she wanted to understand whether psychological treatment might help with the disruption caused by her functional symptoms.
+
+Nadia also had a difficult experience with an earlier psychologist, who appeared convinced that unresolved emotions caused her FND. She now approaches psychological care cautiously but remains open to considering a treatment with a useful purpose.
+
+Before her appointment, she prepared three questions:
+
+- What could treatment help me with?
+- What would we work on together?
+- How would we know whether it was useful?
+
+The psychologist explored Nadia's health history, emotional experiences, stressful life events and possible relationships between those experiences and her functional symptoms.
+
+Such questions can contribute to a psychological formulation, particularly when identifiable emotional difficulties, psychiatric comorbidities or patterns the patient considers relevant emerge.
+
+However, the discussion repeatedly returned to the possibility that unresolved emotions explained Nadia's symptoms. Her attempts to distinguish potential influences from established causes did not substantially change the direction of the interview.
+
+Nadia eventually became quieter. Her migraine was worsening, and questioning the psychologist's assumptions had become exhausting. Further appointments were suggested, but she left without a clear understanding of their proposed treatment purpose.
+
+The complete experience is described in [For the Person With FND](#for-the-person-with-fnd). Here, the clinical concern is not simply that the psychologist asked about emotions. It is **how a possible explanation began shaping the assessment before the purpose of treatment had been agreed upon**.
+
+### What does the patient's response establish?
+
+Several observations from Nadia's appointment are worth distinguishing.
+
+- Nadia acknowledged difficult experiences around the onset of her illness but did not identify unresolved emotions as their cause.
+- When asked whether unrecognized feelings might be involved, she said this was possible. That response expressed uncertainty rather than agreement with the hypothesis.
+- Her questions about the proposed explanation did not necessarily indicate unwillingness to consider psychological treatment.
+- Her increasingly brief responses occurred alongside worsening migraine symptoms, fatigue and frustration.
+- She did not agree to begin treatment simply because she listened to the proposed approach.
+
+These distinctions matter because the same observable behaviour can support several interpretations.
+
+A patient who becomes quiet may understand and accept a formulation. Alternatively, they may be exhausted, uncertain, experiencing communication difficulties or choosing not to continue challenging the clinician.
+
+**The behaviour alone cannot establish which explanation is correct.**
+
+Similarly, a patient who questions a causal theory may be expressing a reasonable concern about the evidence rather than rejecting the possibility of psychological support.
+
+### Where a reasonable hypothesis can become too influential
+
+The psychologist gathered potentially useful information, but its evidential value differed.
+
+Nadia's neurological diagnosis of FND was already established. Her account of unpredictable symptoms and their disruption of daily life was directly relevant to her current difficulties.
+
+Her history of stressful experiences was also relevant information, although its relationship to the onset or maintenance of her functional symptoms remained uncertain. The suggestion that unresolved emotions caused her FND was a further interpretation, not an established finding.
+
+This is where confirmation bias becomes worth considering.
+
+Once a clinician begins favouring a particular explanation, ambiguous information may appear to support it. Questions can gradually become narrower, even when the clinician is genuinely trying to understand the patient.
+
+For example, Nadia's acknowledgement that unrecognized feelings were *possible* might support further exploration of emotional processes. But it could equally mean that she did not know the answer and remained open to several explanations.
+
+Neither interpretation establishes a psychological cause.
+
+The psychologist's task is not to exclude emotional influences because Nadia questions them, nor to establish a psychological cause before offering useful treatment. Both positions would close off possibilities prematurely.
+
+A more informative formulation would distinguish what has been established, what remains hypothetical and which current problems might respond to psychological care.
+
+### Returning to the treatment question
+
+Consider what the psychologist might recognize when reviewing the consultation.
+
+She has gathered considerable information about Nadia's experiences. Yet three important questions remain incompletely answered.
+
+**1. What is Nadia hoping to improve?**
+
+Nadia has described unpredictable symptoms, difficulty participating in everyday life and frustration about previous healthcare explanations.
+
+But which of these difficulties would she want psychological treatment to address, if any? Establishing this distinction could help determine whether the proposed care is relevant to her priorities.
+
+**2. What would the proposed intervention actually target?**
+
+Exploring emotional experiences might be worthwhile if a relevant therapeutic goal emerges. Alternatively, Nadia might wish to address fear associated with unpredictable episodes, the emotional consequences of disability or a separately assessed mental-health concern.
+
+These possibilities involve different rationales and may call for different approaches. They would need to be explored with Nadia rather than selected solely from the referral.
+
+**3. What would count as a useful outcome?**
+
+Reduced symptom frequency, less distress, greater participation and improved psychological wellbeing are not interchangeable outcomes.
+
+An intervention might improve one without improving the others. The appropriate outcome would depend on the agreed treatment target, the available evidence and Nadia's priorities.
+
+At this stage, the psychologist cannot confidently answer these questions on Nadia's behalf. Recognizing that limitation offers a more useful direction for a possible follow-up appointment.
+
+Rather than continuing the search for underlying emotions, the psychologist could invite Nadia to clarify what she hoped the assessment might provide. They could then examine which approaches might address those goals, the uncertainty surrounding their benefits and the available alternatives.
+
+Nadia could decide whether further psychological assessment or treatment was worthwhile. Her earlier hesitation need not be interpreted as resistance, nor should her willingness to attend be mistaken for agreement with a particular formulation.
+
+### Keeping psychological and medical care distinct
+
+A further concern deserves attention: Nadia's worsening migraines.
+
+Psychological factors can influence how someone experiences and responds to migraine, as they can with many health conditions. That possibility does not establish that migraine is psychologically caused or that psychological treatment should replace appropriate headache assessment and management.
+
+In Nadia's case, Dr. Chen has already undertaken to address her changing headaches separately. The psychologist can acknowledge their impact on Nadia's wellbeing and participation without making migraine improvement dependent on the psychological formulation.
+
+The same reasoning applies to other coexisting conditions and new or changing symptoms. Psychological treatment can contribute to coordinated care without becoming the explanation for every difficulty a patient reports.
+
+### What this assessment teaches
+
+Nadia's initial appointment has not established a psychological cause of her FND. It has also not established that psychological treatment would be ineffective.
+
+The assessment has identified potentially useful areas for exploration, alongside an important gap: the clinician and patient have not agreed on a sufficiently clear treatment purpose.
+
+Five clinical considerations emerge:
+
+- **Establish the indication.** Clarify which current problem psychological assessment or treatment is intended to address. A referral for FND does not, by itself, establish a treatment target.
+- **Separate findings from hypotheses.** A patient's experiences, identified symptoms and diagnosed conditions should not be conflated with unconfirmed explanations about their causes.
+- **Interpret engagement cautiously.** Silence, brief answers or reluctance to accept a formulation do not independently establish agreement, resistance or the relevance of psychological factors.
+- **Match treatment to meaningful outcomes.** Identify what the patient would value changing, what the proposed intervention might reasonably influence and how progress could be evaluated.
+- **Preserve other medical care.** Psychological assessment need not replace neurological, rehabilitation or general medical assessment and treatment for coexisting or changing health problems.
+
+The next clinical step may be a more focused conversation rather than a more elaborate explanation of FND. A psychologist can remain curious about possible psychological influences while recognizing that a causal formulation may remain uncertain.
+
+**The useful question is whether psychological care has a credible purpose that the patient understands, considers relevant and is free to accept or decline.**
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -252,8 +373,8 @@ The psychotherapy review and briefing cover varied therapies and FND presentatio
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
+| <a id="citation-1"></a>**[1]** | — | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
+| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
 | <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
 
 This page still needs review by people with helpful, neutral and harmful therapy experiences, psychologists, neurologists and accessibility reviewers.
