@@ -333,8 +333,8 @@ Read the [Lesson 38 CBT, communication-access and community-evidence brief](modu
 
 - [Complete numbered-course inventory](thought-heart-activity-inventory.md): exact existing Person questions and activities for Lessons 1–59, with older labels preserved and the unfinished Module 12 status identified. The initial review covers approved Lessons 1–35, distinguishing explicit end prompts from embedded exercises.
 - [Course-wide authoring standard](thought-heart-activity-authoring-standard.md): lesson-level educational purpose, accessibility/safety limits, quality review, and per-lesson maintenance requirement.
-- \`tools/course/build_thought_heart_activity_inventory.py\`: builds the inventory from the actual numbered lesson pages; \`--check\` detects drift.
-- \`.github/workflows/person-reflection-inventory.yml\`: read-only pull-request consistency check on a merged checkout, protecting newer approved lessons on the base branch.
+- `tools/course/build_thought_heart_activity_inventory.py`: builds the inventory from the actual numbered lesson pages; `--check` detects drift.
+- `.github/workflows/person-reflection-inventory.yml`: read-only pull-request consistency check on a merged checkout, protecting newer approved lessons on the base branch.
 
 The general [page-maintenance policy](../../../docs/project/repository-change-and-page-maintenance-policy.md) now requires regeneration and review whenever a Person section is edited or approved. The new inventory CI job was observed as **successful** on this PR.
 
