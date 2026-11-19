@@ -220,37 +220,19 @@ Other times, it might involve different equipment, additional support or a chang
 
 ### Something to think about
 
-Think about a place you visit regularly.
+Think of a place you visit regularly. Are there arrangements that already help you manage it safely? If someone supports you, do those arrangements also work for them?
 
-Is there anything you've already changed to make it safer or easier to manage?
+### How might that feel?
 
-Perhaps you've found somewhere comfortable to sit, arranged accessible transport or learned to carry something useful.
+If both you and someone helping you felt better prepared, what would you most want to enjoy together?
 
-Now consider someone who helps you.
+### One small step
 
-Do you both feel comfortable with the arrangements you've made?
+Before a familiar outing, consider one practical question:
 
-Is there something that would make helping safer or easier for them?
+**"If I needed help here, what would make things easier and safer for everyone involved?"**
 
-These can be valuable conversations to have when you're both feeling up to them.
-
-### One small thing you can do
-
-The next time you're preparing to go somewhere, think about **one practical safety question**.
-
-For example:
-
-"If I needed help here, what would make things easier?"
-
-You might already know the answer.
-
-Perhaps you need to bring something, choose a more accessible route or have a quick conversation with someone accompanying you.
-
-And if you've already worked out a solution, there's no need to start again.
-
-You've been using your safety plan.
-
-**The goal is to help everyone involved feel more prepared, so there's more room to enjoy everyday life.**
+You may already have the answer. If something needs changing, discuss it with the relevant people before relying on the new arrangement.
 
 <figure class="image-60center" markdown="1">
 
