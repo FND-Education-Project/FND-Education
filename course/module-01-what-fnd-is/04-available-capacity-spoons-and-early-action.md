@@ -262,34 +262,25 @@ Don't assume that new or very different symptoms are caused by low capacity or F
 
 Our [Medical Safety and New Symptoms](../module-05-medical-safety-and-new-symptoms/README.md) module explores these situations in greater detail.
 
-### Questions to reflect on
+### Something to think about
 
-When your available capacity starts to drop, what changes do you notice first?
+When your available capacity starts to drop, what changes do you notice first? Are there times when you receive no useful warning?
 
-Is there something you already do that helps make the situation more manageable?
+### How might that feel?
+
+When your capacity is limited, what part of your day would you most like to protect? What makes that activity important to you?
 
 ### One small step
 
-Think about a familiar situation in which your capacity sometimes becomes limited.
+Think about a familiar situation and complete these statements if they fit:
 
-Try completing these three sentences:
+**"An early sign I sometimes notice is ___."**
 
-- **My early sign:** "One change I sometimes notice is..."
+**"One adjustment that may help is ___."**
 
-- **My first adjustment:** "One thing I could change is..."
+**"If ___ happens, I need to stop or get help."**
 
-- **My safety limit:** "If this happens, I need to stop or get help..."
-
-If you have no reliable early sign, you can say so. Your plan can focus on what helps when symptoms occur.
-
-You don't have to write the answers down if that is difficult.
-
-You can think about the questions on your own. You could talk them through with someone you trust. Or you could ask a supporter to help you remember.
-
-And if a flare happens despite your plan, that doesn't mean the plan was worthless or that you did something wrong.
-
-Sometimes a plan can't stop a flare. It can still help keep you safer or make it easier to get help when you need it.
-
+If you have no reliable warning sign, your plan can begin with what helps when symptoms occur. You can use your existing supports, and a flare doesn't mean you've failed.
 
 ### Optional learning activity
 
