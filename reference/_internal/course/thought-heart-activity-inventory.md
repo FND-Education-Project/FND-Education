@@ -660,3 +660,142 @@ Or perhaps simply discovering that your experience is recognized and understood 
 
 **You don't need to become an expert in FND to take a more informed part in your care.**
 
+
+## Module 9
+
+### Lesson 27 — How Rehabilitation Uses Learning
+
+[Source lesson](../../../course/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md) · Module 9
+
+**Thought** (source heading: *Something to think about*)
+
+Since developing FND, have you learned to recognize a body signal, respond differently to a symptom, or adapt an everyday activity?
+
+**Can you recognize how neuroplastic learning might have contributed to that change?**
+
+**Heart** (source heading: *How might that feel?*)
+
+How might you feel if rehabilitation helped you regain an ability or made something important easier, even while other symptoms remained difficult?
+
+**Activity** (source heading: *One small step*)
+
+If you're receiving rehabilitation, you could ask your therapist:
+
+"What might my nervous system be learning through this activity, and how would we recognize that learning outside therapy?"
+
+Perhaps the goal is to make an action more automatic, use sensory information differently or develop a more reliable response to a familiar difficulty.
+
+You don't need to practise anything new or test your symptoms to complete this lesson.
+
+Understanding the connection between **neuroplastic learning, a rehabilitation activity and something meaningful in your life** can help you take a more informed part in your rehabilitation.
+
+### Lesson 28 — Choosing Practice That Fits Your Life
+
+[Source lesson](../../../course/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md) · Module 9
+
+**Thought** (source heading: *Something to think about*)
+
+Which of these rehabilitation experiences surprised you, or reminded you of something you've experienced yourself?
+
+**Heart** (source heading: *How might that feel?*)
+
+How might you feel if you began noticing small improvements without knowing how much further you might progress?
+
+**Activity** (source heading: *One small step*)
+
+If you're receiving rehabilitation, think about one experience you'd like your care professional to understand better.
+
+Perhaps an activity felt easier, the appointment was particularly tiring, or you noticed a change when you got home.
+
+You could describe what happened without needing to explain why.
+
+In Lesson 29, we'll examine what treatment studies have found about different FND symptoms and how to judge claims about recovery and neuroplasticity.
+
+### Lesson 29 — When Someone Promises to Rewire Your Brain
+
+[Source lesson](../../../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md) · Module 9
+
+**Thought** (source heading: *Something to think about*)
+
+Imagine a treatment advert that names a brain process you recognize. What would you ask to find out whether the treatment—not just its explanation—has helped people?
+
+**Heart** (source heading: *How might that feel?*)
+
+How might you feel knowing that some people have regained important abilities through rehabilitation, even though researchers can't predict exactly what will happen for you?
+
+**Activity** (source heading: *One small step*)
+
+If someone recommends a treatment, you could ask:
+
+**“Has this been tested for symptoms like mine, and what improved?”**
+
+You don't need to read the studies yourself. Someone recommending a treatment should be able to explain what is known, what isn't and how that information relates to you.
+
+Next, we'll explore how everyday activities use up the energy and attention we have available—and what that means for living with FND.
+
+
+## Module 10
+
+### Lesson 30 — What Uses Your Available Capacity?
+
+[Source lesson](../../../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md) · Module 10
+
+**No matching reflection/activity headings in this Person section.**
+
+### Lesson 31 — Flexible Pacing When Capacity Changes
+
+[Source lesson](../../../course/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md) · Module 10
+
+**No matching reflection/activity headings in this Person section.**
+
+### Lesson 32 — Balancing Practice, Rest, and Everyday Life
+
+[Source lesson](../../../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md) · Module 10
+
+**No matching reflection/activity headings in this Person section.**
+
+
+## Module 11
+
+### Lesson 33 — Who May Be on the Treatment Team
+
+[Source lesson](../../../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md) · Module 11
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Which health or daily-life problem most needs a named person responsible for it?
+
+#### Does your current care feel like a team, separate appointments, or something else?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Write one line: **“The person I contact about ___ is ___.”** A lower-demand version is to name the gap without solving it.
+
+### Lesson 34 — Shared Goals and Clear Responsibilities
+
+[Source lesson](../../../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md) · Module 11
+
+**Earlier questions** (source heading: *Questions*)
+
+#### What is one change that would make daily life more workable for you now?
+
+#### Is there a part of your care that currently has no clear owner?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Write one priority and one name beside it. If there is no name, write **“gap to discuss.”**
+
+### Lesson 35 — Care When No Local FND Specialist Is Available
+
+[Source lesson](../../../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md) · Module 11
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Which part of care could be local if your clinician had suitable guidance?
+
+#### What barrier—distance, cost, technology, energy or something else—most needs a workaround?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Write one sentence for a referral or appointment: **“I am looking for help with ___, and I need the service to be accessible by ___.”**
+
