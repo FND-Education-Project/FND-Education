@@ -456,17 +456,22 @@ In our next lesson, we'll meet the different kinds of information your brain rec
 
 **Thought** (source heading: *Something to think about*)
 
-Picture walking on uneven ground, sitting in a bright room, or noticing an uncomfortable feeling inside your body. Which information seems most important in that moment: where your body is, what is happening around you, or what you're feeling inside? You don't need to work out the cause to describe the experience.
+Picture walking on uneven ground, sitting in a bright room or noticing an uncomfortable feeling inside your body.
+
+Which information matters most in that moment: where your body is, what's happening around you or what you're feeling inside?
 
 **Heart** (source heading: *How might that feel?*)
 
-If someone couldn't see or feel what was making that situation difficult, what would you want them to understand? Would having better words for it make asking for help a little easier?
+If someone couldn't see or feel what made that situation difficult, what would you most want them to understand?
 
 **Activity** (source heading: *One small step*)
 
-Think of a place you'd like to enjoy more comfortably. Softer light for reading, a quieter place to talk, or a safer route across uneven ground might help. The useful change may be something you've already arranged; what matters is whether it helps you take part.
+Think of a place you'd like to enjoy more comfortably. Consider one helpful change, such as softer light, a quieter place to talk or a safer route.
+
+You don't have to explain the cause of a sensation to ask for an arrangement that helps.
 
 In our next lesson, we'll explore why some information becomes particularly important to the brain—and why certain sensations, sounds or demands can become so difficult to ignore.
+
 
 ### Lesson 20 — Salience, Arousal, and Feedback Loops
 
@@ -474,17 +479,22 @@ In our next lesson, we'll explore why some information becomes particularly impo
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine trying to talk with a friend in a busy café. There's music, people moving around, and perhaps pain or tiredness competing for your attention. Which demands would be hardest for you to set aside? Does something similar happen during another ordinary activity?
+Imagine talking with a friend in a busy café while music, movement, pain or tiredness compete for your attention.
+
+Which demand would be hardest to set aside?
 
 **Heart** (source heading: *How might that feel?*)
 
-When several demands pile up, what part of the activity do you most want to keep enjoying? Perhaps it's the conversation, being out with someone, or simply having enough energy to stay a little longer.
+When several demands pile up, what part of the activity do you most want to keep enjoying?
 
 **Activity** (source heading: *One small step*)
 
-See whether one demand could be made smaller without losing the part you enjoy. A quieter seat, the television turned off during a conversation, or fewer instructions at once may be enough. If a change to your surroundings already helps, it may also be useful in another activity. There's no need to provoke symptoms to find out.
+Consider whether one demand could be reduced without losing the part you value: a quieter seat, a television turned off or fewer questions at once.
+
+If a similar adjustment already works elsewhere, it might be useful here too. There's no need to deliberately create overload.
 
 Next, we'll explore cognitive difficulties: why questions, words and familiar information sometimes seem to disappear, and how this relates to—but isn't the same as—a diagnosis of FCD.
+
 
 ### Lesson 21 — Cognitive Difficulties in FND
 
@@ -492,15 +502,19 @@ Next, we'll explore cognitive difficulties: why questions, words and familiar in
 
 **Thought** (source heading: *Something to think about*)
 
-Remember losing your place while cooking, forgetting what was agreed during a telephone call, or reaching for a word you know? Which comes closest to your experience? Did the information disappear while you were using it, or was it hard to bring back later?
+Think about someone losing their place during a task, forgetting a conversation or reaching for a familiar word. Was the information lost while they were using it, or was it hard to bring back later?
+
+If you've experienced something similar, which fits best?
 
 **Heart** (source heading: *How might that feel?*)
 
-When something important goes missing, what would you want the person beside you to understand? What kind of help would let you continue without feeling rushed or questioned?
+If you or someone else has trouble finding important information, what kind of help would let them continue without feeling tested or rushed?
 
 **Activity** (source heading: *One small step*)
 
-If an interruption makes it hard to finish something you enjoy, a simple place-marker may help: a tick beside the last recipe step or a short note about what was agreed on a call. A reminder that's already working is just as useful. The point is to make the activity easier, not test your memory.
+If an interruption makes it hard to finish something you enjoy, try a simple place-marker, such as a tick beside the last step or a short reminder. An existing reminder is just as useful.
+
+If this isn't a difficulty you have, you can think about how that support might help someone else. The point is to make an activity easier, not test anyone's memory.
 
 In our next lesson, we'll explore what happens when thinking difficulties enter an emotional situation.
 
@@ -508,23 +522,29 @@ What if you want to explain something important, but the information you need su
 
 And what if that difficulty itself becomes frightening or frustrating?
 
+
 ### Lesson 22 — Emotional Regulation and Involuntary Symptoms
 
 [Source lesson](../../../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md) · Module 7
 
 **Thought** (source heading: *Something to think about*)
 
-Think about a conversation that became harder than you expected. Perhaps you lost the question halfway through, couldn't find a word, or had several questions coming at once. Did frustration arrive before the difficulty, or did it begin because you couldn't answer? It's fine if you can't tell which came first.
+Think about a conversation or activity that became harder than expected. Perhaps you lost a question, couldn't find a word, felt overwhelmed by noise or couldn't do something you'd planned.
+
+Did frustration arrive before the difficulty, or because of it? You might not know.
 
 **Heart** (source heading: *How might that feel?*)
 
-If you still wanted to take part in the conversation, what would you most want the other person to understand? Would more time, fewer questions or a different way to answer help you feel included?
+If you still wanted to take part, what would you want others to understand? What kind of space or support would help you feel included?
 
 **Activity** (source heading: *One small step*)
 
-For a conversation that matters—perhaps planning a visit or explaining something at an appointment—make room for your answer. One question at a time, a quieter place, or a note you can point to may help. An arrangement that already makes another task easier could be useful here too. You don't have to control every feeling for the conversation to matter.
+For an activity or conversation that matters, consider one arrangement that might help: more time, a quieter place, one question at a time, or another way to communicate or participate.
+
+You don't have to control every feeling for that experience to matter.
 
 In our next lesson, we'll explore the difference between **intending an action**, **feeling in control of it**, and **what your body actually does**.
+
 
 ### Lesson 23 — Agency, Learning, and Your Own Adaptations
 
@@ -532,15 +552,19 @@ In our next lesson, we'll explore the difference between **intending an action**
 
 **Thought** (source heading: *Something to think about*)
 
-Remember Amira reaching for her glass and Daniel wanting to walk into the garden. Is there something you want to do that your body doesn't always cooperate with? What are you trying to do, and what actually happens? You don't need to work out which part of the brain is involved.
+Remember Amira reaching for her glass and Daniel wanting to walk into the garden.
+
+Is there something you want to do that your symptoms sometimes get in the way of? What are you trying to do, and what actually happens?
 
 **Heart** (source heading: *How might that feel?*)
 
-If the symptom stayed for now, what part of the activity would you still want in your life? Perhaps it's enjoying a drink at the table, getting outside, or spending time with someone. Would doing it a different way still feel like progress to you?
+If the symptom stayed for now, what part of the activity would you still want in your life? Would doing it a different way still feel like progress?
 
 **Activity** (source heading: *One small step*)
 
-Think about one way to keep that important activity within reach. A stable place for a cup, a suitable mobility aid, more time, or a question for your therapist could be a start. You may already have found a change that helps. It still counts, even if your symptoms haven't improved.
+Think about one way to keep that important activity within reach: an appropriate aid, a safer arrangement, more time or a question for your therapist.
+
+You may already have found something that helps. **It still counts, even if your symptoms haven't improved.**
 
 
 ## Module 8
@@ -551,35 +575,24 @@ Think about one way to keep that important activity within reach. A stable place
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine someone who can now enjoy an hour with a friend, although their symptoms are much the same as before.
+Imagine someone who can enjoy an hour with a friend even though their symptoms haven't changed much.
 
-What has improved?
-
-Think about how the answer might change if the conversation became easier, if it took less effort, or if the person simply began looking forward to visits again.
-
-Each possibility tells us something different about their progress.
+What has improved: their symptoms, participation, comfort, enjoyment or something else?
 
 **Heart** (source heading: *How might that feel?*)
 
-Imagine having a wonderful afternoon, then hearing someone say, "You must be getting better!"
+Imagine enjoying a wonderful afternoon, then hearing someone say, "You must be getting better!"
 
-You might be pleased they noticed something good. You might also wish they understood how much effort it took, or how difficult the rest of your week can be.
-
-What would help you enjoy being recognized for your progress while still feeling understood about the difficulties that remain?
+You might appreciate their encouragement while wishing they understood the effort involved. What would you want them to know about both your progress and your remaining difficulties?
 
 **Activity** (source heading: *One small step*)
 
-When someone asks how you're doing, you might try describing one particular part of your life rather than answering for your health as a whole.
+The next time someone asks how you're doing, you might describe one particular part of life rather than your health as a whole.
 
-For example:
+For example: **"I'm enjoying visits again, although my symptoms are still difficult."**
 
-"I'm enjoying having visitors again. My symptoms are still severe, but I've found ways to make those afternoons easier."
+Or perhaps your symptoms really have improved, and that's what you want to share. Both experiences deserve accurate words.
 
-Or perhaps your symptoms really have improved, and that's what you'd most like to share.
-
-You don't need to measure every change or keep another record.
-
-Sometimes, understanding **what has improved, what hasn't, and what matters most to you** can make a conversation much more useful.
 
 ### Lesson 25 — When the Familiar Explanation Doesn't Quite Fit
 
