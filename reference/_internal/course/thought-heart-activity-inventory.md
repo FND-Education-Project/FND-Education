@@ -221,3 +221,226 @@ Sometimes a small change can make room for something important.
 
 If you experience a new symptom or a major change in an existing one, your healthcare team can help assess it.
 
+
+## Module 4
+
+### Lesson 10 — Making Sense of Your Symptoms and Questions
+
+[Source lesson](../../../course/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md) · Module 4
+
+**No matching reflection/activity headings in this Person section.**
+
+### Lesson 11 — Building and Using Your Personal Symptom Map
+
+[Source lesson](../../../course/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md) · Module 4
+
+**Thought** (source heading: *Something to think about*)
+
+Imagine showing your map to someone who knows very little about your health.
+
+What is the first thing you'd want them to understand?
+
+And what one unanswered question would you most like help with?
+
+Those two thoughts could be a good place to start.
+
+
+## Module 5
+
+### Lesson 12 — Familiar Symptoms, New Symptoms, and Medical Change
+
+[Source lesson](../../../course/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md) · Module 5
+
+**Thought** (source heading: *Something to think about*)
+
+Think of a symptom or episode you've experienced before.
+
+What makes it familiar to you?
+
+Now imagine something important about it changes.
+
+Would you know who to ask for medical advice?
+
+If you're unsure, that's a useful question to bring to your next appointment.
+
+**Activity** (source heading: *One small thing you can do*)
+
+Remember your symptom map?
+
+If you'd like, choose one familiar, medically assessed symptom and add a short description of what usually happens.
+
+For example:
+
+"My usual episodes involve shaking and difficulty speaking. Afterwards, I generally need some quiet time to recover."
+
+Already have something like that written down? Great. You can leave it as it is.
+
+You could also ask your clinician which changes would mean getting more medical help.
+
+And if writing or remembering feels like too much today, this activity can wait.
+
+**The idea is to make getting care easier, not give yourself another chore.**
+
+Next, we'll use what you've learned to help prepare your individual safety plan.
+
+### Lesson 13 — Emergency Information and Individual Safety Plans
+
+[Source lesson](../../../course/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md) · Module 5
+
+**Thought** (source heading: *Something to think about*)
+
+Look back at the safety needs you identified on your symptom map.
+
+Has one particular difficulty come up more than once?
+
+Maybe you've repeatedly found yourself wishing you had something with you.
+
+Or perhaps there's a situation where you'd feel more comfortable knowing someone understood how to help.
+
+What small change might make that situation easier next time?
+
+You may already have a solution in place.
+
+If so, that's part of your safety planning too.
+
+**Activity** (source heading: *One small thing you can do*)
+
+Choose **one safety need** you've already identified.
+
+Rather than writing it down all over again, think about what might help with it.
+
+Perhaps there's something you could prepare, a change to your surroundings worth exploring, or a question you'd like to ask an occupational therapist or another clinician.
+
+You can add that next step to your existing map, if you want.
+
+And if you've already made an adaptation that helps, take a moment to recognise it.
+
+You've been doing some safety planning already.
+
+### Lesson 14 — Using Your Safety Plan and Deciding When to Get Urgent Help
+
+[Source lesson](../../../course/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) · Module 5
+
+**Thought** (source heading: *Something to think about*)
+
+Think about a place you visit regularly.
+
+Is there anything you've already changed to make it safer or easier to manage?
+
+Perhaps you've found somewhere comfortable to sit, arranged accessible transport or learned to carry something useful.
+
+Now consider someone who helps you.
+
+Do you both feel comfortable with the arrangements you've made?
+
+Is there something that would make helping safer or easier for them?
+
+These can be valuable conversations to have when you're both feeling up to them.
+
+**Activity** (source heading: *One small thing you can do*)
+
+The next time you're preparing to go somewhere, think about **one practical safety question**.
+
+For example:
+
+"If I needed help here, what would make things easier?"
+
+You might already know the answer.
+
+Perhaps you need to bring something, choose a more accessible route or have a quick conversation with someone accompanying you.
+
+And if you've already worked out a solution, there's no need to start again.
+
+You've been using your safety plan.
+
+**The goal is to help everyone involved feel more prepared, so there's more room to enjoy everyday life.**
+
+<figure class="image-60center" markdown="1">
+
+![Three scenes show a person receiving support, discussing a plan with an occupational therapist, and choosing a park route with companions.](../../assets/images/lesson-14b-illustration.png)
+
+<figcaption>Notice what matters, prepare together, and use the plan in daily life. These scenes illustrate shared planning, rather than instructions for physical assistance.</figcaption>
+
+</figure>
+
+
+## Module 6
+
+### Lesson 15 — Attention: What the Brain Notices
+
+[Source lesson](../../../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md) · Module 6
+
+**Thought** (source heading: *Something to think about*)
+
+In Module 5, we looked at things that help when you go somewhere or need support.
+
+Imagine you've planned a visit. You know where to sit and how you'll get home if you need to leave early. But once you're there, you're trying to follow a conversation while other people are talking and your head hurts.
+
+Which part of the visit takes the most attention? What else is competing for it?
+
+**Heart** (source heading: *How might that feel?*)
+
+You went because you wanted to enjoy someone's company, not spend the afternoon struggling to keep up. What would you most like to pay attention to if some of those other demands were smaller?
+
+**Activity** (source heading: *One small step*)
+
+Think of one familiar activity where you sometimes lose your place.
+
+Choose **one small change** that makes more room for your attention. You might leave two words about your next step, keep a useful browser tab open, or ask for a little quiet while you finish.
+
+See whether returning to the activity feels easier. You can keep the support that works for you, change it, or save this idea for another day.
+
+Next, we'll look at how your brain handles familiar actions with less step-by-step conscious direction.
+
+### Lesson 16 — Automatic Control and Conscious Effort
+
+[Source lesson](../../../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md) · Module 6
+
+**Thought** (source heading: *Something to think about*)
+
+When you do something familiar, such as getting dressed or reaching for a cup, do you usually think about the goal or about every little movement along the way?
+
+**Heart** (source heading: *How might that feel?*)
+
+Think about something you used to do without paying much attention to the movements, such as getting dressed, reaching for a cup or walking across a room.
+
+If it now takes a lot more effort, what part of that activity do you miss most? What would help you enjoy that part again, even if you still need equipment or help?
+
+**Activity** (source heading: *One small step*)
+
+Choose a familiar, **safe** activity you can already do, such as sorting a few lightweight objects into a box while seated securely.
+
+Think about the goal—getting the objects where they belong—rather than giving yourself instructions for each movement.
+
+Keep your usual supports. Try it only for as long as it feels comfortable, and rest when you need to.
+
+If an activity brings a risk of falling or injury, you can describe it to your physiotherapist or occupational therapist instead. They can help you explore a safe version together.
+
+Next, we'll look more closely at how changing the focus, instructions, or surroundings may affect what happens during an activity.
+
+### Lesson 17 — Distraction, External Focus, and Context
+
+[Source lesson](../../../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md) · Module 6
+
+**Thought** (source heading: *Something to think about*)
+
+Have you noticed a familiar task becoming easier or harder depending on how you're doing it?
+
+Perhaps putting a book on a shelf feels different from being asked to lift your arm just to show someone you can. Or perhaps the difference involves where you are, who is watching or how you're given instructions.
+
+What changed between those situations?
+
+**Heart** (source heading: *How might that feel?*)
+
+When something works better in one situation than another, what would you most want the people around you to understand? Would it help if they were interested in what made the activity easier, rather than expecting you to repeat it whenever they asked?
+
+**Activity** (source heading: *One small step*)
+
+Choose one familiar, safe activity and **one small change** to the setting or support around it.
+
+Maybe you'd like more time to answer during a conversation. Perhaps a clear place to put things would help with a task, or you'd prefer one agreed reminder instead of several instructions at once.
+
+See whether the activity feels easier or more comfortable. Your symptoms might change, or they might stay the same.
+
+Keep the supports and safety measures you already need. If exploring a movement could involve falling or injury, you can bring the idea to your rehabilitation clinician instead.
+
