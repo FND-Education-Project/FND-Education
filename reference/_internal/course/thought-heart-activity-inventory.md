@@ -757,45 +757,55 @@ Next, we'll explore how everyday activities use up the energy and attention we h
 
 ## Module 11
 
-### Lesson 33 — Who May Be on the Treatment Team
+### Lesson 33 — Recognizing How Far You've Come
 
 [Source lesson](../../../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md) · Module 11
 
-**Earlier questions** (source heading: *Questions*)
+**Thought** (source heading: *Something to think about*)
 
-#### Which health or daily-life problem most needs a named person responsible for it?
+What did you relate to in Callum's story? Perhaps struggling to communicate, recognizing a familiar mechanism, finding another way to do something, or explaining FND to someone else.
 
-#### Does your current care feel like a team, separate appointments, or something else?
+**Heart** (source heading: *How might that feel?*)
 
-**Activity** (source heading: *One small thing you can do*)
+How does it feel to have a better understanding of the processes that might be affecting you?
 
-Write one line: **“The person I contact about ___ is ___.”** A lower-demand version is to name the gap without solving it.
+**Activity** (source heading: *One small step*)
 
-### Lesson 34 — Shared Goals and Clear Responsibilities
+If something you've learned about FND comes to mind during everyday life, try explaining it in a sentence or two to someone you trust. Or simply enjoy recognizing it yourself.
+
+### Lesson 34 — Working With Your Healthcare Professionals
 
 [Source lesson](../../../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md) · Module 11
 
-**Earlier questions** (source heading: *Questions*)
+**Thought** (source heading: *Something to think about*)
 
-#### What is one change that would make daily life more workable for you now?
+Can you agree to a referral while still having questions about the explanation behind it or another health concern that needs attention?
 
-#### Is there a part of your care that currently has no clear owner?
+**Heart** (source heading: *How might that feel?*)
 
-**Activity** (source heading: *One small thing you can do*)
+How might it feel to disagree with a doctor you trust, especially when you depend on that doctor for care?
 
-Write one priority and one name beside it. If there is no name, write **“gap to discuss.”**
+**Activity** (source heading: *One small step*)
 
-### Lesson 35 — Care When No Local FND Specialist Is Available
+The next time you notice a familiar symptom, consider which nervous-system processes might be involved. If useful, write down a few words so you can explain your thinking at a healthcare appointment.
+
+### Lesson 35 — Finding Your Way Through Healthcare Barriers
 
 [Source lesson](../../../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md) · Module 11
 
-**Earlier questions** (source heading: *Questions*)
+**Thought** (source heading: *Something to think about*)
 
-#### Which part of care could be local if your clinician had suitable guidance?
+What is one thing about getting healthcare that you wish were easier?
 
-#### What barrier—distance, cost, technology, energy or something else—most needs a workaround?
+**Heart** (source heading: *How might that feel?*)
 
-**Activity** (source heading: *One small thing you can do*)
+How might it feel if a healthcare professional understood how difficult accessing care can be and helped you find a realistic way forward?
 
-Write one sentence for a referral or appointment: **“I am looking for help with ___, and I need the service to be accessible by ___.”**
+**Activity** (source heading: *One small step*)
+
+Complete this sentence, even if only in your thoughts:
+
+"The help I'd most like with my health right now is ______."
+
+You don't need an upcoming appointment or a treatment plan to do this.
 
