@@ -11,7 +11,7 @@
 
 ## Initial editorial review — Lessons 1–35
 
-**Counts of explicit headings in the earlier human-authored Person sections (not quality scores):** Thought **22/35**; Heart **18/35**; Activity **30/35**; earlier generic \`Questions\` or \`Questions to reflect on\` **8/35**; **4/35** have none of the recognized headings. Many early lessons have multiple useful questions without a separate Heart heading; Module 10 (Lessons 30–32) teaches by observation exercises *inside its stories*, not by a separate end-of-lesson trio. Lesson 10 also does not have a matching end heading. Treat absence of a heading as a formatting observation, **not** proof that a lesson has no reflective or active learning.
+**Counts of explicit headings in the earlier human-authored Person sections (not quality scores):** Thought **22/35**; Heart **18/35**; Activity **30/35**; earlier generic `Questions` or `Questions to reflect on` **8/35**; **4/35** have none of the recognized headings. Many early lessons have multiple useful questions without a separate Heart heading; Module 10 (Lessons 30–32) teaches by observation exercises *inside its stories*, not by a separate end-of-lesson trio. Lesson 10 also does not have a matching end heading. Treat absence of a heading as a formatting observation, **not** proof that a lesson has no reflective or active learning.
 
 **What works:** By Modules 7–9, Thought usually applies a mechanism to a recognizable event; Heart asks what matters about living with the difficulty; Activity often invites one small adaptation, communication step or question to take to care. Module 11 continues that pattern. Prompts commonly allow readers to think rather than journal, and many avoid promising symptom control.
 
