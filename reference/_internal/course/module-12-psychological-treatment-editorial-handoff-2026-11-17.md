@@ -323,3 +323,19 @@ Read the [Lesson 38 CBT, communication-access and community-evidence brief](modu
 **Community voices for the lesson.** The brief includes two directly reopened excerpts about speech loss and the effort of typing, from one community writer, and two strongly pertinent therapy-relationship candidates whose full discussion pages could not be reopened. It gives exact wording, source links, intended placement, speaker/context limits and verification status. Choose the speech excerpts as alternatives from the same voice. Verify the flagged therapy accounts before public inclusion. Their presence in the research note does not establish CBT efficacy or a universal distinction between helpful discomfort and harm.
 
 **Keep the new learning visible.** The revised practice can remain challenging while its purpose, communication options, pause arrangements and review are understood. Briefly explain how ignored boundaries, a mismatched task or concerning aftermath can call for reconsideration. Trauma can appear in the later explanation without becoming Callum's history. Retain his father with a role Callum wants, preserve the preferred constructive clinician response and avoid another professional-directory or causation lesson. The Person target remains 1,500–1,900 words, favouring the lower end. Thought/Heart/Activity remain deferred until all three Person sections are ready.
+
+
+## November 19, 2026 — Thought/Heart/Activity course-wide inventory and new authoring standard
+
+**Project-lead instruction:** Treat the Person lesson's end reflections as an educational progression from a central **Thought** (understanding/application) through **Heart** (how it matters to the reader's feelings, values or needs) into an optional, safe **Activity** that supports real-world participation and readiness for suitable rehabilitation. A CBT-informed reflection may help a reader notice a situation, a thought or expectation, a feeling and a chosen response; **do not imply thoughts caused involuntary FND symptoms, prescribe exposure or turn the course into therapy**.
+
+**Created and indexed on PR #210:**
+
+- [Complete numbered-course inventory](thought-heart-activity-inventory.md): exact existing Person questions and activities for Lessons 1–59, with older labels preserved and the unfinished Module 12 status identified. The initial review covers approved Lessons 1–35, distinguishing explicit end prompts from embedded exercises.
+- [Course-wide authoring standard](thought-heart-activity-authoring-standard.md): lesson-level educational purpose, accessibility/safety limits, quality review, and per-lesson maintenance requirement.
+- \`tools/course/build_thought_heart_activity_inventory.py\`: builds the inventory from the actual numbered lesson pages; \`--check\` detects drift.
+- \`.github/workflows/person-reflection-inventory.yml\`: read-only pull-request consistency check on a merged checkout, protecting newer approved lessons on the base branch.
+
+The general [page-maintenance policy](../../../docs/project/repository-change-and-page-maintenance-policy.md) now requires regeneration and review whenever a Person section is edited or approved. The new inventory CI job was observed as **successful** on this PR.
+
+**Current editorial decision:** Review the three proposed Thought/Heart/Activity sets for **Lessons 36–38** as a coherent sequence before public insertion; the final three Lesson 38 prompts should be a gentle, optional CBT-informed *everyday* application, not a treatment exercise for FND symptoms. Avoid redundant prompts across the lessons. **No candidate questions have been accepted or inserted as part of this maintenance work.** The Lesson 38 Person story has not yet received an explicit final commit approval in this handoff. The project lead will decide the exact nine prompts and their placement.
