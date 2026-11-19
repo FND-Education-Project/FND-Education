@@ -600,29 +600,22 @@ Or perhaps your symptoms really have improved, and that's what you want to share
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine being told that a medical test was normal, even though the symptom that prompted it was very real.
+Imagine receiving a normal medical test result while the symptom that prompted it remains real.
 
-The result might be reassuring, but what would it help you understand? Consider the difference between learning that a particular problem wasn't found during an examination and learning that every possible explanation has been ruled out.
-
-Those are not necessarily the same thing.
+What question did the test answer? Does that result rule out every possible explanation?
 
 **Heart** (source heading: *How might that feel?*)
 
-Imagine explaining a new experience to a clinician who already knows about your FND. Instead of asking you to defend your diagnosis or dismissing the change, they listen and explain what they can investigate.
-
-What difference might it make to feel that your existing diagnosis is understood while your new question is taken seriously?
+What difference would it make if a clinician understood your FND diagnosis while also taking a new or unfamiliar symptom seriously?
 
 **Activity** (source heading: *One small step*)
 
-If you receive a test result or an explanation that leaves you curious, you might ask:
+If a test or explanation leaves you uncertain, consider asking:
 
-"What does this result tell us, and what does it leave unanswered?"
+**"What does this result tell us, and what does it leave unanswered?"**
 
-You could also ask what the next step is intended to clarify.
+You can also ask what the next step is intended to clarify. You don't need to investigate every possibility yourself.
 
-You don't need to investigate every possibility yourself or remember every detail of the conversation. An explanation in ordinary language, or a brief written summary when helpful, may be enough.
-
-The goal is to understand the information that matters to your care, one question at a time.
 
 ### Lesson 26 — Finding Your Way Through the Reference Library
 
@@ -630,33 +623,23 @@ The goal is to understand the information that matters to your care, one questio
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine reading a description of a functional symptom you've been diagnosed with and discovering that it describes an experience you've struggled to explain for years.
+Imagine finding a description of a functional symptom you've already been diagnosed with and recognizing something you've struggled to explain.
 
-What might it mean to discover that this experience is recognized and that other people have reported something similar?
-
-Perhaps it would help you feel less alone. Or perhaps it would give you a better understanding of the diagnosis you've been living with.
+How might that help you understand your own experience?
 
 **Heart** (source heading: *How might that feel?*)
 
-Imagine learning that your symptoms have been described in medical research and that different treatment or rehabilitation approaches have been developed for them.
+Learning that an experience is recognized by clinicians and researchers might bring relief, hope, caution or frustration.
 
-You might feel hopeful, cautious or even frustrated that you hadn't heard about some of these possibilities before.
-
-What difference might it make to feel more informed about your condition and more involved in decisions about your care?
+What would being better informed mean to you?
 
 **Activity** (source heading: *One small step*)
 
-If you'd like to understand one of your **previously diagnosed FND symptoms** better, you could visit the [Reference Library](../../reference/README.md).
+If you'd like to learn more about a **previously diagnosed FND symptom**, choose its page in the [Reference Library](../../reference/README.md).
 
-Start with its **Understanding and Diagnosis** page. See whether the descriptions help you recognize your experience and learn how clinicians assess that particular presentation.
+You can begin with how it's understood and assessed, then explore the matching recovery information if useful. One question to bring to a suitable care professional is enough.
 
-If you'd like to explore possibilities for improvement, follow the link to the matching **Recovery Techniques** page. You can bring a question about anything that interests you to the appropriate care professional.
-
-Perhaps you want to understand what findings supported your diagnosis. Perhaps you'd like to know whether a treatment or rehabilitation approach might be suitable for you.
-
-Or perhaps simply discovering that your experience is recognized and understood would be enough for today.
-
-**You don't need to become an expert in FND to take a more informed part in your care.**
+You don't need to become an expert, and you don't need to search for unfamiliar symptoms.
 
 
 ## Module 9
@@ -667,25 +650,20 @@ Or perhaps simply discovering that your experience is recognized and understood 
 
 **Thought** (source heading: *Something to think about*)
 
-Since developing FND, have you learned to recognize a body signal, respond differently to a symptom, or adapt an everyday activity?
-
-**Can you recognize how neuroplastic learning might have contributed to that change?**
+Think of something you've learned or adapted, in everyday life or while living with FND. How might learning and neuroplasticity be involved, without assuming that you know exactly what changed in your brain?
 
 **Heart** (source heading: *How might that feel?*)
 
-How might you feel if rehabilitation helped you regain an ability or made something important easier, even while other symptoms remained difficult?
+What ability or activity would you most value making easier through rehabilitation, even if some symptoms remained?
 
 **Activity** (source heading: *One small step*)
 
-If you're receiving rehabilitation, you could ask your therapist:
+If you're receiving rehabilitation, you could ask:
 
-"What might my nervous system be learning through this activity, and how would we recognize that learning outside therapy?"
+**"What might my nervous system be learning through this activity, and how would we recognize that learning outside therapy?"**
 
-Perhaps the goal is to make an action more automatic, use sensory information differently or develop a more reliable response to a familiar difficulty.
+You can also simply consider how an activity connects to something meaningful in your life. You don't need to practise anything new to complete the reflection.
 
-You don't need to practise anything new or test your symptoms to complete this lesson.
-
-Understanding the connection between **neuroplastic learning, a rehabilitation activity and something meaningful in your life** can help you take a more informed part in your rehabilitation.
 
 ### Lesson 28 — Choosing Practice That Fits Your Life
 
@@ -693,21 +671,22 @@ Understanding the connection between **neuroplastic learning, a rehabilitation a
 
 **Thought** (source heading: *Something to think about*)
 
-Which of these rehabilitation experiences surprised you, or reminded you of something you've experienced yourself?
+Think about a rehabilitation activity that felt useful, difficult or especially tiring. If you haven't received rehabilitation, choose one of the experiences described in this lesson.
+
+What part of that experience would help someone decide whether the practice fitted the person's abilities and goals?
 
 **Heart** (source heading: *How might that feel?*)
 
-How might you feel if you began noticing small improvements without knowing how much further you might progress?
+When progress is uncertain, what might help someone stay connected to their goal, rather than measuring the experience only by that day's result?
 
 **Activity** (source heading: *One small step*)
 
-If you're receiving rehabilitation, think about one experience you'd like your care professional to understand better.
+If you already have rehabilitation activities, choose one experience you'd like your care professional to understand better.
 
-Perhaps an activity felt easier, the appointment was particularly tiring, or you noticed a change when you got home.
+You might describe what felt manageable, what was too demanding or what changed afterwards. You don't need to explain why it happened or add new practice.
 
-You could describe what happened without needing to explain why.
+If you're not receiving rehabilitation, you can think through one of the lesson's examples instead.
 
-In Lesson 29, we'll examine what treatment studies have found about different FND symptoms and how to judge claims about recovery and neuroplasticity.
 
 ### Lesson 29 — When Someone Promises to Rewire Your Brain
 
@@ -715,19 +694,23 @@ In Lesson 29, we'll examine what treatment studies have found about different FN
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine a treatment advert that names a brain process you recognize. What would you ask to find out whether the treatment—not just its explanation—has helped people?
+Imagine a treatment advert that names a brain process you recognize.
+
+What would you ask to find out whether the treatment—not just its explanation—has helped people?
 
 **Heart** (source heading: *How might that feel?*)
 
-How might you feel knowing that some people have regained important abilities through rehabilitation, even though researchers can't predict exactly what will happen for you?
+A promising treatment might bring hope, but also uncertainty about the time, energy or money it could require.
+
+What would help you feel able to make a careful choice without giving up hope?
 
 **Activity** (source heading: *One small step*)
 
 If someone recommends a treatment, you could ask:
 
-**“Has this been tested for symptoms like mine, and what improved?”**
+**"Has this been tested for symptoms like mine, and what improved?"**
 
-You don't need to read the studies yourself. Someone recommending a treatment should be able to explain what is known, what isn't and how that information relates to you.
+You don't have to read the studies yourself. Someone recommending treatment should be able to explain what is known, what remains uncertain and how it relates to you.
 
 Next, we'll explore how everyday activities use up the energy and attention we have available—and what that means for living with FND.
 
