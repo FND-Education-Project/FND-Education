@@ -184,26 +184,19 @@ We're still learning about other ways the nervous system works. The next module 
 
 ### Something to think about
 
-Have you noticed a familiar task becoming easier or harder depending on how you're doing it?
-
-Perhaps putting a book on a shelf feels different from being asked to lift your arm just to show someone you can. Or perhaps the difference involves where you are, who is watching or how you're given instructions.
+Have you noticed a familiar task becoming easier or harder depending on where you are, what you're trying to accomplish or how someone gives instructions?
 
 What changed between those situations?
 
 ### How might that feel?
 
-When something works better in one situation than another, what would you most want the people around you to understand? Would it help if they were interested in what made the activity easier, rather than expecting you to repeat it whenever they asked?
+When something works better in one situation than another, what would you most want others to understand? Would you prefer curiosity about what helped rather than pressure to repeat the result?
 
 ### One small step
 
-Choose one familiar, safe activity and **one small change** to the setting or support around it.
+Choose one familiar, safe activity and one small change to the surroundings, instructions or support.
 
-Maybe you'd like more time to answer during a conversation. Perhaps a clear place to put things would help with a task, or you'd prefer one agreed reminder instead of several instructions at once.
-
-See whether the activity feels easier or more comfortable. Your symptoms might change, or they might stay the same.
-
-Keep the supports and safety measures you already need. If exploring a movement could involve falling or injury, you can bring the idea to your rehabilitation clinician instead.
-
+Notice whether it becomes easier or more comfortable. Keep the aids and safety measures you need, and don't use risky movements to test the idea.
 
 ### Further reading in the Reference Library
 
