@@ -3,7 +3,7 @@
 **Prepared:** November 17, 2026  
 **Repository:** FND-Education-Project/FND-Education  
 **Branch:** editorial/module-12-psychological-treatment-handoff-20261117  
-**Status:** **Editorial proposals and authoring standards only. No public prose is approved; no module direction has been selected by the project lead yet.** This handoff is a shared starting context for a **new, independent Module 12 Chat thread**. The project lead specifically wants to make final narrative and curriculum choices **in that thread**, not in the concluding Module 11 conversation.
+**Status at creation (November 17; historical):** This handoff originally contained editorial proposals only. **Current working status (November 19):** Lessons 36–38 Person narratives, their Thought/Heart/Activity prompts, and the three A-option illustrations/captions/alt texts are human-approved and committed in [Module 12 PR #210](https://github.com/FND-Education-Project/FND-Education/pull/210); Supporter and Clinician audience stories still need human authoring and approval. The separate cross-course reflection harmonization is now [draft PR #214](https://github.com/FND-Education-Project/FND-Education/pull/214). This remains a **living editorial handoff**, not a publication or independent clinical review.
 
 **Privacy:** This is a public GitHub repository. This handoff intentionally uses de-identified educational observations. Do not add private disclosure files, medical records, named assessors, claim details, case IDs, unpublished personal quotations, or an identifiable account of the project lead's care. Permission to use a theme in fictional teaching is not authorization to publish personal history.
 
@@ -365,3 +365,34 @@ The approved captions/alt text were inserted into the human-authored **For the P
 - **38, Callum:** placed immediately after he explains why he needs the phone in the therapy session, before the psychologist reflects. Caption: “Callum explains why his phone matters, helping his psychologist reconsider the exercise.” Alt describes him reaching toward his smartphone while speaking and the psychologist listening.
 
 **Scope and audit boundary:** Colouring-book downloads, thumbnails, preview artwork, crossword integration, rendered visual checking and the full accessibility acceptance remain **for the audit thread**. This commit integrates only the three narrative illustrations; it does not alter the approved story prose, reflection questions, Supporter sections or Clinician sections.
+
+
+## Audit 1 — November 19, 2026: cross-course Thought/Heart/Activity dependency and editorial verification
+
+**This is a handoff to the editorial Audit 1 thread, not a completed independent clinical or technical audit.** The project lead explicitly approved the coordinated question sequence and requested verification that every question can be understood using its lesson and preceding learning, without requiring a particular FND symptom. That prerequisite/inclusion review is now recorded and the changes are committed on a **separate, unmerged draft PR**.
+
+**Cross-course harmonization pull request:** [PR #214 — Course: harmonize Thought–Heart–Activity reflections across Lessons 1–38](https://github.com/FND-Education-Project/FND-Education/pull/214), **draft/open**.  
+**Exact branch:** `editorial/course-thought-heart-activity-harmonization-20261119`.  
+**Parent dependency:** [Module 12 PR #210](https://github.com/FND-Education-Project/FND-Education/pull/210), branch `editorial/module-12-psychological-treatment-handoff-20261117`. PR #214 currently targets that parent branch for a focused stacked diff; it is **not** a stand-alone PR against `main` yet. **Merge PR #210 first**, then reconcile/retarget/rebase PR #214 on the latest `main` and rerun merged-checkout validation. Neither PR should be represented as merged or publication-ready.
+
+**Audit 1 source of record:**
+
+- [35-lesson harmonization verification report](thought-heart-activity-harmonization-verification-2026-11-19.md) — exact lesson-by-lesson prerequisites, inclusion judgments and checks, with limitations and 10 documented refinements.
+- [Course-wide 59-lesson reflection inventory](thought-heart-activity-inventory.md) — copies current Person-section prompts, including untouched earlier/draft material.
+- [Thought/Heart/Activity authoring standard](thought-heart-activity-authoring-standard.md) — consistent educational purposes, cross-symptom accessibility and future maintenance rule.
+- `tools/course/build_thought_heart_activity_inventory.py` and `.github/workflows/person-reflection-inventory.yml` — inventory regeneration and read-only consistency check; they do **not** approve wording.
+
+**Verified editorial scope and outcomes:**
+
+- **Lessons 1–29 and 33–35 (32 Person sections):** harmonized questions committed. Their surrounding human-authored Person prose, Supporter/Clinician sections and figures match the current approved `main` versions outside the replaced questions.
+- **Lessons 30–32 (Module 10):** intentionally **no change whatsoever**; embedded activities remain intact.
+- **Lessons 36–38 (Module 12):** the **nine already approved** Thought/Heart/Activity prompts and complete Person pages remain identical to PR #210; do not rewrite or reapprove them under PR #214.
+- **35 of 35 applicable lessons** use exactly one of the familiar headings `Something to think about`, `How might that feel?`, and `One small step`, in that order. **105 of 105 prompts** were compared with the internal inventory and matched.
+- The proposed questions were checked against the learning in their current Person lesson and earlier lessons. Narrow movement, seizure, cognitive, communication, access, support or rehabilitation assumptions were made optional, hypothetical or broadened as documented. No exercise demands symptom provocation, unsafe activity, loss of aids, journaling or an identified psychological cause.
+- **Lessons 39–59** remain outside this editorial harmonization. Their inventory entries are not new human approvals.
+
+**Audit 1 review instructions and limits:** Review the [verification report](thought-heart-activity-harmonization-verification-2026-11-19.md) and existing approved choices rather than repeating 35 individual teaching assessments. Check the exact PR #214 diff and dependency status, question headings, inventory consistency, internal links, page rendering and any newly discovered accessibility concern. Reopen lesson-level questions only if a change, contradiction, missing prerequisite or genuine new inclusion problem is found. The authoring policy's `--check` needs to pass on the *merged checkout* after the PR stack is reconciled. **Editorial verification is not independent research/source validation, clinical review, or full assistive-technology acceptance.** Keep these outside the Audit 1 completion claim.
+
+**Separate Module 12 authoring status:** The Person narratives for Nadia (36), Graham (37), and Callum (38), all nine reflections, and their approved narrative illustrations are committed in PR #210. Three Supporter and three Clinician sections **have not yet been human-author reviewed or approved**, and the current drafts are placeholders. Colouring-book integration and crossword readiness belong to the Module 12 audit workflow. Do not treat cross-course PR #214 as approving the rest of Module 12. The next discussion is about the **direction** for its Clinician sections; no clinician narrative decisions have been approved in this Audit 1 record.
+
+**Merge authority:** The project lead makes merge decisions for both PRs; the above verification is a handoff, not merge authorization.
