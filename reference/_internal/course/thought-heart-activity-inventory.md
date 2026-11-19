@@ -809,3 +809,138 @@ Complete this sentence, even if only in your thoughts:
 
 You don't need an upcoming appointment or a treatment plan to do this.
 
+
+## Module 12
+
+### Lesson 36 — Why Psychological Treatment Does Not Mean Imaginary
+
+[Source lesson](../../../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md) · Module 12 (PR #210 working copy)
+
+**No matching reflection/activity headings in this Person section.**
+
+### Lesson 37 — Choose a Therapy and Set Goals
+
+[Source lesson](../../../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) · Module 12 (PR #210 working copy)
+
+**No matching reflection/activity headings in this Person section.**
+
+### Lesson 38 — Consent, Trauma, and Recognizing Harm
+
+[Source lesson](../../../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) · Module 12 (PR #210 working copy)
+
+**Earlier questions** (source heading: *Questions*)
+
+#### What helps you know that you still have choice and control in a healthcare relationship?
+
+#### Is there a boundary you would want to state before beginning therapy?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Write one boundary: **“I do not consent to ___”** or **“Please ask before ___.”** You do not need to explain why.
+
+
+## Module 13
+
+### Lesson 39 — Adapt Personal Care and Household Tasks
+
+[Source lesson](../../../course/module-13-daily-living-accessibility-and-equipment/01-adapting-personal-care-and-household-tasks.md) · Module 13
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Which daily task costs you more than other people can see?
+
+#### If one part became easier, what would you want to keep doing for yourself?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Choose one task. Write four words: **barrier — risk — current workaround — possible change**. Stop there. Ask for professional assessment if transfers, falls, burns, choking, injury or another person's safety may be involved.
+
+### Lesson 40 — Mobility Aids, Wheelchairs, Seating, and Fall Safety
+
+[Source lesson](../../../course/module-13-daily-living-accessibility-and-equipment/02-mobility-aids-wheelchairs-seating-and-fall-safety.md) · Module 13
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Where would a mobility aid give you access that you do not have now?
+
+#### What fear or judgement has made this decision harder for you?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Name one journey or task and the barrier within it. If falls, transfers, pressure, pain or fitting are involved, take that goal to an occupational therapist, physiotherapist or suitable equipment service rather than borrowing or buying blindly.
+
+### Lesson 41 — Sensory, Home, and Communication Access
+
+[Source lesson](../../../course/module-13-daily-living-accessibility-and-equipment/03-sensory-home-and-communication-access.md) · Module 13
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Which place asks your brain or body to filter too much at once?
+
+#### What would help you stay part of a conversation when speech, memory or processing becomes difficult?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Choose one setting. Complete: “I can take part more safely if _____.” Try one reversible change. Seek assessment for new loss of speech, hearing or vision, swallowing difficulty, injury risk or a major unexplained change.
+
+### Lesson 42 — Try and Review Equipment as Needs Change
+
+[Source lesson](../../../course/module-13-daily-living-accessibility-and-equipment/04-trying-and-reviewing-equipment-as-needs-change.md) · Module 13
+
+**Earlier questions** (source heading: *Questions*)
+
+#### What would this aid make possible on an ordinary or difficult day?
+
+#### What change would tell you that it needs adjusting or reviewing?
+
+**Activity** (source heading: *One small thing you can do*)
+
+For one aid, write: **goal — benefit — burden — review date**. If the aid causes pain, skin damage, repeated near-falls, unsafe transfers or no longer fits, stop and seek suitable professional review.
+
+
+## Module 14
+
+### Lesson 43 — Grief, Identity, Purpose, and Social Isolation
+
+[Source lesson](../../../course/module-14-relationships-identity-and-grief/01-grief-identity-purpose-and-social-isolation.md) · Module 14
+
+**Earlier questions** (source heading: *Questions*)
+
+#### What loss do you wish other people would acknowledge without trying to fix it?
+
+#### What part of you is still yours, even when symptoms change what you can do?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Finish one sentence: “Today, I am still someone who _____.” It can be as ordinary as “notices birds” or “cares about my friend.” Stop if the exercise feels false or painful.
+
+If grief becomes unbearable, you feel unable to stay safe or you are thinking of suicide, seek urgent local crisis or emergency help. Psychological support can help with suffering; it does not mean FND is imagined or caused by your thoughts.
+
+### Lesson 44 — Relationships, Intimacy, and Boundaries
+
+[Source lesson](../../../course/module-14-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md) · Module 14
+
+**Earlier questions** (source heading: *Questions*)
+
+#### What kind of closeness helps you feel like yourself rather than like a patient?
+
+#### Which boundary is hardest to say when you need help from the same person?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Choose a calm moment and finish: “When _____ happens, I need _____.” The other person may also name a need. Pause if the conversation becomes unsafe, coercive or too overwhelming.
+
+### Lesson 45 — Supporter Wellbeing and Shared Boundaries
+
+[Source lesson](../../../course/module-14-relationships-identity-and-grief/03-supporter-wellbeing-and-shared-boundaries.md) · Module 14
+
+**Earlier questions** (source heading: *Questions*)
+
+#### Which kind of help makes you feel supported, and which kind makes you feel watched?
+
+#### What would make it easier for both you and your supporter to say, “We need more help”?
+
+**Activity** (source heading: *One small thing you can do*)
+
+Agree one sentence for a difficult moment, such as: “Please sit nearby but do not ask questions yet.” Write one boundary for each person. If care is unsafe or either person feels threatened, seek outside professional or safeguarding help.
+
