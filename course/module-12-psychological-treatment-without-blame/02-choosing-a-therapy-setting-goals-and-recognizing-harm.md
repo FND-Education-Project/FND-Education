@@ -136,6 +136,14 @@ The therapist isn't promising he'll be safe or that another seizure won't happen
 
 For the first time, Graham can imagine how CBT might help him with something specific.
 
+<figure class="image-60center" markdown="1">
+
+![Graham sits at home composing a message on his phone. A large thought bubble shows him imagining a visit to a quiet, tree-lined park with Lena.](../../assets/images/lesson-37-illustration.png)
+
+<figcaption>Graham considers one small step toward enjoying the park again.</figcaption>
+
+</figure>
+
 ### What happens between appointments?
 
 Graham has another question.
