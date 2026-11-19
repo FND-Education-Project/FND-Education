@@ -111,19 +111,23 @@ In the [Reference Library, find your symptom](../../reference/README.md#find-an-
 
 For a broader explanation, see [What Tests and Investigations Can Tell Us](../../reference/diagnostic-concepts/03-tests-and-investigations.md).
 
-### Questions to reflect on
+### Something to think about
 
-Take your time with these. Any answer you have is a good starting point.
+A medical test can answer an important question without answering every question about someone's health.
 
-Which part of the explanation for your diagnosis makes sense to you?
+Can you distinguish what a result tells you from what it leaves uncertain?
 
-Is there one question you would still like your clinician to answer?
+### How might that feel?
+
+What would help you feel that your FND diagnosis and your other health concerns were both being taken seriously?
 
 ### One small step
 
-Choose one question to bring to your next appointment. You can write it down, record a voice note or ask someone to help you remember it. For example: “What findings support my FND diagnosis, and is there anything else we still need to check?”
+Choose one unanswered question you would like clarified.
 
-Your care team is there to explain test results with you. You can ask for explanations in a form that works for you, with support whenever you want it.
+For example: **"What does this result tell us, and is there anything else that needs assessment?"**
+
+You can remember the question, write it down or ask someone to help you bring it to an appointment.
 
 ### Optional learning activity
 
