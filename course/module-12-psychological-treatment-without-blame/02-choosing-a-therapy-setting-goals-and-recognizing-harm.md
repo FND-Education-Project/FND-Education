@@ -241,24 +241,145 @@ You can help with access or notice changes the person wants tracked. If you are 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### Why investigate psychological treatment in FND?
 
-**Option 1 — Gutkin et al., 2021**
+FND can involve functional seizures, movement difficulties, changes in speech or voice, cognitive difficulties, and sensory or visual symptoms. These symptoms are genuine and involuntary. Their presence does not establish a psychological cause, and clinicians may not know why they first developed.
 
-> “better quality studies are needed”
+Yet uncertainty about the origin of a disorder does not necessarily prevent effective treatment.
 
-**Option 2 — Goldstein et al., 2020**
+Across FND presentations, psychological care may sometimes address processes affecting symptoms or the consequences of living with disability, alongside appropriate rehabilitation and medical care. Functional seizures provide a particularly useful research example.
 
-> “no significant difference in monthly dissociative seizure frequency”
+Researchers have proposed that processes occurring before, during or between functional seizures might influence their frequency, severity or effect on daily life. These include physiological arousal, attention to bodily sensations, responses to possible warning signs, and changes in activity associated with fear or uncertainty.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [3](#citation-3))*
+Some of these processes may be open to intervention even when the original cause remains unknown.
 
-### Match rather than route by diagnosis alone
+This provides an important reason for investigating psychological treatment: **not necessarily to identify what caused FND, but to discover whether changing particular processes improves outcomes.**
 
-Formulate the target with the patient. Discuss modality-specific evidence, therapist competence, dose, setting, accessibility, alternatives and how benefit and harm will be reviewed. Treat comorbid psychiatric illness without using it as proof of FND causation.
+It also creates a research question. If an intervention helps, what has actually improved? Have seizures become less frequent, has the person become better able to manage their effects, or has participation increased despite continuing seizures?
 
-In CODES, several secondary outcomes favoured seizure-specific CBT plus standardized care while the primary seizure-frequency outcome did not. Preserve both findings. Broader psychotherapy evidence is heterogeneous and does not identify one best approach for all FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+These possibilities are related, but understanding the difference matters when choosing treatment.
 
+### What led researchers to test these approaches?
+
+Several studies help explain how seizure-focused psychological treatment developed.
+
+**LaFrance and colleagues** investigated a structured form of cognitive behavioural therapy (CBT) adapted for functional seizures.
+
+Their approach explored circumstances surrounding episodes, possible warning patterns, responses to seizures, thoughts and emotions, and ways to manage everyday difficulties. An earlier pilot study produced encouraging findings, giving researchers a reason to investigate seizure-focused interventions further.
+
+The treatment rationale did not require establishing that psychological experiences originally caused a participant's seizures. It proposed that working with processes surrounding seizures might change what happened afterwards. (*citations* [4](#citation-4))
+
+**The CODES researchers** pursued a related question on a larger scale.
+
+Their treatment combined seizure-management strategies with work on arousal, fear, avoidance and participation. The researchers considered whether changing these processes could reduce seizures or lessen their effect on daily life.
+
+The primary outcome did not establish a statistically significant reduction in monthly seizures from adding CBT to standardized medical care at twelve months.
+
+However, participants offered CBT experienced some other improvements, including longer seizure-free intervals and better work and social functioning.
+
+That combination of findings is clinically informative. The study did not establish the expected primary seizure-frequency benefit, but it identified other areas where the intervention appeared useful. (*citations* [3](#citation-3))
+
+**Higson and colleagues' Re-PROGRAM study**, published in October 2026, investigated a shorter programme designed for functional seizures.
+
+The programme combined seizure education with attention to bodily signals, daily routines, physiological regulation, thoughts, emotions, communication and practical seizure-management skills.
+
+Rather than relying on one psychological explanation, the researchers tested a collection of potentially useful strategies.
+
+The self-guided programme, added to standard care, reduced seizure rates compared with standard care alone. The therapist-guided comparison was less conclusive, and the study could not establish which delivery format was more effective.
+
+This provides encouraging evidence for another approach, without showing which individual component produced the benefit. ([Higson et al., 2026](https://doi.org/10.1001/jamaneurol.2026.3893))
+
+Together, these studies illustrate an important distinction.
+
+**A treatment can produce a measurable benefit without proving the theory that originally motivated it.**
+
+Improvement following a programme containing education, behavioural practice, emotional support and seizure-management strategies does not establish that one particular psychological process caused the seizures.
+
+It does, however, give clinicians evidence about interventions worth considering and outcomes that may be achievable.
+
+### Applying the evidence to Graham
+
+Consider Graham, a fictional forty-six-year-old man with established FND, functional seizures and unreliable walking.
+
+His seizures sometimes leave him unable to move or respond, and he does not consistently recognize warning signs.
+
+Graham would welcome fewer seizures. He also misses visiting a quiet local park, where he once enjoyed spending time outdoors and talking with other people.
+
+He has stopped going because a seizure while alone could leave him vulnerable to injury or unable to obtain help.
+
+His friend Lena has offered to accompany him, but Graham worries that having a seizure during their visit would spoil her afternoon.
+
+The fuller experience appears in [For the Person With FND](#for-the-person-with-fnd). For the clinician, Graham presents two problems that deserve different responses.
+
+**The risk of being alone during a seizure is genuine.**
+
+His unpredictable episodes and mobility difficulties need to inform any plan for returning to the park. Psychological treatment cannot simply redefine those dangers as unnecessary fears.
+
+**His belief that accepting Lena's help would burden her is different.**
+
+Graham has not asked whether Lena shares that concern. He may be predicting how she would respond based on his own discomfort about needing assistance.
+
+That prediction is something he and a therapist could explore together.
+
+It would not require claiming that his seizures result from worrying, or that his safety concerns are unjustified.
+
+The therapist might help Graham distinguish circumstances he cannot currently control from assumptions he could examine and arrangements he could change.
+
+For example, he could ask whether Lena would enjoy a short park visit, discuss what assistance she feels comfortable offering and consider the practical arrangements needed for an outing.
+
+He would remain free to decide whether to go.
+
+This is a recognizable application of CBT principles, but the treatment target is specific: **a belief that may be limiting Graham's participation beyond the restrictions imposed by his symptoms and safety needs.**
+
+### What might treatment accomplish?
+
+Graham's situation suggests two potentially useful goals.
+
+One concerns the seizures themselves. A structured seizure-focused programme might help reduce their frequency, change aspects of their management or reduce their disruption. Whether that happens for Graham remains to be discovered.
+
+His lack of consistent warning signs also matters. An intervention that depends heavily on recognizing an approaching seizure may have limited application for him, while other components could remain relevant.
+
+The second goal concerns participation.
+
+Even if Graham continues experiencing seizures, he may benefit from examining assumptions about accepting help, considering practical supports and exploring ways to remain involved in activities he values.
+
+This is not a lesser outcome simply because seizures remain. Nor should improved participation be represented as evidence that seizure frequency has improved.
+
+If Graham chooses to try treatment, the therapist could agree with him on what they hope will change and how they will recognize whether the approach is useful.
+
+His memory difficulties, available support and the effort required by therapy would help determine which programme and activities are realistic.
+
+They could review seizure burden, confidence, participation and treatment effort together, adjusting the plan according to what Graham experiences.
+
+The research informs what might reasonably be offered. Graham's circumstances and priorities determine which possibilities are worth pursuing.
+
+### Applying this reasoning across FND
+
+Although the studies above concern functional seizures, the underlying clinical questions extend across FND.
+
+Different FND presentations involve different difficulties and may require different rehabilitation approaches. Yet attention, learning, emotional responses, social circumstances and everyday participation can be relevant across many presentations.
+
+This creates opportunities to address changeable difficulties without assuming that those difficulties explain why FND originally developed.
+
+The same reasoning leads to four useful clinical considerations.
+
+- **Identify what might change, rather than assuming what caused the condition.** Someone with functional gait difficulties may benefit from rehabilitation that encourages more automatic, purposeful movement. Someone with cognitive difficulties might benefit from reducing competing demands and using reliable reminders. These approaches target difficulties affecting current function; their usefulness does not establish the original cause.
+
+- **Choose an approach that fits the particular symptom and person.** Seizure-focused psychological programmes, movement rehabilitation, speech and language therapy, and selected visual rehabilitation techniques have different purposes and evidence. Psychological support may complement these approaches when worry, distress, self-consciousness or avoidance adds to the person's difficulties. It need not replace symptom-specific rehabilitation.
+
+- **Recognize different forms of improvement.** Someone with unreliable speech may become more involved in conversations through communication supports and greater confidence. A person with functional visual symptoms may accomplish more with appropriate environmental adaptations or selected rehabilitation tasks. Someone with movement difficulties may achieve safer participation while continuing to need a mobility aid. These can be meaningful gains even when the underlying symptoms persist.
+
+- **Consider the social circumstances surrounding disability.** Fear of falling, embarrassment about speech, worry about burdening others, or being misunderstood because symptoms fluctuate can influence participation. Some concerns involve expectations that may be worth exploring; others reflect genuine barriers requiring practical support or changes in the environment. Psychological and social care can address these difficulties without treating them as evidence of psychological causation.
+
+These principles can inform care across FND, but they do not mean every person needs psychological treatment. The relevance of any proposed approach depends on the individual's presentation, experiences and goals.
+
+Graham provides one example. His seizures create real safety concerns, while his assumptions about asking Lena for help may create an additional barrier to enjoying the park. Addressing either concern could make a meaningful difference, even if the other remains.
+
+A similar distinction can be useful when approaching movement, speech, cognitive, sensory or visual symptoms. **The treatment target may be a symptom, a process affecting its expression, a consequence of disability or a barrier to participation.** Those are different reasons for offering care, and the research supporting each approach needs to be considered accordingly.
+
+The broader lesson is that understanding every cause is not always necessary before identifying something useful to address.
+
+**Effective FND care begins by asking what might change, what evidence supports that possibility, and what improvement would mean to the person living with the condition.**
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -280,9 +401,9 @@ The psychotherapy review found possible benefits but important quality and follo
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
+| <a id="citation-1"></a>**[1]** | — | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
 | <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
+| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
 | <a id="citation-4"></a>**[4]** | — | LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [FND-CIT-0032](../../research/citation-index.md#fnd-cit-0032). [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817) |
 
 This page still needs review by people with varied therapy experiences, therapists from different modalities, functional-seizure specialists and accessibility reviewers.
