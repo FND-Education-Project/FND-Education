@@ -287,7 +287,7 @@ Rather than relying on one psychological explanation, the researchers tested a c
 
 The self-guided programme, added to standard care, reduced seizure rates compared with standard care alone. The therapist-guided comparison was less conclusive, and the study could not establish which delivery format was more effective.
 
-This provides encouraging evidence for another approach, without showing which individual component produced the benefit. ([Higson et al., 2026](https://doi.org/10.1001/jamaneurol.2026.3893))
+This provides encouraging evidence for another approach, without showing which individual component produced the benefit. (*citations* [5](#citation-5))
 
 Together, these studies illustrate an important distinction.
 
@@ -405,6 +405,8 @@ The psychotherapy review found possible benefits but important quality and follo
 | <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
 | <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
 | <a id="citation-4"></a>**[4]** | — | LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [FND-CIT-0032](../../research/citation-index.md#fnd-cit-0032). [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817) |
+
+| <a id="citation-5"></a>**[5]** | — | Higson et al. Re-PROGRAM randomized trial for functional seizures. *JAMA Neurology*. Published online October 2026. [https://doi.org/10.1001/jamaneurol.2026.3893](https://doi.org/10.1001/jamaneurol.2026.3893). Full bibliographic details and permanent source ID pending evidence audit. |
 
 This page still needs review by people with varied therapy experiences, therapists from different modalities, functional-seizure specialists and accessibility reviewers.
 
