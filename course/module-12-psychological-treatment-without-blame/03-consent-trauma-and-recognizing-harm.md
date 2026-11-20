@@ -232,24 +232,80 @@ Therapy can bring temporary discomfort, but that phrase must not excuse coercion
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### When new information changes treatment
 
-**Option 1 — Ludwig et al., 2018**
+FND rehabilitation often begins with a working explanation of what may be affecting someone's symptoms or participation. A clinician might consider attention, expectations, emotional responses or learned patterns and select an activity to explore whether changing one of them helps.
 
-> “many cases report no stressors”
+A useful hypothesis remains open to correction. **The patient's response to a proposed exercise can reveal something important about the problem, rather than merely whether the patient is willing to cooperate.**
 
-**Option 2 — Ludwig et al., 2018**
+This matters because treatment can be helpful or harmful depending on how clinicians interpret what they observe. Mcloughlin and colleagues' review of iatrogenic harm in FND examines difficulties that healthcare interactions themselves can create. The British Psychological Society's guidance likewise supports individualized psychological care rather than a single assumed explanation of FND. (*citations* [2](#citation-2), [3](#citation-3))
 
-> “stressors ... are not a core diagnostic feature”
+Callum's experience provides a practical example: an exercise intended to examine anticipatory worry overlooks the function of a communication aid.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citation* [1](#citation-1))*
+### What does Callum's phone tell us?
 
-### Keep formulation tentative and consent active
+Callum is seventeen and has FND affecting his walking and speech. Sometimes speech becomes difficult or unavailable without warning, so he uses his phone to communicate. His CBT focuses on the worry and frustration of participating in conversations when speaking is unreliable—not on discovering the cause of his speech symptoms.
 
-Ask about trauma only when clinically relevant, with permission and a clear reason. Distinguish association, individual formulation and proven cause. Do not infer undisclosed adversity from the diagnosis or make trauma disclosure a condition of treatment.
+At school, classmates once moved on while he was typing an answer. He felt excluded and began expecting that others would not wait for him.
 
-Explain the proposed method, alternatives, confidentiality limits and how distress or worsening will be handled. Revisit consent, especially before exposure or trauma processing. Maintain medical review and act on safeguarding or acute mental-health risk through appropriate pathways. Diagnostic overshadowing, stigma and inappropriate treatment are recognized sources of iatrogenic harm in FND care. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+During therapy, his psychologist notices that Callum sometimes reaches for his phone before attempting to speak. She wonders whether anticipating difficulty occasionally leads him to avoid speaking, and proposes a short conversation in which he answers before using the phone.
 
+Callum raises a concern: if his speech stops, he may need the phone to explain what is happening, request time or say he wants to stop. Even on a day when he can speak, he cannot count on that ability remaining available.
+
+The fuller account appears in [For the Person With FND](#for-the-person-with-fnd).
+
+The psychologist now has information that changes how she can interpret his behaviour. **Reaching for the phone may sometimes reflect worry; it may also preserve communication when speech fails. Both can be true.**
+
+### What would the proposed exercise actually test?
+
+If Callum speaks successfully without his phone, that shows he could speak during that task. It does not establish that his speech is reliably available or that he generally uses the phone to avoid speaking.
+
+If his speech stops, the exercise may leave him unable to communicate his needs. That would not tell the psychologist whether his earlier phone use was driven by worry.
+
+The proposed activity therefore changes two things at once: Callum's opportunity to attempt speech and his access to communication. It becomes difficult to interpret the result in relation to the original hypothesis.
+
+This is more than a theoretical distinction. Speech-language therapy consensus guidance has raised concerns about aids potentially maintaining functional mutism, while broader communication guidance supports individualized access to alternative communication. Neither position, by itself, establishes that removing Callum's phone would improve his speech. [Speech-language guidance](https://doi.org/10.1136/jnnp-2021-326767) and [communication-access guidance](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/) address different parts of the decision.
+
+The useful question becomes: **Can the psychologist explore Callum's expectations while keeping his ability to communicate available?**
+
+### Keep the goal; revise the exercise
+
+Callum's agreed goal remains relevant. He wants to contribute to school discussions without withdrawing because he expects classmates to move on.
+
+Rather than asking him to delay using his phone, the psychologist can help him distinguish what happened from what he concluded. His classmates did move on before he finished typing. That is a real participation barrier. He also concluded that they did not want to hear from him—a possibility worth exploring, not an established fact about every classmate.
+
+They could practise ways to ask for time, perhaps using a saved phone message or a gesture agreed with classmates. Callum keeps the phone available throughout. They can then explore what he expects, what others actually do and which arrangements help him participate.
+
+This approach doesn't ask Callum to deny his speech difficulties or assume that every classmate will respond well. Some social barriers need changes from other people, not just changes in Callum's thinking.
+
+The **treatment goal stays the same**, but the revised method now explores the intended difficulty without compromising his communication. That is an improvement in clinical reasoning, not a retreat from therapy.
+
+### Consent can improve the formulation
+
+Callum agreed to CBT, not to every possible exercise. His objection offered information the psychologist had not considered. Listening allowed them to improve the plan together.
+
+Meaningful consent therefore contributes to the quality of treatment. A person who can ask questions, disagree and communicate changing needs can help the clinician distinguish an unhelpful assumption from a useful therapeutic target.
+
+Callum's age makes the applicable consent and confidentiality framework relevant, but his ability to express his preferences remains central to this clinical discussion.
+
+The same principle applies when psychological care explores difficult emotions or trauma. Ludwig and colleagues' research identifies group-level associations between adversity and FND; it does not establish that trauma caused an individual's condition or that trauma-focused work is necessarily the appropriate treatment. (*citation* [1](#citation-1))
+
+A formulation remains a proposal to examine collaboratively. New information—including disagreement—can make it more accurate.
+
+### What this changes clinically
+
+Callum's case suggests four practical lessons:
+
+- **Ask what a behaviour accomplishes.** Anticipation, practical necessity and adaptation can coexist. An observation alone may not distinguish them.
+- **Examine what an exercise can establish.** A successful task, a difficult task or a patient's reluctance may each have several explanations.
+- **Separate the goal from the method.** Callum still wants to participate in school discussions; the therapist can change the exercise while preserving that goal.
+- **Use the patient's experience to revise treatment.** Understanding why something does not fit may produce a more useful plan than insisting on the original one.
+
+Across FND presentations, this reasoning is relevant whenever an activity, support or symptom response has more than one possible explanation. The exact technique will differ, but the clinical habit remains valuable: ask, test what the evidence can support, listen and revise.
+
+**A useful treatment plan becomes more individualized as clinician and patient learn together.**
+
+In the next lesson, we turn to everyday adaptations—starting with personal care and household tasks—and how practical changes can support participation alongside rehabilitation.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -271,7 +327,7 @@ The meta-analysis supports an association between adversity and FND at group lev
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Ludwig L, Pasman JA, Nicholson T, et al. Stressful life events and maltreatment in conversion (functional neurological) disorder: systematic review and meta-analysis of case-control studies. *The Lancet Psychiatry*. 2018;5(4):307–320. [FND-CIT-0079](../../research/citation-index.md#fnd-cit-0079). [https://doi.org/10.1016/S2215-0366(18)30051-8](https://doi.org/10.1016/S2215-0366(18)30051-8) |
+| <a id="citation-1"></a>**[1]** | — | Ludwig L, Pasman JA, Nicholson T, et al. Stressful life events and maltreatment in conversion (functional neurological) disorder: systematic review and meta-analysis of case-control studies. *The Lancet Psychiatry*. 2018;5(4):307–320. [FND-CIT-0079](../../research/citation-index.md#fnd-cit-0079). [https://doi.org/10.1016/S2215-0366(18)30051-8](https://doi.org/10.1016/S2215-0366(18)30051-8) |
 | <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
 | <a id="citation-3"></a>**[3]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
 | <a id="citation-4"></a>**[4]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
