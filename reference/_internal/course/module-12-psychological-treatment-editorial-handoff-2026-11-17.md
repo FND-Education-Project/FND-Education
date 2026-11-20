@@ -426,6 +426,20 @@ The approved captions/alt text were inserted into the human-authored **For the P
 
 **What counts as evidence about how treatment works?** The CODES follow-up analysis found patterns consistent with small indirect effects through changes in avoidance, anxiety and depression. It could not establish that those changes preceded the outcomes, and the study lacked a comparator controlling for therapist time and attention. Use this briefly if it advances the clinician's reasoning. It narrows the proposed explanations without resolving them. The three trials used different populations, comparators, delivery methods and time points. Shared components, such as practical seizure skills, are candidates for further testing. These comparisons cannot identify which ingredients explain the different results. [CODES mediation analysis](https://doi.org/10.1017/S0033291723003665) · [Gutkin review, FND-CIT-0077](https://doi.org/10.1136/jnnp-2019-321926).
 
+### Re-PROGRAM wording for Lesson 37
+
+**Editorial choice.** Use the short version if the study is there to show that a structured programme can reduce seizure frequency in some circumstances. The full comparison earns its place if the clinician is weighing whether therapist guidance adds benefit. The research rationale and what it means for Graham carry the main argument.
+
+**Short version for the clinician section**
+
+> In one randomized trial, adults offered self-guided Re-PROGRAM alongside standard care had fewer functional seizures than those offered standard care alone.
+
+**If the choice between formats matters, use this paragraph**
+
+> Adults offered self-guided Re-PROGRAM alongside standard care had fewer functional seizures than adults offered standard care alone. Seizure frequency also fell in the therapist-guided group, but the comparison with standard care was inconclusive. The direct comparison between the two formats was too imprecise to tell which worked better.
+
+The therapist-guided result leaves room for a benefit, and the direct comparison leaves room for an advantage in either direction. In any future review of the Person section, check the phrases “worked through the lessons themselves” and “on their own.” Use “self-guided” and explain brief support if relevant. The protocol planned weekly contact with a psychologist for this group. The results abstract does not report the contact participants actually received. [Trial results](https://doi.org/10.1001/jamaneurol.2026.3893) · [Published protocol](https://doi.org/10.1136/bmjopen-2023-072835).
+
 ### Apply the evidence to Graham
 
 Give enough context to stand alone. Graham is 46, has established functional seizures and can lose movement without a reliable warning. He wants fewer seizures and also misses visiting a quiet park. Fear of being unable to move there alone reflects a practical safety concern. The separate, testable prediction is that asking his friend Lena to join him would burden her. In the approved Person case, Graham drafts a message and has yet to send it. A clinician can ask what he would like help with, check what assistance he would need and explore his prediction while leaving the choice with him. A strategy that requires an early warning may have limited fit. Agree how he would judge changes in seizure burden and participation, with review adapted to his cognitive capacity and access to care. The planned goal and the treatment evidence can justify the offer while leaving his outcome open.
