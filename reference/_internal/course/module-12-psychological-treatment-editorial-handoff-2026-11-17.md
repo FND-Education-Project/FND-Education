@@ -3,9 +3,26 @@
 **Prepared:** November 17, 2026  
 **Repository:** FND-Education-Project/FND-Education  
 **Branch:** editorial/module-12-psychological-treatment-handoff-20261117  
-**Status at creation (November 17; historical):** This handoff originally contained editorial proposals only. **Current working status (November 19):** Lessons 36–38 Person narratives, their Thought/Heart/Activity prompts, and the three A-option illustrations/captions/alt texts are human-approved and committed in [Module 12 PR #210](https://github.com/FND-Education-Project/FND-Education/pull/210); Supporter stories and Clinician Lessons 37–38 still need human authoring and approval; Lesson 36 Clinician is approved and committed. The separate cross-course reflection harmonization is now [draft PR #214](https://github.com/FND-Education-Project/FND-Education/pull/214). This remains a **living editorial handoff**, not a publication or independent clinical review.
+**Status at creation (November 17; historical):** This handoff originally contained editorial proposals only. **Current working status (November 19):** Lessons 36–38 Person narratives, their Thought/Heart/Activity prompts, and the three A-option illustrations/captions/alt texts are human-approved and committed in [Module 12 PR #210](https://github.com/FND-Education-Project/FND-Education/pull/210); Lesson 36 Supporter has a committed **draft awaiting the project lead's next revisions**; Lesson 37–38 Supporter stories and Clinician Lessons 37–38 still need human authoring and approval; Lesson 36 Clinician is approved and committed. The separate cross-course reflection harmonization is now [draft PR #214](https://github.com/FND-Education-Project/FND-Education/pull/214). This remains a **living editorial handoff**, not a publication or independent clinical review.
 
 **Privacy:** This is a public GitHub repository. This handoff intentionally uses de-identified educational observations. Do not add private disclosure files, medical records, named assessors, claim details, case IDs, unpublished personal quotations, or an identifiable account of the project lead's care. Permission to use a theme in fictional teaching is not authorization to publish personal history.
+
+## November 21 — Lesson 36 Supporter character revision (save point; feedback pending)
+
+**Current saved draft:** [Lesson 36 — Why Psychological Treatment Does Not Mean Imaginary](../../../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md), Supporter section only. Full section committed to this PR at `0051e99e0b5a7128c158480ec88028b81f4f277e`. This is an **editorial draft**, not final approved wording; the project lead explicitly has further changes to discuss. Do not automatically merge, publish, shorten, overwrite, or treat independent source/clinical review as complete.
+
+**User's character and scene direction (November 21):**
+- **Clare:** Well-intentioned and genuinely concerned; often fun, loud, prone to exaggeration and drama. She can say strong, subtly harmful things about Nadia's apparent behaviours, without being intentionally cruel. Avoid portraying her as informed about FND or as an uncomplicated antagonist.
+- **Lena:** Nadia's friend and occasional supporter, **not an FND expert**. Even after supporting Nadia for some time she can make psychological assumptions. She may respond emotionally and defensively without knowing why, and recognize some observations Clare makes while being unsettled by the conclusions drawn from them.
+- **Nadia:** Reactions should be stronger and more internal than in earlier drafts. Clare's behavioural observations touch Nadia's **own unresolved doubts** about whether she contributes to symptoms or is rejecting help. Her response is not a polished instant lecture. She fears psychological interpretations becoming circular: disagreeing with them may itself be treated as 'denial.'
+- Focus on **observable behaviours** rather than characters implausibly discussing 'emotions' as a clinical category. Ordinary people tend to mention withdrawal, anger, missed calls, avoidance, changes after stress, PTSD flashbacks or reactions to situations.
+- The supportive-learning arc: two friends discuss Nadia in her absence; Lena later brings a troubling interpretation to Nadia; Nadia's uncomfortable answer reveals the personal impact; Lena notices that she inferred **cause** from observations and from the existence of a psychological referral. A treatment target or success does not establish FND's original cause.
+- Preserve the distinction between possible psychological influences on symptoms, a separate psychological problem and a proven cause of FND. Keep migraines and other healthcare needs from being reclassified solely due to the psychological referral.
+- The user requested the **whole lesson draft brought back** with changes in the previous chat, then explicitly requested it be **committed so it survives chat-memory limitations**. We committed the entire revised **Supporter audience section**, leaving the existing Person and Clinician sections intact, pending further feedback.
+
+**Next Chat task:** Read the current PR #210 head, this handoff and Lesson 36 Supporter text. Ask for or act on the project lead's next edits, preserving the latest saved text as baseline. Do not re-create from earlier chat or replace it with the older two-paragraph Supporter placeholder. Module 11 PR #208 remains out of scope.
+
+---
 
 ## 1. First task for the new Chat thread
 
