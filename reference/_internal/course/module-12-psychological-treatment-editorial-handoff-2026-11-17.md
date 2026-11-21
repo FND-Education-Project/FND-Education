@@ -41,6 +41,14 @@ Both are personal experiences, not scientific evidence or evidence against thera
 
 ---
 
+## November 21 — Lesson 36 Supporter paragraph polish committed; lesson-symptom balance under discussion
+
+**Commit:** `d863726a4f14b8ed2521d45c50f5bd545c8c94d6`, PR #210. The project lead read and endorsed the full Supporter draft and explicitly requested committing the displayed version. The change combines excess single-sentence narrative paragraphs while preserving the full Clare–Lena exchange, the Lena–Nadia exchange, and the evidence/quotation-based educational close. Only the Lesson 36 Supporter section was modified. This is editorial acceptance, **not an independent clinical/source review or permission to merge**.
+
+**Open editorial question (not an instruction to rewrite yet):** Should the Lesson 36 story lean more heavily on Nadia's functional seizures rather than her worsening migraines? Maintain the previously approved three-lesson progression while deciding. Nadia in Lesson 36 has both established FND with functional seizures and separately managed migraine (continuity from Lesson 34 and Dr. Chen); the lesson's primary question is whether a psychological referral proves FND causation, and migraine illustrates the risk of unrelated medical needs being reinterpreted. Graham's Lesson 37 already uses involuntary functional seizures centrally to evaluate seizure-focused CBT (CODES / Re-PROGRAM evidence), meaningful symptom vs participation outcomes, an unsent text and a hoped-for park trip. Callum's Lesson 38 uses variable speech and his phone as a communication aid to address treatment fit, consent and the difference between CBT for participation-related worries and specialist speech care. Do not turn Nadia's Lesson 36 into a duplicate of Graham's seizure-treatment story or silently remove her independent migraine care. Await the project lead's decision on emphasis; preserve all existing work.
+
+---
+
 ## 1. First task for the new Chat thread
 
 1. Read this entire handoff and the companion [Module 12 authoring prompt](module-12-human-authoring-prompt-2026-11-17.md).
