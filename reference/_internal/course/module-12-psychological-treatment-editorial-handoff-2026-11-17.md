@@ -49,6 +49,18 @@ Both are personal experiences, not scientific evidence or evidence against thera
 
 ---
 
+## November 21 — Character correction and new Lesson 37 Supporter concept (approved direction, draft text pending)
+
+**Character naming correction committed:** Nadia's previously unnamed occasional friend, called Lena in the new Lesson 36 Supporter dialogue, is now **Elise** throughout the Lesson 36 Supporter section (commit `9e562febe5248bf55d365120d517e4435168803c`). This avoids accidental conflation with **Graham's established occasional friend Lena**, whose name must **remain Lena** in Module 11 and Lessons 37 onward. Neither Nadia's existing dialogue nor the Person and Clinician sections changed apart from the friend's name within Supporter.
+
+**User's new Lesson 37 Supporter direction:** Do **not** repeat Lesson 36's two-friends-then-patient conversation framework, nor duplicate the Lesson 37 Person park-appointment sequence. Instead begin with Graham reading a **fictional FND forum post** that raises a painful conflict around going out alone, functional seizures and proposed CBT. He wants to reply but first reflects briefly on the **real dangers he has personally experienced** when an episode left him unable to manage alone; reflect genuine practical harm, isolation and loss of autonomy **gently and without seizure phenomenology, sensory-trigger catalogues or graphic bodily description**. Some of the misunderstanding, tension and competing fears should unfold in the fictional comment thread, allowing supporters to reason rather than simply receive etiquette advice. Then shift to the course's educational *advice-over-coffee* voice, using appropriately qualified treatment studies and relevant **real, attributed community quotations** outside the fictitious forum. Mark fictional forum handles/comments clearly so they can never be mistaken for verified quotes. Keep the distinction between physical danger, future risk prediction, anticipatory anxiety and avoidant behaviours (which may coexist). CBT does not itself make an unsafe solo outing safe, and symptom change vs participation outcomes must remain distinct.
+
+**Continuity:** Graham is 46, lives with unpredictable functional seizures and changing mobility, and has a legitimate fear of being unable to summon help alone; the park and a possible invitation to Lena are already established in his *Person* story. Do not stage a completed park trip, suggest he has sent the text, claim he starts therapy, or impose seizure improvement. Supporter readers may encounter genuine questions about how seizure-focused CBT could help; retain CODES and Re-PROGRAM study boundaries (see the Lesson 37 evidence brief). A parent in the existing forum source records described CBT not improving a daughter's symptoms while making her more comfortable with them; another community member reported a seizure-focused approach helpful after general CBT. These are distinct first-person reports, not generalizable efficacy findings. Full public text requires lead review before commit.
+
+**Privacy:** Private personal experiences informed this fictional direction but **must not** be copied as identifiable autobiographical details into public files. The project lead specifically asks that the scene avoid descriptions that could provoke symptoms.
+
+---
+
 ## 1. First task for the new Chat thread
 
 1. Read this entire handoff and the companion [Module 12 authoring prompt](module-12-human-authoring-prompt-2026-11-17.md).
