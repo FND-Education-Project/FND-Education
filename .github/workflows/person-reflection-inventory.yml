@@ -1,0 +1,27 @@
+name: Person lesson reflection inventory
+
+# Read-only check: all question/activity edits must be reflected in the
+# internal inventory. This does not approve or change any course content.
+on:
+  pull_request:
+    paths:
+      - 'course/**/*.md'
+      - 'SITEMAP.md'
+      - 'reference/_internal/course/thought-heart-activity-inventory.md'
+      - 'tools/course/build_thought_heart_activity_inventory.py'
+      - '.github/workflows/person-reflection-inventory.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  check-inventory:
+    runs-on: ubuntu-latest
+    steps:
+      # On pull_request, checkout uses GitHub's proposed merge commit so prior
+      # modules already merged into the base are not replaced with old copies.
+      - name: Check out merged PR
+        uses: actions/checkout@v4
+
+      - name: Verify Person question bank against the actual lesson pages
+        run: python3 tools/course/build_thought_heart_activity_inventory.py --check
