@@ -227,10 +227,241 @@ You can simply think about your answers. No treatment or written record is requi
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-The person's therapy goals belong to them. Do not demand disclosure, ask the therapist for private details or treat a difficult session as proof that the therapy is working.
+### A question Graham couldn't ignore
 
-You can help with access or notice changes the person wants tracked. If you are affected by illness and caregiving, your own support should not depend on entering the person's treatment.
+Graham hadn't intended to spend the evening reading about FND. He'd only opened a discussion forum to see whether anyone had written about cognitive behavioural therapy, or CBT, for functional seizures.
 
+One post caught his attention.
+
+*The following forum discussion is fictional. It reflects questions and disagreements reported in the FND community.*
+
+**MapleSister — Is encouraging my sister making things worse?**
+
+> My sister has functional seizures. She used to go everywhere on her own, but since having a bad episode while she was out, she hardly goes anywhere without someone.
+>
+> Her doctor has suggested CBT, and I'm trying to understand why.
+>
+> Part of me thinks she needs encouragement to get out again. Another part is scared something will happen when nobody's around to help her.
+>
+> If I keep offering to accompany her, am I helping her or encouraging her to avoid things?
+>
+> I miss seeing her enjoy herself. I think she misses it even more.
+
+Graham read the post twice. He knew exactly what the sister was describing, although he'd never met her.
+
+The first reply appeared sensible enough.
+
+**BetterDaysAhead:**
+
+> Avoidance can make anxiety worse. If she keeps waiting until she feels completely safe, she might never go anywhere. Maybe CBT could help her gradually build confidence.
+
+Another commenter agreed.
+
+**MovingForward:**
+
+> Sometimes you've got to push yourself a little. Otherwise FND ends up running your whole life.
+
+Graham put his phone down.
+
+He had heard variations of those arguments before. They sounded reasonable, especially when someone was trying to encourage a person they cared about. And he understood the concern about someone's world getting smaller.
+
+But he also remembered an afternoon when he'd gone out feeling perfectly fine.
+
+A functional seizure had left him unable to manage on his own, and he'd needed someone to find him and help. He didn't particularly want to revisit the experience. What stayed with him was how ordinary the day had been beforehand, and how much he'd depended on someone else afterward.
+
+He hadn't gone out expecting trouble. He certainly hadn't been frightened before leaving.
+
+Since then, going somewhere alone had meant considering what might happen if he needed assistance and nobody was nearby. That wasn't something he could solve by deciding to be more confident.
+
+Still, he missed being independent. He missed choosing to go somewhere without arranging his life around another person's availability.
+
+Graham picked up his phone and started writing a reply.
+
+### The discussion becomes uncomfortable
+
+**Graham:**
+
+> I have functional seizures too, and sometimes they happen without any warning I recognize.
+>
+> I've been in a situation where I couldn't manage on my own and needed help. That changes how you think about going out.
+>
+> I understand why you're worried about your sister staying home so much. But being afraid of something that has actually happened isn't necessarily the same as having an unreasonable fear.
+>
+> I think there's a difference between avoiding something because you're anxious and deciding not to take a risk you can't safely manage.
+
+He read his comment, changed a few words and posted it.
+
+A reply appeared a little later.
+
+**MovingForward:**
+
+> I get that, but surely CBT is supposed to help with those fears? If the fear never changes, how does she ever get her life back?
+
+Graham began typing an answer, then stopped.
+
+That was a harder question.
+
+He couldn't deny that his life had become smaller. There were places he avoided and invitations he declined, sometimes because he couldn't arrange suitable help. Other times, he wasn't entirely sure whether he'd made the decision for practical reasons or because the thought of another difficult experience had become too much.
+
+Could therapy help with some of that? Perhaps. But how would it distinguish a reasonable precaution from something he could safely change?
+
+Before he decided what to write, another commenter joined in.
+
+**HelpingHands:**
+
+> I'm a caregiver, and this is difficult from our side too. I want my partner to have as much independence as possible, but I also know what happens when they need help.
+>
+> I'm frightened of encouraging something that might put them in danger. At the same time, I worry that being too protective might stop them doing things they could enjoy.
+>
+> I don't always know which concern I should listen to.
+
+Graham felt that comment more deeply than he'd expected.
+
+He'd spent so much time wondering whether asking someone to accompany him would be a burden that he hadn't thought much about how difficult those decisions could be for the people offering help.
+
+Then another reply appeared.
+
+**MovingForward:**
+
+> But if someone can go somewhere with a friend, doesn't that suggest they could eventually do it alone? Isn't that what building confidence is about?
+
+Graham frowned.
+
+He could see how someone might reach that conclusion. But having another person there could change the actual safety of a situation. It wasn't simply a way to feel more confident.
+
+**Graham:**
+
+> Not necessarily. Having someone nearby can mean there's help available if something happens. That doesn't make going alone equally safe.
+>
+> I don't want to avoid everything. I want fewer seizures, and I'd like more of my life back.
+>
+> But I also don't want someone assuming that because I'm worried about a real danger, the answer is to stop worrying.
+
+He paused before adding:
+
+> Maybe that's one of the things a therapist could help us figure out. Which concerns are about real risks, which things might be changeable, and what treatment could actually help with.
+
+This time, he posted without rereading it.
+
+### A different question about CBT
+
+The original poster returned to the discussion.
+
+**MapleSister:**
+
+> Thank you, everyone. I think I've been mixing up two things.
+>
+> I want my sister to be safer, but I also want her to enjoy life again. I don't know whether CBT would help her seizures, her worries about them, or both.
+>
+> Maybe that's what we need to understand before deciding what it means for her to try therapy.
+
+Someone else replied.
+
+**StillLearning:**
+
+> That's what I find confusing. If these seizures are involuntary, how can changing thoughts or behaviour make any difference to them?
+
+Graham looked at the question for a long time.
+
+He'd been wondering much the same thing himself.
+
+He knew that CBT wasn't simply telling someone to think positively. He'd been learning that seizure-focused treatment could involve understanding patterns, practising responses where possible, working with worries and finding ways to take part in life.
+
+But he didn't know whether it would reduce his seizures. He also knew that some techniques might be less useful for someone like him, who often had no warning before an episode.
+
+**Graham:**
+
+> I don't know yet. I'm looking into treatment myself.
+>
+> I think there are different things it might help with, and I'd want to understand which ones we're actually working on.
+>
+> Having fewer seizures would mean a lot to me. But if treatment could also help me do more of the things I miss, safely, that would matter too.
+
+A little later, MapleSister thanked everyone for the discussion.
+
+Nobody had produced a simple answer. Some commenters still disagreed about how much encouragement was helpful and how much risk was reasonable.
+
+Graham didn't think an internet discussion could settle those questions for someone it had never met.
+
+He closed the forum. The message inviting Lena to the park was still saved on his phone, unsent. He hadn't decided whether to send it, and tonight's discussion hadn't made that decision for him.
+
+But it had given him a better question to bring to treatment: *Which parts of my situation could therapy realistically change?*
+
+---
+
+### When fear and danger are both real
+
+Have you ever worried about someone because they stopped doing something they used to enjoy? You may have wondered whether they were being overly cautious, or whether encouraging them would help.
+
+With functional seizures, it's worth looking more closely at what the person is actually concerned about.
+
+Some people have recognizable warning signs before an episode. Others don't. Some may need substantial assistance during or afterward. That means particular activities or locations can carry risks that reassurance alone cannot remove.
+
+Anxiety can also develop after frightening experiences, including experiences involving real danger.
+
+These aren't mutually exclusive explanations. A person may have good reasons to take precautions and also develop expectations, worries or patterns of avoidance that are worth exploring.
+
+For example, Graham has two separate concerns. Being alone when he might need assistance is a practical safety issue. Believing that asking Lena for company would ruin her afternoon is a prediction about someone else's reaction.
+
+A therapist might help Graham examine that prediction. It doesn't follow that he should ignore the genuine safety concern.
+
+> **Avoidance:** Staying away from a situation, activity or experience. Avoidance may be a reasonable safety precaution, a response to fear, or a mixture of both. The reason matters when deciding whether it should change.
+
+### How could CBT help with involuntary seizures?
+
+This is where the research becomes interesting.
+
+Seizure-focused CBT isn't simply about convincing someone that nothing bad will happen. It may involve learning about functional seizures, identifying patterns where they exist, practising responses to recognizable warning signs, addressing difficult expectations or reactions, and working toward meaningful activities.
+
+Some of those approaches might help reduce seizures for certain people. Others might help someone live with the uncertainty or participate more fully despite continuing symptoms.
+
+Not everyone has warning signs, and the same intervention won't suit every person. A therapist needs to understand what the individual actually experiences before choosing what to work on.
+
+Researchers have tested structured treatment programmes to see whether these possibilities lead to measurable improvements.
+
+The large **CODES trial**, published in 2020, compared specialized CBT plus standardized medical care with standardized medical care alone for adults with functional seizures. At twelve months, the difference in the main outcome—monthly seizure frequency—was not statistically significant. However, some other outcomes favoured the group offered CBT, including longer seizure-free intervals and better work and social functioning.
+
+A newer, smaller study of **Re-PROGRAM**, reported in October 2026, found that people using its structured self-guided programme had lower seizure rates than those receiving standard care alone. The therapist-guided comparison did not demonstrate a statistically significant benefit over standard care, and the study did not establish that self-guided treatment was better than therapist-guided treatment.
+
+These are different programmes with different research findings. Neither study shows that people cause their seizures by worrying, or that treatment removes the need to consider physical safety.
+
+[Read the CODES trial](https://doi.org/10.1016/S2215-0366(20)30128-0) · [Read the Re-PROGRAM study](https://doi.org/10.1001/jamaneurol.2026.3893)
+
+### What people in the community have experienced
+
+The distinction between reducing symptoms and making life more manageable appears in community discussions too.
+
+One parent described their daughter's experience with CBT:
+
+> “Cbt was not helpful in symptom management , but it helped her be more comfortable with them.”
+
+— [Parent in an FND discussion](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9y16q7/)
+
+The parent was discussing FND symptoms, but the excerpt doesn't establish the daughter's exact symptoms or the form of CBT she received. It illustrates one kind of benefit without demonstrating that the treatment was effective for functional seizures.
+
+Another person, who reported having functional seizures and previously receiving general CBT, described finding a more focused approach useful:
+
+> “I was originally dismissive of CBT And FND as I had been in CBT for a few years, but this focused approach has been really helpful for me.”
+
+— [Community member describing a seizure-focused workbook](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/)
+
+Both excerpts come from the same public discussion. They describe individual experiences, not measured success rates.
+
+They also illustrate why asking simply whether CBT works can be misleading. Which treatment? For which problem? What changed?
+
+### What would meaningful improvement look like?
+
+For some people, fewer functional seizures would be the most important result. For others, reduced disruption, less fear of future episodes or being able to participate in valued activities might also matter.
+
+A person can improve in one of these areas without improving in another.
+
+That doesn't mean an unsuccessful attempt to reduce seizures should automatically be celebrated as a success in coping. It means treatment goals and outcomes need to be discussed separately, and the person receiving care should have a say in what counts as worthwhile.
+
+For Graham, being able to visit the park with suitable support could be meaningful. So could having fewer seizures. Neither outcome should be assumed, and one shouldn't be used to dismiss the importance of the other.
+
+Perhaps the most useful question for a supporter isn't whether someone is *too frightened* or *not trying hard enough*.
+
+It's whether the proposed treatment addresses something that can realistically change, while respecting what the person still needs to remain safe.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
