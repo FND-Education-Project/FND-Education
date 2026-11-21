@@ -197,47 +197,29 @@ Clare had barely sat down before she started.
 
 "I swear, that poor woman can't catch a break. First the neurologist, then all those appointments, and now they've sent her to a psychologist who apparently thinks her childhood is responsible for everything. What's next? Hypnosis?"
 
-Lena laughed despite herself.
-
-"Clare, you haven't even met the psychologist."
+Lena laughed despite herself. "Clare, you haven't even met the psychologist."
 
 "I don't need to. Nadia came out of there looking like she'd been interrogated."
 
 "She said the appointment was awful," Lena replied. "The psychologist kept bringing up things from her past, and Nadia didn't think she was listening."
 
-Clare stirred her coffee.
-
-"Well, maybe she wasn't. But don't you think there might be something to it?"
+Clare stirred her coffee. "Well, maybe she wasn't. But don't you think there might be something to it?"
 
 "Something to what?"
 
 "Come on, Lena. You've seen how Nadia gets. Sometimes she disappears for days. She won't answer messages. And when she's overwhelmed, she can get really worked up over something that wouldn't bother most people."
 
-Lena immediately felt herself becoming defensive.
+Lena immediately felt herself becoming defensive. "She's dealing with a lot, Clare. She's in pain constantly, and half the time she can't even tolerate the lights in a room."
 
-"She's dealing with a lot, Clare. She's in pain constantly, and half the time she can't even tolerate the lights in a room."
+"I know! I'm not saying she isn't sick." Clare leaned forward. "But remember when she had that awful week after the argument with her brother? She barely left the house. And you said her seizures were worse. Now she's been offered psychological treatment, and she's walking out of appointments. Don't you see a pattern?"
 
-"I know! I'm not saying she isn't sick."
-
-Clare leaned forward.
-
-"But remember when she had that awful week after the argument with her brother? She barely left the house. And you said her seizures were worse. Now she's been offered psychological treatment, and she's walking out of appointments. Don't you see a pattern?"
-
-Lena hesitated.
-
-She remembered that week. Nadia had stopped answering the phone, cancelled lunch twice, and eventually admitted she was having a terrible time. Lena had wondered whether the family argument had made things worse.
+Lena hesitated. She remembered that week. Nadia had stopped answering the phone, cancelled lunch twice, and eventually admitted she was having a terrible time. Lena had wondered whether the family argument had made things worse.
 
 "Maybe," she admitted. "But that doesn't mean the argument caused her seizures."
 
-"Of course not. I'm not saying she sat down and decided to have one!"
+"Of course not. I'm not saying she sat down and decided to have one!" Clare looked genuinely offended by the suggestion. "I'm saying she might have things going on that she's not dealing with. She gets upset, she shuts everyone out, her symptoms get worse, and then she won't talk to the person who might actually help her. At some point you've got to wonder whether she's getting in her own way."
 
-Clare looked genuinely offended by the suggestion.
-
-"I'm saying she might have things going on that she's not dealing with. She gets upset, she shuts everyone out, her symptoms get worse, and then she won't talk to the person who might actually help her. At some point you've got to wonder whether she's getting in her own way."
-
-Lena opened her mouth, but nothing came out.
-
-There were pieces of Clare's argument she recognized. Nadia sometimes withdrew. She could become frustrated when people misunderstood her. And Lena had seen her symptoms worsen during difficult situations.
+Lena opened her mouth, but nothing came out. There were pieces of Clare's argument she recognized. Nadia sometimes withdrew. She could become frustrated when people misunderstood her. And Lena had seen her symptoms worsen during difficult situations.
 
 But Clare was putting those pieces together into something much bigger.
 
@@ -245,9 +227,7 @@ But Clare was putting those pieces together into something much bigger.
 
 "Why? I'm worried about her. You're worried about her. Everyone's worried about her. But heaven forbid we say anything that might upset her!"
 
-Clare's voice had risen enough that someone at the next table glanced over.
-
-Lena gave her a look.
+Clare's voice had risen enough that someone at the next table glanced over. Lena gave her a look.
 
 "Clare. Indoor voice."
 
@@ -255,23 +235,15 @@ Lena gave her a look.
 
 They both laughed. Clare had never whispered voluntarily in her life.
 
-Then Clare became serious again.
+Then Clare became serious again. "Look, I love Nadia. You know that. But what if the psychologist was getting somewhere, and Nadia walked out because she didn't like what she was hearing?"
 
-"Look, I love Nadia. You know that. But what if the psychologist was getting somewhere, and Nadia walked out because she didn't like what she was hearing?"
+Lena disliked the question immediately. Worse, a small part of her wondered the same thing.
 
-Lena disliked the question immediately.
-
-Worse, a small part of her wondered the same thing.
-
-She knew Nadia's symptoms were involuntary. She had seen enough to know that. Yet she couldn't explain why psychological treatment had been recommended, or whether Nadia's reaction to the appointment meant something.
-
-And now she wasn't sure why she felt so determined to defend her.
+She knew Nadia's symptoms were involuntary. She had seen enough to know that. Yet she couldn't explain why psychological treatment had been recommended, or whether Nadia's reaction to the appointment meant something. And now she wasn't sure why she felt so determined to defend her.
 
 ### The question that follows Nadia home
 
-A few days later, Lena visited Nadia.
-
-Nadia was sitting near the window, wearing her tinted glasses. She had made tea but hadn't touched it.
+A few days later, Lena visited Nadia. Nadia was sitting near the window, wearing her tinted glasses. She had made tea but hadn't touched it.
 
 They talked about ordinary things for a while. Clare's disastrous attempt at making sourdough. A television series they were both watching. The neighbour who had somehow managed to reverse into his own rubbish bins.
 
@@ -281,31 +253,19 @@ Eventually, Lena mentioned the psychologist.
 
 "Probably. I just need to find somebody who understands FND."
 
-Lena nodded.
+Lena nodded. "Can I ask you something? And I might get this completely wrong."
 
-"Can I ask you something? And I might get this completely wrong."
+Nadia gave her a cautious smile. "That's encouraging."
 
-Nadia gave her a cautious smile.
-
-"That's encouraging."
-
-Lena smiled back, then hesitated.
-
-"Clare and I were talking about your appointment. She wondered whether maybe the psychologist was trying to get at something important, and you left because it was difficult to hear."
+Lena smiled back, then hesitated. "Clare and I were talking about your appointment. She wondered whether maybe the psychologist was trying to get at something important, and you left because it was difficult to hear."
 
 Nadia's smile disappeared.
 
-Lena noticed immediately, but she had already started.
+Lena noticed immediately, but she had already started. "You know, because sometimes when things get difficult, you sort of shut everyone out. And there have been times when your seizures got worse around stressful things. Maybe there's something there that talking to someone could help with?"
 
-"You know, because sometimes when things get difficult, you sort of shut everyone out. And there have been times when your seizures got worse around stressful things. Maybe there's something there that talking to someone could help with?"
+Nadia looked down at her tea. There it was again.
 
-Nadia looked down at her tea.
-
-There it was again.
-
-Not an accusation exactly. Lena hadn't said her symptoms were imaginary, or that she was doing anything deliberately. But she had taken things Nadia struggled with and made them sound like clues to what was wrong with her.
-
-And what made it worse was that Nadia had wondered about those same things herself.
+Not an accusation exactly. Lena hadn't said her symptoms were imaginary, or that she was doing anything deliberately. But she had taken things Nadia struggled with and made them sound like clues to what was wrong with her. And what made it worse was that Nadia had wondered about those same things herself.
 
 What if she really was making her symptoms worse? What if she was refusing something that could help? What if the psychologist had seen something about her that she couldn't see?
 
@@ -313,57 +273,41 @@ She had spent years trying to understand what was happening to her body. Now eve
 
 "Is that what you think?" Nadia asked quietly.
 
-Lena shifted in her chair.
-
-"I don't know. That's why I'm asking."
+Lena shifted in her chair. "I don't know. That's why I'm asking."
 
 "Did you think I walked out because she was getting too close to something?"
 
 "No. Well..." Lena stopped. "I wondered if that was possible."
 
-Nadia took off her glasses and rubbed the bridge of her nose.
-
-"Do you know how many times I've asked myself whether I'm somehow doing this to myself?"
+Nadia took off her glasses and rubbed the bridge of her nose. "Do you know how many times I've asked myself whether I'm somehow doing this to myself?"
 
 Lena hadn't expected that.
 
 "When I have a bad day, I wonder what I did wrong. If I'm upset about something and my symptoms get worse, I wonder if that means I'm causing them. When a treatment doesn't help, I wonder if I didn't try hard enough."
 
-Her voice had become unsteady.
-
-"And now you're telling me my friends are wondering whether I walked out of an appointment because I couldn't face the truth."
+Her voice had become unsteady. "And now you're telling me my friends are wondering whether I walked out of an appointment because I couldn't face the truth."
 
 "I wasn't saying that!"
 
 "But that's what you're asking."
 
-Lena started to answer, then stopped.
+Lena started to answer, then stopped. She could hear it now.
 
-She could hear it now.
+Nadia looked away. "The worst part is that I can't prove what's going on inside my own head. I can't prove that I'm not secretly avoiding something. I can tell you what I know, but if someone decides that I'm in denial, even disagreeing with them can look like more denial."
 
-Nadia looked away.
-
-"The worst part is that I can't prove what's going on inside my own head. I can't prove that I'm not secretly avoiding something. I can tell you what I know, but if someone decides that I'm in denial, even disagreeing with them can look like more denial."
-
-Lena sat quietly for a moment.
-
-She hadn't thought of that.
+Lena sat quietly for a moment. She hadn't thought of that.
 
 ### What treatment can mean
 
 "I don't understand something, then," Lena said. "If they think a psychologist can help with FND, doesn't that mean there's something psychological causing it?"
 
-Nadia reached for her tea.
-
-"No. It means they think there might be something psychological treatment could help with. Those aren't the same thing."
+Nadia reached for her tea. "No. It means they think there might be something psychological treatment could help with. Those aren't the same thing."
 
 "But you have FND."
 
 "Yes. And I have migraines. And sometimes I struggle with everything that's happened to my life since I got sick. Those things don't all have to have the same explanation."
 
-Lena nodded slowly.
-
-Nadia continued.
+Lena nodded slowly, and Nadia continued.
 
 "A psychologist might help me deal with how much I've lost, or with things I avoid because I know they'll make my symptoms harder to manage. They might help me work on patterns that are affecting my daily life. Depending on the problem, therapy might even help some FND symptoms."
 
@@ -371,23 +315,13 @@ Nadia continued.
 
 "Exactly. Sometimes psychological factors might contribute to symptoms, and sometimes treatment can help without anyone knowing what started them. The fact that a treatment might work doesn't tell you what caused the illness."
 
-Lena thought about the argument with Nadia's brother.
+Lena thought about the argument with Nadia's brother. "But what about when your seizures got worse after that family thing?"
 
-"But what about when your seizures got worse after that family thing?"
+"They did get worse around then. I know that. But I was also sleeping badly, my migraines were worse, and I was completely exhausted. I can't tell you which things mattered, or how much." Nadia paused. "And even if stress contributed, that still wouldn't mean my FND was caused by a psychological problem."
 
-"They did get worse around then. I know that. But I was also sleeping badly, my migraines were worse, and I was completely exhausted. I can't tell you which things mattered, or how much."
+Lena looked at her. "Okay. I think I see what you're saying."
 
-Nadia paused.
-
-"And even if stress contributed, that still wouldn't mean my FND was caused by a psychological problem."
-
-Lena looked at her.
-
-"Okay. I think I see what you're saying."
-
-Nadia gave a tired little smile.
-
-"Then you're doing better than that psychologist."
+Nadia gave a tired little smile. "Then you're doing better than that psychologist."
 
 Lena laughed, but Nadia didn't.
 
@@ -397,15 +331,11 @@ Lena laughed, but Nadia didn't.
 
 "Maybe. I'm not saying psychology has nothing to offer me. But I need someone who will explore whether a treatment is useful without deciding in advance what my symptoms mean."
 
-Lena looked down at her hands.
-
-"So when you left, it wasn't because you didn't want treatment."
+Lena looked down at her hands. "So when you left, it wasn't because you didn't want treatment."
 
 "I left because I didn't trust the explanation she was giving me."
 
-There was a long silence.
-
-Then Nadia added something Lena hadn't considered.
+There was a long silence. Then Nadia added something Lena hadn't considered.
 
 "And I'm frightened that if one person writes down that I'm resisting psychological treatment, someone else might read that and start treating everything I say differently."
 
@@ -413,21 +343,15 @@ Then Nadia added something Lena hadn't considered.
 
 "If I tell a doctor my migraines are worse, will they investigate them? Or will they wonder whether I'm just stressed? If I need help with something physical, will they think helping me is encouraging disability?"
 
-Lena remembered how quickly she and Clare had started interpreting Nadia's behaviour once they heard the word *psychologist*.
+Lena remembered how quickly she and Clare had started interpreting Nadia's behaviour once they heard the word *psychologist*. She understood why Nadia was frightened.
 
-She understood why Nadia was frightened.
+Nadia looked at her again. "I know Clare means well. And I know you do too. But I need my friends to remember that I'm still the same person I was before that appointment. You haven't discovered something new about why I'm sick just because I've been referred to a psychologist."
 
-Nadia looked at her again.
+Lena nodded. "I'm sorry. I think I started wondering about things I don't actually know."
 
-"I know Clare means well. And I know you do too. But I need my friends to remember that I'm still the same person I was before that appointment. You haven't discovered something new about why I'm sick just because I've been referred to a psychologist."
+Nadia put her glasses back on. "I do that too," she said. "More than you realize."
 
-Lena nodded.
-
-"I'm sorry. I think I started wondering about things I don't actually know."
-
-Nadia put her glasses back on.
-
-"I do that too," she said. "More than you realize."
+---
 
 ### When a pattern starts to look like an explanation
 
@@ -439,11 +363,11 @@ FND is diagnosed using positive clinical findings, not by demonstrating trauma, 
 
 ### Why would psychological treatment help, then?
 
-Because the reason for offering treatment isn't necessarily an explanation of how an illness began.
+The reason for offering treatment isn't necessarily an explanation of how an illness began.
 
 Psychological care may be aimed at a particular functional symptom, fear of another episode, avoiding activities that have become difficult, coping with illness, or a separate problem such as anxiety or depression. The aim matters. So does the evidence for the particular approach.
 
-A [2021 systematic review of psychotherapy for adults with FND](#citation-1) found potentially helpful approaches, but the studies varied in their patients, treatments and measurements, and their limitations make broad promises inappropriate. [British Psychological Society guidance](#citation-2) also considers psychological care as one possible part of individualized management. Neither source establishes that a person's symptoms must have started for psychological reasons.
+A [2021 systematic review of psychotherapy for adults with FND](https://doi.org/10.1136/jnnp-2019-321926) found potentially helpful approaches, but the studies varied in their patients, treatments and measurements, and their limitations make broad promises inappropriate. [British Psychological Society guidance](https://doi.org/10.53841/bpsrep.2024.rep181) also considers psychological care as one possible part of individualized management. Neither source establishes that a person's symptoms must have started for psychological reasons.
 
 For example, if therapy helps someone participate in life despite functional seizures, that is a meaningful outcome. It doesn't prove that fear caused their first seizure. Equally, finding no psychological explanation doesn't automatically mean someone has nothing to gain from psychological support.
 
