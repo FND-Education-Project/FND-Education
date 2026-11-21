@@ -429,51 +429,47 @@ Nadia put her glasses back on.
 
 "I do that too," she said. "More than you realize."
 
-### What Lena takes home
+### When a pattern starts to look like an explanation
 
-On the drive home, Lena kept returning to the conversation.
+Clare's argument sounded persuasive because she wasn't making everything up. Nadia had withdrawn from friends, had difficult reactions to certain situations, and sometimes experienced worse symptoms around stressful events. Those were observations. The leap came when Clare treated them as evidence of an undiscovered psychological cause—and then treated Nadia's decision to leave an appointment as further evidence.
 
-Clare hadn't invented Nadia's difficulties. She really did withdraw sometimes. She sometimes became frustrated. And there had been occasions when her symptoms were worse during difficult periods.
+Here's the difficulty: several things can change at once. Nadia also had worsening migraines, poor sleep and exhaustion. Even if an argument added to her difficulties, that wouldn't tell Lena what originally caused her FND, or prove that Nadia was avoiding some hidden truth.
 
-But those observations didn't tell Lena what caused Nadia's FND.
+FND is diagnosed using positive clinical findings, not by demonstrating trauma, stress or a particular personality. Psychological factors can be relevant to some people's symptoms and treatment, but a stressful event is not required for the diagnosis. The [clinical review by Bennett and colleagues](https://doi.org/10.7861/CLINMED.2020-0987) explains that distinction.
 
-What unsettled her most was how easily she had moved from noticing something to explaining it.
+### Why would psychological treatment help, then?
 
-Before the psychologist's appointment, she had seen Nadia struggling. Afterward, she'd started wondering what Nadia might be hiding from herself.
+Because the reason for offering treatment isn't necessarily an explanation of how an illness began.
 
-Nothing about Nadia had changed.
+Psychological care may be aimed at a particular functional symptom, fear of another episode, avoiding activities that have become difficult, coping with illness, or a separate problem such as anxiety or depression. The aim matters. So does the evidence for the particular approach.
 
-Only the explanation Lena was considering had changed.
+A [2021 systematic review of psychotherapy for adults with FND](#citation-1) found potentially helpful approaches, but the studies varied in their patients, treatments and measurements, and their limitations make broad promises inappropriate. [British Psychological Society guidance](#citation-2) also considers psychological care as one possible part of individualized management. Neither source establishes that a person's symptoms must have started for psychological reasons.
 
-And once that explanation was in her head, even Nadia's decision to leave an uncomfortable appointment had started looking like evidence for it.
+For example, if therapy helps someone participate in life despite functional seizures, that is a meaningful outcome. It doesn't prove that fear caused their first seizure. Equally, finding no psychological explanation doesn't automatically mean someone has nothing to gain from psychological support.
 
-Lena knew Clare would probably have another dramatic theory by the time they met for coffee. That was Clare. She cared fiercely, talked loudly, and sometimes reached a conclusion before anyone else had finished describing the problem.
+### What other supporters have described
 
-But Lena couldn't put all the blame on Clare.
+One spouse, writing about her husband's experience after an FND diagnosis, said:
 
-She had believed just enough of it to carry the question back to Nadia.
+> “My husband’s biggest thing was feeling like no one would believe him.”
 
-And now she knew that Nadia was already asking herself many of those questions, often much more harshly than anyone else.
+— [Spouse in a public FND discussion](https://www.reddit.com/r/FND/comments/1rk5b5z/new_to_fnd/)
 
-Psychological treatment might genuinely help Nadia. It might help with some symptoms, with separate psychological difficulties, or with living through a difficult illness.
+Another parent described a family's growing frustration with care explained mainly through mental health:
 
-None of those possibilities established what caused her FND.
+> “It was very much a FND as a mental health model, which we accepted at first, and then after a couple of years found frustrating as her mental health is robust with no trauma history.”
 
-Lena hadn't needed to understand every detail of the treatment to appreciate that difference.
+— [Parent in a public FND discussion](https://www.reddit.com/r/FND/comments/1rfhr1h/comment/o7kig9o/)
 
-She only wished she'd understood it before asking Nadia.
+These are individual experiences, not research findings or proof that psychological treatment is inappropriate. Having no trauma history does not rule out FND or a useful role for therapy. But the accounts help explain why the *reason* someone gives for psychological care can matter as much as the referral itself.
 
----
+### Three questions, not one
 
-### Something to take away
+It helps to separate **what condition someone has**, **what a treatment might help with**, and **what originally caused the condition**. Those questions may have different answers.
 
-People close to someone with FND may notice real behaviours and real patterns. Withdrawing, becoming frustrated, avoiding situations, or experiencing worse symptoms during difficult periods may all be worth understanding.
+For Nadia, an FND diagnosis was already established. Whether psychological treatment could help her was still worth exploring. What caused her FND had not been established by her referral, her behaviour, or her decision to leave an uncomfortable appointment.
 
-But an observation is not the same as an explanation.
-
-Psychological treatment can have several purposes. The recommendation, acceptance, refusal, or success of that treatment does not, by itself, establish a psychological cause for FND.
-
-And sometimes a well-intentioned assumption can reach someone who is already quietly struggling with that very same doubt.
+And when someone questions an explanation, that disagreement isn't evidence that the explanation must be true. Sometimes the explanation itself deserves another look.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
