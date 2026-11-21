@@ -61,6 +61,16 @@ Both are personal experiences, not scientific evidence or evidence against thera
 
 ---
 
+## November 21 — Lesson 37 Supporter forum draft saved for Work review
+
+**Commit:** `a76edd4ae7c73cfaf01eabe861e04842a02d2bae` on draft PR #210. At the project lead's explicit request, the complete *proposed* Lesson 37 Supporter forum story and educational conclusion were placed in the actual lesson file, replacing only the original two-paragraph Supporter placeholder. The complete **Person and Clinician sections and navigation are preserved**. The lead intends to assign additional research/revision to the Work thread; **committing was for durable preservation, not final editorial approval, source audit, clinical review, or authorization to merge**.
+
+**Saved structure:** Graham reads a fictional community forum discussion about safety, functional seizures, fear, CBT and isolation; he remembers a previously dangerous situation without graphic/symptom-provoking detail; conflicting fictional commenters challenge assumptions about physical safety and avoidance; Graham contributes cautiously while maintaining an unsent invitation to Lena. Afterward, the narrator shifts to educational *advice-over-coffee* reasoning, comparing risk and anxiety, explaining proposed seizure-focused CBT targets, accurately distinguishing CODES and Re-PROGRAM outcomes, and using two attributed existing community-source quotations. Clearly mark forum posts as fiction and community quotes as actual quoted voices. **Do not confuse Nadia's friend Elise (renamed in Lesson 36) with Graham's friend Lena.** No real participant's story was reproduced as Graham's autobiographical account.
+
+**Next:** Work-thread review and user-led refinement; aim for emotionally convincing conflict without rewriting the existing Person park story or adding symptom-provoking descriptions. Quotations and evidence remain subject to final verification. Preserve the full committed Supporter text as the working baseline.
+
+---
+
 ## 1. First task for the new Chat thread
 
 1. Read this entire handoff and the companion [Module 12 authoring prompt](module-12-human-authoring-prompt-2026-11-17.md).
