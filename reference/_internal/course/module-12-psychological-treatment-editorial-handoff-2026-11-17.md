@@ -24,6 +24,23 @@
 
 ---
 
+## November 21 — Lesson 36 Supporter closing revision: evidence-and-voices approach
+
+**Saved working version:** The full fictional Clare–Lena–Nadia story remains in the Lesson 36 Supporter section. Its formerly repetitive `What Lena takes home` introspection and `Something to take away` recap were replaced by a more conversational, evidence-based explanation in commit `f79408aac12f5cad744551f999ee8fa7bce5786e`. **Draft only; project lead may have further feedback.** PR #210 remains draft; no merge, publication, audit or clinical review is claimed.
+
+**Why:** Project lead revisited the two previous Module 12 discussions and emphasized that this is **treatment education**, not relationship education. Preserve vivid, plausible misunderstanding and Nadia's strong internal response in the story, but after the final Nadia/Lena exchange move to grounded *advice-over-coffee* reasoning instead of repeating Lena's inner monologue. Avoid another account of her drive home.
+
+**Current closing sections**: `When a pattern starts to look like an explanation`, `Why would psychological treatment help, then?`, `What other supporters have described`, and `Three questions, not one`. Research grounding: Bennett et al. 2021 practical clinical review (positive diagnostic signs, no required stress/trauma); Gutkin et al. 2021 systematic review of psychotherapy for FND (heterogeneous, limited, potential benefits); BPS 2024 guidance on individualized psychological treatment. Explain that observations and treatment response cannot retroactively prove cause. Separate diagnosis, treatment goal and cause; allow relevant psychological contributions and genuine benefits without assuming them in every case.
+
+**Community voices used (earlier project selections and quote bank; not independently rechecked live in this editing pass):**
+- Spouse: “My husband’s biggest thing was feeling like no one would believe him.” https://www.reddit.com/r/FND/comments/1rk5b5z/new_to_fnd/
+- Parent Q060 / S15: “It was very much a FND as a mental health model, which we accepted at first, and then after a couple of years found frustrating as her mental health is robust with no trauma history.” https://www.reddit.com/r/FND/comments/1rfhr1h/comment/o7kig9o/
+Both are personal experiences, not scientific evidence or evidence against therapy. The second link was retrieved from the quote-bank DOCX hyperlink. Follow-up source/editorial audit should independently verify live quotations and their context before publication.
+
+**Next work:** Invite line-level project lead revision. Do not rewrite the existing story from memory; work from the current PR head and this note.
+
+---
+
 ## 1. First task for the new Chat thread
 
 1. Read this entire handoff and the companion [Module 12 authoring prompt](module-12-human-authoring-prompt-2026-11-17.md).
