@@ -80,7 +80,7 @@ Your clinician should explain the diagnosis in a way you can understand. You can
 
 ### Something to think about
 
-If your clinician showed you a positive sign of FND, what did they observe? What did they explain that finding might show about your nervous system?
+Choose a positive sign described in this lesson—or one your clinician has explained to you. What did the clinician observe, and why must that finding be considered alongside the rest of the examination?
 
 ### How might that feel?
 
@@ -88,9 +88,9 @@ What would help you feel comfortable asking questions about your diagnosis, espe
 
 ### One small step
 
-Try separating the explanation into two parts: **what the clinician found** and **what the finding means**.
+Try separating a positive-sign example from this lesson—or an explanation you were given—into two parts: **what was observed** and **what the clinician thinks it shows**.
 
-You can ask for either part to be explained again. There's no need to repeat neurological tests yourself; they require professional training and interpretation.
+If your own diagnosis hasn't been explained, you could instead think of one question you'd like to ask. Don't repeat neurological tests yourself; they need professional training and interpretation.
 
 ### Optional learning activity
 
