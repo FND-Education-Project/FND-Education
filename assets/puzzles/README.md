@@ -38,6 +38,60 @@ Choose a collection, module and lesson. These optional activities offer a lighte
 
 **Jump to a crossword:** [Lesson 15](#lesson-15-crossword) · [Lesson 16](#lesson-16-crossword) · [Lesson 17](#lesson-17-crossword) · [Module 4 review](#module-4-review-crossword) · [Module 5 review](#module-5-review-crossword) · [Module 6 review](#module-6-review-crossword) · [Lesson 12](#lesson-12-crossword) · [Lesson 13](#lesson-13-crossword) · [Lesson 14](#lesson-14-crossword) · [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword) · [Lesson 18](#lesson-18-crossword) · [Lesson 19](#lesson-19-crossword) · [Lesson 20](#lesson-20-crossword) · [Lesson 21](#lesson-21-crossword) · [Lesson 22](#lesson-22-crossword) · [Lesson 23](#lesson-23-crossword) · [Module 7 review](#module-7-review-crossword) · [Lesson 24](#lesson-24-crossword) · [Lesson 25](#lesson-25-crossword) · [Lesson 26](#lesson-26-crossword) · [Module 8 review](#module-8-review-crossword) · [Lesson 27](#lesson-27-crossword) · [Lesson 28](#lesson-28-crossword) · [Lesson 29](#lesson-29-crossword) · [Module 9 review](#module-9-review-crossword) · [Lesson 30](#lesson-30-crossword) · [Lesson 31](#lesson-31-crossword) · [Lesson 32](#lesson-32-crossword) · [Module 10 review](#module-10-review-crossword)
 
+
+
+## Module 11 activities
+
+<span id="lesson-33-crossword"></span>
+
+### Recognizing How Far You've Come — crosswords
+
+<img src="{{ '/assets/puzzles/thumbnails/recognizing-how-far-you-ve-come-m11-33-normal.svg' | relative_url }}" alt="Preview of Recognizing How Far You&#x27;ve Come crossword" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async">
+
+<a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-33/recognizing-how-far-you-ve-come-m11-33-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-33/recognizing-how-far-you-ve-come-m11-33-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-33/recognizing-how-far-you-ve-come-m11-33-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a>
+
+<span id="lesson-33-colouring"></span>
+
+### Recognizing How Far You've Come — colouring
+
+<a href="{{ '/assets/puzzles/colouring/lesson-33-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open printable PDF PDF (new tab)</a>
+
+<span id="lesson-34-crossword"></span>
+
+### Working With Your Healthcare Professionals — crosswords
+
+<img src="{{ '/assets/puzzles/thumbnails/working-with-your-healthcare-professionals-m11-34-normal.svg' | relative_url }}" alt="Preview of Working With Your Healthcare Professionals crossword" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async">
+
+<a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-34/working-with-your-healthcare-professionals-m11-34-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-34/working-with-your-healthcare-professionals-m11-34-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-34/working-with-your-healthcare-professionals-m11-34-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a>
+
+<span id="lesson-34-colouring"></span>
+
+### Working With Your Healthcare Professionals — colouring
+
+<a href="{{ '/assets/puzzles/colouring/lesson-34-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open printable PDF PDF (new tab)</a>
+
+<span id="lesson-35-crossword"></span>
+
+### Finding Your Way Through Healthcare Barriers — crosswords
+
+<img src="{{ '/assets/puzzles/thumbnails/finding-your-way-through-healthcare-barriers-m11-35-normal.svg' | relative_url }}" alt="Preview of Finding Your Way Through Healthcare Barriers crossword" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async">
+
+<a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-35/finding-your-way-through-healthcare-barriers-m11-35-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-35/finding-your-way-through-healthcare-barriers-m11-35-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Lesson-35/finding-your-way-through-healthcare-barriers-m11-35-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a>
+
+<span id="lesson-35-colouring"></span>
+
+### Finding Your Way Through Healthcare Barriers — colouring
+
+<a href="{{ '/assets/puzzles/colouring/lesson-35-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open printable PDF PDF (new tab)</a>
+
+<span id="module-11-review-crossword"></span>
+
+### FND Education — Module 11 Review — crosswords
+
+<img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-11-review-m11-normal.svg' | relative_url }}" alt="Preview of FND Education — Module 11 Review crossword" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async">
+
+<a href="{{ '/assets/puzzles/crosswords/Module-11-Summary/fnd-education-module-11-review-m11-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Summary/fnd-education-module-11-review-m11-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-11-Summary/fnd-education-module-11-review-m11-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a>
+
 ## Crosswords
 
 Choose a preview to open the PDF in a new tab or window. Normal and easy editions can be filled in using a compatible PDF reader or printed. The easy edition includes a word bank.

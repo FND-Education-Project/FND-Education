@@ -25,7 +25,7 @@ Follow the course in order, or open the topics most useful to you. Every lesson 
 
 ## Part Four: Treatment and Living With FND
 
-- [Module 11: Building an Individual Treatment Team](module-11-building-an-individual-treatment-team/README.md) — 3 lessons
+- [Module 11: Recognizing Progress and Navigating Healthcare](module-11-building-an-individual-treatment-team/README.md) — 3 lessons
 - [Module 12: Psychological Treatment Without Blame](module-12-psychological-treatment-without-blame/README.md) — 3 lessons
 - [Module 13: Daily Living, Accessibility, and Equipment](module-13-daily-living-accessibility-and-equipment/README.md) — 4 lessons
 - [Module 14: Relationships, Identity, and Grief](module-14-relationships-identity-and-grief/README.md) — 3 lessons

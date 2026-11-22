@@ -418,6 +418,8 @@ Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment 
 
 Use this source for the modern inclusionary diagnostic approach, removal of psychological stress as a required diagnostic criterion, broad treatment concepts, and limitations of older psychogenic assumptions. Later pages should distinguish DSM diagnostic criteria from broader mechanism proposals in the article.
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
+
 ## FND-CIT-0003
 
 Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1)
@@ -494,6 +496,7 @@ Use this source for current American Academy of Neurology evidence-based guidanc
 
 **Module 10 current use (November 14, 2026):** [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
 
 ## FND-CIT-0011
 
@@ -531,6 +534,7 @@ Use this source for the importance of patient-centred outcomes that include symp
 
 **Module 10 current use (November 14, 2026):** [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
 
+**Module 11 current use (November 17, 2026):** [Module 11 overview](../course/module-11-building-an-individual-treatment-team/README.md).
 
 ## FND-CIT-0013
 
@@ -647,6 +651,7 @@ Use this source for professional consensus on positive assessment and speech-and
 
 **Module 10 current use (November 14, 2026):** [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
 
+**Module 11 current use (November 17, 2026):** [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md).
 
 ## FND-CIT-0026
 
@@ -843,6 +848,8 @@ Use this source for the relationship between migraine and FND. The review found 
 
 **Module 8 current use (claim-level evidence check November 7, 2026; access limits in the Work audit):** [Lesson 24](../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 25](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
+
 ## FND-CIT-0050
 
 Nightscales R, McCartney L, Auvrez C, et al. Mortality in patients with psychogenic nonepileptic seizures. *Neurology*. 2020;95(6):e643–e652. [https://doi.org/10.1212/WNL.0000000000009855](https://doi.org/10.1212/WNL.0000000000009855)
@@ -910,6 +917,8 @@ Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic par
 Use this source for the bilateral hip-abductor comparison described in unilateral lower-limb paresis. Preserve the historical terminology only when quoting or giving the article title; use current non-stigmatizing language elsewhere. Do not extrapolate the result to bilateral or widespread paralysis.
 
 **Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
 
 ## FND-CIT-0059
 
@@ -1065,6 +1074,8 @@ Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: tr
 Use these recommendations for need-based multidisciplinary care, professional roles, coordination, supported local care and practical rehabilitation principles. The paper combines available research with multidisciplinary expert consensus in an Australian context; do not treat it as a comparative trial of team designs or proof that telehealth fits every person.
 
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+**Module 11 current use (November 17, 2026):** [Lesson 35](../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md); [Module 11 overview](../course/module-11-building-an-individual-treatment-team/README.md).
 
 ## FND-CIT-0077
 
@@ -1255,6 +1266,8 @@ Review of ophthalmic and neurological causes of photophobia; not proof of effica
 American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed September 17, 2026. [Source](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/).
 
 Professional communication-access guidance across conditions. Supports individualized AAC and continued access; not an FND treatment trial. The speech collection explicitly distinguishes this access approach from FND-CIT-0025’s caution about aids in functional mutism.
+
+**Module 11 current use (November 17, 2026):** [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md).
 
 ## FND-CIT-0107
 
@@ -1799,6 +1812,8 @@ Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functi
 
 **Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md).
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
+
 ## FND-CIT-0184
 
 Walczak TS, Bogolioubov A. Weeping during psychogenic nonepileptic seizures. *Epilepsia*. 1996;37(2):208-210. [DOI](https://doi.org/10.1111/j.1528-1157.1996.tb00013.x). [PMID: 8635432](https://pubmed.ncbi.nlm.nih.gov/8635432/).
@@ -2084,6 +2099,8 @@ National Institute for Health and Care Excellence. *Headaches in over 12s: diagn
 Guideline for headache treatment and medication-overuse management; not an FND treatment trial.
 
 **Current use:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md); [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md).
+
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
 
 ## FND-CIT-0200
 
@@ -3335,6 +3352,8 @@ Australian National Mental Health Commission. **Experiences of Functional Neurol
 
 **Module 10 scope:** Summary-report pages 9–10 support the general carer-burden statement. Self-selected responses (113 consumers, 66 carers); not a representative prevalence estimate.
 
+**Module 11 current use (November 17, 2026):** [Lesson 35](../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md).
+
 ## FND-CIT-0333
 
 Wieling W, Kaufmann H, Claydon VE, van Wijnen VK, Harms MPM, Juraschek SP, Thijs RD. **Diagnosis and treatment of orthostatic hypotension.** *The Lancet Neurology*. 2022;21(8):735–746. [Original](https://doi.org/10.1016/S1474-4422(22)00169-7) · [Open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10024337/).
@@ -3472,3 +3491,24 @@ Cock HR, Edwards MJ. **Functional neurological disorders: acute presentations an
 **Evidence and verification:** Clinical review; original full text independently checked November 14, 2026. The examination section advises against sternal rubs, nail-bed pressure and other noxious stimuli during dissociative/functional seizures because of injury and distress, including in people who retain awareness but cannot respond. This is clinical guidance, not a comparative treatment trial or a single-sign diagnostic rule. Project-lead-approved sentence added November 15, 2026.
 
 **Module 10 current use (November 15, 2026):** [Lesson 30, Clinician examination reflection](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md#examination-awareness-and-clinical-judgment).
+
+
+## FND-CIT-0349
+
+Reddit, r/WellSpouses. *PNES experience*. Original public discussion: https://www.reddit.com/r/WellSpouses/comments/1q2nlh9/pnes_experience/. Retained spouse excerpt unavailable for independent verification on November 17, 2026; exact wording, attribution and surrounding context could not be reconfirmed.
+
+**Evidence type:** Unverified community experience; not clinical evidence. Preserve the approved excerpt without implying current independent verification. Access failure does not establish deletion.
+
+**Module 11 current use (November 17, 2026):** [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md).
+
+
+## Module 11 — current source usage, November 17, 2026
+
+This mapping supersedes source-use assumptions from the earlier team-building draft. Removed unused lesson-table entries: Lehn, Nicholson OT and Dworetzky in Lesson 33; Rutten, Lehn and BPS in Lesson 34; BPS and Dworetzky in Lesson 35. Their other course and reference uses remain unchanged.
+
+| Page | Actual sources |
+|---|---|
+| [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md) | FND-CIT-0349, FND-CIT-0106, FND-CIT-0025 |
+| [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md) | FND-CIT-0002, FND-CIT-0058, FND-CIT-0183, FND-CIT-0049, FND-CIT-0199, FND-CIT-0010 |
+| [Lesson 35](../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md) | FND-CIT-0332, FND-CIT-0076 |
+| [Overview](../course/module-11-building-an-individual-treatment-team/README.md) | FND-CIT-0076, FND-CIT-0012 |
