@@ -217,6 +217,27 @@ You can simply think about your answers. No treatment or written record is requi
 
 **Free resources:** The [University of Sheffield's Non-Epileptic Attacks resources](https://non-epileptic-attacks.sites.sheffield.ac.uk/resources) include free information and practical worksheets, although they aren't a complete CBT workbook. The seizure-focused [*Taking Control of Your Seizures* workbook](https://academic.oup.com/book/1357) usually requires purchase or access through a library or therapist.
 
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-37" aria-label="Browse Lesson 37 crossword"><img src="{{ '/assets/puzzles/thumbnails/choose-a-therapy-and-set-goals-m12-37-normal.svg' | relative_url }}" alt="Preview of Lesson 37 crossword grid" loading="lazy" decoding="async"><span>Choose a Therapy and Set Goals</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 37 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-37/choose-a-therapy-and-set-goals-m12-37-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-37/choose-a-therapy-and-set-goals-m12-37-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-37/choose-a-therapy-and-set-goals-m12-37-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-37-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-37-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 37 printable colouring illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-37-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 37 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-37">browse the colouring collection</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
