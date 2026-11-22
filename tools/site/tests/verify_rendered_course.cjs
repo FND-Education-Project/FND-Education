@@ -34,12 +34,18 @@ process.on('exit', () => server.kill());
       // Reflection structure is checked on actual rendered HTML at both widths.
       if (/^\/course\/m(?:[1-9]|11|12)\/\d+\/$/.test(path)) {
         const reflection = await page.evaluate(() => {
-          const titles = Array.from(document.querySelectorAll('h3')).map(h => h.textContent.trim());
+          // Scope the invariant to Person content: Supporter sections may reuse a heading.
+          const headings = Array.from(document.querySelectorAll('h2, h3'));
+          const start = headings.findIndex(h => h.id === 'for-the-person-with-fnd');
+          if (start < 0) throw new Error('Missing Person section');
+          const next = headings.findIndex((h, i) => i > start && h.tagName === 'H2');
+          const titles = headings.slice(start + 1, next < 0 ? undefined : next)
+            .filter(h => h.tagName === 'H3').map(h => h.textContent.trim());
           return ['Something to think about','How might that feel?','One small step']
             .map(title => titles.filter(value => value === title).length);
         });
         if (reflection.some(count => count !== 1)) throw new Error('THA headings: '+path);
-        const heading = page.getByRole('heading', {name:'Something to think about', exact:true});
+        const heading = page.getByRole('heading', {name:'Something to think about', exact:true}).first();
         await heading.scrollIntoViewIfNeeded();
         await page.screenshot({path:output+'/reflections-'+width+'-'+path.split('/').filter(Boolean).join('-')+'.png'});
       }

@@ -31,6 +31,7 @@ No new community or scientific quotation is introduced by #214. All existing quo
 - **35 sets / 105 prompts** occur once each and in order. All nine Module 12 prompts remain exact.
 - Module 10 and Module 12 lesson files match the current audited parent byte-for-byte.
 - Full inventory generation and `--check`, six curriculum tests, source preparation and validation pass on the reconciled checkout.
+- Initial expanded browser run falsely counted a Supporter heading in Lesson 12 alongside the Person headings. The check now scopes its invariant to the Person section; no lesson edit was needed.
 - Browser checks cover the actual GitHub-built site at 1280px and 360px. Final-head results and commit are recorded in the PR completion note after the run.
 
 ## Remaining limits
