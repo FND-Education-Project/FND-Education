@@ -1,12 +1,12 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › [Module 12](README.md) › **Consent, Trauma, and Recognizing Harm**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › [Module 12](README.md) › **Consent and Changing the Treatment Plan**
 <!-- NAV-BREADCRUMB:END -->
 
-# Consent, Trauma, and Recognizing Harm
+# Consent and Changing the Treatment Plan
 
 > **Editorial status:** The Person, Supporter and Clinician sections have been human-authored and project-lead-approved (latest Supporter approval: November 22, 2026). The approved original illustration, colouring preview/PDF and crossword PDFs are now included and linked on this branch; exact image-to-alt fidelity and PDF usability still require visual and technical validation. Original-source and quotation verification, independent clinical review and technical publication checks remain pending.
 
-Trauma can matter deeply for some people with FND. It is not present, relevant to treatment or explanatory in the same way for everyone.
+Consent matters throughout treatment. When an exercise doesn't fit someone's needs, the clinician and patient can change the approach without abandoning their agreed goal.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -239,7 +239,7 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Before continuing, read [For the Person With FND](#for-the-person-with-fnd). It follows Callum and his psychologist as they reconsider a CBT exercise involving his phone. That experience will help explain what happens next.
+Callum sometimes needs his phone to communicate when speech becomes unavailable. In [For the Person With FND](#for-the-person-with-fnd), he and his psychologist reconsider an exercise so he can keep that access. Here, an ordinary school day shows why it matters.
 
 ### The substitute teacher
 
