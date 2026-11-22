@@ -83,6 +83,14 @@ Notice your own safety too. Get advice for lifting and transfers; do not improvi
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+### Community voice for editorial review
+
+> “I'm making every meal that I can for her so she has to do very little when she's struggling but she then wants to cook when she's in a better space.”
+
+— [Spouse describing how cooking shifts with her wife's abilities](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/)
+
+*Caregiver quotation bank Q011 / S04. Original wording, speaker and context require fresh verification before publication. One household's arrangement, not a rule about how much help any supporter must give.*
+
 ***
 
 ## For Clinicians and the Care Team
