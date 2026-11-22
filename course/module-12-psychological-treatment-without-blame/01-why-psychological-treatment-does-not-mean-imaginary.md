@@ -162,7 +162,7 @@ Back at home, Nadia pulls the page of questions from her bag. She didn't ask mos
 
 For now, she sets the page aside and rests. She doesn't need to decide today.
 
-**In the next lesson**, we'll follow Graham as he considers cognitive behavioral therapy for functional seizures: what it might help with, what research has actually found and what meaningful progress could look like. **Then we'll return to Callum**, who must weigh available CBT against a distant speech-language therapist, considering access, consent and the different goals of each treatment.
+**In the next lesson**, we'll follow Graham as he considers cognitive behavioral therapy for functional seizures: what it might help with, what research has actually found and what meaningful progress could look like. **Then we'll return to Callum**, who discovers that an exercise meant to help him participate needs to change when it threatens his way to communicate.
 
 ### Something to think about
 
