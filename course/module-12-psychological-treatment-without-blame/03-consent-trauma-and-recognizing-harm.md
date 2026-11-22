@@ -216,6 +216,7 @@ If it's safe and manageable, you might try that change and notice what happens. 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Before continuing, read [For the Person With FND](#for-the-person-with-fnd). It follows Callum and his psychologist as they reconsider a CBT exercise involving his phone. That experience will help explain what happens next.
 
