@@ -208,6 +208,27 @@ Now ask yourself: **"Could there be another way to understand what happened, or 
 
 If it's safe and manageable, you might try that change and notice what happens. You can also leave this as a thought exercise. This isn't about testing your FND symptoms or making them disappear.
 
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-38" aria-label="Browse Lesson 38 crossword"><img src="{{ '/assets/puzzles/thumbnails/consent-trauma-and-recognizing-harm-m12-38-normal.svg' | relative_url }}" alt="Preview of Lesson 38 crossword grid" loading="lazy" decoding="async"><span>Consent, Trauma, and Recognizing Harm</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 38 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-38/consent-trauma-and-recognizing-harm-m12-38-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-38/consent-trauma-and-recognizing-harm-m12-38-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-38/consent-trauma-and-recognizing-harm-m12-38-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-38-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-38-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 38 printable colouring illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-38-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 38 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-38">browse the colouring collection</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
