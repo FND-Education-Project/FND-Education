@@ -180,9 +180,7 @@ Her health is important. It doesn't have to occupy every waking moment.
 
 ### Something to think about
 
-Imagine receiving a normal medical test result while the symptom that prompted it remains real.
-
-What question did the test answer? Does that result rule out every possible explanation?
+When Natalie stood up during her appointment, the clinician measured a drop in her blood pressure. What did that finding show? What would they still need to find out before deciding whether it explained her unfamiliar faint feeling?
 
 ### How might that feel?
 
@@ -190,11 +188,9 @@ What difference would it make if a clinician understood your FND diagnosis while
 
 ### One small step
 
-If a test or explanation leaves you uncertain, consider asking:
+Use Natalie's example to finish **one sentence**: **"The clinician measured ___, but still needs to find out ___."**
 
-**"What does this result tell us, and what does it leave unanswered?"**
-
-You can also ask what the next step is intended to clarify. You don't need to investigate every possibility yourself.
+You can use the story even if you haven't had a similar experience. This is about understanding what a finding can—and cannot—tell us, not testing yourself or deciding on a diagnosis.
 
 ### Optional crossword
 
