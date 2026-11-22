@@ -216,12 +216,284 @@ If it's safe and manageable, you might try that change and notice what happens. 
 ***
 
 ## For Family, Friends, and Other Supporters
-{: #for-family-friends-and-other-supporters .shareable }
 
-Do not search for a hidden cause, question the person's memory or press for session details. Believe their report of a boundary or harmful interaction. Ask what support they want before contacting a provider.
+Before continuing, read [For the Person With FND](#for-the-person-with-fnd). It follows Callum and his psychologist as they reconsider a CBT exercise involving his phone. That experience will help explain what happens next.
 
-Therapy can bring temporary discomfort, but that phrase must not excuse coercion, retraumatization, unsafe deterioration or loss of consent. Help the person reach independent clinical, safeguarding or crisis support when needed.
+### The substitute teacher
 
+Callum was halfway through telling Asha about the upcoming school dance when she started laughing.
+
+"You're not seriously wearing that."
+
+"What's wrong with it?"
+
+"Nothing. If you're planning to audition for a boy band from 2005."
+
+"It's called having style."
+
+"It's called borrowing your dad's clothes."
+
+Callum was preparing a reply when Asha glanced towards the front of the classroom.
+
+"Oh. Teacher."
+
+A woman Callum didn't recognize was standing beside the whiteboard, waiting for their conversation to finish. She introduced herself as Mrs. Carter, their substitute teacher for the day.
+
+Callum hadn't even noticed her come in.
+
+The class settled down, and the lesson began.
+
+About twenty minutes later, Mrs. Carter asked a question about the material they'd been studying.
+
+"Callum, what do you think?"
+
+He knew the answer. He'd read about it the night before. But when he opened his mouth, nothing came out.
+
+*Not now.*
+
+He tried again. His voice wasn't available, even though he'd been speaking normally earlier.
+
+Callum reached for his phone.
+
+Mrs. Carter was already walking towards him.
+
+"Phones away, please."
+
+He looked up and began typing.
+
+"Callum, I need you to put that away."
+
+Before he could finish his message, she took the phone from his hand.
+
+"Thank you. You can collect it after class."
+
+### Everyone is watching
+
+"Miss, he needs that," Asha protested.
+
+Mrs. Carter turned towards her.
+
+"He can have it back at the end of the lesson."
+
+"No, seriously. Sometimes he can't talk. That's how he answers."
+
+Someone behind them spoke up.
+
+"Yeah, it's for his FND."
+
+Callum stared at his desk. He hadn't wanted the whole class discussing his medical condition, and now students were turning in their chairs to look at him.
+
+Mrs. Carter held up a hand.
+
+"I heard Callum having a perfectly normal conversation when I came in. If he's having difficulty now, we can discuss that afterward. But the rule is no phones during lessons, and we're not going to debate it in front of the class."
+
+"That's not fair," Asha said. "He literally can't answer you."
+
+"Ms., that's enough. We need to get on with the lesson."
+
+Callum felt his face getting hot. He gripped the edge of his desk, wishing Asha would stop arguing about him. At the same time, he desperately wanted her to keep going.
+
+He knew the answer to the question. He could have typed it in seconds. Instead, he sat there while everyone waited for something he couldn't give them.
+
+Mrs. Carter turned back towards the board.
+
+"Right. Where were we?"
+
+Nobody answered.
+
+She repeated the question to another student, who looked down at his notebook. A few people shifted awkwardly in their chairs. Asha was still staring at the teacher, her pencil resting untouched beside her notes.
+
+Mrs. Carter eventually continued the lesson, but the conversation had stopped. Students copied from the board, and the occasional question received little response.
+
+Callum kept his eyes on his desk.
+
+For the rest of the class, he didn't raise his hand, contribute an answer or try to attract anyone's attention.
+
+### What she thought she was helping
+
+When the bell rang, Mrs. Carter asked Callum to stay behind. She returned his phone as the other students filed out.
+
+Asha waited near the door until Callum waved her on.
+
+"I'm sorry if that was embarrassing," Mrs. Carter began. "I didn't know about your circumstances."
+
+Callum typed:
+
+*I have FND. Sometimes I can't speak. I use my phone.*
+
+She read his message carefully.
+
+"I understand that now. It's just that I heard you talking perfectly well earlier, so I wondered whether being asked to answer in front of everyone had made you anxious."
+
+Callum typed:
+
+*It happens when I'm not anxious too.*
+
+Mrs. Carter nodded.
+
+"You know, I once taught a student who had quite a pronounced stutter. It got much worse whenever he was nervous or had to speak in front of the class. But after he'd been with us a while and felt more comfortable, you could hardly notice it."
+
+She smiled.
+
+"It's surprising how much difference feeling comfortable can make."
+
+Callum considered that.
+
+He knew being nervous could affect how someone spoke. Even getting used to the demands of a classroom could make a difference. His psychologist had helped him think about how expectations and experiences might affect his participation.
+
+But that didn't explain every time his speech stopped. And the student Mrs. Carter remembered wasn't him.
+
+He could spend another ten minutes explaining his symptoms, his psychologist's recommendations and why he'd needed his phone. Perhaps she'd understand. Perhaps she'd have another example.
+
+She was a substitute teacher who might never teach his class again.
+
+"Can I go now?" he asked. His voice had returned, although it still sounded strained.
+
+"Of course. I'll make sure I check with the school about your arrangements."
+
+Callum picked up his bag and left.
+
+### Later, with Asha
+
+Asha caught up with him near the lockers.
+
+"That was awful. Are you okay?"
+
+"Yeah. Sort of."
+
+"I can't believe she took your phone. You were literally trying to answer her question."
+
+"I know."
+
+Asha shook her head.
+
+"She kept saying she'd heard you talk earlier, like that proved something."
+
+Callum leaned against his locker.
+
+"My psychologist wondered something a bit like that once. Whether I sometimes use the phone because I'm worried my speech won't work."
+
+"Really?"
+
+"Yeah. But we talked about it. I need the phone when I can't speak, so we changed what we were practising."
+
+"So you still use it?"
+
+"Of course. I'm trying to get better at joining in, not getting stuck with no way to answer."
+
+Asha looked down the corridor.
+
+"Well, Mrs. Carter certainly made it harder to join in."
+
+Callum laughed.
+
+"Yeah. That was some impressive teaching."
+
+They started towards their next class. Asha was still annoyed, but Callum had already decided he didn't want to spend the rest of the day explaining himself.
+
+---
+
+### When a reasonable observation leads to a wrong conclusion
+
+Mrs. Carter wasn't imagining things. She really had heard Callum speaking normally at the beginning of class.
+
+She'd also seen another student whose stutter improved as he became more comfortable.
+
+Both observations could be true.
+
+The trouble began when she used those experiences to explain what was happening to Callum.
+
+Anxiety and pressure can affect someone's speech. Becoming familiar with a situation can sometimes make speaking easier, too. But FND symptoms can vary for reasons that aren't always obvious.
+
+Being able to speak at nine o'clock doesn't prove someone will be able to speak at ten. And one student's improvement doesn't establish what will help another.
+
+There's a difference between wondering whether anxiety contributes to a difficulty and deciding that it explains the difficulty in front of you.
+
+Mrs. Carter's assumption had another consequence: **she removed the only way Callum could explain why she was mistaken.**
+
+### What about the concern that aids could slow recovery?
+
+This is a question worth discussing, because there's some genuine clinical reasoning behind it.
+
+In 2021, a group of specialists published [recommendations for treating functional speech and communication difficulties](https://livrepository.liverpool.ac.uk/3129270/1/Management%20of%20functional%20communication%2C%20swallowing%2C%20cough.pdf).
+
+They raised a concern that certain communication aids might, in some circumstances, make it harder to practise speaking. Their recommendations encourage helping people use their natural speech when appropriate.
+
+That sounds reasonable. If someone can practise a skill safely, we wouldn't necessarily want an aid to replace every opportunity to use it.
+
+But there's an important limitation.
+
+**These are recommendations based on clinical experience, not research proving that taking away someone's communication aid improves their FND.**
+
+Other professional guidance, including that from the [American Speech-Language-Hearing Association](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/), emphasizes providing communication methods that suit the individual's abilities and needs.
+
+The two concerns can coexist. Someone might benefit from practising speech when it's available while continuing to need another way to communicate when it isn't.
+
+Think about what happened in Mrs. Carter's classroom. Even if Callum sometimes reaches for his phone because he expects difficulty, taking it away didn't help him answer. It prevented him from answering at all.
+
+And nobody had established that his phone caused the difficulty she was trying to address.
+
+### What people in the FND community have described
+
+One person described how isolating speech loss could become:
+
+> “Loosing your speech is incredibly lonely. You can be in a room full of people and feel completely invisible.”
+
+— [Community member describing their experience of speech loss](https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/)
+
+Callum experienced something similar. He was surrounded by classmates. Some even defended him. Yet he couldn't make himself understood or participate in the lesson.
+
+In the same public discussion, another person described their father's use of a different communication method:
+
+> “he’s currently using a whiteboard to communicate”
+
+— [Adult child describing their father's communication](https://www.reddit.com/r/FND/comments/1vpsiic/comment/p44uzjn/)
+
+These are individual accounts, not evidence that a particular aid improves or prevents recovery.
+
+But they remind us that alternative communication isn't necessarily about giving up on speech. Sometimes it's what allows someone to remain involved while speech isn't available.
+
+### When encouragement becomes interference
+
+Here's where supporters can face an uncomfortable question.
+
+Suppose someone you care about has been encouraged to practise a difficult skill. You see them using an aid instead. Should you encourage them to try without it?
+
+There may be circumstances where that makes sense. But you need to understand what the person is practising, why the aid is being used and what happens if the skill isn't available. Otherwise, encouragement can become pressure based on an assumption.
+
+Mrs. Carter may have believed that speaking in front of the class would help Callum become more comfortable. But she wasn't carrying out a treatment plan. She didn't know what Callum and his psychologist had agreed to, and she didn't ask what his phone made possible.
+
+Callum's psychologist had also wondered whether worry sometimes affected his use of the phone. The difference, as readers saw in the Person section, was that she discussed the possibility with him, listened to his concerns and changed the proposed activity.
+
+Callum could still practise something challenging while keeping a way to communicate.
+
+That wasn't merely a nicer way of doing the exercise. It meant the exercise could continue to address the problem they had actually agreed to work on.
+
+### What consent has to do with it
+
+Professional counselling standards describe consent as something that continues throughout treatment. Agreeing to therapy doesn't mean agreeing automatically to every proposed exercise.
+
+The person needs to understand what's being suggested, have a meaningful chance to respond and be able to reconsider an activity that isn't working.
+
+[Canadian Counselling and Psychotherapy Association — Standards of Practice](https://www.ccpa-accp.ca/wp-content/uploads/2021/10/CCPA-Standards-of-Practice-ENG-Sept-29-Web-file.pdf)
+
+Of course, Mrs. Carter wasn't Callum's therapist. This wasn't a treatment session, and ordinary classroom rules aren't the same as therapeutic consent.
+
+But that's precisely why her assumption was a problem. She applied an idea about what might help someone's communication without knowing enough about his condition, needs or agreed supports.
+
+The same danger exists in healthcare when a plausible explanation becomes a rule that nobody is allowed to question.
+
+### What Callum's experience teaches
+
+Mrs. Carter saw something real but drew too much from it. Callum had been speaking normally. Later, he couldn't. She believed that encouraging him to answer without his phone would help, but it left him unable to participate.
+
+His psychologist had approached a related possibility differently. They discussed it, considered what his phone allowed him to do and adjusted the exercise without giving up the treatment goal.
+
+For a supporter, that's the distinction worth remembering.
+
+**A treatment or rehabilitation idea can be reasonable without being appropriate for every person or every situation.**
+
+The real question isn't simply whether someone could do something earlier, or whether an aid might sometimes become unnecessary. It's what they're capable of now, what they're working towards, and whether the proposed approach helps them participate without taking away an essential way to communicate.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
