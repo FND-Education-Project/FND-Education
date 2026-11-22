@@ -4,7 +4,7 @@
 
 # Why Psychological Treatment Does Not Mean Imaginary
 
-> **Editorial status:** The Person, Supporter and Clinician sections have been human-authored and project-lead-approved (latest Supporter approval: November 22, 2026). The approved illustration caption and alt text are embedded, but the referenced original PNG is not yet in this branch. Colouring-book and crossword PDFs are also not yet available. Original-source and quotation verification, independent clinical review and technical publication checks remain pending.
+> **Editorial status:** The Person, Supporter and Clinician sections have been human-authored and project-lead-approved (latest Supporter approval: November 22, 2026). The approved original illustration, colouring preview/PDF and crossword PDFs are now included and linked on this branch; exact image-to-alt fidelity and PDF usability still require visual and technical validation. Original-source and quotation verification, independent clinical review and technical publication checks remain pending.
 
 Psychological treatment is one possible part of care. Being offered it should never mean that symptoms are imagined, chosen or “only stress.”
 
