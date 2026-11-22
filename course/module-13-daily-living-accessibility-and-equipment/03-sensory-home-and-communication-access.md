@@ -86,6 +86,14 @@ Ask before turning off lights, speaking for the person or moving their equipment
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+### Community voice for editorial review
+
+> “My daughter's sensory diet and sensory go bag include something for every sense.”
+
+— [Father describing sensory supports his daughter uses](https://www.reddit.com/r/FND/comments/1itk0q6/please_supporthelp/)
+
+*Caregiver quotation bank Q047 / S11. Original wording, speaker and context require fresh verification before publication. A family's experience, not a prescribed sensory programme or proof that a particular item works.*
+
 ***
 
 ## For Clinicians and the Care Team
