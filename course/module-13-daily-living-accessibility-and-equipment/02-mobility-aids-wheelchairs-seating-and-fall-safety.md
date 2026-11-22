@@ -79,6 +79,14 @@ Do not hide an aid to make someone “try harder,” or insist on it when they h
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+### Community voice for editorial review
+
+> “On days when she needs it, the wheelchair helps her get to school, be social, etc.”
+
+— [Parent describing what a wheelchair makes possible for a child](https://www.reddit.com/r/FND/comments/1qb1nrq/comment/nzj6esm/)
+
+*Caregiver quotation bank Q084 / S26. Original wording, speaker and context require fresh verification before publication. A report of access and participation, not proof that this equipment is safe or appropriate for everyone.*
+
 ***
 
 ## For Clinicians and the Care Team
