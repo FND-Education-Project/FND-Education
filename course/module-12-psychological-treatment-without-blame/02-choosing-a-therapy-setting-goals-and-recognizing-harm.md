@@ -32,7 +32,7 @@ He's had seizures away from home before. The thought of being unable to move whi
 
 His friend Lena can sometimes accompany him, but she has her own responsibilities. So Graham usually stays home.
 
-Recently, his family doctor, Dr. Singh, suggested cognitive behavioural therapy, or CBT, for his functional seizures.
+Recently, his family doctor, Dr. Singh, suggested [cognitive behavioural therapy](../../glossary/README.md#cognitive-behavioural-therapy-cbt), or CBT, for his functional seizures.
 
 > **Treatment:** Healthcare intended to help with an illness or its effects. Treatment might reduce symptoms, make everyday activities easier or help someone manage difficulties caused by illness. It doesn't always remove the illness itself.
 

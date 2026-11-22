@@ -615,6 +615,10 @@ In the next lesson, we turn to everyday adaptations—starting with personal car
 
 ***
 
+## Further reading in the Reference Library
+
+- [Communication support and AAC](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)
+
 ## Research and Sources
 
 The meta-analysis supports an association between adversity and FND at group level while explicitly finding people without reported stressors. It cannot identify an individual's cause or indicate trauma therapy. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
