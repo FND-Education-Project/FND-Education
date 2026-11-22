@@ -374,9 +374,9 @@ They also give us useful questions to explore with our care team.
 
 ### Something to think about
 
-Imagine talking with a friend in a busy café while music, movement, pain or tiredness compete for your attention.
+In the café story, the grinder makes it harder to hear. The person tries harder to follow the conversation, becomes tired, and then finds listening even harder.
 
-Which demand would be hardest to set aside?
+Which changes keep affecting one another? What makes this a **feedback loop**, rather than just a noisy room?
 
 ### How might that feel?
 
@@ -384,9 +384,9 @@ When several demands pile up, what part of the activity do you most want to keep
 
 ### One small step
 
-Consider whether one demand could be reduced without losing the part you value: a quieter seat, a television turned off or fewer questions at once.
+Using the café example, choose **one part of the loop** that could change—perhaps the noise, the effort needed to listen or a chance to rest. How might that affect what happens next?
 
-If a similar adjustment already works elsewhere, it might be useful here too. There's no need to deliberately create overload.
+You can simply think it through. There's no need to create overload or test what happens to your symptoms.
 
 Next, we'll explore cognitive difficulties: why questions, words and familiar information sometimes seem to disappear, and how this relates to—but isn't the same as—a diagnosis of FCD.
 
