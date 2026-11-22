@@ -17,7 +17,7 @@
 
 **What could be stronger:** Several Heart prompts ask readers how a hypothetical positive outcome *might feel*, which may be less personal than asking which loss, need, value or hope matters *now*. Some Activities repeat writing down a question for a clinician, despite being reasonable in their own lessons. Some invite noticing but not trying or reviewing a chosen response. The next phase should vary the tasks, let people recognize **situation → thought or expectation → feeling → action**, and, only if they wish, choose an accessible, low-risk next response. This is CBT-*informed educational reflection*, **not** unsupervised exposure, diagnosis, a treatment protocol or a request to prove that thoughts caused symptoms.
 
-**Module 12 editorial task (not yet approved or published):** Design Lesson 36 to connect the purpose of psychology to the reader's own goals, Lesson 37 to consider which change would make treatment worthwhile, and Lesson 38 to practise noticing an expectation or worry and choosing a small, safe response in a familiar situation. Review all nine prompts together, avoid reusing similar generic "ask your clinician" tasks, and retain consent and optionality. The approved Person prose for Lessons 36–37 intentionally omits these headings. The current Lesson 38 public-source questions belong to an older generated draft and must **not** be mistaken for approved prompts for Callum's new story.
+**Module 12 status (November 22, 2026):** The three approved Thought–Heart–Activity sets are present in Lessons 36–38 and are preserved. The separate PR #214 harmonizes Lessons 1–29 and 33–35; Module 10 retains its approved alternative format.
 
 ## Verbatim inventory
 
@@ -296,8 +296,6 @@ And if writing or remembering feels like too much today, this activity can wait.
 
 **The idea is to make getting care easier, not give yourself another chore.**
 
-Next, we'll use what you've learned to help prepare your individual safety plan.
-
 ### Lesson 13 — Emergency Information and Individual Safety Plans
 
 [Source lesson](../../../course/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md) · Module 5
@@ -370,14 +368,6 @@ You've been using your safety plan.
 
 **The goal is to help everyone involved feel more prepared, so there's more room to enjoy everyday life.**
 
-<figure class="image-60center" markdown="1">
-
-![Three scenes show a person receiving support, discussing a plan with an occupational therapist, and choosing a park route with companions.](../../assets/images/lesson-14b-illustration.png)
-
-<figcaption>Notice what matters, prepare together, and use the plan in daily life. These scenes illustrate shared planning, rather than instructions for physical assistance.</figcaption>
-
-</figure>
-
 
 ## Module 6
 
@@ -405,8 +395,6 @@ Choose **one small change** that makes more room for your attention. You might l
 
 See whether returning to the activity feels easier. You can keep the support that works for you, change it, or save this idea for another day.
 
-Next, we'll look at how your brain handles familiar actions with less step-by-step conscious direction.
-
 ### Lesson 16 — Automatic Control and Conscious Effort
 
 [Source lesson](../../../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md) · Module 6
@@ -430,8 +418,6 @@ Think about the goal—getting the objects where they belong—rather than givin
 Keep your usual supports. Try it only for as long as it feels comfortable, and rest when you need to.
 
 If an activity brings a risk of falling or injury, you can describe it to your physiotherapist or occupational therapist instead. They can help you explore a safe version together.
-
-Next, we'll look more closely at how changing the focus, instructions, or surroundings may affect what happens during an activity.
 
 ### Lesson 17 — Distraction, External Focus, and Context
 
@@ -478,8 +464,6 @@ When something familiar becomes unpredictable, what bothers you most? Is it the 
 
 Remember the ways you've already made places safer or easier to use? The same thinking can help with an activity you enjoy. Keeping things where you expect to find them, or choosing a route you know well, may make that activity more comfortable. A familiar arrangement that's already helping is worth keeping.
 
-In our next lesson, we'll meet the different kinds of information your brain receives from your body and surroundings. That will help us understand what predictions are being compared *with*.
-
 ### Lesson 19 — Interoception, Proprioception, and Outside Senses
 
 [Source lesson](../../../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md) · Module 7
@@ -495,8 +479,6 @@ If someone couldn't see or feel what was making that situation difficult, what w
 **Activity** (source heading: *One small step*)
 
 Think of a place you'd like to enjoy more comfortably. Softer light for reading, a quieter place to talk, or a safer route across uneven ground might help. The useful change may be something you've already arranged; what matters is whether it helps you take part.
-
-In our next lesson, we'll explore why some information becomes particularly important to the brain—and why certain sensations, sounds or demands can become so difficult to ignore.
 
 ### Lesson 20 — Salience, Arousal, and Feedback Loops
 
@@ -514,8 +496,6 @@ When several demands pile up, what part of the activity do you most want to keep
 
 See whether one demand could be made smaller without losing the part you enjoy. A quieter seat, the television turned off during a conversation, or fewer instructions at once may be enough. If a change to your surroundings already helps, it may also be useful in another activity. There's no need to provoke symptoms to find out.
 
-Next, we'll explore cognitive difficulties: why questions, words and familiar information sometimes seem to disappear, and how this relates to—but isn't the same as—a diagnosis of FCD.
-
 ### Lesson 21 — Cognitive Difficulties in FND
 
 [Source lesson](../../../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) · Module 7
@@ -532,12 +512,6 @@ When something important goes missing, what would you want the person beside you
 
 If an interruption makes it hard to finish something you enjoy, a simple place-marker may help: a tick beside the last recipe step or a short note about what was agreed on a call. A reminder that's already working is just as useful. The point is to make the activity easier, not test your memory.
 
-In our next lesson, we'll explore what happens when thinking difficulties enter an emotional situation.
-
-What if you want to explain something important, but the information you need suddenly isn't available?
-
-And what if that difficulty itself becomes frightening or frustrating?
-
 ### Lesson 22 — Emotional Regulation and Involuntary Symptoms
 
 [Source lesson](../../../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md) · Module 7
@@ -553,8 +527,6 @@ If you still wanted to take part in the conversation, what would you most want t
 **Activity** (source heading: *One small step*)
 
 For a conversation that matters—perhaps planning a visit or explaining something at an appointment—make room for your answer. One question at a time, a quieter place, or a note you can point to may help. An arrangement that already makes another task easier could be useful here too. You don't have to control every feeling for the conversation to matter.
-
-In our next lesson, we'll explore the difference between **intending an action**, **feeling in control of it**, and **what your body actually does**.
 
 ### Lesson 23 — Agency, Learning, and Your Own Adaptations
 
@@ -663,7 +635,7 @@ What difference might it make to feel more informed about your condition and mor
 
 **Activity** (source heading: *One small step*)
 
-If you'd like to understand one of your **previously diagnosed FND symptoms** better, you could visit the [Reference Library](../../reference/README.md).
+If you'd like to understand one of your **previously diagnosed FND symptoms** better, you could visit the [Reference Library](../../README.md).
 
 Start with its **Understanding and Diagnosis** page. See whether the descriptions help you recognize your experience and learn how clinicians assess that particular presentation.
 
@@ -745,8 +717,6 @@ If someone recommends a treatment, you could ask:
 **“Has this been tested for symptoms like mine, and what improved?”**
 
 You don't need to read the studies yourself. Someone recommending a treatment should be able to explain what is known, what isn't and how that information relates to you.
-
-Next, we'll explore how everyday activities use up the energy and attention we have available—and what that means for living with FND.
 
 
 ## Module 10
@@ -869,7 +839,7 @@ Think of one treatment goal, real or imagined. Complete these two sentences:
 
 You can simply think about your answers. No treatment or written record is required.
 
-### Lesson 38 — Consent, Trauma, and Recognizing Harm
+### Lesson 38 — Consent and Changing the Treatment Plan
 
 [Source lesson](../../../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) · Module 12
 
@@ -896,6 +866,7 @@ Think of one small, safe everyday situation that was difficult. In your thoughts
 Now ask yourself: **"Could there be another way to understand what happened, or one small change that might help next time?"**
 
 If it's safe and manageable, you might try that change and notice what happens. You can also leave this as a thought exercise. This isn't about testing your FND symptoms or making them disappear.
+
 
 ## Module 13
 

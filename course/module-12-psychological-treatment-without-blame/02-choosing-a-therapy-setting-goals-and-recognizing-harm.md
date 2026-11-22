@@ -4,7 +4,7 @@
 
 # Choose a Therapy and Set Goals
 
-> **Editorial status:** The Person, Supporter and Clinician sections have been human-authored and project-lead-approved (latest Supporter approval: November 22, 2026). The approved original illustration, colouring preview/PDF and crossword PDFs are now included and linked on this branch; exact image-to-alt fidelity and PDF usability still require visual and technical validation. Original-source and quotation verification, independent clinical review and technical publication checks remain pending.
+> **Working draft:** All three audience sections are human authored and project-lead-approved; latest editorial approval November 22, 2026. Work Audit 2 evidence, citation and asset checks: November 22, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
 Therapy names describe broad families of treatment. The individual therapist, goal, adaptation and relationship also matter.
 
@@ -154,7 +154,7 @@ Graham has another question.
 
 Graham likes that answer, although he understands the treatment might still be difficult.
 
-The CODES study required participants to keep seizure records and answer questions about their symptoms independently. That means the results may not tell us as much about people who have greater memory or concentration difficulties.
+The CODES study required participants to keep seizure records and answer questions about their symptoms independently. That means the results may not tell us as much about people who have greater memory or concentration difficulties. (*citations* [6](#citation-6))
 
 Graham also asks whether any counsellor who offers CBT could provide this treatment.
 
@@ -170,7 +170,7 @@ He finds an online account from someone who had already received general CBT but
 
 > “I was originally dismissive of CBT And FND as I had been in CBT for a few years, but this focused approach has been really helpful for me.”
 
-— [A community member describing their experience](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/)
+— [A community member describing their experience](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/) *Figure 1.* (*citation* [9](#citation-9))
 
 It's one person's experience, not proof that the same workbook will help Graham. But it helps explain why the particular treatment matters.
 
@@ -215,7 +215,7 @@ You can simply think about your answers. No treatment or written record is requi
 
 ---
 
-**Free resources:** The [University of Sheffield's Non-Epileptic Attacks resources](https://non-epileptic-attacks.sites.sheffield.ac.uk/resources) include free information and practical worksheets, although they aren't a complete CBT workbook. The seizure-focused [*Taking Control of Your Seizures* workbook](https://academic.oup.com/book/1357) usually requires purchase or access through a library or therapist.
+**Free resources:** The [University of Sheffield's Non-Epileptic Attacks resources](https://non-epileptic-attacks.sites.sheffield.ac.uk/resources) include free information and practical worksheets, although they aren't a complete CBT workbook. The seizure-focused [*Taking Control of Your Seizures* workbook](https://academic.oup.com/book/1357) usually requires purchase or access through a library or therapist. (*citations* [11](#citation-11), [12](#citation-12))
 
 
 ### Optional crossword
@@ -362,7 +362,7 @@ The commenters were using the word *avoidance* for several different things. Gra
 
 Research documents that injuries can occur with functional seizures. Interviews with people whose seizures began later in life also describe reduced independence, withdrawal from social activities and worries about seizures in public. These findings don't tell us what is safe for Graham, but they help explain why “just build confidence” is an incomplete answer.
 
-[Injury review](https://doi.org/10.1111/epi.17752) · [Interview study](https://doi.org/10.1016/j.yebeh.2024.109666)
+[Injury review](https://doi.org/10.1111/epi.17752) · [Interview study](https://doi.org/10.1016/j.yebeh.2024.109666) (*citations* [7](#citation-7), [8](#citation-8))
 
 Emergency assessment can be necessary for an unresponsive person, especially when their history is unknown or there's a possible injury or other medical problem. Someone familiar with a person's seizures may help communicate their history and agreed response plan, but cannot guarantee that emergency care won't be needed.
 
@@ -372,11 +372,11 @@ Seizure-focused CBT may explore patterns and warning signs, when present, practi
 
 In the large **CODES trial**, adding specialized CBT to standardized medical care did **not** produce a statistically significant difference in the main measure of monthly seizure frequency at twelve months. Some secondary outcomes favoured CBT, including longer seizure-free intervals and better work and social functioning.
 
-[CODES trial](https://doi.org/10.1016/S2215-0366\(20\)30128-0)
+[CODES trial](https://doi.org/10.1016/S2215-0366\(20\)30128-0) (*citations* [3](#citation-3))
 
 The smaller **Re-PROGRAM trial**, reported in 2026, found lower seizure rates for its self-guided programme than for standard care alone. The therapist-guided comparison was less conclusive, and the study didn't establish either delivery format as superior. Neither study proves that thoughts caused anyone's seizures.
 
-[Re-PROGRAM trial](https://doi.org/10.1001/jamaneurol.2026.3893)
+[Re-PROGRAM trial](https://doi.org/10.1001/jamaneurol.2026.3893) (*citations* [5](#citation-5))
 
 ### Voices from the community
 
@@ -384,13 +384,13 @@ One parent described CBT helping their daughter feel more comfortable with FND s
 
 > “Cbt was not helpful in symptom management , but it helped her be more comfortable with them.”
 
-— [Parent in an FND discussion](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9y16q7/)
+— [Parent in an FND discussion](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9y16q7/) *Figure 2.* (*citation* [10](#citation-10))
 
 Another person, who reported functional seizures and experience with general CBT, described a seizure-focused workbook:
 
 > “I was originally dismissive of CBT And FND as I had been in CBT for a few years, but this focused approach has been really helpful for me.”
 
-— [Community member discussing a seizure-focused workbook](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/)
+— [Community member discussing a seizure-focused workbook](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/) *Figure 3.* (*citation* [9](#citation-9))
 
 Both are individual experiences from the same discussion, not estimates of treatment effectiveness. The parent's account doesn't establish her daughter's exact symptoms or CBT format.
 
@@ -569,13 +569,19 @@ The psychotherapy review found possible benefits but important quality and follo
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
-| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
-| <a id="citation-4"></a>**[4]** | — | LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [FND-CIT-0032](../../research/citation-index.md#fnd-cit-0032). [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817) |
-
-| <a id="citation-5"></a>**[5]** | — | Higson et al. Re-PROGRAM randomized trial for functional seizures. *JAMA Neurology*. Published online October 2026. [https://doi.org/10.1001/jamaneurol.2026.3893](https://doi.org/10.1001/jamaneurol.2026.3893). Full bibliographic details and permanent source ID pending evidence audit. |
+| <a id="citation-1"></a>**[1]** | — | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). |
+| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). |
+| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). |
+| <a id="citation-4"></a>**[4]** | — | LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817) [FND-CIT-0032](../../research/citation-index.md#fnd-cit-0032). |
+| <a id="citation-5"></a>**[5]** | — | Higson L, Chen Z, Rayner G, Alpitsis R, Knayfati S, O’Brien TJ, Winton-Brown T. Internet Intervention for Functional Seizures: A Randomized Clinical Trial. *JAMA Neurology*. Published online October 26, 2026:e263893. https://doi.org/10.1001/jamaneurol.2026.3893 [FND-CIT-0350](../../research/citation-index.md#fnd-cit-0350). |
+| <a id="citation-6"></a>**[6]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al. Cognitive–behavioural therapy compared with standardised medical care for adults with dissociative non-epileptic seizures: the CODES RCT. *Health Technology Assessment*. 2021;25(43). https://www.ncbi.nlm.nih.gov/books/NBK571629/ [FND-CIT-0351](../../research/citation-index.md#fnd-cit-0351). |
+| <a id="citation-7"></a>**[7]** | — | Moreira AB, Knochenhauer AE, Froehner GV, et al. Prevalence of ictal injuries in functional (psychogenic nonepileptic) seizures: A systematic review and meta-analysis. *Epilepsia*. 2023;64(11):3082–3098. https://doi.org/10.1111/epi.17752 [FND-CIT-0352](../../research/citation-index.md#fnd-cit-0352). |
+| <a id="citation-8"></a>**[8]** | — | Williams IA, Morris PG, Forristal K, Stone J, Gillespie DC. Illness representations of people with later-onset functional seizures. *Epilepsy & Behavior*. 2024;152:109666. https://doi.org/10.1016/j.yebeh.2024.109666 [FND-CIT-0353](../../research/citation-index.md#fnd-cit-0353). |
+| <a id="citation-9"></a>**[9]** | Figure 1, Figure 3 | Reddit, r/FND. *Does CBT actually work?* January 30, 2025. https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/ [FND-CIT-0357](../../research/citation-index.md#fnd-cit-0357). |
+| <a id="citation-10"></a>**[10]** | Figure 2 | Reddit, r/FND. *Does CBT actually work?* January 30, 2025. https://www.reddit.com/r/FND/comments/1idblzt/comment/m9y16q7/ [FND-CIT-0358](../../research/citation-index.md#fnd-cit-0358). |
+| <a id="citation-11"></a>**[11]** | — | Reiter JM, Andrews D, Reiter C, LaFrance WC Jr. *Taking Control of Your Seizures: Workbook*. Oxford University Press. 2015. https://academic.oup.com/book/1357 [FND-CIT-0361](../../research/citation-index.md#fnd-cit-0361). |
+| <a id="citation-12"></a>**[12]** | — | University of Sheffield. *Non-Epileptic Attacks: Resources*. https://non-epileptic-attacks.sites.sheffield.ac.uk/resources [FND-CIT-0362](../../research/citation-index.md#fnd-cit-0362). |
 
 This page still needs review by people with varied therapy experiences, therapists from different modalities, functional-seizure specialists and accessibility reviewers.
 
-*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
+*Last reviewed: November 22, 2026 · Editorial and evidence verification; independent clinical review pending*

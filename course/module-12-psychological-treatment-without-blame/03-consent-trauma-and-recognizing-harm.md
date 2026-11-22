@@ -4,7 +4,7 @@
 
 # Consent and Changing the Treatment Plan
 
-> **Editorial status:** The Person, Supporter and Clinician sections have been human-authored and project-lead-approved (latest Supporter approval: November 22, 2026). The approved original illustration, colouring preview/PDF and crossword PDFs are now included and linked on this branch; exact image-to-alt fidelity and PDF usability still require visual and technical validation. Original-source and quotation verification, independent clinical review and technical publication checks remain pending.
+> **Working draft:** All three audience sections are human authored and project-lead-approved; latest editorial approval November 22, 2026. Work Audit 2 evidence, citation and asset checks: November 22, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
 Consent matters throughout treatment. When an exercise doesn't fit someone's needs, the clinician and patient can change the approach without abandoning their agreed goal.
 
@@ -160,7 +160,7 @@ The same person later explained how difficult it can be to keep up with conversa
 
 > “You end up just giving up trying to explain as it’s just too much hassle and the moment has often passed by the time you are done typing.”
 
-— [A community member describing their experiences](https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/)
+— [A community member describing their experiences](https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/) *Figure 1.* (*citation* [7](#citation-7))
 
 Having a phone isn't always enough; other people also need to wait. Saved phrases and gestures won't restore speech, but they may help Callum stay involved.
 
@@ -437,7 +437,7 @@ Mrs. Carter's assumption had another consequence: **she removed the only way Cal
 
 This is a question worth discussing, because there's some genuine clinical reasoning behind it.
 
-In 2021, a group of specialists published [recommendations for treating functional speech and communication difficulties](https://livrepository.liverpool.ac.uk/3129270/1/Management%20of%20functional%20communication%2C%20swallowing%2C%20cough.pdf).
+In 2021, a group of specialists published [recommendations for treating functional speech and communication difficulties](https://livrepository.liverpool.ac.uk/3129270/1/Management%20of%20functional%20communication%2C%20swallowing%2C%20cough.pdf). (*citations* [4](#citation-4))
 
 They raised a concern that certain communication aids might, in some circumstances, make it harder to practise speaking. Their recommendations encourage helping people use their natural speech when appropriate.
 
@@ -447,7 +447,7 @@ But there's an important limitation.
 
 **These are recommendations based on clinical experience, not research proving that taking away someone's communication aid improves their FND.**
 
-Other professional guidance, including that from the [American Speech-Language-Hearing Association](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/), emphasizes providing communication methods that suit the individual's abilities and needs.
+Other professional guidance, including that from the [American Speech-Language-Hearing Association](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/), emphasizes providing communication methods that suit the individual's abilities and needs. (*citations* [5](#citation-5))
 
 The two concerns can coexist. Someone might benefit from practising speech when it's available while continuing to need another way to communicate when it isn't.
 
@@ -461,7 +461,7 @@ One person described how isolating speech loss could become:
 
 > “Loosing your speech is incredibly lonely. You can be in a room full of people and feel completely invisible.”
 
-— [Community member describing their experience of speech loss](https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/)
+— [Community member describing their experience of speech loss](https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/) *Figure 2.* (*citation* [7](#citation-7))
 
 Callum experienced something similar. He was surrounded by classmates. Some even defended him. Yet he couldn't make himself understood or participate in the lesson.
 
@@ -469,7 +469,7 @@ In the same public discussion, another person described their father's use of a 
 
 > “he’s currently using a whiteboard to communicate”
 
-— [Adult child describing their father's communication](https://www.reddit.com/r/FND/comments/1vpsiic/comment/p44uzjn/)
+— [Adult child describing their father's communication](https://www.reddit.com/r/FND/comments/1vpsiic/comment/p44uzjn/) *Figure 3.* (*citation* [8](#citation-8))
 
 These are individual accounts, not evidence that a particular aid improves or prevents recovery.
 
@@ -497,7 +497,7 @@ Professional counselling standards describe consent as something that continues 
 
 The person needs to understand what's being suggested, have a meaningful chance to respond and be able to reconsider an activity that isn't working.
 
-[Canadian Counselling and Psychotherapy Association — Standards of Practice](https://www.ccpa-accp.ca/wp-content/uploads/2021/10/CCPA-Standards-of-Practice-ENG-Sept-29-Web-file.pdf)
+[Canadian Counselling and Psychotherapy Association — Standards of Practice](https://www.ccpa-accp.ca/wp-content/uploads/2021/10/CCPA-Standards-of-Practice-ENG-Sept-29-Web-file.pdf) (*citations* [6](#citation-6))
 
 Of course, Mrs. Carter wasn't Callum's therapist. This wasn't a treatment session, and ordinary classroom rules aren't the same as therapeutic consent.
 
@@ -558,7 +558,7 @@ If his speech stops, the exercise may leave him unable to communicate his needs.
 
 The proposed activity therefore changes two things at once: Callum's opportunity to attempt speech and his access to communication. It becomes difficult to interpret the result in relation to the original hypothesis.
 
-This is more than a theoretical distinction. Speech-language therapy consensus guidance has raised concerns about aids potentially maintaining functional mutism, while broader communication guidance supports individualized access to alternative communication. Neither position, by itself, establishes that removing Callum's phone would improve his speech. [Speech-language guidance](https://doi.org/10.1136/jnnp-2021-326767) and [communication-access guidance](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/) address different parts of the decision.
+This is more than a theoretical distinction. Speech-language therapy consensus guidance has raised concerns about aids potentially maintaining functional mutism, while broader communication guidance supports individualized access to alternative communication. Neither position, by itself, establishes that removing Callum's phone would improve his speech. [Speech-language guidance](https://doi.org/10.1136/jnnp-2021-326767) and [communication-access guidance](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/) address different parts of the decision. (*citations* [4](#citation-4), [5](#citation-5))
 
 The useful question becomes: **Can the psychologist explore Callum's expectations while keeping his ability to communicate available?**
 
@@ -617,15 +617,19 @@ In the next lesson, we turn to everyday adaptations—starting with personal car
 
 ## Research and Sources
 
-The meta-analysis supports an association between adversity and FND at group level while explicitly finding people without reported stressors. It cannot identify an individual's cause or indicate trauma therapy. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+The meta-analysis supports an association between adversity and FND at group level while explicitly finding people without reported stressors. It cannot identify an individual's cause or indicate trauma therapy. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Ludwig L, Pasman JA, Nicholson T, et al. Stressful life events and maltreatment in conversion (functional neurological) disorder: systematic review and meta-analysis of case-control studies. *The Lancet Psychiatry*. 2018;5(4):307–320. [FND-CIT-0079](../../research/citation-index.md#fnd-cit-0079). [https://doi.org/10.1016/S2215-0366(18)30051-8](https://doi.org/10.1016/S2215-0366(18)30051-8) |
-| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
-| <a id="citation-4"></a>**[4]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+| <a id="citation-1"></a>**[1]** | — | Ludwig L, Pasman JA, Nicholson T, et al. Stressful life events and maltreatment in conversion (functional neurological) disorder: systematic review and meta-analysis of case-control studies. *The Lancet Psychiatry*. 2018;5(4):307–320. [https://doi.org/10.1016/S2215-0366(18)30051-8](https://doi.org/10.1016/S2215-0366(18)30051-8) [FND-CIT-0079](../../research/citation-index.md#fnd-cit-0079). |
+| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). |
+| <a id="citation-3"></a>**[3]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). |
+| <a id="citation-4"></a>**[4]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
+| <a id="citation-5"></a>**[5]** | — | American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed September 17, 2026. [Source](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/). [FND-CIT-0106](../../research/citation-index.md#fnd-cit-0106). |
+| <a id="citation-6"></a>**[6]** | — | Canadian Counselling and Psychotherapy Association. *Standards of Practice*. 2021, pp. 18–21, B4–B5. https://www.ccpa-accp.ca/wp-content/uploads/2021/10/CCPA-Standards-of-Practice-ENG-Sept-29-Web-file.pdf [FND-CIT-0354](../../research/citation-index.md#fnd-cit-0354). |
+| <a id="citation-7"></a>**[7]** | Figure 1, Figure 2 | Reddit, r/FND. *Recently Diagnosed FND – Complete Speech Loss*. August 17, 2026. https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/ [FND-CIT-0359](../../research/citation-index.md#fnd-cit-0359). |
+| <a id="citation-8"></a>**[8]** | Figure 3 | Reddit, r/FND. *Recently Diagnosed FND – Complete Speech Loss*. August 17, 2026. https://www.reddit.com/r/FND/comments/1vpsiic/comment/p44uzjn/ [FND-CIT-0360](../../research/citation-index.md#fnd-cit-0360). |
 
 This page still needs review by trauma survivors with and without FND, people who do not identify trauma, trauma therapists, safeguarding clinicians and accessibility reviewers.
 
-*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
+*Last reviewed: November 22, 2026 · Editorial and evidence verification; independent clinical review pending*

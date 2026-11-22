@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › **Module 12: Psychological Treatment Without Blame**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Editorial status:** All nine Lesson 36–38 audience sections were human-authored and project-lead-approved by November 22, 2026. The approved original illustrations, colouring-book PDFs/previews and crossword PDF sets for Lessons 36–38 were brought into this PR from merged main (PR #211 and subsequent crossword uploads). All three Person lessons now link their optional activities; the Module 12 review crossword is linked below and the puzzle catalogue contains its entries. All Chat Audit 1 editorial decisions were approved and implemented November 22, 2026; independent source/quotation verification, clinical, accessibility and final publication checks remain pending.
+> **Working draft:** All nine Lesson 36–38 audience sections are human authored and project-lead-approved; latest editorial approval November 22, 2026. Work Audit 2 evidence, citation and asset checks: November 22, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
 This module explores why psychological treatment may be offered, what outcomes would make it worthwhile, and how consent and access needs can shape an agreed treatment plan.
 
@@ -60,4 +60,4 @@ These sources support matched psychological care, honest evidence limits and tra
 
 This overview still needs review by people with varied therapy and trauma experiences, psychologists, neurologists and accessibility reviewers.
 
-*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
+*Last reviewed: November 22, 2026 · Editorial and evidence verification; independent clinical review pending*

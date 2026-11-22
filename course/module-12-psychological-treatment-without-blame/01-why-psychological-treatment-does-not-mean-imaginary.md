@@ -4,7 +4,7 @@
 
 # Why Psychological Treatment Does Not Mean Imaginary
 
-> **Editorial status:** The Person, Supporter and Clinician sections have been human-authored and project-lead-approved (latest Supporter approval: November 22, 2026). The approved original illustration, colouring preview/PDF and crossword PDFs are now included and linked on this branch; exact image-to-alt fidelity and PDF usability still require visual and technical validation. Original-source and quotation verification, independent clinical review and technical publication checks remain pending.
+> **Working draft:** All three audience sections are human authored and project-lead-approved; latest editorial approval November 22, 2026. Work Audit 2 evidence, citation and asset checks: November 22, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
 Psychological treatment is one possible part of care. Being offered it should never mean that symptoms are imagined, chosen or “only stress.”
 
@@ -148,7 +148,7 @@ Nadia thanks her and leaves, frustrated but relieved. The psychologist had been 
 
 Nadia arrived hoping to discuss the possible *purpose* of psychological treatment. The psychologist spent much of the visit exploring a possible *cause* of her FND. Both questions might be worth asking, but they aren't interchangeable.
 
-The psychologist was correct that conversion disorder appears in a psychiatric diagnostic manual, and that brain-imaging differences also occur in psychiatric conditions. Neither fact establishes that unresolved emotions caused Nadia's FND. Asking about difficult experiences may be appropriate; treating a possible connection as the answer is another matter.
+The psychologist was correct that conversion disorder appears in a psychiatric diagnostic manual, and that brain-imaging differences also occur in psychiatric conditions. Neither fact establishes that unresolved emotions caused Nadia's FND. Asking about difficult experiences may be appropriate; treating a possible connection as the answer is another matter. (*citations* [3](#citation-3), [4](#citation-4))
 
 > **Treatment goal:** Something a person and clinician agree they want care to help with. It might involve symptoms, everyday activities, distress or a separate mental-health condition.
 
@@ -380,7 +380,7 @@ Clare's argument sounded persuasive because she wasn't making everything up. Nad
 
 Here's the difficulty: several things can change at once. Nadia also had worsening migraines, poor sleep and exhaustion. Even if an argument added to her difficulties, that wouldn't tell Elise what originally caused her FND, or prove that Nadia was avoiding some hidden truth.
 
-FND is diagnosed using positive clinical findings, not by demonstrating trauma, stress or a particular personality. Psychological factors can be relevant to some people's symptoms and treatment, but a stressful event is not required for the diagnosis. The [clinical review by Bennett and colleagues](https://doi.org/10.7861/CLINMED.2020-0987) explains that distinction.
+FND is diagnosed using positive clinical findings, not by demonstrating trauma, stress or a particular personality. Psychological factors can be relevant to some people's symptoms and treatment, but a stressful event is not required for the diagnosis. The [clinical review by Bennett and colleagues](https://doi.org/10.7861/CLINMED.2020-0987) explains that distinction. (*citations* [3](#citation-3), [4](#citation-4))
 
 ### Why would psychological treatment help, then?
 
@@ -398,13 +398,13 @@ One spouse, writing about her husband's experience after an FND diagnosis, said:
 
 > “My husband’s biggest thing was feeling like no one would believe him.”
 
-— [Spouse in a public FND discussion](https://www.reddit.com/r/FND/comments/1rk5b5z/new_to_fnd/)
+— [Spouse in a public FND discussion](https://www.reddit.com/r/FND/comments/1rk5b5z/new_to_fnd/) *Figure 1.* (*citation* [5](#citation-5))
 
 Another parent described a family's growing frustration with care explained mainly through mental health:
 
 > “It was very much a FND as a mental health model, which we accepted at first, and then after a couple of years found frustrating as her mental health is robust with no trauma history.”
 
-— [Parent in a public FND discussion](https://www.reddit.com/r/FND/comments/1rfhr1h/comment/o7kig9o/)
+— [Parent in a public FND discussion](https://www.reddit.com/r/FND/comments/1rfhr1h/comment/o7kig9o/) *Figure 2.* (*citation* [6](#citation-6))
 
 These are individual experiences, not research findings or proof that psychological treatment is inappropriate. Having no trauma history does not rule out FND or a useful role for therapy. But the accounts help explain why the *reason* someone gives for psychological care can matter as much as the referral itself.
 
@@ -589,14 +589,19 @@ The next clinical step may be a more focused conversation rather than a more ela
 
 ## Research and Sources
 
-The psychotherapy review and briefing cover varied therapies and FND presentations. The CODES findings apply to adults with dissociative seizures in that trial, not all people with FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+The psychotherapy review and briefing cover varied therapies and FND presentations. (*citations* [1](#citation-1), [2](#citation-2))
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
-| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
+| <a id="citation-1"></a>**[1]** | — | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). |
+| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). |
+| <a id="citation-3"></a>**[3]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
+| <a id="citation-4"></a>**[4]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) [FND-CIT-0002](../../research/citation-index.md#fnd-cit-0002). |
+| <a id="citation-5"></a>**[5]** | Figure 1 | Reddit, r/FND. *New to FND*. https://www.reddit.com/r/FND/comments/1rk5b5z/new_to_fnd/ [FND-CIT-0355](../../research/citation-index.md#fnd-cit-0355). |
+| <a id="citation-6"></a>**[6]** | Figure 2 | Reddit, r/FND. Parent discussion of a mental-health model of FND. https://www.reddit.com/r/FND/comments/1rfhr1h/comment/o7kig9o/ [FND-CIT-0356](../../research/citation-index.md#fnd-cit-0356). |
+
+**Quotation verification:** The original excerpts for Figures 1 and 2 were unavailable for independent verification on November 22, 2026. Their wording and attribution are retained from the approved editorial handoff; their original context could not be reconfirmed.
 
 This page still needs review by people with helpful, neutral and harmful therapy experiences, psychologists, neurologists and accessibility reviewers.
 
-*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
+*Last reviewed: November 22, 2026 · Editorial and evidence verification; independent clinical review pending*
