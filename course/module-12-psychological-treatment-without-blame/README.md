@@ -1,10 +1,10 @@
 # Module 12 — Psychological Treatment Without Blame
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › **Module 12: Psychological Treatment Without Blame**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › **Module 12: Psychological Treatment Without Blame**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Editorial status:** All nine Lesson 36–38 audience sections were human-authored and project-lead-approved by November 22, 2026. The illustrations' captions and alt text are embedded in the Person lessons, but their original PNGs, colouring-book files and crossword PDF sets are not present in the available PR tree. Chat Audit 1 editorial decisions, Work original-source verification, clinical and technical acceptance, activity integration and publication readiness remain pending.
 
 This module separates why psychological care may be offered, how to choose a therapy, and how consent and trauma should be handled.
 
