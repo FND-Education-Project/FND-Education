@@ -556,7 +556,7 @@ The broader lesson is that understanding every cause is not always necessary bef
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Consent, Trauma, and Recognizing Harm](03-consent-trauma-and-recognizing-harm.md)
+**Continue:** [Next page: Consent and Changing the Treatment Plan](03-consent-trauma-and-recognizing-harm.md)
 
 **Navigate:** [← Previous page](01-why-psychological-treatment-does-not-mean-imaginary.md) · [Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
