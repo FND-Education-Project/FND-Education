@@ -433,9 +433,9 @@ And we've seen how understanding the particular difficulty can help us explain i
 
 ### Something to think about
 
-Think about someone losing their place during a task, forgetting a conversation or reaching for a familiar word. Was the information lost while they were using it, or was it hard to bring back later?
+Imagine someone losing their place during a task or struggling to find a familiar word. Paying attention, keeping information available and finding it again are different abilities.
 
-If you've experienced something similar, which fits best?
+Which abilities **might** be involved? Why can't one lapse tell us for certain?
 
 ### How might that feel?
 
