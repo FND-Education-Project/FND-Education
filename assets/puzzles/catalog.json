@@ -9,7 +9,9 @@
     "7": "Prediction, Body Signals, and Agency",
     "8": "Recognizing Symptoms and Finding Information",
     "9": "Rehabilitation and Neuroplasticity",
-    "10": "Pacing, Activity, and Available Capacity"
+    "10": "Pacing, Activity, and Available Capacity",
+    "11": "Recognizing Progress and Navigating Healthcare",
+    "12": "Psychological Treatment Without Blame"
   },
   "items": [
     {
@@ -993,6 +995,190 @@
         "Easy": "/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-easy.pdf",
         "Normal": "/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-normal.pdf",
         "Answer key": "/assets/puzzles/crosswords/Module-10-Summary/fnd-education-module-10-review-m10-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-33",
+      "module": 11,
+      "lesson": 33,
+      "title": "Recognizing How Far You've Come",
+      "image": "/assets/puzzles/thumbnails/recognizing-how-far-you-ve-come-m11-33-normal.svg",
+      "course": "/course/m11/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-11-Lesson-33/recognizing-how-far-you-ve-come-m11-33-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-11-Lesson-33/recognizing-how-far-you-ve-come-m11-33-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-11-Lesson-33/recognizing-how-far-you-ve-come-m11-33-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-33",
+      "module": 11,
+      "lesson": 33,
+      "title": "Recognizing How Far You've Come",
+      "course": "/course/m11/1/",
+      "image": "/assets/puzzles/colouring/lesson-33-coloring-book.png",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-33-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-34",
+      "module": 11,
+      "lesson": 34,
+      "title": "Working With Your Healthcare Professionals",
+      "image": "/assets/puzzles/thumbnails/working-with-your-healthcare-professionals-m11-34-normal.svg",
+      "course": "/course/m11/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-11-Lesson-34/working-with-your-healthcare-professionals-m11-34-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-11-Lesson-34/working-with-your-healthcare-professionals-m11-34-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-11-Lesson-34/working-with-your-healthcare-professionals-m11-34-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-34",
+      "module": 11,
+      "lesson": 34,
+      "title": "Working With Your Healthcare Professionals",
+      "course": "/course/m11/2/",
+      "image": "/assets/puzzles/colouring/lesson-34-coloring-book.png",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-34-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-35",
+      "module": 11,
+      "lesson": 35,
+      "title": "Finding Your Way Through Healthcare Barriers",
+      "image": "/assets/puzzles/thumbnails/finding-your-way-through-healthcare-barriers-m11-35-normal.svg",
+      "course": "/course/m11/3/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-11-Lesson-35/finding-your-way-through-healthcare-barriers-m11-35-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-11-Lesson-35/finding-your-way-through-healthcare-barriers-m11-35-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-11-Lesson-35/finding-your-way-through-healthcare-barriers-m11-35-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-35",
+      "module": 11,
+      "lesson": 35,
+      "title": "Finding Your Way Through Healthcare Barriers",
+      "course": "/course/m11/3/",
+      "image": "/assets/puzzles/colouring/lesson-35-coloring-book.png",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-35-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "module-11-review",
+      "module": 11,
+      "lesson": null,
+      "title": "FND Education — Module 11 Review",
+      "image": "/assets/puzzles/thumbnails/fnd-education-module-11-review-m11-normal.svg",
+      "course": "/course/m11/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-11-Summary/fnd-education-module-11-review-m11-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-11-Summary/fnd-education-module-11-review-m11-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-11-Summary/fnd-education-module-11-review-m11-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-36",
+      "module": 12,
+      "lesson": 36,
+      "title": "What is psychological treatment meant to help with?",
+      "image": "/assets/puzzles/thumbnails/what-is-psychological-treatment-meant-to-help-with-m12-36-normal.svg",
+      "course": "/course/m12/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-12-Lesson-36/what-is-psychological-treatment-meant-to-help-with-m12-36-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-12-Lesson-36/what-is-psychological-treatment-meant-to-help-with-m12-36-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-12-Lesson-36/what-is-psychological-treatment-meant-to-help-with-m12-36-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-36",
+      "module": 12,
+      "lesson": 36,
+      "title": "What is psychological treatment meant to help with?",
+      "course": "/course/m12/1/",
+      "image": "/assets/puzzles/colouring/lesson-36-coloring-book.png",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-36-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-37",
+      "module": 12,
+      "lesson": 37,
+      "title": "Choose a Therapy and Set Goals",
+      "image": "/assets/puzzles/thumbnails/choose-a-therapy-and-set-goals-m12-37-normal.svg",
+      "course": "/course/m12/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-12-Lesson-37/choose-a-therapy-and-set-goals-m12-37-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-12-Lesson-37/choose-a-therapy-and-set-goals-m12-37-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-12-Lesson-37/choose-a-therapy-and-set-goals-m12-37-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-37",
+      "module": 12,
+      "lesson": 37,
+      "title": "Choose a Therapy and Set Goals",
+      "course": "/course/m12/2/",
+      "image": "/assets/puzzles/colouring/lesson-37-coloring-book.png",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-37-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-38",
+      "module": 12,
+      "lesson": 38,
+      "title": "Consent, Trauma, and Recognizing Harm",
+      "image": "/assets/puzzles/thumbnails/consent-trauma-and-recognizing-harm-m12-38-normal.svg",
+      "course": "/course/m12/3/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-12-Lesson-38/consent-trauma-and-recognizing-harm-m12-38-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-12-Lesson-38/consent-trauma-and-recognizing-harm-m12-38-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-12-Lesson-38/consent-trauma-and-recognizing-harm-m12-38-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-38",
+      "module": 12,
+      "lesson": 38,
+      "title": "Consent, Trauma, and Recognizing Harm",
+      "course": "/course/m12/3/",
+      "image": "/assets/puzzles/colouring/lesson-38-coloring-book.png",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-38-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "module-12-review",
+      "module": 12,
+      "lesson": null,
+      "title": "FND Education — Module 12 Review",
+      "image": "/assets/puzzles/thumbnails/fnd-education-module-12-review-m12-normal.svg",
+      "course": "/course/m12/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-12-Summary/fnd-education-module-12-review-m12-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-12-Summary/fnd-education-module-12-review-m12-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-12-Summary/fnd-education-module-12-review-m12-answer-key.pdf"
       },
       "collection": "crosswords"
     }

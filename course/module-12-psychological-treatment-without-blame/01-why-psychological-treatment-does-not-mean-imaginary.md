@@ -1,10 +1,10 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › [Module 16](README.md) › **Why Psychological Treatment Does Not Mean Imaginary**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › [Module 12](README.md) › **Why Psychological Treatment Does Not Mean Imaginary**
 <!-- NAV-BREADCRUMB:END -->
 
 # Why Psychological Treatment Does Not Mean Imaginary
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** All three audience sections are human authored and project-lead-approved; latest editorial approval November 22, 2026. Work Audit 2 evidence, citation and asset checks: November 22, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
 Psychological treatment is one possible part of care. Being offered it should never mean that symptoms are imagined, chosen or “only stress.”
 
@@ -148,7 +148,7 @@ Nadia thanks her and leaves, frustrated but relieved. The psychologist had been 
 
 Nadia arrived hoping to discuss the possible *purpose* of psychological treatment. The psychologist spent much of the visit exploring a possible *cause* of her FND. Both questions might be worth asking, but they aren't interchangeable.
 
-The psychologist was correct that conversion disorder appears in a psychiatric diagnostic manual, and that brain-imaging differences also occur in psychiatric conditions. Neither fact establishes that unresolved emotions caused Nadia's FND. Asking about difficult experiences may be appropriate; treating a possible connection as the answer is another matter.
+The psychologist was correct that conversion disorder appears in a psychiatric diagnostic manual, and that brain-imaging differences also occur in psychiatric conditions. Neither fact establishes that unresolved emotions caused Nadia's FND. Asking about difficult experiences may be appropriate; treating a possible connection as the answer is another matter. (*citations* [3](#citation-3), [4](#citation-4))
 
 > **Treatment goal:** Something a person and clinician agree they want care to help with. It might involve symptoms, everyday activities, distress or a separate mental-health condition.
 
@@ -162,7 +162,7 @@ Back at home, Nadia pulls the page of questions from her bag. She didn't ask mos
 
 For now, she sets the page aside and rests. She doesn't need to decide today.
 
-**In the next lesson**, we'll follow Graham as he considers cognitive behavioral therapy for functional seizures: what it might help with, what research has actually found and what meaningful progress could look like. **Then we'll return to Callum**, who must weigh available CBT against a distant speech-language therapist, considering access, consent and the different goals of each treatment.
+**In the next lesson**, we'll follow Graham as he considers cognitive behavioral therapy for functional seizures: what it might help with, what research has actually found and what meaningful progress could look like. **Then we'll return to Callum**, who discovers that an exercise meant to help him participate needs to change when it threatens his way to communicate.
 
 ### Something to think about
 
@@ -181,6 +181,27 @@ Complete this sentence, even if only in your thoughts:
 You don't need to be considering psychological treatment to do this.
 
 
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-36" aria-label="Browse Lesson 36 crossword"><img src="{{ '/assets/puzzles/thumbnails/what-is-psychological-treatment-meant-to-help-with-m12-36-normal.svg' | relative_url }}" alt="Preview of Lesson 36 crossword grid" loading="lazy" decoding="async"><span>What is psychological treatment meant to help with?</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 36 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-36/what-is-psychological-treatment-meant-to-help-with-m12-36-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-36/what-is-psychological-treatment-meant-to-help-with-m12-36-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-36/what-is-psychological-treatment-meant-to-help-with-m12-36-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-36-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-36-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 36 printable colouring illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-36-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 36 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-36">browse the colouring collection</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -191,10 +212,209 @@ You don't need to be considering psychological treatment to do this.
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Do not treat therapy as a confession or ask what hidden event “really caused” FND. The person can find therapy useful without accepting that story, and can decline it without rejecting their diagnosis.
+### A conversation Nadia doesn't hear
 
-Support access if wanted: transport, privacy, technology, childcare or quiet recovery time. Do not ask for details of sessions unless the person offers them.
+Clare had barely sat down before she started.
 
+"I swear, that poor woman can't catch a break. First the neurologist, then all those appointments, and now they've sent her to a psychologist who apparently thinks her childhood is responsible for everything. What's next? Hypnosis?"
+
+Elise laughed despite herself. "Clare, you haven't even met the psychologist."
+
+"I don't need to. Nadia came out of there looking like she'd been interrogated."
+
+"She said the appointment was awful," Elise replied. "The psychologist kept bringing up things from her past, and Nadia didn't think she was listening."
+
+Clare stirred her coffee. "Well, maybe she wasn't. But don't you think there might be something to it?"
+
+"Something to what?"
+
+"Come on, Elise. You've seen how Nadia gets. Sometimes she disappears for days. She won't answer messages. And when she's overwhelmed, she can get really worked up over something that wouldn't bother most people."
+
+Elise immediately felt herself becoming defensive. "She's dealing with a lot, Clare. She's in pain constantly, and half the time she can't even tolerate the lights in a room."
+
+"I know! I'm not saying she isn't sick." Clare leaned forward. "But remember when she had that awful week after the argument with her brother? She barely left the house. And you said her seizures were worse. Now she's been offered psychological treatment, and she's walking out of appointments. Don't you see a pattern?"
+
+Elise hesitated. She remembered that week. Nadia had stopped answering the phone, cancelled lunch twice, and eventually admitted she was having a terrible time. Elise had wondered whether the family argument had made things worse.
+
+"Maybe," she admitted. "But that doesn't mean the argument caused her seizures."
+
+"Of course not. I'm not saying she sat down and decided to have one!" Clare looked genuinely offended by the suggestion. "I'm saying she might have things going on that she's not dealing with. She gets upset, she shuts everyone out, her symptoms get worse, and then she won't talk to the person who might actually help her. At some point you've got to wonder whether she's getting in her own way."
+
+Elise opened her mouth, but nothing came out. There were pieces of Clare's argument she recognized. Nadia sometimes withdrew. She could become frustrated when people misunderstood her. And Elise had seen her symptoms worsen during difficult situations.
+
+But Clare was putting those pieces together into something much bigger.
+
+"I don't think that's fair," Elise said.
+
+"Why? I'm worried about her. You're worried about her. Everyone's worried about her. But heaven forbid we say anything that might upset her!"
+
+Clare's voice had risen enough that someone at the next table glanced over. Elise gave her a look.
+
+"Clare. Indoor voice."
+
+"Oh, for goodness' sake. I'm practically whispering."
+
+They both laughed. Clare had never whispered voluntarily in her life.
+
+Then Clare became serious again. "Look, I love Nadia. You know that. But what if the psychologist was getting somewhere, and Nadia walked out because she didn't like what she was hearing?"
+
+Elise disliked the question immediately. Worse, a small part of her wondered the same thing.
+
+She knew Nadia's symptoms were involuntary. She had seen enough to know that. Yet she couldn't explain why psychological treatment had been recommended, or whether Nadia's reaction to the appointment meant something. And now she wasn't sure why she felt so determined to defend her.
+
+### The question that follows Nadia home
+
+A few days later, Elise visited Nadia. Nadia was sitting near the window, wearing her tinted glasses. She had made tea but hadn't touched it.
+
+They talked about ordinary things for a while. Clare's disastrous attempt at making sourdough. A television series they were both watching. The neighbour who had somehow managed to reverse into his own rubbish bins.
+
+Eventually, Elise mentioned the psychologist.
+
+"Are you going to see someone else?"
+
+"Probably. I just need to find somebody who understands FND."
+
+Elise nodded. "Can I ask you something? And I might get this completely wrong."
+
+Nadia gave her a cautious smile. "That's encouraging."
+
+Elise smiled back, then hesitated. "Clare and I were talking about your appointment. She wondered whether maybe the psychologist was trying to get at something important, and you left because it was difficult to hear."
+
+Nadia's smile disappeared.
+
+Elise noticed immediately, but she had already started. "You know, because sometimes when things get difficult, you sort of shut everyone out. And there have been times when your seizures got worse around stressful things. Maybe there's something there that talking to someone could help with?"
+
+Nadia looked down at her tea. There it was again.
+
+Not an accusation exactly. Elise hadn't said her symptoms were imaginary, or that she was doing anything deliberately. But she had taken things Nadia struggled with and made them sound like clues to what was wrong with her. And what made it worse was that Nadia had wondered about those same things herself.
+
+What if she really was making her symptoms worse? What if she was refusing something that could help? What if the psychologist had seen something about her that she couldn't see?
+
+She had spent years trying to understand what was happening to her body. Now even the people closest to her seemed to be examining her reactions for an explanation.
+
+"Is that what you think?" Nadia asked quietly.
+
+Elise shifted in her chair. "I don't know. That's why I'm asking."
+
+"Did you think I walked out because she was getting too close to something?"
+
+"No. Well..." Elise stopped. "I wondered if that was possible."
+
+Nadia took off her glasses and rubbed the bridge of her nose. "Do you know how many times I've asked myself whether I'm somehow doing this to myself?"
+
+Elise hadn't expected that.
+
+"When I have a bad day, I wonder what I did wrong. If I'm upset about something and my symptoms get worse, I wonder if that means I'm causing them. When a treatment doesn't help, I wonder if I didn't try hard enough."
+
+Her voice had become unsteady. "And now you're telling me my friends are wondering whether I walked out of an appointment because I couldn't face the truth."
+
+"I wasn't saying that!"
+
+"But that's what you're asking."
+
+Elise started to answer, then stopped. She could hear it now.
+
+Nadia looked away. "The worst part is that I can't prove what's going on inside my own head. I can't prove that I'm not secretly avoiding something. I can tell you what I know, but if someone decides that I'm in denial, even disagreeing with them can look like more denial."
+
+Elise sat quietly for a moment. She hadn't thought of that.
+
+### What treatment can mean
+
+"I don't understand something, then," Elise said. "If they think a psychologist can help with FND, doesn't that mean there's something psychological causing it?"
+
+Nadia reached for her tea. "No. It means they think there might be something psychological treatment could help with. Those aren't the same thing."
+
+"But you have FND."
+
+"Yes. And I have migraines. And sometimes I struggle with everything that's happened to my life since I got sick. Those things don't all have to have the same explanation."
+
+Elise nodded slowly, and Nadia continued.
+
+"A psychologist might help me deal with how much I've lost, or with things I avoid because I know they'll make my symptoms harder to manage. They might help me work on patterns that are affecting my daily life. Depending on the problem, therapy might even help some FND symptoms."
+
+"So it's not necessarily about finding what caused them?"
+
+"Exactly. Sometimes psychological factors might contribute to symptoms, and sometimes treatment can help without anyone knowing what started them. The fact that a treatment might work doesn't tell you what caused the illness."
+
+Elise thought about the argument with Nadia's brother. "But what about when your seizures got worse after that family thing?"
+
+"They did get worse around then. I know that. But I was also sleeping badly, my migraines were worse, and I was completely exhausted. I can't tell you which things mattered, or how much." Nadia paused. "And even if stress contributed, that still wouldn't mean my FND was caused by a psychological problem."
+
+Elise looked at her. "Okay. I think I see what you're saying."
+
+Nadia gave a tired little smile. "Then you're doing better than that psychologist."
+
+Elise laughed, but Nadia didn't.
+
+"She kept asking about my past, and when I tried to explain what I was experiencing now, she kept bringing it back to the same thing. It felt like she'd already decided what she was looking for."
+
+"Maybe she just wasn't the right person for you?"
+
+"Maybe. I'm not saying psychology has nothing to offer me. But I need someone who will explore whether a treatment is useful without deciding in advance what my symptoms mean."
+
+Elise looked down at her hands. "So when you left, it wasn't because you didn't want treatment."
+
+"I left because I didn't trust the explanation she was giving me."
+
+There was a long silence. Then Nadia added something Elise hadn't considered.
+
+"And I'm frightened that if one person writes down that I'm resisting psychological treatment, someone else might read that and start treating everything I say differently."
+
+"What do you mean?"
+
+"If I tell a doctor my migraines are worse, will they investigate them? Or will they wonder whether I'm just stressed? If I need help with something physical, will they think helping me is encouraging disability?"
+
+Elise remembered how quickly she and Clare had started interpreting Nadia's behaviour once they heard the word *psychologist*. She understood why Nadia was frightened.
+
+Nadia looked at her again. "I know Clare means well. And I know you do too. But I need my friends to remember that I'm still the same person I was before that appointment. You haven't discovered something new about why I'm sick just because I've been referred to a psychologist."
+
+Elise nodded. "I'm sorry. I think I started wondering about things I don't actually know."
+
+Nadia put her glasses back on. "I do that too," she said. "More than you realize."
+
+---
+
+### When a pattern starts to look like an explanation
+
+Clare's argument sounded persuasive because she wasn't making everything up. Nadia had withdrawn from friends, had difficult reactions to certain situations, and sometimes experienced worse symptoms around stressful events. Those were observations. The leap came when Clare treated them as evidence of an undiscovered psychological cause—and then treated Nadia's decision to leave an appointment as further evidence.
+
+Here's the difficulty: several things can change at once. Nadia also had worsening migraines, poor sleep and exhaustion. Even if an argument added to her difficulties, that wouldn't tell Elise what originally caused her FND, or prove that Nadia was avoiding some hidden truth.
+
+FND is diagnosed using positive clinical findings, not by demonstrating trauma, stress or a particular personality. Psychological factors can be relevant to some people's symptoms and treatment, but a stressful event is not required for the diagnosis. The [clinical review by Bennett and colleagues](https://doi.org/10.7861/CLINMED.2020-0987) explains that distinction. (*citations* [3](#citation-3), [4](#citation-4))
+
+### Why would psychological treatment help, then?
+
+The reason for offering treatment isn't necessarily an explanation of how an illness began.
+
+Psychological care may be aimed at a particular functional symptom, fear of another episode, avoiding activities that have become difficult, coping with illness, or a separate problem such as anxiety or depression. The aim matters. So does the evidence for the particular approach.
+
+A [2021 systematic review of psychotherapy for adults with FND](https://doi.org/10.1136/jnnp-2019-321926) found potentially helpful approaches, but the studies varied in their patients, treatments and measurements, and their limitations make broad promises inappropriate. [British Psychological Society guidance](https://doi.org/10.53841/bpsrep.2024.rep181) also considers psychological care as one possible part of individualized management. Neither source establishes that a person's symptoms must have started for psychological reasons.
+
+For example, if therapy helps someone participate in life despite functional seizures, that is a meaningful outcome. It doesn't prove that fear caused their first seizure. Equally, finding no psychological explanation doesn't automatically mean someone has nothing to gain from psychological support.
+
+### What other supporters have described
+
+One spouse, writing about her husband's experience after an FND diagnosis, said:
+
+> “My husband’s biggest thing was feeling like no one would believe him.”
+
+— [Spouse in a public FND discussion](https://www.reddit.com/r/FND/comments/1rk5b5z/new_to_fnd/) *Figure 1.* (*citation* [5](#citation-5))
+
+Another parent described a family's growing frustration with care explained mainly through mental health:
+
+> “It was very much a FND as a mental health model, which we accepted at first, and then after a couple of years found frustrating as her mental health is robust with no trauma history.”
+
+— [Parent in a public FND discussion](https://www.reddit.com/r/FND/comments/1rfhr1h/comment/o7kig9o/) *Figure 2.* (*citation* [6](#citation-6))
+
+These are individual experiences, not research findings or proof that psychological treatment is inappropriate. Having no trauma history does not rule out FND or a useful role for therapy. But the accounts help explain why the *reason* someone gives for psychological care can matter as much as the referral itself.
+
+### Three questions, not one
+
+It helps to separate **what condition someone has**, **what a treatment might help with**, and **what originally caused the condition**. Those questions may have different answers.
+
+For Nadia, an FND diagnosis was already established. Whether psychological treatment could help her was still worth exploring. What caused her FND had not been established by her referral, her behaviour, or her decision to leave an uncomfortable appointment.
+
+And when someone questions an explanation, that disagreement isn't evidence that the explanation must be true. Sometimes the explanation itself deserves another look.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -205,24 +425,145 @@ Support access if wanted: transport, privacy, technology, childcare or quiet rec
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### What makes a psychological assessment useful?
 
-**Option 1 — Gutkin et al., 2021**
+Psychological treatment has a legitimate place in FND care, but the reason for offering it deserves careful consideration.
 
-> “both CBT and PDT appear to potentially offer some benefit for FND”
+A referral might concern a particular functional symptom, fear or avoidance associated with that symptom, the emotional consequences of disability, or a coexisting psychiatric condition. These are different clinical problems. They may overlap, but they do not necessarily require the same treatment.
 
-**Option 2 — British Psychological Society, 2024**
+There's another distinction worth making: **what might be contributing to a patient's difficulties is not necessarily what psychological treatment needs to address.**
 
-> “the purely psychological view is now widely considered to be unsustainable”
+A clinician may suspect that emotional processes influence a patient's symptoms. That could be a useful hypothesis to explore. Yet a patient might benefit from psychological care directed toward participation, distress or an independently diagnosed mental-health condition without the original cause of FND ever being established.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+The research supports considering psychological treatment while remaining careful about the claims made for it.
 
-### Explain target, rationale and limits
+Gutkin and colleagues' 2021 systematic review examined psychotherapy studies involving adults with FND. It identified potentially beneficial approaches, including cognitive behavioural and psychodynamic therapies. However, differences in the populations studied, treatment methods and outcome measures, alongside limitations in study quality, restrict how confidently those findings can be generalized to an individual patient.
 
-State whether the referral concerns a specific FND presentation, adjustment to illness, cognitive or emotional processes relevant to rehabilitation, or a comorbid psychiatric condition. Do not use the referral as retrospective proof of causation.
+The British Psychological Society's 2024 briefing similarly places psychological approaches within broader, individualized care rather than treating FND as a disorder requiring a single psychological explanation. Its recommendations are professional guidance, not experimental evidence that a particular intervention will work.
 
-Evidence varies by modality, phenotype and outcome. Discuss mixed trial findings, alternatives, burden and patient preference. Psychological care should sit within continuing neurological and general healthcare, with reassessment of new or changed symptoms. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+These sources support a useful clinical starting point: psychological care may be appropriate, but the indication, intended outcome and limitations should be understandable to both clinician and patient. (*citations* [1](#citation-1), [2](#citation-2))
 
+This becomes particularly important when an assessment begins with a referral that already suggests a psychological explanation.
+
+### Nadia's assessment: when the purpose becomes unclear
+
+Nadia is a fictional patient with established FND involving functional seizures and movement difficulties, alongside migraines that have recently worsened.
+
+Her family doctor, Dr. Chen, initially suggested a psychological assessment while she was seeking help for worsening migraines. They subsequently clarified that her migraine care would continue separately. Nadia agreed to attend the assessment because she wanted to understand whether psychological treatment might help with the disruption caused by her functional symptoms.
+
+Nadia also had a difficult experience with an earlier psychologist, who appeared convinced that unresolved emotions caused her FND. She now approaches psychological care cautiously but remains open to considering a treatment with a useful purpose.
+
+Before her appointment, she prepared three questions:
+
+- What could treatment help me with?
+- What would we work on together?
+- How would we know whether it was useful?
+
+The psychologist explored Nadia's health history, emotional experiences, stressful life events and possible relationships between those experiences and her functional symptoms.
+
+Such questions can contribute to a psychological formulation, particularly when identifiable emotional difficulties, psychiatric comorbidities or patterns the patient considers relevant emerge.
+
+However, the discussion repeatedly returned to the possibility that unresolved emotions explained Nadia's symptoms. Her attempts to distinguish potential influences from established causes did not substantially change the direction of the interview.
+
+Nadia eventually became quieter. Her migraine was worsening, and questioning the psychologist's assumptions had become exhausting. Further appointments were suggested, but she left without a clear understanding of their proposed treatment purpose.
+
+The complete experience is described in [For the Person With FND](#for-the-person-with-fnd). Here, the clinical concern is not simply that the psychologist asked about emotions. It is **how a possible explanation began shaping the assessment before the purpose of treatment had been agreed upon**.
+
+### What does the patient's response establish?
+
+Several observations from Nadia's appointment are worth distinguishing.
+
+- Nadia acknowledged difficult experiences around the onset of her illness but did not identify unresolved emotions as their cause.
+- When asked whether unrecognized feelings might be involved, she said this was possible. That response expressed uncertainty rather than agreement with the hypothesis.
+- Her questions about the proposed explanation did not necessarily indicate unwillingness to consider psychological treatment.
+- Her increasingly brief responses occurred alongside worsening migraine symptoms, fatigue and frustration.
+- She did not agree to begin treatment simply because she listened to the proposed approach.
+
+These distinctions matter because the same observable behaviour can support several interpretations.
+
+A patient who becomes quiet may understand and accept a formulation. Alternatively, they may be exhausted, uncertain, experiencing communication difficulties or choosing not to continue challenging the clinician.
+
+**The behaviour alone cannot establish which explanation is correct.**
+
+Similarly, a patient who questions a causal theory may be expressing a reasonable concern about the evidence rather than rejecting the possibility of psychological support.
+
+### Where a reasonable hypothesis can become too influential
+
+The psychologist gathered potentially useful information, but its evidential value differed.
+
+Nadia's neurological diagnosis of FND was already established. Her account of unpredictable symptoms and their disruption of daily life was directly relevant to her current difficulties.
+
+Her history of stressful experiences was also relevant information, although its relationship to the onset or maintenance of her functional symptoms remained uncertain. The suggestion that unresolved emotions caused her FND was a further interpretation, not an established finding.
+
+This is where confirmation bias becomes worth considering.
+
+Once a clinician begins favouring a particular explanation, ambiguous information may appear to support it. Questions can gradually become narrower, even when the clinician is genuinely trying to understand the patient.
+
+For example, Nadia's acknowledgement that unrecognized feelings were *possible* might support further exploration of emotional processes. But it could equally mean that she did not know the answer and remained open to several explanations.
+
+Neither interpretation establishes a psychological cause.
+
+The psychologist's task is not to exclude emotional influences because Nadia questions them, nor to establish a psychological cause before offering useful treatment. Both positions would close off possibilities prematurely.
+
+A more informative formulation would distinguish what has been established, what remains hypothetical and which current problems might respond to psychological care.
+
+### Returning to the treatment question
+
+Consider what the psychologist might recognize when reviewing the consultation.
+
+She has gathered considerable information about Nadia's experiences. Yet three important questions remain incompletely answered.
+
+**1. What is Nadia hoping to improve?**
+
+Nadia has described unpredictable symptoms, difficulty participating in everyday life and frustration about previous healthcare explanations.
+
+But which of these difficulties would she want psychological treatment to address, if any? Establishing this distinction could help determine whether the proposed care is relevant to her priorities.
+
+**2. What would the proposed intervention actually target?**
+
+Exploring emotional experiences might be worthwhile if a relevant therapeutic goal emerges. Alternatively, Nadia might wish to address fear associated with unpredictable episodes, the emotional consequences of disability or a separately assessed mental-health concern.
+
+These possibilities involve different rationales and may call for different approaches. They would need to be explored with Nadia rather than selected solely from the referral.
+
+**3. What would count as a useful outcome?**
+
+Reduced symptom frequency, less distress, greater participation and improved psychological wellbeing are not interchangeable outcomes.
+
+An intervention might improve one without improving the others. The appropriate outcome would depend on the agreed treatment target, the available evidence and Nadia's priorities.
+
+At this stage, the psychologist cannot confidently answer these questions on Nadia's behalf. Recognizing that limitation offers a more useful direction for a possible follow-up appointment.
+
+Rather than continuing the search for underlying emotions, the psychologist could invite Nadia to clarify what she hoped the assessment might provide. They could then examine which approaches might address those goals, the uncertainty surrounding their benefits and the available alternatives.
+
+Nadia could decide whether further psychological assessment or treatment was worthwhile. Her earlier hesitation need not be interpreted as resistance, nor should her willingness to attend be mistaken for agreement with a particular formulation.
+
+### Keeping psychological and medical care distinct
+
+A further concern deserves attention: Nadia's worsening migraines.
+
+Psychological factors can influence how someone experiences and responds to migraine, as they can with many health conditions. That possibility does not establish that migraine is psychologically caused or that psychological treatment should replace appropriate headache assessment and management.
+
+In Nadia's case, Dr. Chen has already undertaken to address her changing headaches separately. The psychologist can acknowledge their impact on Nadia's wellbeing and participation without making migraine improvement dependent on the psychological formulation.
+
+The same reasoning applies to other coexisting conditions and new or changing symptoms. Psychological treatment can contribute to coordinated care without becoming the explanation for every difficulty a patient reports.
+
+### What this assessment teaches
+
+Nadia's initial appointment has not established a psychological cause of her FND. It has also not established that psychological treatment would be ineffective.
+
+The assessment has identified potentially useful areas for exploration, alongside an important gap: the clinician and patient have not agreed on a sufficiently clear treatment purpose.
+
+Five clinical considerations emerge:
+
+- **Establish the indication.** Clarify which current problem psychological assessment or treatment is intended to address. A referral for FND does not, by itself, establish a treatment target.
+- **Separate findings from hypotheses.** A patient's experiences, identified symptoms and diagnosed conditions should not be conflated with unconfirmed explanations about their causes.
+- **Interpret engagement cautiously.** Silence, brief answers or reluctance to accept a formulation do not independently establish agreement, resistance or the relevance of psychological factors.
+- **Match treatment to meaningful outcomes.** Identify what the patient would value changing, what the proposed intervention might reasonably influence and how progress could be evaluated.
+- **Preserve other medical care.** Psychological assessment need not replace neurological, rehabilitation or general medical assessment and treatment for coexisting or changing health problems.
+
+The next clinical step may be a more focused conversation rather than a more elaborate explanation of FND. A psychologist can remain curious about possible psychological influences while recognizing that a causal formulation may remain uncertain.
+
+**The useful question is whether psychological care has a credible purpose that the patient understands, considers relevant and is free to accept or decline.**
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -248,14 +589,19 @@ Evidence varies by modality, phenotype and outcome. Discuss mixed trial findings
 
 ## Research and Sources
 
-The psychotherapy review and briefing cover varied therapies and FND presentations. The CODES findings apply to adults with dissociative seizures in that trial, not all people with FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+The psychotherapy review and briefing cover varied therapies and FND presentations. (*citations* [1](#citation-1), [2](#citation-2))
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
+| <a id="citation-1"></a>**[1]** | — | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). |
+| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). |
+| <a id="citation-3"></a>**[3]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
+| <a id="citation-4"></a>**[4]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) [FND-CIT-0002](../../research/citation-index.md#fnd-cit-0002). |
+| <a id="citation-5"></a>**[5]** | Figure 1 | Reddit, r/FND. *New to FND*. https://www.reddit.com/r/FND/comments/1rk5b5z/new_to_fnd/ [FND-CIT-0355](../../research/citation-index.md#fnd-cit-0355). |
+| <a id="citation-6"></a>**[6]** | Figure 2 | Reddit, r/FND. Parent discussion of a mental-health model of FND. https://www.reddit.com/r/FND/comments/1rfhr1h/comment/o7kig9o/ [FND-CIT-0356](../../research/citation-index.md#fnd-cit-0356). |
+
+**Quotation verification:** The original excerpts for Figures 1 and 2 were unavailable for independent verification on November 22, 2026. Their wording and attribution are retained from the approved editorial handoff; their original context could not be reconfirmed.
 
 This page still needs review by people with helpful, neutral and harmful therapy experiences, psychologists, neurologists and accessibility reviewers.
 
-*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
+*Last reviewed: November 22, 2026 · Editorial and evidence verification; independent clinical review pending*

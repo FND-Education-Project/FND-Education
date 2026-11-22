@@ -1,12 +1,12 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › [Module 16](README.md) › **Consent, Trauma, and Recognizing Harm**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › [Module 12](README.md) › **Consent and Changing the Treatment Plan**
 <!-- NAV-BREADCRUMB:END -->
 
-# Consent, Trauma, and Recognizing Harm
+# Consent and Changing the Treatment Plan
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** All three audience sections are human authored and project-lead-approved; latest editorial approval November 22, 2026. Work Audit 2 evidence, citation and asset checks: November 22, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
-Trauma can matter deeply for some people with FND. It is not present, relevant to treatment or explanatory in the same way for everyone.
+Consent matters throughout treatment. When an exercise doesn't fit someone's needs, the clinician and patient can change the approach without abandoning their agreed goal.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -160,7 +160,7 @@ The same person later explained how difficult it can be to keep up with conversa
 
 > “You end up just giving up trying to explain as it’s just too much hassle and the moment has often passed by the time you are done typing.”
 
-— [A community member describing their experiences](https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/)
+— [A community member describing their experiences](https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/) *Figure 1.* (*citation* [7](#citation-7))
 
 Having a phone isn't always enough; other people also need to wait. Saved phrases and gestures won't restore speech, but they may help Callum stay involved.
 
@@ -208,6 +208,27 @@ Now ask yourself: **"Could there be another way to understand what happened, or 
 
 If it's safe and manageable, you might try that change and notice what happens. You can also leave this as a thought exercise. This isn't about testing your FND symptoms or making them disappear.
 
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-38" aria-label="Browse Lesson 38 crossword"><img src="{{ '/assets/puzzles/thumbnails/consent-trauma-and-recognizing-harm-m12-38-normal.svg' | relative_url }}" alt="Preview of Lesson 38 crossword grid" loading="lazy" decoding="async"><span>Consent, Trauma, and Recognizing Harm</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 38 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-38/consent-trauma-and-recognizing-harm-m12-38-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-38/consent-trauma-and-recognizing-harm-m12-38-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-38/consent-trauma-and-recognizing-harm-m12-38-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-38-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-38-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 38 printable colouring illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-38-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 38 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-38">browse the colouring collection</a>.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -218,10 +239,283 @@ If it's safe and manageable, you might try that change and notice what happens. 
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Do not search for a hidden cause, question the person's memory or press for session details. Believe their report of a boundary or harmful interaction. Ask what support they want before contacting a provider.
+Callum sometimes needs his phone to communicate when speech becomes unavailable. In [For the Person With FND](#for-the-person-with-fnd), he and his psychologist reconsider an exercise so he can keep that access. Here, an ordinary school day shows why it matters.
 
-Therapy can bring temporary discomfort, but that phrase must not excuse coercion, retraumatization, unsafe deterioration or loss of consent. Help the person reach independent clinical, safeguarding or crisis support when needed.
+### The substitute teacher
 
+Callum was halfway through telling Asha about the upcoming school dance when she started laughing.
+
+"You're not seriously wearing that."
+
+"What's wrong with it?"
+
+"Nothing. If you're planning to audition for a boy band from 2005."
+
+"It's called having style."
+
+"It's called borrowing your dad's clothes."
+
+Callum was preparing a reply when Asha glanced towards the front of the classroom.
+
+"Oh. Teacher."
+
+A woman Callum didn't recognize was standing beside the whiteboard, waiting for their conversation to finish. She introduced herself as Mrs. Carter, their substitute teacher for the day.
+
+Callum hadn't even noticed her come in.
+
+The class settled down, and the lesson began.
+
+About twenty minutes later, Mrs. Carter asked a question about the material they'd been studying.
+
+"Callum, what do you think?"
+
+He knew the answer. He'd read about it the night before. But when he opened his mouth, nothing came out.
+
+*Not now.*
+
+He tried again. His voice wasn't available, even though he'd been speaking normally earlier.
+
+Callum reached for his phone.
+
+Mrs. Carter was already walking towards him.
+
+"Phones away, please."
+
+He looked up and began typing.
+
+"Callum, I need you to put that away."
+
+Before he could finish his message, she took the phone from his hand.
+
+"Thank you. You can collect it after class."
+
+### Everyone is watching
+
+"Miss, he needs that," Asha protested.
+
+Mrs. Carter turned towards her.
+
+"He can have it back at the end of the lesson."
+
+"No, seriously. Sometimes he can't talk. That's how he answers."
+
+Someone behind them spoke up.
+
+"Yeah, it's for his FND."
+
+Callum stared at his desk. He hadn't wanted the whole class discussing his medical condition, and now students were turning in their chairs to look at him.
+
+Mrs. Carter held up a hand.
+
+"I heard Callum having a perfectly normal conversation when I came in. If he's having difficulty now, we can discuss that afterward. But the rule is no phones during lessons, and we're not going to debate it in front of the class."
+
+"That's not fair," Asha said. "He literally can't answer you."
+
+"Ms., that's enough. We need to get on with the lesson."
+
+Callum felt his face getting hot. He gripped the edge of his desk, wishing Asha would stop arguing about him. At the same time, he desperately wanted her to keep going.
+
+He knew the answer to the question. He could have typed it in seconds. Instead, he sat there while everyone waited for something he couldn't give them.
+
+Mrs. Carter turned back towards the board.
+
+"Right. Where were we?"
+
+Nobody answered.
+
+She repeated the question to another student, who looked down at his notebook. A few people shifted awkwardly in their chairs. Asha was still staring at the teacher, her pencil resting untouched beside her notes.
+
+Mrs. Carter eventually continued the lesson, but the conversation had stopped. Students copied from the board, and the occasional question received little response.
+
+Callum kept his eyes on his desk.
+
+For the rest of the class, he didn't raise his hand, contribute an answer or try to attract anyone's attention.
+
+### What she thought she was helping
+
+When the bell rang, Mrs. Carter asked Callum to stay behind. She returned his phone as the other students filed out.
+
+Asha waited near the door until Callum waved her on.
+
+"I'm sorry if that was embarrassing," Mrs. Carter began. "I didn't know about your circumstances."
+
+Callum typed:
+
+*I have FND. Sometimes I can't speak. I use my phone.*
+
+She read his message carefully.
+
+"I understand that now. It's just that I heard you talking perfectly well earlier, so I wondered whether being asked to answer in front of everyone had made you anxious."
+
+Callum typed:
+
+*It happens when I'm not anxious too.*
+
+Mrs. Carter nodded.
+
+"You know, I once taught a student who had quite a pronounced stutter. It got much worse whenever he was nervous or had to speak in front of the class. But after he'd been with us a while and felt more comfortable, you could hardly notice it."
+
+She smiled.
+
+"It's surprising how much difference feeling comfortable can make."
+
+Callum considered that.
+
+He knew being nervous could affect how someone spoke. Even getting used to the demands of a classroom could make a difference. His psychologist had helped him think about how expectations and experiences might affect his participation.
+
+But that didn't explain every time his speech stopped. And the student Mrs. Carter remembered wasn't him.
+
+He could spend another ten minutes explaining his symptoms, his psychologist's recommendations and why he'd needed his phone. Perhaps she'd understand. Perhaps she'd have another example.
+
+She was a substitute teacher who might never teach his class again.
+
+"Can I go now?" he asked. His voice had returned, although it still sounded strained.
+
+"Of course. I'll make sure I check with the school about your arrangements."
+
+Callum picked up his bag and left.
+
+### Later, with Asha
+
+Asha caught up with him near the lockers.
+
+"That was awful. Are you okay?"
+
+"Yeah. Sort of."
+
+"I can't believe she took your phone. You were literally trying to answer her question."
+
+"I know."
+
+Asha shook her head.
+
+"She kept saying she'd heard you talk earlier, like that proved something."
+
+Callum leaned against his locker.
+
+"My psychologist wondered something a bit like that once. Whether I sometimes use the phone because I'm worried my speech won't work."
+
+"Really?"
+
+"Yeah. But we talked about it. I need the phone when I can't speak, so we changed what we were practising."
+
+"So you still use it?"
+
+"Of course. I'm trying to get better at joining in, not getting stuck with no way to answer."
+
+Asha looked down the corridor.
+
+"Well, Mrs. Carter certainly made it harder to join in."
+
+Callum laughed.
+
+"Yeah. That was some impressive teaching."
+
+They started towards their next class. Asha was still annoyed, but Callum had already decided he didn't want to spend the rest of the day explaining himself.
+
+---
+
+### When a reasonable observation leads to a wrong conclusion
+
+Mrs. Carter wasn't imagining things. She really had heard Callum speaking normally at the beginning of class.
+
+She'd also seen another student whose stutter improved as he became more comfortable.
+
+Both observations could be true.
+
+The trouble began when she used those experiences to explain what was happening to Callum.
+
+Anxiety and pressure can affect someone's speech. Becoming familiar with a situation can sometimes make speaking easier, too. But FND symptoms can vary for reasons that aren't always obvious.
+
+Being able to speak at nine o'clock doesn't prove someone will be able to speak at ten. And one student's improvement doesn't establish what will help another.
+
+There's a difference between wondering whether anxiety contributes to a difficulty and deciding that it explains the difficulty in front of you.
+
+Mrs. Carter's assumption had another consequence: **she removed the only way Callum could explain why she was mistaken.**
+
+### What about the concern that aids could slow recovery?
+
+This is a question worth discussing, because there's some genuine clinical reasoning behind it.
+
+In 2021, a group of specialists published [recommendations for treating functional speech and communication difficulties](https://livrepository.liverpool.ac.uk/3129270/1/Management%20of%20functional%20communication%2C%20swallowing%2C%20cough.pdf). (*citations* [4](#citation-4))
+
+They raised a concern that certain communication aids might, in some circumstances, make it harder to practise speaking. Their recommendations encourage helping people use their natural speech when appropriate.
+
+That sounds reasonable. If someone can practise a skill safely, we wouldn't necessarily want an aid to replace every opportunity to use it.
+
+But there's an important limitation.
+
+**These are recommendations based on clinical experience, not research proving that taking away someone's communication aid improves their FND.**
+
+Other professional guidance, including that from the [American Speech-Language-Hearing Association](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/), emphasizes providing communication methods that suit the individual's abilities and needs. (*citations* [5](#citation-5))
+
+The two concerns can coexist. Someone might benefit from practising speech when it's available while continuing to need another way to communicate when it isn't.
+
+Think about what happened in Mrs. Carter's classroom. Even if Callum sometimes reaches for his phone because he expects difficulty, taking it away didn't help him answer. It prevented him from answering at all.
+
+And nobody had established that his phone caused the difficulty she was trying to address.
+
+### What people in the FND community have described
+
+One person described how isolating speech loss could become:
+
+> “Loosing your speech is incredibly lonely. You can be in a room full of people and feel completely invisible.”
+
+— [Community member describing their experience of speech loss](https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/) *Figure 2.* (*citation* [7](#citation-7))
+
+Callum experienced something similar. He was surrounded by classmates. Some even defended him. Yet he couldn't make himself understood or participate in the lesson.
+
+In the same public discussion, another person described their father's use of a different communication method:
+
+> “he’s currently using a whiteboard to communicate”
+
+— [Adult child describing their father's communication](https://www.reddit.com/r/FND/comments/1vpsiic/comment/p44uzjn/) *Figure 3.* (*citation* [8](#citation-8))
+
+These are individual accounts, not evidence that a particular aid improves or prevents recovery.
+
+But they remind us that alternative communication isn't necessarily about giving up on speech. Sometimes it's what allows someone to remain involved while speech isn't available.
+
+### When encouragement becomes interference
+
+Here's where supporters can face an uncomfortable question.
+
+Suppose someone you care about has been encouraged to practise a difficult skill. You see them using an aid instead. Should you encourage them to try without it?
+
+There may be circumstances where that makes sense. But you need to understand what the person is practising, why the aid is being used and what happens if the skill isn't available. Otherwise, encouragement can become pressure based on an assumption.
+
+Mrs. Carter may have believed that speaking in front of the class would help Callum become more comfortable. But she wasn't carrying out a treatment plan. She didn't know what Callum and his psychologist had agreed to, and she didn't ask what his phone made possible.
+
+Callum's psychologist had also wondered whether worry sometimes affected his use of the phone. The difference, as readers saw in the Person section, was that she discussed the possibility with him, listened to his concerns and changed the proposed activity.
+
+Callum could still practise something challenging while keeping a way to communicate.
+
+That wasn't merely a nicer way of doing the exercise. It meant the exercise could continue to address the problem they had actually agreed to work on.
+
+### What consent has to do with it
+
+Professional counselling standards describe consent as something that continues throughout treatment. Agreeing to therapy doesn't mean agreeing automatically to every proposed exercise.
+
+The person needs to understand what's being suggested, have a meaningful chance to respond and be able to reconsider an activity that isn't working.
+
+[Canadian Counselling and Psychotherapy Association — Standards of Practice](https://www.ccpa-accp.ca/wp-content/uploads/2021/10/CCPA-Standards-of-Practice-ENG-Sept-29-Web-file.pdf) (*citations* [6](#citation-6))
+
+Of course, Mrs. Carter wasn't Callum's therapist. This wasn't a treatment session, and ordinary classroom rules aren't the same as therapeutic consent.
+
+But that's precisely why her assumption was a problem. She applied an idea about what might help someone's communication without knowing enough about his condition, needs or agreed supports.
+
+The same danger exists in healthcare when a plausible explanation becomes a rule that nobody is allowed to question.
+
+### What Callum's experience teaches
+
+Mrs. Carter saw something real but drew too much from it. Callum had been speaking normally. Later, he couldn't. She believed that encouraging him to answer without his phone would help, but it left him unable to participate.
+
+His psychologist had approached a related possibility differently. They discussed it, considered what his phone allowed him to do and adjusted the exercise without giving up the treatment goal.
+
+For a supporter, that's the distinction worth remembering.
+
+**A treatment or rehabilitation idea can be reasonable without being appropriate for every person or every situation.**
+
+The real question isn't simply whether someone could do something earlier, or whether an aid might sometimes become unnecessary. It's what they're capable of now, what they're working towards, and whether the proposed approach helps them participate without taking away an essential way to communicate.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -232,24 +526,80 @@ Therapy can bring temporary discomfort, but that phrase must not excuse coercion
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### When new information changes treatment
 
-**Option 1 — Ludwig et al., 2018**
+FND rehabilitation often begins with a working explanation of what may be affecting someone's symptoms or participation. A clinician might consider attention, expectations, emotional responses or learned patterns and select an activity to explore whether changing one of them helps.
 
-> “many cases report no stressors”
+A useful hypothesis remains open to correction. **The patient's response to a proposed exercise can reveal something important about the problem, rather than merely whether the patient is willing to cooperate.**
 
-**Option 2 — Ludwig et al., 2018**
+This matters because treatment can be helpful or harmful depending on how clinicians interpret what they observe. Mcloughlin and colleagues' review of iatrogenic harm in FND examines difficulties that healthcare interactions themselves can create. The British Psychological Society's guidance likewise supports individualized psychological care rather than a single assumed explanation of FND. (*citations* [2](#citation-2), [3](#citation-3))
 
-> “stressors ... are not a core diagnostic feature”
+Callum's experience provides a practical example: an exercise intended to examine anticipatory worry overlooks the function of a communication aid.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citation* [1](#citation-1))*
+### What does Callum's phone tell us?
 
-### Keep formulation tentative and consent active
+Callum is seventeen and has FND affecting his walking and speech. Sometimes speech becomes difficult or unavailable without warning, so he uses his phone to communicate. His CBT focuses on the worry and frustration of participating in conversations when speaking is unreliable—not on discovering the cause of his speech symptoms.
 
-Ask about trauma only when clinically relevant, with permission and a clear reason. Distinguish association, individual formulation and proven cause. Do not infer undisclosed adversity from the diagnosis or make trauma disclosure a condition of treatment.
+At school, classmates once moved on while he was typing an answer. He felt excluded and began expecting that others would not wait for him.
 
-Explain the proposed method, alternatives, confidentiality limits and how distress or worsening will be handled. Revisit consent, especially before exposure or trauma processing. Maintain medical review and act on safeguarding or acute mental-health risk through appropriate pathways. Diagnostic overshadowing, stigma and inappropriate treatment are recognized sources of iatrogenic harm in FND care. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+During therapy, his psychologist notices that Callum sometimes reaches for his phone before attempting to speak. She wonders whether anticipating difficulty occasionally leads him to avoid speaking, and proposes a short conversation in which he answers before using the phone.
 
+Callum raises a concern: if his speech stops, he may need the phone to explain what is happening, request time or say he wants to stop. Even on a day when he can speak, he cannot count on that ability remaining available.
+
+The fuller account appears in [For the Person With FND](#for-the-person-with-fnd).
+
+The psychologist now has information that changes how she can interpret his behaviour. **Reaching for the phone may sometimes reflect worry; it may also preserve communication when speech fails. Both can be true.**
+
+### What would the proposed exercise actually test?
+
+If Callum speaks successfully without his phone, that shows he could speak during that task. It does not establish that his speech is reliably available or that he generally uses the phone to avoid speaking.
+
+If his speech stops, the exercise may leave him unable to communicate his needs. That would not tell the psychologist whether his earlier phone use was driven by worry.
+
+The proposed activity therefore changes two things at once: Callum's opportunity to attempt speech and his access to communication. It becomes difficult to interpret the result in relation to the original hypothesis.
+
+This is more than a theoretical distinction. Speech-language therapy consensus guidance has raised concerns about aids potentially maintaining functional mutism, while broader communication guidance supports individualized access to alternative communication. Neither position, by itself, establishes that removing Callum's phone would improve his speech. [Speech-language guidance](https://doi.org/10.1136/jnnp-2021-326767) and [communication-access guidance](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/) address different parts of the decision. (*citations* [4](#citation-4), [5](#citation-5))
+
+The useful question becomes: **Can the psychologist explore Callum's expectations while keeping his ability to communicate available?**
+
+### Keep the goal; revise the exercise
+
+Callum's agreed goal remains relevant. He wants to contribute to school discussions without withdrawing because he expects classmates to move on.
+
+Rather than asking him to delay using his phone, the psychologist can help him distinguish what happened from what he concluded. His classmates did move on before he finished typing. That is a real participation barrier. He also concluded that they did not want to hear from him—a possibility worth exploring, not an established fact about every classmate.
+
+They could practise ways to ask for time, perhaps using a saved phone message or a gesture agreed with classmates. Callum keeps the phone available throughout. They can then explore what he expects, what others actually do and which arrangements help him participate.
+
+This approach doesn't ask Callum to deny his speech difficulties or assume that every classmate will respond well. Some social barriers need changes from other people, not just changes in Callum's thinking.
+
+The **treatment goal stays the same**, but the revised method now explores the intended difficulty without compromising his communication. That is an improvement in clinical reasoning, not a retreat from therapy.
+
+### Consent can improve the formulation
+
+Callum agreed to CBT, not to every possible exercise. His objection offered information the psychologist had not considered. Listening allowed them to improve the plan together.
+
+Meaningful consent therefore contributes to the quality of treatment. A person who can ask questions, disagree and communicate changing needs can help the clinician distinguish an unhelpful assumption from a useful therapeutic target.
+
+Callum's age makes the applicable consent and confidentiality framework relevant, but his ability to express his preferences remains central to this clinical discussion.
+
+The same principle applies when psychological care explores difficult emotions or trauma. Ludwig and colleagues' research identifies group-level associations between adversity and FND; it does not establish that trauma caused an individual's condition or that trauma-focused work is necessarily the appropriate treatment. (*citation* [1](#citation-1))
+
+A formulation remains a proposal to examine collaboratively. New information—including disagreement—can make it more accurate.
+
+### What this changes clinically
+
+Callum's case suggests four practical lessons:
+
+- **Ask what a behaviour accomplishes.** Anticipation, practical necessity and adaptation can coexist. An observation alone may not distinguish them.
+- **Examine what an exercise can establish.** A successful task, a difficult task or a patient's reluctance may each have several explanations.
+- **Separate the goal from the method.** Callum still wants to participate in school discussions; the therapist can change the exercise while preserving that goal.
+- **Use the patient's experience to revise treatment.** Understanding why something does not fit may produce a more useful plan than insisting on the original one.
+
+Across FND presentations, this reasoning is relevant whenever an activity, support or symptom response has more than one possible explanation. The exact technique will differ, but the clinical habit remains valuable: ask, test what the evidence can support, listen and revise.
+
+**A useful treatment plan becomes more individualized as clinician and patient learn together.**
+
+In the next lesson, we turn to everyday adaptations—starting with personal care and household tasks—and how practical changes can support participation alongside rehabilitation.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -265,17 +615,25 @@ Explain the proposed method, alternatives, confidentiality limits and how distre
 
 ***
 
+## Further reading in the Reference Library
+
+- [Communication support and AAC](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)
+
 ## Research and Sources
 
-The meta-analysis supports an association between adversity and FND at group level while explicitly finding people without reported stressors. It cannot identify an individual's cause or indicate trauma therapy. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+The meta-analysis supports an association between adversity and FND at group level while explicitly finding people without reported stressors. It cannot identify an individual's cause or indicate trauma therapy. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Ludwig L, Pasman JA, Nicholson T, et al. Stressful life events and maltreatment in conversion (functional neurological) disorder: systematic review and meta-analysis of case-control studies. *The Lancet Psychiatry*. 2018;5(4):307–320. [FND-CIT-0079](../../research/citation-index.md#fnd-cit-0079). [https://doi.org/10.1016/S2215-0366(18)30051-8](https://doi.org/10.1016/S2215-0366(18)30051-8) |
-| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
-| <a id="citation-4"></a>**[4]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+| <a id="citation-1"></a>**[1]** | — | Ludwig L, Pasman JA, Nicholson T, et al. Stressful life events and maltreatment in conversion (functional neurological) disorder: systematic review and meta-analysis of case-control studies. *The Lancet Psychiatry*. 2018;5(4):307–320. [https://doi.org/10.1016/S2215-0366(18)30051-8](https://doi.org/10.1016/S2215-0366(18)30051-8) [FND-CIT-0079](../../research/citation-index.md#fnd-cit-0079). |
+| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). |
+| <a id="citation-3"></a>**[3]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). |
+| <a id="citation-4"></a>**[4]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
+| <a id="citation-5"></a>**[5]** | — | American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed September 17, 2026. [Source](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/). [FND-CIT-0106](../../research/citation-index.md#fnd-cit-0106). |
+| <a id="citation-6"></a>**[6]** | — | Canadian Counselling and Psychotherapy Association. *Standards of Practice*. 2021, pp. 18–21, B4–B5. https://www.ccpa-accp.ca/wp-content/uploads/2021/10/CCPA-Standards-of-Practice-ENG-Sept-29-Web-file.pdf [FND-CIT-0354](../../research/citation-index.md#fnd-cit-0354). |
+| <a id="citation-7"></a>**[7]** | Figure 1, Figure 2 | Reddit, r/FND. *Recently Diagnosed FND – Complete Speech Loss*. August 17, 2026. https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/ [FND-CIT-0359](../../research/citation-index.md#fnd-cit-0359). |
+| <a id="citation-8"></a>**[8]** | Figure 3 | Reddit, r/FND. *Recently Diagnosed FND – Complete Speech Loss*. August 17, 2026. https://www.reddit.com/r/FND/comments/1vpsiic/comment/p44uzjn/ [FND-CIT-0360](../../research/citation-index.md#fnd-cit-0360). |
 
 This page still needs review by trauma survivors with and without FND, people who do not identify trauma, trauma therapists, safeguarding clinicians and accessibility reviewers.
 
-*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
+*Last reviewed: November 22, 2026 · Editorial and evidence verification; independent clinical review pending*

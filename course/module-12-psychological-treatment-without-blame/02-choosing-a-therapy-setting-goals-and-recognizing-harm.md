@@ -1,10 +1,10 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › [Module 16](README.md) › **Choose a Therapy and Set Goals**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › [Module 12](README.md) › **Choose a Therapy and Set Goals**
 <!-- NAV-BREADCRUMB:END -->
 
 # Choose a Therapy and Set Goals
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** All three audience sections are human authored and project-lead-approved; latest editorial approval November 22, 2026. Work Audit 2 evidence, citation and asset checks: November 22, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
 Therapy names describe broad families of treatment. The individual therapist, goal, adaptation and relationship also matter.
 
@@ -32,7 +32,7 @@ He's had seizures away from home before. The thought of being unable to move whi
 
 His friend Lena can sometimes accompany him, but she has her own responsibilities. So Graham usually stays home.
 
-Recently, his family doctor, Dr. Singh, suggested cognitive behavioural therapy, or CBT, for his functional seizures.
+Recently, his family doctor, Dr. Singh, suggested [cognitive behavioural therapy](../../glossary/README.md#cognitive-behavioural-therapy-cbt), or CBT, for his functional seizures.
 
 > **Treatment:** Healthcare intended to help with an illness or its effects. Treatment might reduce symptoms, make everyday activities easier or help someone manage difficulties caused by illness. It doesn't always remove the illness itself.
 
@@ -154,7 +154,7 @@ Graham has another question.
 
 Graham likes that answer, although he understands the treatment might still be difficult.
 
-The CODES study required participants to keep seizure records and answer questions about their symptoms independently. That means the results may not tell us as much about people who have greater memory or concentration difficulties.
+The CODES study required participants to keep seizure records and answer questions about their symptoms independently. That means the results may not tell us as much about people who have greater memory or concentration difficulties. (*citations* [6](#citation-6))
 
 Graham also asks whether any counsellor who offers CBT could provide this treatment.
 
@@ -170,7 +170,7 @@ He finds an online account from someone who had already received general CBT but
 
 > “I was originally dismissive of CBT And FND as I had been in CBT for a few years, but this focused approach has been really helpful for me.”
 
-— [A community member describing their experience](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/)
+— [A community member describing their experience](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/) *Figure 1.* (*citation* [9](#citation-9))
 
 It's one person's experience, not proof that the same workbook will help Graham. But it helps explain why the particular treatment matters.
 
@@ -192,7 +192,7 @@ For Graham, fewer seizures would be an important improvement. Being able to enjo
 
 One doesn't have to replace the other.
 
-In our next lesson, Callum will face a different choice. CBT is easier for him to access, but specialist speech therapy is much farther away. He'll need to understand what each treatment could help with before deciding what fits his needs.
+In our next lesson, Callum discovers that agreeing to CBT doesn't mean agreeing to every exercise. He and his psychologist must find a way to practise participating without taking away the phone he needs when speech fails.
 
 ### Something to think about
 
@@ -215,7 +215,28 @@ You can simply think about your answers. No treatment or written record is requi
 
 ---
 
-**Free resources:** The [University of Sheffield's Non-Epileptic Attacks resources](https://non-epileptic-attacks.sites.sheffield.ac.uk/resources) include free information and practical worksheets, although they aren't a complete CBT workbook. The seizure-focused [*Taking Control of Your Seizures* workbook](https://academic.oup.com/book/1357) usually requires purchase or access through a library or therapist.
+**Free resources:** The [University of Sheffield's Non-Epileptic Attacks resources](https://non-epileptic-attacks.sites.sheffield.ac.uk/resources) include free information and practical worksheets, although they aren't a complete CBT workbook. The seizure-focused [*Taking Control of Your Seizures* workbook](https://academic.oup.com/book/1357) usually requires purchase or access through a library or therapist. (*citations* [11](#citation-11), [12](#citation-12))
+
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-37" aria-label="Browse Lesson 37 crossword"><img src="{{ '/assets/puzzles/thumbnails/choose-a-therapy-and-set-goals-m12-37-normal.svg' | relative_url }}" alt="Preview of Lesson 37 crossword grid" loading="lazy" decoding="async"><span>Choose a Therapy and Set Goals</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 37 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-37/choose-a-therapy-and-set-goals-m12-37-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-37/choose-a-therapy-and-set-goals-m12-37-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Lesson-37/choose-a-therapy-and-set-goals-m12-37-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-37-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-37-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 37 printable colouring illustration" style="width:180px;max-width:100%;height:auto;" loading="lazy" decoding="async"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-37-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 37 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-37">browse the colouring collection</a>.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -227,10 +248,157 @@ You can simply think about your answers. No treatment or written record is requi
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-The person's therapy goals belong to them. Do not demand disclosure, ask the therapist for private details or treat a difficult session as proof that the therapy is working.
+### A question on the forum
 
-You can help with access or notice changes the person wants tracked. If you are affected by illness and caregiving, your own support should not depend on entering the person's treatment.
+Graham had opened an FND forum to look for information about cognitive behavioural therapy (CBT) for functional seizures. A post from that morning had gathered a few replies.
 
+*The forum posts and usernames in this story are fictional. The community quotations later in the lesson are from real public discussions.*
+
+**MapleSister — Am I making things worse?**
+
+> My sister used to nip into town whenever she liked. Since a seizure while she was out alone, she won't go anywhere unless one of us comes.
+>
+> Her doctor suggested CBT. Is that supposed to help her stop being scared? I work and I've got two kids, I can't always go. Sometimes I'm frustrated, then I feel horrible for being frustrated. I just miss seeing her get out and enjoy herself.
+
+**JustGetMoving:**
+
+> Unpopular opinion maybe, but staying home all the time won't help. Start small and build confidence. Nothing is ever 100% safe.
+
+Graham's thumb stopped scrolling. *Nothing is ever 100% safe* was easy to write from behind a screen.
+
+### The afternoon he remembered
+
+*This section describes the sensations and movements of a functional seizure, along with emergency care. Some readers may find these details distressing or symptom-provoking. If you'd rather not read them, [skip to “What matters from Graham's experience”](#what-matters-from-grahams-experience) for a short summary before the forum continues.*
+
+He'd bought two rolls and a few groceries. As he approached the bus stop, the bus came up behind him and hissed loudly as it braked. He hadn't seen it coming.
+
+Graham recognized the familiar start of a functional seizure. His strength was fading. He managed to get onto his knees before lowering himself onto the pavement. Had his grocery bag tipped over?
+
+His eyes closed and wouldn't open. He could feel his gaze pulled upward. The concrete was cold against his cheek, and he could smell asphalt and dirt. A pebble pressed painfully into one knee. His shirt had ridden up, and a breeze touched his lower back.
+
+“Sir? Are you all right?” The bus driver sounded close. Graham tried to answer. Nothing came out.
+
+Footsteps approached. People spoke above him, but he couldn't follow the conversation. Later he wouldn't know how long they'd been there.
+
+Someone turned him onto his side. His hat and tinted glasses were removed. Sunlight reached his face, painfully bright even through his closed eyes. His body arched, and his arms began to jerk in a pattern he knew too well. A woman nearby sounded frightened. Graham wished he could tell her he knew what was happening, but he couldn't get a word out.
+
+The movements eased. Then came sirens, close and loud, and another wave of jerking. He heard someone say he'd been having seizures. A responder checked his breathing and eyes. There was movement around him, a stretcher, his head supported in a brace, and the sharp discomfort of an IV being placed. After that, his memory broke off.
+
+At the hospital, he woke under bright overhead lights. The IV was still there. His neck hurt, and his migraine had grown worse. His glasses and hat were on a chair beyond his reach. A monitor beeped beside him.
+
+When a nurse came past, he asked for his glasses and when he might see a doctor. She passed him the glasses and explained that someone would come as soon as possible.
+
+Graham wanted to explain his usual seizures and find out what the staff had given him while they assessed the emergency. He also needed to arrange a ride home. His dog would be waiting for dinner.
+
+He didn't blame the driver or whoever had called the ambulance. They'd found a stranger who couldn't respond. But the woman's frightened voice stayed with him, along with the feeling of being unable to tell anyone what he needed.
+
+### What matters from Graham's experience
+
+Graham had a functional seizure during an ordinary errand. He couldn't ask for help or explain his condition, and strangers understandably called emergency services. The resulting hospital visit was painful and disruptive. His concern about going out alone came from that experience, but so did other worries: frightened people, losing control over what happened next, and becoming a burden. Those worries might not all require the same response.
+
+### The comments keep coming
+
+By lunchtime, more people had replied.
+
+**SunshineAndTea:**
+
+> My husband says I need to get out more. Yes please, I'd LOVE to just wander round the shops again. But when things go wrong I'm not the one who can sort them out. That's the bit he doesn't get.
+
+Graham nodded. He missed being able to buy something without making arrangements first.
+
+**TiredButTrying:**
+
+> Caregiver here. Sometimes I can't go. Last Tuesday I said no because I had to pick up the kids, and now my partner won't ask again. I didn't mean NEVER ASK. Just not Tuesday!!
+
+That stung a little. Lena had already offered to go to the park with him. He'd drafted an invitation and then spent ages adding apologies to it.
+
+Further down was a comment he disliked.
+
+**FreshStart2026:**
+
+> I thought CBT was meant to stop the worrying? And if these aren't epileptic seizures why do people call ambulances all the time? Genuine question.
+
+Graham started an answer, then erased it. Of course an ambulance might be needed when someone was unexpectedly unresponsive. Even someone with known FND could have an injury or a different medical problem. But the thread belonged to MapleSister, not to him.
+
+That evening, she added an update.
+
+**MapleSister:**
+
+> I'm reading everything, thanks. My sister hates asking for help, and I can't promise I'll be free every time. I just don't want her life to keep shrinking. If CBT helps her be less afraid that would be something, wouldn't it?
+
+Another comment had appeared below it.
+
+**NotSoSimple:**
+
+> I've had CBT. Helped me with a few things but didn't stop my FND symptoms. Depends what you're hoping it'll do, I guess.
+
+Graham kept looking at *helped me with a few things*. He'd started learning about seizure-focused treatment, which might work on seizures themselves, but also on the fear, expectations and lost opportunities that could grow around them. His worry that Lena would resent an outing hadn't come from anything she'd said. Neither had his habit of imagining how much trouble he'd cause everyone if he had another seizure.
+
+He wrote one comment.
+
+**Graham:**
+
+> I get why you're torn. I have functional seizures too, and I've needed emergency help when I was out alone. I'm grateful someone called. It was also a really hard experience.
+>
+> Going with someone who knows me doesn't just make me *feel* safer. It means there's somebody who may be able to explain my history, follow my plan or call for help if I need it. It doesn't guarantee nothing bad happens, or mean an ambulance would never be needed.
+>
+> But there are other things I'd like help with. I keep assuming I'll ruin someone else's day if I need them, even when they've offered. And I dread putting strangers through another frightening scene. Maybe CBT can help me with some of that, and maybe a seizure-focused programme could help the seizures too. I'd want to know what it was actually trying to change.
+>
+> I hope your sister gets the chance to work that out for herself.
+
+He posted, closed the forum and opened his unsent message to Lena:
+
+*Would you like to go to the park with me one afternoon? Just for a short visit if you're free.*
+
+He didn't send it yet. He did delete the words *Sorry to be a nuisance* from the end.
+
+---
+
+### When danger and worry overlap
+
+The commenters were using the word *avoidance* for several different things. Graham's concern about being alone without help was grounded in experience. His expectation that Lena would resent accompanying him was a belief he hadn't checked. And his distress about frightened strangers was another part of what happened that day.
+
+> **Avoidance:** Staying away from an activity or situation. It can be a reasonable safety precaution, a response to fear or expectations, or a mixture of these.
+
+Research documents that injuries can occur with functional seizures. Interviews with people whose seizures began later in life also describe reduced independence, withdrawal from social activities and worries about seizures in public. These findings don't tell us what is safe for Graham, but they help explain why “just build confidence” is an incomplete answer.
+
+[Injury review](https://doi.org/10.1111/epi.17752) · [Interview study](https://doi.org/10.1016/j.yebeh.2024.109666) (*citations* [7](#citation-7), [8](#citation-8))
+
+Emergency assessment can be necessary for an unresponsive person, especially when their history is unknown or there's a possible injury or other medical problem. Someone familiar with a person's seizures may help communicate their history and agreed response plan, but cannot guarantee that emergency care won't be needed.
+
+### What could CBT change?
+
+Seizure-focused CBT may explore patterns and warning signs, when present, practise responses, work with fears or predictions, and support activities the person values. It can aim to change seizure burden as well as some of the difficulties surrounding seizures. Graham doesn't reliably have warning signs, so not every technique would fit him.
+
+In the large **CODES trial**, adding specialized CBT to standardized medical care did **not** produce a statistically significant difference in the main measure of monthly seizure frequency at twelve months. Some secondary outcomes favoured CBT, including longer seizure-free intervals and better work and social functioning.
+
+[CODES trial](https://doi.org/10.1016/S2215-0366\(20\)30128-0) (*citations* [3](#citation-3))
+
+The smaller **Re-PROGRAM trial**, reported in 2026, found lower seizure rates for its self-guided programme than for standard care alone. The therapist-guided comparison was less conclusive, and the study didn't establish either delivery format as superior. Neither study proves that thoughts caused anyone's seizures.
+
+[Re-PROGRAM trial](https://doi.org/10.1001/jamaneurol.2026.3893) (*citations* [5](#citation-5))
+
+### Voices from the community
+
+One parent described CBT helping their daughter feel more comfortable with FND symptoms, although not improving symptom management:
+
+> “Cbt was not helpful in symptom management , but it helped her be more comfortable with them.”
+
+— [Parent in an FND discussion](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9y16q7/) *Figure 2.* (*citation* [10](#citation-10))
+
+Another person, who reported functional seizures and experience with general CBT, described a seizure-focused workbook:
+
+> “I was originally dismissive of CBT And FND as I had been in CBT for a few years, but this focused approach has been really helpful for me.”
+
+— [Community member discussing a seizure-focused workbook](https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/) *Figure 3.* (*citation* [9](#citation-9))
+
+Both are individual experiences from the same discussion, not estimates of treatment effectiveness. The parent's account doesn't establish her daughter's exact symptoms or CBT format.
+
+### Two kinds of progress
+
+Graham wants fewer seizures. He'd also like to enjoy the park again without assuming he is imposing on Lena. Those are separate goals, and improvement in one doesn't prove improvement in the other.
+
+The useful question isn't whether Graham is *too afraid* to go out. It's which risks still need practical safeguards, what thoughts or responses might be worth working on, and whether a particular treatment helps with the changes he actually wants.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -241,24 +409,145 @@ You can help with access or notice changes the person wants tracked. If you are 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### Why investigate psychological treatment in FND?
 
-**Option 1 — Gutkin et al., 2021**
+FND can involve functional seizures, movement difficulties, changes in speech or voice, cognitive difficulties, and sensory or visual symptoms. These symptoms are genuine and involuntary. Their presence does not establish a psychological cause, and clinicians may not know why they first developed.
 
-> “better quality studies are needed”
+Yet uncertainty about the origin of a disorder does not necessarily prevent effective treatment.
 
-**Option 2 — Goldstein et al., 2020**
+Across FND presentations, psychological care may sometimes address processes affecting symptoms or the consequences of living with disability, alongside appropriate rehabilitation and medical care. Functional seizures provide a particularly useful research example.
 
-> “no significant difference in monthly dissociative seizure frequency”
+Researchers have proposed that processes occurring before, during or between functional seizures might influence their frequency, severity or effect on daily life. These include physiological arousal, attention to bodily sensations, responses to possible warning signs, and changes in activity associated with fear or uncertainty.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [3](#citation-3))*
+Some of these processes may be open to intervention even when the original cause remains unknown.
 
-### Match rather than route by diagnosis alone
+This provides an important reason for investigating psychological treatment: **not necessarily to identify what caused FND, but to discover whether changing particular processes improves outcomes.**
 
-Formulate the target with the patient. Discuss modality-specific evidence, therapist competence, dose, setting, accessibility, alternatives and how benefit and harm will be reviewed. Treat comorbid psychiatric illness without using it as proof of FND causation.
+It also creates a research question. If an intervention helps, what has actually improved? Have seizures become less frequent, has the person become better able to manage their effects, or has participation increased despite continuing seizures?
 
-In CODES, several secondary outcomes favoured seizure-specific CBT plus standardized care while the primary seizure-frequency outcome did not. Preserve both findings. Broader psychotherapy evidence is heterogeneous and does not identify one best approach for all FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+These possibilities are related, but understanding the difference matters when choosing treatment.
 
+### What led researchers to test these approaches?
+
+Several studies help explain how seizure-focused psychological treatment developed.
+
+**LaFrance and colleagues** investigated a structured form of cognitive behavioural therapy (CBT) adapted for functional seizures.
+
+Their approach explored circumstances surrounding episodes, possible warning patterns, responses to seizures, thoughts and emotions, and ways to manage everyday difficulties. An earlier pilot study produced encouraging findings, giving researchers a reason to investigate seizure-focused interventions further.
+
+The treatment rationale did not require establishing that psychological experiences originally caused a participant's seizures. It proposed that working with processes surrounding seizures might change what happened afterwards. (*citations* [4](#citation-4))
+
+**The CODES researchers** pursued a related question on a larger scale.
+
+Their treatment combined seizure-management strategies with work on arousal, fear, avoidance and participation. The researchers considered whether changing these processes could reduce seizures or lessen their effect on daily life.
+
+The primary outcome did not establish a statistically significant reduction in monthly seizures from adding CBT to standardized medical care at twelve months.
+
+However, participants offered CBT experienced some other improvements, including longer seizure-free intervals and better work and social functioning.
+
+That combination of findings is clinically informative. The study did not establish the expected primary seizure-frequency benefit, but it identified other areas where the intervention appeared useful. (*citations* [3](#citation-3))
+
+**Higson and colleagues' Re-PROGRAM study**, published in October 2026, investigated a shorter programme designed for functional seizures.
+
+The programme combined seizure education with attention to bodily signals, daily routines, physiological regulation, thoughts, emotions, communication and practical seizure-management skills.
+
+Rather than relying on one psychological explanation, the researchers tested a collection of potentially useful strategies.
+
+The self-guided programme, added to standard care, reduced seizure rates compared with standard care alone. The therapist-guided comparison was less conclusive, and the study could not establish which delivery format was more effective.
+
+This provides encouraging evidence for another approach, without showing which individual component produced the benefit. (*citations* [5](#citation-5))
+
+Together, these studies illustrate an important distinction.
+
+**A treatment can produce a measurable benefit without proving the theory that originally motivated it.**
+
+Improvement following a programme containing education, behavioural practice, emotional support and seizure-management strategies does not establish that one particular psychological process caused the seizures.
+
+It does, however, give clinicians evidence about interventions worth considering and outcomes that may be achievable.
+
+### Applying the evidence to Graham
+
+Consider Graham, a fictional forty-six-year-old man with established FND, functional seizures and unreliable walking.
+
+His seizures sometimes leave him unable to move or respond, and he does not consistently recognize warning signs.
+
+Graham would welcome fewer seizures. He also misses visiting a quiet local park, where he once enjoyed spending time outdoors and talking with other people.
+
+He has stopped going because a seizure while alone could leave him vulnerable to injury or unable to obtain help.
+
+His friend Lena has offered to accompany him, but Graham worries that having a seizure during their visit would spoil her afternoon.
+
+The fuller experience appears in [For the Person With FND](#for-the-person-with-fnd). For the clinician, Graham presents two problems that deserve different responses.
+
+**The risk of being alone during a seizure is genuine.**
+
+His unpredictable episodes and mobility difficulties need to inform any plan for returning to the park. Psychological treatment cannot simply redefine those dangers as unnecessary fears.
+
+**His belief that accepting Lena's help would burden her is different.**
+
+Graham has not asked whether Lena shares that concern. He may be predicting how she would respond based on his own discomfort about needing assistance.
+
+That prediction is something he and a therapist could explore together.
+
+It would not require claiming that his seizures result from worrying, or that his safety concerns are unjustified.
+
+The therapist might help Graham distinguish circumstances he cannot currently control from assumptions he could examine and arrangements he could change.
+
+For example, he could ask whether Lena would enjoy a short park visit, discuss what assistance she feels comfortable offering and consider the practical arrangements needed for an outing.
+
+He would remain free to decide whether to go.
+
+This is a recognizable application of CBT principles, but the treatment target is specific: **a belief that may be limiting Graham's participation beyond the restrictions imposed by his symptoms and safety needs.**
+
+### What might treatment accomplish?
+
+Graham's situation suggests two potentially useful goals.
+
+One concerns the seizures themselves. A structured seizure-focused programme might help reduce their frequency, change aspects of their management or reduce their disruption. Whether that happens for Graham remains to be discovered.
+
+His lack of consistent warning signs also matters. An intervention that depends heavily on recognizing an approaching seizure may have limited application for him, while other components could remain relevant.
+
+The second goal concerns participation.
+
+Even if Graham continues experiencing seizures, he may benefit from examining assumptions about accepting help, considering practical supports and exploring ways to remain involved in activities he values.
+
+This is not a lesser outcome simply because seizures remain. Nor should improved participation be represented as evidence that seizure frequency has improved.
+
+If Graham chooses to try treatment, the therapist could agree with him on what they hope will change and how they will recognize whether the approach is useful.
+
+His memory difficulties, available support and the effort required by therapy would help determine which programme and activities are realistic.
+
+They could review seizure burden, confidence, participation and treatment effort together, adjusting the plan according to what Graham experiences.
+
+The research informs what might reasonably be offered. Graham's circumstances and priorities determine which possibilities are worth pursuing.
+
+### Applying this reasoning across FND
+
+Although the studies above concern functional seizures, the underlying clinical questions extend across FND.
+
+Different FND presentations involve different difficulties and may require different rehabilitation approaches. Yet attention, learning, emotional responses, social circumstances and everyday participation can be relevant across many presentations.
+
+This creates opportunities to address changeable difficulties without assuming that those difficulties explain why FND originally developed.
+
+The same reasoning leads to four useful clinical considerations.
+
+- **Identify what might change, rather than assuming what caused the condition.** Someone with functional gait difficulties may benefit from rehabilitation that encourages more automatic, purposeful movement. Someone with cognitive difficulties might benefit from reducing competing demands and using reliable reminders. These approaches target difficulties affecting current function; their usefulness does not establish the original cause.
+
+- **Choose an approach that fits the particular symptom and person.** Seizure-focused psychological programmes, movement rehabilitation, speech and language therapy, and selected visual rehabilitation techniques have different purposes and evidence. Psychological support may complement these approaches when worry, distress, self-consciousness or avoidance adds to the person's difficulties. It need not replace symptom-specific rehabilitation.
+
+- **Recognize different forms of improvement.** Someone with unreliable speech may become more involved in conversations through communication supports and greater confidence. A person with functional visual symptoms may accomplish more with appropriate environmental adaptations or selected rehabilitation tasks. Someone with movement difficulties may achieve safer participation while continuing to need a mobility aid. These can be meaningful gains even when the underlying symptoms persist.
+
+- **Consider the social circumstances surrounding disability.** Fear of falling, embarrassment about speech, worry about burdening others, or being misunderstood because symptoms fluctuate can influence participation. Some concerns involve expectations that may be worth exploring; others reflect genuine barriers requiring practical support or changes in the environment. Psychological and social care can address these difficulties without treating them as evidence of psychological causation.
+
+These principles can inform care across FND, but they do not mean every person needs psychological treatment. The relevance of any proposed approach depends on the individual's presentation, experiences and goals.
+
+Graham provides one example. His seizures create real safety concerns, while his assumptions about asking Lena for help may create an additional barrier to enjoying the park. Addressing either concern could make a meaningful difference, even if the other remains.
+
+A similar distinction can be useful when approaching movement, speech, cognitive, sensory or visual symptoms. **The treatment target may be a symptom, a process affecting its expression, a consequence of disability or a barrier to participation.** Those are different reasons for offering care, and the research supporting each approach needs to be considered accordingly.
+
+The broader lesson is that understanding every cause is not always necessary before identifying something useful to address.
+
+**Effective FND care begins by asking what might change, what evidence supports that possibility, and what improvement would mean to the person living with the condition.**
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -267,7 +556,7 @@ In CODES, several secondary outcomes favoured seizure-specific CBT plus standard
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Consent, Trauma, and Recognizing Harm](03-consent-trauma-and-recognizing-harm.md)
+**Continue:** [Next page: Consent and Changing the Treatment Plan](03-consent-trauma-and-recognizing-harm.md)
 
 **Navigate:** [← Previous page](01-why-psychological-treatment-does-not-mean-imaginary.md) · [Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
@@ -280,11 +569,19 @@ The psychotherapy review found possible benefits but important quality and follo
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
-| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
-| <a id="citation-4"></a>**[4]** | — | LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [FND-CIT-0032](../../research/citation-index.md#fnd-cit-0032). [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817) |
+| <a id="citation-1"></a>**[1]** | — | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). |
+| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). |
+| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). |
+| <a id="citation-4"></a>**[4]** | — | LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817) [FND-CIT-0032](../../research/citation-index.md#fnd-cit-0032). |
+| <a id="citation-5"></a>**[5]** | — | Higson L, Chen Z, Rayner G, Alpitsis R, Knayfati S, O’Brien TJ, Winton-Brown T. Internet Intervention for Functional Seizures: A Randomized Clinical Trial. *JAMA Neurology*. Published online October 26, 2026:e263893. https://doi.org/10.1001/jamaneurol.2026.3893 [FND-CIT-0350](../../research/citation-index.md#fnd-cit-0350). |
+| <a id="citation-6"></a>**[6]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al. Cognitive–behavioural therapy compared with standardised medical care for adults with dissociative non-epileptic seizures: the CODES RCT. *Health Technology Assessment*. 2021;25(43). https://www.ncbi.nlm.nih.gov/books/NBK571629/ [FND-CIT-0351](../../research/citation-index.md#fnd-cit-0351). |
+| <a id="citation-7"></a>**[7]** | — | Moreira AB, Knochenhauer AE, Froehner GV, et al. Prevalence of ictal injuries in functional (psychogenic nonepileptic) seizures: A systematic review and meta-analysis. *Epilepsia*. 2023;64(11):3082–3098. https://doi.org/10.1111/epi.17752 [FND-CIT-0352](../../research/citation-index.md#fnd-cit-0352). |
+| <a id="citation-8"></a>**[8]** | — | Williams IA, Morris PG, Forristal K, Stone J, Gillespie DC. Illness representations of people with later-onset functional seizures. *Epilepsy & Behavior*. 2024;152:109666. https://doi.org/10.1016/j.yebeh.2024.109666 [FND-CIT-0353](../../research/citation-index.md#fnd-cit-0353). |
+| <a id="citation-9"></a>**[9]** | Figure 1, Figure 3 | Reddit, r/FND. *Does CBT actually work?* January 30, 2025. https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/ [FND-CIT-0357](../../research/citation-index.md#fnd-cit-0357). |
+| <a id="citation-10"></a>**[10]** | Figure 2 | Reddit, r/FND. *Does CBT actually work?* January 30, 2025. https://www.reddit.com/r/FND/comments/1idblzt/comment/m9y16q7/ [FND-CIT-0358](../../research/citation-index.md#fnd-cit-0358). |
+| <a id="citation-11"></a>**[11]** | — | Reiter JM, Andrews D, Reiter C, LaFrance WC Jr. *Taking Control of Your Seizures: Workbook*. Oxford University Press. 2015. https://academic.oup.com/book/1357 [FND-CIT-0361](../../research/citation-index.md#fnd-cit-0361). |
+| <a id="citation-12"></a>**[12]** | — | University of Sheffield. *Non-Epileptic Attacks: Resources*. https://non-epileptic-attacks.sites.sheffield.ac.uk/resources [FND-CIT-0362](../../research/citation-index.md#fnd-cit-0362). |
 
 This page still needs review by people with varied therapy experiences, therapists from different modalities, functional-seizure specialists and accessibility reviewers.
 
-*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
+*Last reviewed: November 22, 2026 · Editorial and evidence verification; independent clinical review pending*

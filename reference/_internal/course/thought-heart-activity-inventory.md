@@ -1,23 +1,23 @@
 # Thought, Heart, and Activity — course-wide Person-question inventory
 
-**Source:** Person sections of the numbered course lessons on the dedicated Thought–Heart–Activity harmonization branch, based on Module 12 PR #210 and the current human-authored lessons on `main`; updated November 19, 2026. **Scope:** all 59 lesson pages listed in `SITEMAP.md` (modules 1–19). Text is reproduced as it appears in the source; entries are not proposed replacements or an independent clinical review.
+**Source:** Current Person sections of the numbered course lessons on the Module 12 editorial branch of PR #210; collected November 19, 2026. **Scope:** all 59 lesson pages listed in `SITEMAP.md` (modules 1–19). Text is reproduced as it appears in the source; entries are not proposed replacements or an independent clinical review.
 
 **Meaning:** **Thought** asks readers to recognize and apply the lesson's central idea; **Heart** asks how it connects to feelings, needs, hopes or values without suggesting the reader must feel a prescribed emotion; **Activity** offers a manageable, optional, safe way to use the idea. **Earlier questions** preserves other labels (such as `Questions`) without pretending they were written as Thought or Heart. Missing sections are recorded rather than invented.
 
-**Editorial status:** Harmonized Thought–Heart–Activity questions for Lessons **1–29 and 33–35** were checked against their current human-authored Person lessons and committed on the dedicated harmonization branch. Lessons **30–32 (Module 10)** remain wholly untouched. Lessons **36–38 (Module 12)** retain their previously approved questions unchanged from PR #210. Lessons 39–59 remain earlier generated drafts and must not be treated as human-approved. This registry records wording; it is not an independent clinical or publication audit.
+**Editorial status:** Lessons 1–35 are the previously human-authored course sequence. Lessons 36–37 are committed human-authored Person sections whose Thought/Heart/Activity items are intentionally deferred; Lesson 38 Person is under review and its generated public page may still contain old `Questions` prompts that are **not approved for the new story**. Lessons 39–59 remain earlier generated drafts and should not be treated as human-approved. The registry is a record, not a publication approval.
 
-**Maintenance:** Rebuild this file whenever a Person section is approved or edited using `python tools/course/build_thought_heart_activity_inventory.py`. Validate with its read-only `--check` mode from a checkout of the proposed merged branch. Questions 1–29 and 33–35 were harmonized on this branch; Module 12's approved questions are already present and require no further wording changes.
+**Maintenance:** Rebuild this file whenever the Person section of a lesson is approved or edited, using `python tools/course/build_thought_heart_activity_inventory.py` (see internal authoring policy). After all Module 12 Person sections are approved, agree new, distinct Thought/Heart/Activity prompts for Lessons 36–38 and only then add them to public pages.
 
 
-## Historical baseline review — Lessons 1–35 (before harmonization)
+## Initial editorial review — Lessons 1–35
 
-**Counts of explicit headings *before* this harmonization, in the earlier human-authored Person sections (historical, not present-day counts or quality scores):** Thought **22/35**; Heart **18/35**; Activity **30/35**; earlier generic `Questions` or `Questions to reflect on` **8/35**; **4/35** have none of the recognized headings. Many early lessons have multiple useful questions without a separate Heart heading; Module 10 (Lessons 30–32) teaches by observation exercises *inside its stories*, not by a separate end-of-lesson trio. Lesson 10 also does not have a matching end heading. Treat absence of a heading as a formatting observation, **not** proof that a lesson has no reflective or active learning.
+**Counts of explicit headings in the earlier human-authored Person sections (not quality scores):** Thought **22/35**; Heart **18/35**; Activity **30/35**; earlier generic `Questions` or `Questions to reflect on` **8/35**; **4/35** have none of the recognized headings. Many early lessons have multiple useful questions without a separate Heart heading; Module 10 (Lessons 30–32) teaches by observation exercises *inside its stories*, not by a separate end-of-lesson trio. Lesson 10 also does not have a matching end heading. Treat absence of a heading as a formatting observation, **not** proof that a lesson has no reflective or active learning.
 
 **What works:** By Modules 7–9, Thought usually applies a mechanism to a recognizable event; Heart asks what matters about living with the difficulty; Activity often invites one small adaptation, communication step or question to take to care. Module 11 continues that pattern. Prompts commonly allow readers to think rather than journal, and many avoid promising symptom control.
 
 **What could be stronger:** Several Heart prompts ask readers how a hypothetical positive outcome *might feel*, which may be less personal than asking which loss, need, value or hope matters *now*. Some Activities repeat writing down a question for a clinician, despite being reasonable in their own lessons. Some invite noticing but not trying or reviewing a chosen response. The next phase should vary the tasks, let people recognize **situation → thought or expectation → feeling → action**, and, only if they wish, choose an accessible, low-risk next response. This is CBT-*informed educational reflection*, **not** unsupervised exposure, diagnosis, a treatment protocol or a request to prove that thoughts caused symptoms.
 
-**Module 12 completion:** All nine prompts for Lessons 36–38 have been approved and committed in PR #210. They progress from a meaningful treatment goal (36), to criteria for useful treatment and reconsideration (37), to a small optional CBT-informed reflection on a situation, thought, feeling and possible response (38). The harmonization branch preserves all three sets verbatim.
+**Module 12 status (November 22, 2026):** The three approved Thought–Heart–Activity sets are present in Lessons 36–38 and are preserved. The separate PR #214 harmonizes Lessons 1–29 and 33–35; Module 10 retains its approved alternative format.
 
 ## Verbatim inventory
 
@@ -43,7 +43,6 @@ When someone understands that your symptoms are real, what difference might that
 Try explaining FND in one or two sentences using your own words. You could write them, say them to someone you trust or simply think them through.
 
 This isn't a test, and your explanation can change as you learn more.
-
 
 ### Lesson 2 — The Biopsychosocial Model and Misconceptions
 
@@ -71,7 +70,6 @@ Personally, my functional symptoms affect my memory, and I've found journaling n
 
 Your experience may be different. Not finding a pattern is useful information too.
 
-
 ### Lesson 3 — Remission, Recovery, and What Improvement Can Mean
 
 [Source lesson](../../../course/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) · Module 1
@@ -91,7 +89,6 @@ Choose one sign of improvement that would make a meaningful difference to your l
 It could involve symptoms, but it might also mean preparing a meal, spending time with someone or returning to your usual activities more easily after an episode.
 
 You can remember that possibility without tracking it every day.
-
 
 ### Lesson 4 — Available Capacity, Spoons, and Early Action
 
@@ -187,7 +184,6 @@ Keep these two questions separate:
 
 You can leave either unanswered. If the distinction raises a question for your clinician, you can bring it to a future appointment.
 
-
 ### Lesson 8 — Brain Networks, Prediction, Attention, and Agency
 
 [Source lesson](../../../course/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) · Module 3
@@ -209,7 +205,6 @@ The next time you encounter an explanation of FND, ask yourself:
 **"Did researchers measure this, or is it an idea they're still testing?"**
 
 You don't need to investigate every claim. Simply recognizing the difference is useful.
-
 
 ### Lesson 9 — Physical, Psychological, and Social Factors—and How to Judge Claims
 
@@ -253,7 +248,6 @@ What would you want someone to understand about your health without assuming tha
 Choose one important detail about your health: something already diagnosed or a question still needing assessment.
 
 Write or remember one sentence about it. That's enough to begin a personal symptom map.
-
 
 ### Lesson 11 — Building and Using Your Personal Symptom Map
 
@@ -300,9 +294,6 @@ If useful, describe one familiar, medically assessed symptom in a short sentence
 
 You can add it to your symptom map. If something new or concerning is happening now, seek the appropriate medical advice rather than waiting to complete an activity.
 
-Next, we'll use what you've learned to help prepare your individual safety plan.
-
-
 ### Lesson 13 — Emergency Information and Individual Safety Plans
 
 [Source lesson](../../../course/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md) · Module 5
@@ -325,7 +316,6 @@ One useful addition or question is enough. Medical safety instructions should fo
 
 If you don't have a specific safety need, you can simply think about what helps you explain your health at an appointment.
 
-
 ### Lesson 14 — Using Your Safety Plan and Deciding When to Get Urgent Help
 
 [Source lesson](../../../course/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) · Module 5
@@ -345,14 +335,6 @@ Before a familiar outing, consider one practical question:
 **"If I needed help here, what would make things easier and safer for everyone involved?"**
 
 You may already have the answer. If something needs changing, discuss it with the relevant people before relying on the new arrangement.
-
-<figure class="image-60center" markdown="1">
-
-![Three scenes show a person receiving support, discussing a plan with an occupational therapist, and choosing a park route with companions.](../../assets/images/lesson-14b-illustration.png)
-
-<figcaption>Notice what matters, prepare together, and use the plan in daily life. These scenes illustrate shared planning, rather than instructions for physical assistance.</figcaption>
-
-</figure>
 
 
 ## Module 6
@@ -377,9 +359,6 @@ Choose one familiar activity where you sometimes lose your place. Try one small 
 
 Notice whether returning to the activity feels easier. You can keep, change or set aside the idea.
 
-Next, we'll look at how your brain handles familiar actions with less step-by-step conscious direction.
-
-
 ### Lesson 16 — Automatic Control and Conscious Effort
 
 [Source lesson](../../../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md) · Module 6
@@ -399,9 +378,6 @@ Choose a familiar, safe activity you can already do, such as sorting a few light
 Think about the goal rather than instructing yourself through each movement. Keep your usual supports and stop whenever you need to.
 
 If doing an activity isn't suitable, you can imagine how the approach might work instead. If it could cause a fall or injury, discuss a safe approach with your rehabilitation clinician rather than trying it alone.
-
-Next, we'll look more closely at how changing the focus, instructions, or surroundings may affect what happens during an activity.
-
 
 ### Lesson 17 — Distraction, External Focus, and Context
 
@@ -446,8 +422,6 @@ Think of a familiar activity you enjoy. Is there an arrangement that makes it ea
 
 You may already have found something that helps. There's no need to provoke a symptom to test a prediction.
 
-In our next lesson, we'll meet the different kinds of information your brain receives from your body and surroundings. That will help us understand what predictions are being compared *with*.
-
 ### Lesson 19 — Interoception, Proprioception, and Outside Senses
 
 [Source lesson](../../../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md) · Module 7
@@ -467,8 +441,6 @@ If someone couldn't see or feel what made that situation difficult, what would y
 Choose one example from this lesson—or an experience of your own—and describe what the person noticed in one clear sentence. You might say: **"I can see where my foot is, but it doesn't feel like it's in the right place."**
 
 You can think it, say it or write it. You don't need to know the cause or test a sensation.
-
-In our next lesson, we'll explore why some information becomes particularly important to the brain—and why certain sensations, sounds or demands can become so difficult to ignore.
 
 ### Lesson 20 — Salience, Arousal, and Feedback Loops
 
@@ -490,8 +462,6 @@ Using the café example, choose **one part of the loop** that could change—per
 
 You can simply think it through. There's no need to create overload or test what happens to your symptoms.
 
-Next, we'll explore cognitive difficulties: why questions, words and familiar information sometimes seem to disappear, and how this relates to—but isn't the same as—a diagnosis of FCD.
-
 ### Lesson 21 — Cognitive Difficulties in FND
 
 [Source lesson](../../../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) · Module 7
@@ -512,12 +482,6 @@ If an interruption makes it hard to finish something you enjoy, try a simple pla
 
 If this isn't a difficulty you have, you can think about how that support might help someone else. The point is to make an activity easier, not test anyone's memory.
 
-In our next lesson, we'll explore what happens when thinking difficulties enter an emotional situation.
-
-What if you want to explain something important, but the information you need suddenly isn't available?
-
-And what if that difficulty itself becomes frightening or frustrating?
-
 ### Lesson 22 — Emotional Regulation and Involuntary Symptoms
 
 [Source lesson](../../../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md) · Module 7
@@ -537,8 +501,6 @@ If you still wanted to take part, what would you want others to understand? What
 Think about Leah's angry message to her relative. Without asking her to stop feeling angry, try one sentence she could send that tells the relative what she needs.
 
 You can think it, say it or write it. Choosing how to respond doesn't mean choosing whether an involuntary FND symptom happens.
-
-In our next lesson, we'll explore the difference between **intending an action**, **feeling in control of it**, and **what your body actually does**.
 
 ### Lesson 23 — Agency, Learning, and Your Own Adaptations
 
@@ -587,7 +549,6 @@ For example: **"I'm enjoying visits again, although my symptoms are still diffic
 
 Or perhaps your symptoms really have improved, and that's what you want to share. Both experiences deserve accurate words.
 
-
 ### Lesson 25 — When the Familiar Explanation Doesn't Quite Fit
 
 [Source lesson](../../../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md) · Module 8
@@ -624,7 +585,7 @@ What would being better informed mean to you?
 
 **Activity** (source heading: *One small step*)
 
-If you'd like to learn more about a **previously diagnosed FND symptom**, choose its page in the [Reference Library](../../reference/README.md).
+If you'd like to learn more about a **previously diagnosed FND symptom**, choose its page in the [Reference Library](../../README.md).
 
 You can begin with how it's understood and assessed, then explore the matching recovery information if useful. One question to bring to a suitable care professional is enough.
 
@@ -653,7 +614,6 @@ If you're receiving rehabilitation, you could ask:
 
 You can also simply consider how an activity connects to something meaningful in your life. You don't need to practise anything new to complete the reflection.
 
-
 ### Lesson 28 — Choosing Practice That Fits Your Life
 
 [Source lesson](../../../course/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md) · Module 9
@@ -675,7 +635,6 @@ If you already have rehabilitation activities, choose one experience you'd like 
 You might describe what felt manageable, what was too demanding or what changed afterwards. You don't need to explain why it happened or add new practice.
 
 If you're not receiving rehabilitation, you can think through one of the lesson's examples instead.
-
 
 ### Lesson 29 — When Someone Promises to Rewire Your Brain
 
@@ -700,8 +659,6 @@ If someone recommends a treatment, you could ask:
 **"Has this been tested for symptoms like mine, and what improved?"**
 
 You don't have to read the studies yourself. Someone recommending treatment should be able to explain what is known, what remains uncertain and how it relates to you.
-
-Next, we'll explore how everyday activities use up the energy and attention we have available—and what that means for living with FND.
 
 
 ## Module 10
@@ -747,7 +704,6 @@ If something you've learned about FND comes to mind during everyday life, try ex
 
 Or simply enjoy recognizing it yourself.
 
-
 ### Lesson 34 — Working With Your Healthcare Professionals
 
 [Source lesson](../../../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md) · Module 11
@@ -767,7 +723,6 @@ Imagine needing to clarify two different parts of your healthcare. Try completin
 **"I understand this referral is for ___. I still need help with ___."**
 
 You can keep that sentence in mind for a future conversation if it becomes useful.
-
 
 ### Lesson 35 — Finding Your Way Through Healthcare Barriers
 
@@ -836,7 +791,7 @@ Think of one treatment goal, real or imagined. Complete these two sentences:
 
 You can simply think about your answers. No treatment or written record is required.
 
-### Lesson 38 — Consent, Trauma, and Recognizing Harm
+### Lesson 38 — Consent and Changing the Treatment Plan
 
 [Source lesson](../../../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) · Module 12
 
@@ -863,6 +818,7 @@ Think of one small, safe everyday situation that was difficult. In your thoughts
 Now ask yourself: **"Could there be another way to understand what happened, or one small change that might help next time?"**
 
 If it's safe and manageable, you might try that change and notice what happens. You can also leave this as a thought exercise. This isn't about testing your FND symptoms or making them disappear.
+
 
 ## Module 13
 

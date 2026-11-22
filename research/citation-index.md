@@ -196,6 +196,19 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0346](#fnd-cit-0346) | Helen’s story | Individual lived experience | rehabilitation, learning, outcomes | [Lesson 29](../course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md) |
 | [FND-CIT-0347](#fnd-cit-0347) | Sandri et al., 2025 | Cross-sectional gait study | concurrent tasks, gait | [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md) |
 | [FND-CIT-0348](#fnd-cit-0348) | Cock & Edwards, 2018 | Clinical review | functional seizures, acute assessment, examination safety | [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md) |
+| [FND-CIT-0350](#fnd-cit-0350) | Higson et al., 2026 | Randomized trial | Module 12 | [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) |
+| [FND-CIT-0351](#fnd-cit-0351) | Goldstein et al., 2021 | Trial methods and results | Module 12 | [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) |
+| [FND-CIT-0352](#fnd-cit-0352) | Moreira et al., 2023 | Systematic review and meta-analysis | Module 12 | [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) |
+| [FND-CIT-0353](#fnd-cit-0353) | Williams et al., 2024 | Small mixed-methods interview study | Module 12 | [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) |
+| [FND-CIT-0354](#fnd-cit-0354) | CCPA, 2021 | Professional standards | Module 12 | [Lesson 38](../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) |
+| [FND-CIT-0355](#fnd-cit-0355) | Reddit spouse, New to FND | Community experience; currently unverified | Module 12 | [Lesson 36](../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md) |
+| [FND-CIT-0356](#fnd-cit-0356) | Reddit parent, psychological model | Community experience; currently unverified | Module 12 | [Lesson 36](../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md) |
+| [FND-CIT-0357](#fnd-cit-0357) | Reddit, seizure-focused workbook | Community experience | Module 12 | [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) |
+| [FND-CIT-0358](#fnd-cit-0358) | Reddit, parent on CBT | Community experience | Module 12 | [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) |
+| [FND-CIT-0359](#fnd-cit-0359) | Reddit, speech-loss experience | Community experience | Module 12 | [Lesson 38](../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) |
+| [FND-CIT-0360](#fnd-cit-0360) | Reddit, adult child on whiteboard | Community experience | Module 12 | [Lesson 38](../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) |
+| [FND-CIT-0361](#fnd-cit-0361) | Reiter et al., 2015 | Patient workbook | Module 12 | [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) |
+| [FND-CIT-0362](#fnd-cit-0362) | University of Sheffield, resources | Patient information and worksheets | Module 12 | [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -418,6 +431,8 @@ Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment 
 
 Use this source for the modern inclusionary diagnostic approach, removal of psychological stress as a required diagnostic criterion, broad treatment concepts, and limitations of older psychogenic assumptions. Later pages should distinguish DSM diagnostic criteria from broader mechanism proposals in the article.
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
+
 ## FND-CIT-0003
 
 Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1)
@@ -494,6 +509,7 @@ Use this source for current American Academy of Neurology evidence-based guidanc
 
 **Module 10 current use (November 14, 2026):** [Lesson 30](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
 
 ## FND-CIT-0011
 
@@ -531,6 +547,7 @@ Use this source for the importance of patient-centred outcomes that include symp
 
 **Module 10 current use (November 14, 2026):** [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
 
+**Module 11 current use (November 17, 2026):** [Module 11 overview](../course/module-11-building-an-individual-treatment-team/README.md).
 
 ## FND-CIT-0013
 
@@ -647,6 +664,7 @@ Use this source for professional consensus on positive assessment and speech-and
 
 **Module 10 current use (November 14, 2026):** [Lesson 32](../course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
 
+**Module 11 current use (November 17, 2026):** [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md).
 
 ## FND-CIT-0026
 
@@ -843,6 +861,8 @@ Use this source for the relationship between migraine and FND. The review found 
 
 **Module 8 current use (claim-level evidence check November 7, 2026; access limits in the Work audit):** [Lesson 24](../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 25](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
+
 ## FND-CIT-0050
 
 Nightscales R, McCartney L, Auvrez C, et al. Mortality in patients with psychogenic nonepileptic seizures. *Neurology*. 2020;95(6):e643–e652. [https://doi.org/10.1212/WNL.0000000000009855](https://doi.org/10.1212/WNL.0000000000009855)
@@ -910,6 +930,8 @@ Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic par
 Use this source for the bilateral hip-abductor comparison described in unilateral lower-limb paresis. Preserve the historical terminology only when quoting or giving the article title; use current non-stigmatizing language elsewhere. Do not extrapolate the result to bilateral or widespread paralysis.
 
 **Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
 
 ## FND-CIT-0059
 
@@ -1065,6 +1087,8 @@ Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: tr
 Use these recommendations for need-based multidisciplinary care, professional roles, coordination, supported local care and practical rehabilitation principles. The paper combines available research with multidisciplinary expert consensus in an Australian context; do not treat it as a comparative trial of team designs or proof that telehealth fits every person.
 
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+**Module 11 current use (November 17, 2026):** [Lesson 35](../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md); [Module 11 overview](../course/module-11-building-an-individual-treatment-team/README.md).
 
 ## FND-CIT-0077
 
@@ -1255,6 +1279,8 @@ Review of ophthalmic and neurological causes of photophobia; not proof of effica
 American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed September 17, 2026. [Source](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/).
 
 Professional communication-access guidance across conditions. Supports individualized AAC and continued access; not an FND treatment trial. The speech collection explicitly distinguishes this access approach from FND-CIT-0025’s caution about aids in functional mutism.
+
+**Module 11 current use (November 17, 2026):** [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md).
 
 ## FND-CIT-0107
 
@@ -1799,6 +1825,8 @@ Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functi
 
 **Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md).
 
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
+
 ## FND-CIT-0184
 
 Walczak TS, Bogolioubov A. Weeping during psychogenic nonepileptic seizures. *Epilepsia*. 1996;37(2):208-210. [DOI](https://doi.org/10.1111/j.1528-1157.1996.tb00013.x). [PMID: 8635432](https://pubmed.ncbi.nlm.nih.gov/8635432/).
@@ -2084,6 +2112,8 @@ National Institute for Health and Care Excellence. *Headaches in over 12s: diagn
 Guideline for headache treatment and medication-overuse management; not an FND treatment trial.
 
 **Current use:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md); [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md).
+
+**Module 11 current use (November 17, 2026):** [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md).
 
 ## FND-CIT-0200
 
@@ -3335,6 +3365,8 @@ Australian National Mental Health Commission. **Experiences of Functional Neurol
 
 **Module 10 scope:** Summary-report pages 9–10 support the general carer-burden statement. Self-selected responses (113 consumers, 66 carers); not a representative prevalence estimate.
 
+**Module 11 current use (November 17, 2026):** [Lesson 35](../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md).
+
 ## FND-CIT-0333
 
 Wieling W, Kaufmann H, Claydon VE, van Wijnen VK, Harms MPM, Juraschek SP, Thijs RD. **Diagnosis and treatment of orthostatic hypotension.** *The Lancet Neurology*. 2022;21(8):735–746. [Original](https://doi.org/10.1016/S1474-4422(22)00169-7) · [Open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10024337/).
@@ -3472,3 +3504,153 @@ Cock HR, Edwards MJ. **Functional neurological disorders: acute presentations an
 **Evidence and verification:** Clinical review; original full text independently checked November 14, 2026. The examination section advises against sternal rubs, nail-bed pressure and other noxious stimuli during dissociative/functional seizures because of injury and distress, including in people who retain awareness but cannot respond. This is clinical guidance, not a comparative treatment trial or a single-sign diagnostic rule. Project-lead-approved sentence added November 15, 2026.
 
 **Module 10 current use (November 15, 2026):** [Lesson 30, Clinician examination reflection](../course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md#examination-awareness-and-clinical-judgment).
+
+
+## FND-CIT-0349
+
+Reddit, r/WellSpouses. *PNES experience*. Original public discussion: https://www.reddit.com/r/WellSpouses/comments/1q2nlh9/pnes_experience/. Retained spouse excerpt unavailable for independent verification on November 17, 2026; exact wording, attribution and surrounding context could not be reconfirmed.
+
+**Evidence type:** Unverified community experience; not clinical evidence. Preserve the approved excerpt without implying current independent verification. Access failure does not establish deletion.
+
+**Module 11 current use (November 17, 2026):** [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md).
+
+
+## Module 11 — current source usage, November 17, 2026
+
+This mapping supersedes source-use assumptions from the earlier team-building draft. Removed unused lesson-table entries: Lehn, Nicholson OT and Dworetzky in Lesson 33; Rutten, Lehn and BPS in Lesson 34; BPS and Dworetzky in Lesson 35. Their other course and reference uses remain unchanged.
+
+| Page | Actual sources |
+|---|---|
+| [Lesson 33](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md) | FND-CIT-0349, FND-CIT-0106, FND-CIT-0025 |
+| [Lesson 34](../course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md) | FND-CIT-0002, FND-CIT-0058, FND-CIT-0183, FND-CIT-0049, FND-CIT-0199, FND-CIT-0010 |
+| [Lesson 35](../course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md) | FND-CIT-0332, FND-CIT-0076 |
+| [Overview](../course/module-11-building-an-individual-treatment-team/README.md) | FND-CIT-0076, FND-CIT-0012 |
+
+
+## FND-CIT-0350
+
+Higson L, Chen Z, Rayner G, Alpitsis R, Knayfati S, O’Brien TJ, Winton-Brown T. Internet Intervention for Functional Seizures: A Randomized Clinical Trial. *JAMA Neurology*. Published online October 26, 2026:e263893. https://doi.org/10.1001/jamaneurol.2026.3893
+
+**Evidence type:** Randomized trial. Original abstract independently verified November 22, 2026 (PMID 42931745); adults with video-EEG-confirmed functional seizures, excluding active epilepsy. Self-guided versus standard care significant; therapist-guided versus standard care and direct active-arm comparison not significant. Full paper unavailable through PMC until October 26, 2027.
+
+**Current use:** [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md).
+
+
+## FND-CIT-0351
+
+Goldstein LH, Robinson EJ, Mellers JDC, et al. Cognitive–behavioural therapy compared with standardised medical care for adults with dissociative non-epileptic seizures: the CODES RCT. *Health Technology Assessment*. 2021;25(43). https://www.ncbi.nlm.nih.gov/books/NBK571629/
+
+**Evidence type:** Trial methods and results. CODES treatment delivery, therapist training and eligibility. Author-deposited report: https://eprints.whiterose.ac.uk/id/eprint/212117/1/CODES%20FDS%20CBT%20RCT%20.pdf .
+
+**Current use:** [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md).
+
+
+## FND-CIT-0352
+
+Moreira AB, Knochenhauer AE, Froehner GV, et al. Prevalence of ictal injuries in functional (psychogenic nonepileptic) seizures: A systematic review and meta-analysis. *Epilepsia*. 2023;64(11):3082–3098. https://doi.org/10.1111/epi.17752
+
+**Evidence type:** Systematic review and meta-analysis. Original abstract verified November 22, 2026. Injuries can occur; lifetime and monitored-event estimates measure different things. Lifetime estimate has very low certainty; no individual-risk estimate is inferred.
+
+**Current use:** [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md).
+
+
+## FND-CIT-0353
+
+Williams IA, Morris PG, Forristal K, Stone J, Gillespie DC. Illness representations of people with later-onset functional seizures. *Epilepsy & Behavior*. 2024;152:109666. https://doi.org/10.1016/j.yebeh.2024.109666
+
+**Evidence type:** Small mixed-methods interview study. Original abstract verified November 22, 2026. Eight people with onset after age 40; perceived control and consequences, not a causal or treatment-efficacy study.
+
+**Current use:** [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md).
+
+
+## FND-CIT-0354
+
+Canadian Counselling and Psychotherapy Association. *Standards of Practice*. 2021, pp. 18–21, B4–B5. https://www.ccpa-accp.ca/wp-content/uploads/2021/10/CCPA-Standards-of-Practice-ENG-Sept-29-Web-file.pdf
+
+**Evidence type:** Professional standards. Original PDF independently read November 22, 2026: ongoing informed consent, accessible communication and withdrawal. Professional standards, not a universal statement of legal capacity for all 17-year-olds.
+
+**Current use:** [Lesson 38](../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md).
+
+
+## FND-CIT-0355
+
+Reddit, r/FND. *New to FND*. https://www.reddit.com/r/FND/comments/1rk5b5z/new_to_fnd/
+
+**Evidence type:** Community experience; currently unverified. Retained spouse excerpt unavailable for independent verification November 22, 2026. Wording, perspective and original context remain unconfirmed; access failure does not establish deletion.
+
+**Current use:** [Lesson 36](../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md).
+
+
+## FND-CIT-0356
+
+Reddit, r/FND. Parent discussion of a mental-health model of FND. https://www.reddit.com/r/FND/comments/1rfhr1h/comment/o7kig9o/
+
+**Evidence type:** Community experience; currently unverified. Retained parent excerpt unavailable for independent verification November 22, 2026. Wording, perspective and original context remain unconfirmed; access failure does not establish deletion.
+
+**Current use:** [Lesson 36](../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md).
+
+
+## FND-CIT-0357
+
+Reddit, r/FND. *Does CBT actually work?* January 30, 2025. https://www.reddit.com/r/FND/comments/1idblzt/comment/m9ysia2/
+
+**Evidence type:** Community experience. Exact excerpt and first-person perspective verified from the indexed original thread November 22, 2026: recently clarified functional seizures, a few weeks into the workbook with an existing therapist. No independent confirmation of diagnosis or effect.
+
+**Current use:** [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md).
+
+
+## FND-CIT-0358
+
+Reddit, r/FND. *Does CBT actually work?* January 30, 2025. https://www.reddit.com/r/FND/comments/1idblzt/comment/m9y16q7/
+
+**Evidence type:** Community experience. Exact excerpt and parent perspective independently verified from the indexed original thread November 22, 2026. Comfort improved in the account; symptoms did not. Treatment format and symptom subtype unspecified.
+
+**Current use:** [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md).
+
+
+## FND-CIT-0359
+
+Reddit, r/FND. *Recently Diagnosed FND – Complete Speech Loss*. August 17, 2026. https://www.reddit.com/r/FND/comments/1vpsiic/recently_diagnosed_fnd_complete_speech_loss/
+
+**Evidence type:** Community experience. Both excerpts independently verified in the indexed original thread November 22, 2026: first-person prolonged speech loss and tiring communication. Original spelling retained. Individual experience, not treatment evidence.
+
+**Current use:** [Lesson 38](../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md).
+
+
+## FND-CIT-0360
+
+Reddit, r/FND. *Recently Diagnosed FND – Complete Speech Loss*. August 17, 2026. https://www.reddit.com/r/FND/comments/1vpsiic/comment/p44uzjn/
+
+**Evidence type:** Community experience. Exact excerpt and adult-child perspective independently verified in the indexed original thread November 22, 2026. The father uses a whiteboard; commenter plans to try the suggested app. Direct comment permalink could not be separately resolved.
+
+**Current use:** [Lesson 38](../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md).
+
+
+## FND-CIT-0361
+
+Reiter JM, Andrews D, Reiter C, LaFrance WC Jr. *Taking Control of Your Seizures: Workbook*. Oxford University Press. 2015. https://academic.oup.com/book/1357
+
+**Evidence type:** Patient workbook. Patient resource, not a separate efficacy trial; resource availability and purchase/library access differ.
+
+**Current use:** [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md).
+
+
+## FND-CIT-0362
+
+University of Sheffield. *Non-Epileptic Attacks: Resources*. https://non-epileptic-attacks.sites.sheffield.ac.uk/resources
+
+**Evidence type:** Patient information and worksheets. Free information and worksheets; not represented as a complete CBT workbook.
+
+**Current use:** [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md).
+
+
+## Module 12 — current source usage, November 22, 2026
+
+This mapping supersedes the earlier generated lesson source lists. CODES is used in Lesson 37, not Lesson 36; the unused AAN entry is removed from Lesson 38. Other lessons’ usage remains unchanged.
+
+| Page | Actual sources |
+|---|---|
+| [Lesson 36](../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md) | FND-CIT-0077, FND-CIT-0078, FND-CIT-0001, FND-CIT-0002, FND-CIT-0355, FND-CIT-0356 |
+| [Lesson 37](../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md) | FND-CIT-0077, FND-CIT-0078, FND-CIT-0033, FND-CIT-0032, FND-CIT-0350, FND-CIT-0351, FND-CIT-0352, FND-CIT-0353, FND-CIT-0357, FND-CIT-0358, FND-CIT-0361, FND-CIT-0362 |
+| [Lesson 38](../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) | FND-CIT-0079, FND-CIT-0078, FND-CIT-0069, FND-CIT-0025, FND-CIT-0106, FND-CIT-0354, FND-CIT-0359, FND-CIT-0360 |
+| [Overview](../course/module-12-psychological-treatment-without-blame/README.md) | FND-CIT-0077, FND-CIT-0078, FND-CIT-0079 |

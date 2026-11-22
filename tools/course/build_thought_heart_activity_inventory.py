@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import difflib
+import os
 import re
 import sys
 from pathlib import Path
@@ -94,6 +95,9 @@ def prompts_from_person(person: str) -> list[tuple[str, str, str]]:
         # Remove navigation and section separators from the final prompt.
         value = re.sub(r"\n\*\*\*\s*[\s\S]*$", "", value)
         value = re.sub(r"\n---\s*[\s\S]*$", "", value)
+        # Illustrations and next-lesson transitions following the last prompt
+        # belong to the lesson, not the verbatim reflection inventory.
+        value = re.split(r"\n(?:<figure\b|Next, |In our next lesson, )", value, maxsplit=1)[0]
         prompts.append((kind, title, value.strip()))
     return prompts
 
@@ -123,6 +127,18 @@ def render_inventory() -> str:
             pieces.append("**No matching reflection/activity headings in this Person section.**\n\n")
 
         for kind, heading, value in prompts:
+            # Relative links are authored beside the lesson. Rebase them for
+            # this internal document without changing labels or prompt prose.
+            def rebase_link(match: re.Match[str]) -> str:
+                target = match.group(1)
+                if re.match(r"(?:[a-zA-Z][\w+.-]*:|/)", target):
+                    return match.group(0)
+                location, separator, anchor = target.partition("#")
+                destination = (file.parent / location).resolve() if location else file
+                relative = Path(os.path.relpath(destination, INVENTORY.parent)).as_posix()
+                return "](" + relative + (separator + anchor if separator else "") + ")"
+
+            value = re.sub(r"\]\(([^\s)]+)\)", rebase_link, value)
             pieces.append(
                 f"**{kind}** (source heading: *{heading}*)\n\n"
                 f"{value or '*Empty in source*'}\n\n"

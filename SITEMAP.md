@@ -156,7 +156,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Module overview](course/module-12-psychological-treatment-without-blame/README.md)
 - [Why Psychological Treatment Does Not Mean Imaginary](course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md)
 - [Choose a Therapy and Set Goals](course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
-- [Consent, Trauma, and Recognizing Harm](course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md)
+- [Consent and Changing the Treatment Plan](course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md)
 
 </details>
 

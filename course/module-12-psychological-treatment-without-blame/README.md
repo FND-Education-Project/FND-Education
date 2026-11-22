@@ -1,12 +1,12 @@
 # Module 12 — Psychological Treatment Without Blame
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › **Module 12: Psychological Treatment Without Blame**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › **Module 12: Psychological Treatment Without Blame**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** All nine Lesson 36–38 audience sections are human authored and project-lead-approved; latest editorial approval November 22, 2026. Work Audit 2 evidence, citation and asset checks: November 22, 2026; see the internal audit report for verification limits. Independent clinical review and full assistive-technology acceptance remain pending.
 
-This module separates why psychological care may be offered, how to choose a therapy, and how consent and trauma should be handled.
+This module explores why psychological treatment may be offered, what outcomes would make it worthwhile, and how consent and access needs can shape an agreed treatment plan.
 
 ## In this module
 
@@ -20,7 +20,21 @@ Research differs by therapy, FND presentation and outcome. Group associations wi
 
 - **[Why Psychological Treatment Does Not Mean Imaginary](01-why-psychological-treatment-does-not-mean-imaginary.md)** — separate a therapy target from a claim about cause.
 - **[Choose a Therapy and Set Goals](02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)** — compare broad approaches and decide what useful change would look like.
-- **[Consent, Trauma, and Recognizing Harm](03-consent-trauma-and-recognizing-harm.md)** — protect choice, boundaries, medical care and safety.
+- **[Consent and Changing the Treatment Plan](03-consent-trauma-and-recognizing-harm.md)** — use ongoing consent to adjust a treatment exercise without removing necessary communication access.
+
+### Optional Module 12 review crossword
+
+Review Lessons 36–38 with the Module 12 crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=module-12-review" aria-label="Browse Module 12 review crossword"><img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-12-review-m12-normal.svg' | relative_url }}" alt="Preview of Module 12 review crossword grid" loading="lazy" decoding="async"><span>FND Education — Module 12 Review</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Module 12 review crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Summary/fnd-education-module-12-review-m12-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Summary/fnd-education-module-12-review-m12-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Summary/fnd-education-module-12-review-m12-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
 
 > **Inside each page:** [Person with FND](01-why-psychological-treatment-does-not-mean-imaginary.md#for-the-person-with-fnd) · [Supporters](01-why-psychological-treatment-does-not-mean-imaginary.md#for-family-friends-and-other-supporters) · [Clinicians](01-why-psychological-treatment-does-not-mean-imaginary.md#for-clinicians-and-the-care-team) · [Research](01-why-psychological-treatment-does-not-mean-imaginary.md#research-and-sources)
 >
@@ -46,4 +60,4 @@ These sources support matched psychological care, honest evidence limits and tra
 
 This overview still needs review by people with varied therapy and trauma experiences, psychologists, neurologists and accessibility reviewers.
 
-*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
+*Last reviewed: November 22, 2026 · Editorial and evidence verification; independent clinical review pending*

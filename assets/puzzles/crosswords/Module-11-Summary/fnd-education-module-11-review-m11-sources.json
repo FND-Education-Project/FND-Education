@@ -1,0 +1,713 @@
+{
+  "title": "FND Education — Module 11 Review",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 0,
+    "lesson": null,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "module",
+    "module": 11,
+    "seed": 1,
+    "selected_question_count": 94
+  },
+  "score": 76.77,
+  "included": [
+    {
+      "answer": "OVERSHADOWING",
+      "borrowed": false,
+      "clue": "When one diagnosis stands in front\n  of another health problem.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 14,
+      "lesson": 34,
+      "module": 11,
+      "original_answer": "OVERSHADOWING",
+      "priority": 1,
+      "row": 1105
+    },
+    {
+      "answer": "NOTE",
+      "borrowed": false,
+      "clue": "A few reminders saved for the\n  doctor's visit.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 13,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "NOTE",
+      "priority": 2,
+      "row": 1053
+    },
+    {
+      "answer": "FEEDBACK",
+      "borrowed": false,
+      "clue": "Information about how an attempt\n  turned out.",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 16,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "FEEDBACK",
+      "priority": 1,
+      "row": 1064
+    },
+    {
+      "answer": "MEAN",
+      "borrowed": false,
+      "clue": "The point of asking, 'What exactly\n  do you ___?'",
+      "direction": "down",
+      "grid_col": 20,
+      "grid_row": 11,
+      "lesson": 34,
+      "module": 11,
+      "original_answer": "MEAN",
+      "priority": 2,
+      "row": 1082
+    },
+    {
+      "answer": "LIMIT",
+      "borrowed": false,
+      "clue": "A boundary that time, money, or\n  health can impose.",
+      "direction": "across",
+      "grid_col": 18,
+      "grid_row": 11,
+      "lesson": 35,
+      "module": 11,
+      "original_answer": "LIMIT",
+      "priority": 2,
+      "row": 1114
+    },
+    {
+      "answer": "QUIET",
+      "borrowed": false,
+      "clue": "The calmer alternative to a\n  bustling school corridor.",
+      "direction": "down",
+      "grid_col": 22,
+      "grid_row": 7,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "QUIET",
+      "priority": 2,
+      "row": 1052
+    },
+    {
+      "answer": "PLAN",
+      "borrowed": false,
+      "clue": "What happens next should be more\n  than a mystery.",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 13,
+      "lesson": 34,
+      "module": 11,
+      "original_answer": "PLAN",
+      "priority": 2,
+      "row": 1084
+    },
+    {
+      "answer": "TRANSPORT",
+      "borrowed": false,
+      "clue": "Getting to the clinic: a problem\n  before treatment even starts.",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 8,
+      "lesson": 35,
+      "module": 11,
+      "original_answer": "TRANSPORT",
+      "priority": 1,
+      "row": 1126
+    },
+    {
+      "answer": "TREAT",
+      "borrowed": false,
+      "clue": "Address the health problem, rather\n  than just name it.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 9,
+      "lesson": 34,
+      "module": 11,
+      "original_answer": "TREAT",
+      "priority": 2,
+      "row": 1089
+    },
+    {
+      "answer": "FAMILIAR",
+      "borrowed": false,
+      "clue": "How a once-confusing idea feels\n  after you revisit it.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 7,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "FAMILIAR",
+      "priority": 2,
+      "row": 1069
+    },
+    {
+      "answer": "PAUSE",
+      "borrowed": false,
+      "clue": "A brief 'hold that thought' in a\n  conversation.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 8,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "PAUSE",
+      "priority": 2,
+      "row": 1055
+    },
+    {
+      "answer": "ACCESS",
+      "borrowed": false,
+      "clue": "Having a referral doesn't\n  guarantee this to treatment.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 4,
+      "lesson": 35,
+      "module": 11,
+      "original_answer": "ACCESS",
+      "priority": 1,
+      "row": 1123
+    },
+    {
+      "answer": "TEAMWORK",
+      "borrowed": false,
+      "clue": "When local professionals and\n  specialists share the load.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 15,
+      "lesson": 35,
+      "module": 11,
+      "original_answer": "TEAMWORK",
+      "priority": 2,
+      "row": 1129
+    },
+    {
+      "answer": "SEPARATE",
+      "borrowed": false,
+      "clue": "How different conditions may need to\n  be considered.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 4,
+      "lesson": 34,
+      "module": 11,
+      "original_answer": "SEPARATE",
+      "priority": 2,
+      "row": 1101
+    },
+    {
+      "answer": "WAIT",
+      "borrowed": false,
+      "clue": "A verb practised extensively on\n  specialist waiting lists.",
+      "direction": "across",
+      "grid_col": 20,
+      "grid_row": 9,
+      "lesson": 35,
+      "module": 11,
+      "original_answer": "WAIT",
+      "priority": 2,
+      "row": 1115
+    },
+    {
+      "answer": "NOISE",
+      "borrowed": false,
+      "clue": "Too many sounds competing for\n  first prize.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 12,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "NOISE",
+      "priority": 2,
+      "row": 1046
+    },
+    {
+      "answer": "WORD",
+      "borrowed": false,
+      "clue": "One tiny unit of language can derail\n  a medical discussion.",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 13,
+      "lesson": 34,
+      "module": 11,
+      "original_answer": "WORD",
+      "priority": 2,
+      "row": 1081
+    },
+    {
+      "answer": "TEACHER",
+      "borrowed": false,
+      "clue": "Someone who should know that\n  typing can count as answering.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 5,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "TEACHER",
+      "priority": 2,
+      "row": 1067
+    },
+    {
+      "answer": "HOURS",
+      "borrowed": false,
+      "clue": "A few of these each way isn't a\n  short errand.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 12,
+      "lesson": 35,
+      "module": 11,
+      "original_answer": "HOURS",
+      "priority": 3,
+      "row": 1120
+    },
+    {
+      "answer": "COMMUNICATION",
+      "borrowed": false,
+      "clue": "When meaning travels by speaking,\n  typing, or gestures.",
+      "direction": "down",
+      "grid_col": 0,
+      "grid_row": 6,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "COMMUNICATION",
+      "priority": 1,
+      "row": 1075
+    },
+    {
+      "answer": "DISTANCE",
+      "borrowed": false,
+      "clue": "Too much of this can put\n  specialist care out of reach.",
+      "direction": "across",
+      "grid_col": 17,
+      "grid_row": 16,
+      "lesson": 35,
+      "module": 11,
+      "original_answer": "DISTANCE",
+      "priority": 1,
+      "row": 1133
+    },
+    {
+      "answer": "PATTERN",
+      "borrowed": false,
+      "clue": "A repeated sequence you can begin\n  to recognize.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 3,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "PATTERN",
+      "priority": 2,
+      "row": 1072
+    },
+    {
+      "answer": "PAIN",
+      "borrowed": false,
+      "clue": "This deserves treatment, even when\n  stress can affect it.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 14,
+      "lesson": 34,
+      "module": 11,
+      "original_answer": "PAIN",
+      "priority": 2,
+      "row": 1078
+    },
+    {
+      "answer": "CLINIC",
+      "borrowed": false,
+      "clue": "A place that may assess without\n  offering ongoing treatment.",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 0,
+      "lesson": 35,
+      "module": 11,
+      "original_answer": "CLINIC",
+      "priority": 2,
+      "row": 1111
+    },
+    {
+      "answer": "TYPE",
+      "borrowed": false,
+      "clue": "Use a keyboard when your voice\n  clocks out.",
+      "direction": "down",
+      "grid_col": 24,
+      "grid_row": 13,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "TYPE",
+      "priority": 1,
+      "row": 1049
+    },
+    {
+      "answer": "ASSESSMENT",
+      "borrowed": false,
+      "clue": "A detailed evaluation that isn't\n  automatically treatment.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 4,
+      "lesson": 35,
+      "module": 11,
+      "original_answer": "ASSESSMENT",
+      "priority": 1,
+      "row": 1136
+    },
+    {
+      "answer": "BELL",
+      "borrowed": false,
+      "clue": "A school's loudest way of saying\n  'Move along.'",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 3,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "BELL",
+      "priority": 3,
+      "row": 1045
+    },
+    {
+      "answer": "SHARE",
+      "borrowed": false,
+      "clue": "Let someone else benefit from what\n  you learned.",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 14,
+      "lesson": 33,
+      "module": 11,
+      "original_answer": "SHARE",
+      "priority": 2,
+      "row": 1058
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "PHONE",
+      "clue": "A pocket-sized backup when\n  speaking becomes difficult.",
+      "row": 1048
+    },
+    {
+      "answer": "WORDS",
+      "clue": "They can get stuck despite knowing\n  what you want to say.",
+      "row": 1050
+    },
+    {
+      "answer": "FOCUS",
+      "clue": "A mental zoom lens that can get\n  stuck on speech.",
+      "row": 1059
+    },
+    {
+      "answer": "LEARN",
+      "clue": "Gain new understanding without\n  needing symptoms to disappear.",
+      "row": 1063
+    },
+    {
+      "answer": "KNOWLEDGE",
+      "clue": "What grows even while an illness\n  stays troublesome.",
+      "row": 1066
+    },
+    {
+      "answer": "SALIENCE",
+      "clue": "Why a school bell gets the brain's\n  VIP pass.",
+      "row": 1070
+    },
+    {
+      "answer": "ATTENTION",
+      "clue": "The mental spotlight that can land\n  on your speech.",
+      "row": 1071
+    },
+    {
+      "answer": "UNDERSTANDING",
+      "clue": "Making sense of experiences\n  without necessarily changing symptoms.",
+      "row": 1073
+    },
+    {
+      "answer": "AUTOMATICITY",
+      "clue": "The reason you don't normally\n  coach each mouth movement.",
+      "row": 1074
+    },
+    {
+      "answer": "CARE",
+      "clue": "What a patient needs, not just an\n  appointment letter.",
+      "row": 1083
+    },
+    {
+      "answer": "REVIEW",
+      "clue": "Look again at medicine when it isn't\n  helping enough.",
+      "row": 1088
+    },
+    {
+      "answer": "NEEDS",
+      "clue": "A referral should address these, not\n  merely fill a slot.",
+      "row": 1090
+    },
+    {
+      "answer": "TERMS",
+      "clue": "Medical ___ sometimes carry more\n  than one meaning.",
+      "row": 1091
+    },
+    {
+      "answer": "MIGRAINE",
+      "clue": "A headache condition that deserves\n  its own care plan.",
+      "row": 1094
+    },
+    {
+      "answer": "REFERRAL",
+      "clue": "A professional handoff, not an\n  instant problem-solver.",
+      "row": 1095
+    },
+    {
+      "answer": "PURPOSE",
+      "clue": "The 'why' that should come with\n  every referral.",
+      "row": 1096
+    },
+    {
+      "answer": "CLARIFY",
+      "clue": "Help a puzzling medical word shed\n  its fog.",
+      "row": 1100
+    },
+    {
+      "answer": "EXPLANATION",
+      "clue": "What should connect a treatment\n  recommendation to the actual problem.",
+      "row": 1107
+    },
+    {
+      "answer": "COST",
+      "clue": "The unpleasant surprise after\n  totaling fuel, meals, and lodging.",
+      "row": 1108
+    },
+    {
+      "answer": "LOCAL",
+      "clue": "Care that's nearby, even when\n  specialist expertise isn't.",
+      "row": 1110
+    },
+    {
+      "answer": "GOALS",
+      "clue": "Patient priorities, not simply the\n  clinic's checklist.",
+      "row": 1113
+    },
+    {
+      "answer": "REPORT",
+      "clue": "What an assessment may produce,\n  without treatment following.",
+      "row": 1116
+    },
+    {
+      "answer": "VALUE",
+      "clue": "The question is whether a visit\n  adds enough of this.",
+      "row": 1121
+    },
+    {
+      "answer": "THERAPIST",
+      "clue": "A professional who might apply\n  specialist guidance locally.",
+      "row": 1124
+    },
+    {
+      "answer": "TREATMENT",
+      "clue": "What a specialist assessment may\n  recommend but not provide.",
+      "row": 1128
+    },
+    {
+      "answer": "BARRIER",
+      "clue": "An obstacle between knowing about\n  care and receiving it.",
+      "row": 1132
+    },
+    {
+      "answer": "TREATMENTBURDEN",
+      "clue": "The time, effort, and money spent\n  managing healthcare.",
+      "row": 1135
+    },
+    {
+      "answer": "REHABILITATION",
+      "clue": "Care focused on improving everyday\n  abilities.",
+      "row": 1137
+    },
+    {
+      "answer": "SPEAK",
+      "clue": "Say something aloud rather than\n  send a message.",
+      "row": 1051
+    },
+    {
+      "answer": "HELP",
+      "clue": "You can request this without\n  giving up independence.",
+      "row": 1056
+    },
+    {
+      "answer": "TEACH",
+      "clue": "Explain an idea so someone else\n  can use it.",
+      "row": 1057
+    },
+    {
+      "answer": "SKILL",
+      "clue": "An ability that may become easier\n  with learning.",
+      "row": 1061
+    },
+    {
+      "answer": "VOICE",
+      "clue": "A communication tool that doesn't\n  always cooperate.",
+      "row": 1062
+    },
+    {
+      "answer": "SUPPORT",
+      "clue": "What a good companion provides,\n  not a running commentary.",
+      "row": 1065
+    },
+    {
+      "answer": "DESCRIBE",
+      "clue": "Put an experience into words\n  someone else can follow.",
+      "row": 1068
+    },
+    {
+      "answer": "NEUROSCIENCE",
+      "clue": "The science of the brain and\n  nerves, not rocket science.",
+      "row": 1076
+    },
+    {
+      "answer": "TRUST",
+      "clue": "Respect that can survive asking your\n  doctor a question.",
+      "row": 1079
+    },
+    {
+      "answer": "LETTER",
+      "clue": "A specialist referral may arrive in\n  this.",
+      "row": 1080
+    },
+    {
+      "answer": "DOCTOR",
+      "clue": "An expert whose advice you can\n  respect and question.",
+      "row": 1085
+    },
+    {
+      "answer": "LISTEN",
+      "clue": "A useful response before prescribing\n  another explanation.",
+      "row": 1086
+    },
+    {
+      "answer": "CLEAR",
+      "clue": "How an explanation should be, rather\n  than buried in jargon.",
+      "row": 1087
+    },
+    {
+      "answer": "REASON",
+      "clue": "Ask for the ___ behind a\n  recommendation.",
+      "row": 1092
+    },
+    {
+      "answer": "SAY",
+      "clue": "Patients should have a ___ in their\n  own care.",
+      "row": 1093
+    },
+    {
+      "answer": "RESPECT",
+      "clue": "Disagreeing politely doesn't have to\n  cancel this.",
+      "row": 1097
+    },
+    {
+      "answer": "PATIENT",
+      "clue": "The one person no appointment should\n  talk around.",
+      "row": 1098
+    },
+    {
+      "answer": "EXPERTISE",
+      "clue": "The knowledge a clinician brings;\n  patients bring experience.",
+      "row": 1099
+    },
+    {
+      "answer": "CONCERNS",
+      "clue": "What should not get lost in referral\n  paperwork.",
+      "row": 1102
+    },
+    {
+      "answer": "AUTHORITY",
+      "clue": "A doctor's professional power to\n  arrange certain referrals.",
+      "row": 1104
+    },
+    {
+      "answer": "PSYCHOLOGIST",
+      "clue": "The referral may be for this\n  professional, not a headache specialist.",
+      "row": 1106
+    },
+    {
+      "answer": "RIDE",
+      "clue": "Essential help when driving\n  yourself isn't safe.",
+      "row": 1109
+    },
+    {
+      "answer": "VISIT",
+      "clue": "One specialist encounter is this,\n  not a whole programme.",
+      "row": 1112
+    },
+    {
+      "answer": "CHECK",
+      "clue": "Find out what's offered before\n  booking the hotel.",
+      "row": 1118
+    },
+    {
+      "answer": "OFFER",
+      "clue": "What a clinic can ___ may differ\n  from what it recommends.",
+      "row": 1122
+    },
+    {
+      "answer": "GUIDANCE",
+      "clue": "Expert suggestions that may\n  outlast one appointment.",
+      "row": 1125
+    },
+    {
+      "answer": "WAITLIST",
+      "clue": "A queue that ends in an\n  appointment, not necessarily treatment.",
+      "row": 1127
+    },
+    {
+      "answer": "PLANNING",
+      "clue": "The invisible work before a\n  faraway appointment.",
+      "row": 1130
+    },
+    {
+      "answer": "EXPENSES",
+      "clue": "Hotel bills, parking, and meals\n  belong in this category.",
+      "row": 1131
+    },
+    {
+      "answer": "FOLLOWUP",
+      "clue": "The next contact after an initial\n  assessment.",
+      "row": 1134
+    },
+    {
+      "answer": "RECOMMENDATION",
+      "clue": "A suggestion that won't deliver\n  itself to your door.",
+      "row": 1138
+    },
+    {
+      "answer": "CROWD",
+      "clue": "A hallway traffic jam made\n  entirely of people.",
+      "row": 1047
+    },
+    {
+      "answer": "CLASS",
+      "clue": "Students sharing a lesson, or\n  their group.",
+      "row": 1054
+    },
+    {
+      "answer": "POINT",
+      "clue": "Indicate a place without saying a\n  word.",
+      "row": 1060
+    },
+    {
+      "answer": "HEAD",
+      "clue": "Migraine's rather unfortunate\n  favourite location.",
+      "row": 1077
+    },
+    {
+      "answer": "HISTORY",
+      "clue": "Past diagnoses and treatments\n  recorded in a medical chart.",
+      "row": 1103
+    },
+    {
+      "answer": "FORMS",
+      "clue": "Healthcare homework with tiny\n  boxes and big demands.",
+      "row": 1117
+    },
+    {
+      "answer": "REACH",
+      "clue": "To ___ a faraway clinic may take\n  more than a referral.",
+      "row": 1119
+    }
+  ]
+}
