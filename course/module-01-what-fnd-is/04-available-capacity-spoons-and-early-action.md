@@ -272,7 +272,7 @@ When your capacity is limited, what part of your day would you most like to prot
 
 ### One small step
 
-Think about a familiar situation and complete these statements if they fit:
+Think about a familiar situation. If useful, complete **just one** of these statements—or more if you want:
 
 **"An early sign I sometimes notice is ___."**
 
