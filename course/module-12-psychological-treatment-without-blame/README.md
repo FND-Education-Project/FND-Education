@@ -4,9 +4,9 @@
 [Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › **Module 12: Psychological Treatment Without Blame**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Editorial status:** All nine Lesson 36–38 audience sections were human-authored and project-lead-approved by November 22, 2026. The approved original illustrations, colouring-book PDFs/previews and crossword PDF sets for Lessons 36–38 were brought into this PR from merged main (PR #211 and subsequent crossword uploads). All three Person lessons now link their optional activities; the Module 12 review crossword is linked below and the puzzle catalogue contains its entries. Chat Audit 1 editorial decisions, independent source/quotation verification, clinical, accessibility and final publication checks remain pending.
+> **Editorial status:** All nine Lesson 36–38 audience sections were human-authored and project-lead-approved by November 22, 2026. The approved original illustrations, colouring-book PDFs/previews and crossword PDF sets for Lessons 36–38 were brought into this PR from merged main (PR #211 and subsequent crossword uploads). All three Person lessons now link their optional activities; the Module 12 review crossword is linked below and the puzzle catalogue contains its entries. All Chat Audit 1 editorial decisions were approved and implemented November 22, 2026; independent source/quotation verification, clinical, accessibility and final publication checks remain pending.
 
-This module separates why psychological care may be offered, how to choose a therapy, and how consent and trauma should be handled.
+This module explores why psychological treatment may be offered, what outcomes would make it worthwhile, and how consent and access needs can shape an agreed treatment plan.
 
 ## In this module
 
@@ -20,7 +20,7 @@ Research differs by therapy, FND presentation and outcome. Group associations wi
 
 - **[Why Psychological Treatment Does Not Mean Imaginary](01-why-psychological-treatment-does-not-mean-imaginary.md)** — separate a therapy target from a claim about cause.
 - **[Choose a Therapy and Set Goals](02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)** — compare broad approaches and decide what useful change would look like.
-- **[Consent, Trauma, and Recognizing Harm](03-consent-trauma-and-recognizing-harm.md)** — protect choice, boundaries, medical care and safety.
+- **[Consent and Changing the Treatment Plan](03-consent-trauma-and-recognizing-harm.md)** — use ongoing consent to adjust a treatment exercise without removing necessary communication access.
 
 ### Optional Module 12 review crossword
 
