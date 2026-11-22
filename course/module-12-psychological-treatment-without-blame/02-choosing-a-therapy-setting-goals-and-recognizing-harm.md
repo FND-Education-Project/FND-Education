@@ -192,7 +192,7 @@ For Graham, fewer seizures would be an important improvement. Being able to enjo
 
 One doesn't have to replace the other.
 
-In our next lesson, Callum will face a different choice. CBT is easier for him to access, but specialist speech therapy is much farther away. He'll need to understand what each treatment could help with before deciding what fits his needs.
+In our next lesson, Callum discovers that agreeing to CBT doesn't mean agreeing to every exercise. He and his psychologist must find a way to practise participating without taking away the phone he needs when speech fails.
 
 ### Something to think about
 
