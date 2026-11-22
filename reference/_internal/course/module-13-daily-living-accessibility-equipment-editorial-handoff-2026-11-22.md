@@ -106,9 +106,11 @@ The course has already taught that FND symptoms are genuine, that individual saf
 - **M15–16:** self-advocacy, records, institutional accommodations, work and benefits are later; mention cost/funding as a real constraint in L42, without pre-writing an appeals guide.
 - **M17–19:** setbacks and progress reviews come later; L42 is about a **specific aid and task**, not a general relapse or recovery handbook.
 
+**Known inherited cleanup:** The existing generated Module 13 pages still contain some **legacy Module 17** breadcrumb labels and the overview has an outdated 'Module 16' backward-navigation label; reconcile these against canonical Module 13 navigation during later lesson integration, without renumbering stable routes or progress identifiers in this planning PR.
+
 **Editorial challenge:** The generated M13 sections currently repeat short 'aid good or bad' formulations and generic independence/consent advice. Human authoring should give each lesson *a different practical tension and answer* rather than four versions of the same equipment reassurance.
 
-## 7. Questions to discuss before composing the nine? **Twelve** audience sections
+## 7. Questions to discuss before composing the twelve audience sections
 
 1. Are **all four lessons** worthwhile as separate stories, particularly L40 first aid decision versus L42 reassessment? Keep the separation only if the new insight is genuinely different.
 2. How openly should a fictional clinician voice concern about learned reliance, deconditioning, transfer harm or reinforcement—and what original guidance should be checked before that concern is tested in the narrative? Avoid both caricature and silent dismissal.
