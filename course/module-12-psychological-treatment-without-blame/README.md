@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Living With FND › **Module 12: Psychological Treatment Without Blame**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Editorial status:** All nine Lesson 36–38 audience sections were human-authored and project-lead-approved by November 22, 2026. The illustrations' captions and alt text are embedded in the Person lessons, but their original PNGs, colouring-book files and crossword PDF sets are not present in the available PR tree. Chat Audit 1 editorial decisions, Work original-source verification, clinical and technical acceptance, activity integration and publication readiness remain pending.
+> **Editorial status:** All nine Lesson 36–38 audience sections were human-authored and project-lead-approved by November 22, 2026. The approved original illustrations, colouring-book PDFs/previews and crossword PDF sets for Lessons 36–38 were brought into this PR from merged main (PR #211 and subsequent crossword uploads). All three Person lessons now link their optional activities; the Module 12 review crossword is linked below and the puzzle catalogue contains its entries. Chat Audit 1 editorial decisions, independent source/quotation verification, clinical, accessibility and final publication checks remain pending.
 
 This module separates why psychological care may be offered, how to choose a therapy, and how consent and trauma should be handled.
 
@@ -21,6 +21,20 @@ Research differs by therapy, FND presentation and outcome. Group associations wi
 - **[Why Psychological Treatment Does Not Mean Imaginary](01-why-psychological-treatment-does-not-mean-imaginary.md)** — separate a therapy target from a claim about cause.
 - **[Choose a Therapy and Set Goals](02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)** — compare broad approaches and decide what useful change would look like.
 - **[Consent, Trauma, and Recognizing Harm](03-consent-trauma-and-recognizing-harm.md)** — protect choice, boundaries, medical care and safety.
+
+### Optional Module 12 review crossword
+
+Review Lessons 36–38 with the Module 12 crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=module-12-review" aria-label="Browse Module 12 review crossword"><img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-12-review-m12-normal.svg' | relative_url }}" alt="Preview of Module 12 review crossword grid" loading="lazy" decoding="async"><span>FND Education — Module 12 Review</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Module 12 review crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Summary/fnd-education-module-12-review-m12-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Summary/fnd-education-module-12-review-m12-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-12-Summary/fnd-education-module-12-review-m12-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
 
 > **Inside each page:** [Person with FND](01-why-psychological-treatment-does-not-mean-imaginary.md#for-the-person-with-fnd) · [Supporters](01-why-psychological-treatment-does-not-mean-imaginary.md#for-family-friends-and-other-supporters) · [Clinicians](01-why-psychological-treatment-does-not-mean-imaginary.md#for-clinicians-and-the-care-team) · [Research](01-why-psychological-treatment-does-not-mean-imaginary.md#research-and-sources)
 >
