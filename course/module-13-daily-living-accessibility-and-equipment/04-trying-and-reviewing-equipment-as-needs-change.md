@@ -79,6 +79,14 @@ Help observe practical outcomes without turning the trial into surveillance. Ask
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+### Community voice for editorial review
+
+> “She doesnt use either every day or even every week. But when she needs them, she needs them.”
+
+— [Father describing his daughter's variable need for equipment](https://www.reddit.com/r/FND/comments/1qb1nrq/comment/nz7roir/)
+
+*Caregiver quotation bank Q081 / S25. Original wording, speaker and context require fresh verification before publication. Intermittent use can be meaningful; this account does not establish which aid another person should choose.*
+
 ***
 
 ## For Clinicians and the Care Team
