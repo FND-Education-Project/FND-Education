@@ -3,7 +3,7 @@
 **Date:** November 22, 2026  
 **PR reviewed:** [#214](https://github.com/FND-Education-Project/FND-Education/pull/214), head `a6b2e00c42b00a1a7975246ca2f1a6ecea5a116b`  
 **Related PR:** [Module 12 #210](https://github.com/FND-Education-Project/FND-Education/pull/210), parent head observed `91b32db091152a6674a3fb45a3acfae195451eea`  
-**Status:** Independent editorial review completed. **Findings are proposed, not project-lead-approved; no changes to public questions or lesson narratives made by this audit.** This document is the pending editorial decision and Work Audit 2 handoff, not a scientific verification or publication approval.
+**Status (updated November 22):** **All eight editorial findings approved by the project lead and implemented in the public reflection questions on PR #214.** Surrounding lesson narratives and other audience sections were not edited. This is the completed Chat Audit 1 / Work Audit 2 handoff, **not** scientific source verification, final accessibility acceptance or publication approval.
 
 ## Scope and review principles
 
@@ -53,4 +53,23 @@ Reviewers should not revise every “environmental adjustment” Activity. Some 
 
 ## Project-lead decision log
 
-**Pending discussion.** No new editorial changes have yet been approved. Obtain a decision on the four required proposed corrections and the four worthwhile options, including any alternatives the project lead prefers. Only then edit live questions and regenerate the inventory. Earlier approval of the harmonization itself is preserved; this document does not retroactively revoke it.
+**Project-lead approval:** November 22, 2026 — “all 8 approved.” The lead explicitly requested completing these corrections before the Work audit and confirmed the eventual merge order: **merge Module 12 PR #210 first, then Thought–Heart–Activity PR #214**. No merge or deployment was performed in Chat Audit 1.
+
+**Implementation status: all eight resolved.** Only reflection text was changed:
+
+| Lesson | Approved resolution | Implementation commit |
+| --- | --- | --- |
+| 4 | Activity permits just one optional planning statement (or more if desired); safety/no-warning alternatives preserved | `55c8b9b` |
+| 5 | Thought and Activity allow positive-sign examples from the lesson when a clinician has not demonstrated one; professional interpretation and no self-testing preserved | `7cd261d` |
+| 18 | Thought now uses the fictional missing-stair episode to distinguish automatic prediction from deliberate worry; existing Heart and safe Activity retained | `b42a95a` |
+| 19 | Activity practises clear, cause-neutral description of information/sensation from the story or life rather than repeating an environmental adaptation | `93fea31` |
+| 20 | Thought and Activity identify and optionally interrupt the story’s effort–tiredness–difficulty feedback loop, with no symptom provocation | `588f2df` |
+| 21 | Thought explores possible attention/working-memory/retrieval contributions without asserting a mechanism from a single lapse | `cf0b698` |
+| 22 | Activity uses Leah’s message to distinguish feeling anger from choosing a reply, without suggesting control over FND symptoms | `f4bc237` |
+| 25 | Thought and Activity use Natalie’s measured blood-pressure change and what it does not yet explain; avoids repeating the general Lesson 6 test-result question | `e5e54fe` |
+
+**Inventory synchronization:** Updated `reference/_internal/course/thought-heart-activity-inventory.md` from the exact eight live lesson-source reflection sets, using the canonical extractor’s heading/paragraph formatting, at commit `d4c2d93`. The extraction was checked for **three ordered prompts in all eight changed lessons**. This was a targeted regeneration, **not** a completed run of the repository-wide Python `--check` command; Work must run that command on the final reconciled checkout.
+
+**Preservation:** Existing lesson narrative, audience prose, illustrations, quotations, citation lists and other THA sets were left untouched by these eight targeted changes. The approved Module 12 (36–38) prompts and Module 10 (30–32) narrative activities remain outside this patch.
+
+**Still pending for Work Audit 2:** source/claim and quotation verification, full inventory generator `--check` and curriculum/CI, link and rendered accessibility checks, branch reconciliation after PR #210, any substantive clinical concerns and independent clinical-review status. The PR has **not** been merged, deployed or independently medically approved.
