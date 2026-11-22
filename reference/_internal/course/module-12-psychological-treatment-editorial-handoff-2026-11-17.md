@@ -87,6 +87,16 @@ Both are personal experiences, not scientific evidence or evidence against thera
 
 ---
 
+## November 22 — Lesson 37 Supporter story approved and committed; next is Lesson 38 Supporter
+
+**Project lead approved the complete edited Lesson 37 Supporter draft**, with one author-supplied wording change in the skip-summary (“frightened people”); the source of truth is the latest user-edited writing block, not an earlier Chat version. Committed to PR #210 at `be7684b9b523b52da063a26654a0c70f0c9400fd`. The replaced Supporter section is approximately 1,838 words. Person and Clinician sections remain untouched.
+
+The approved story features Graham reading an FND forum and remembering a public functional seizure while going to catch a bus with groceries. He retains awareness during much of the event, cannot explain his needs, is assessed by ambulance responders, later wakes in hospital and encounters sensory and practical difficulties. A clearly signposted skip link leads to a short non-detailed summary before the comment thread resumes. Fictional forum comments are distinguished from genuine quotations. Graham contributes only **one reply** after reading comments over several hours, distinguishing practical help from reassurance and recognizing some predictions CBT might help him examine. At the end he deletes an unnecessary apology from his **unsent** invitation to Lena. No fictional improvement in seizures, completed visit, or treatment start is claimed. The educational conclusion distinguishes risk, avoidance, seizure-focused CBT evidence (CODES and Re-PROGRAM), two sourced community voices, and symptom versus participation outcomes. Reader sensitivity is addressed without claiming a validated safe word count. The user-supplied Markdown citation link for CODES was retained as provided. The section is editorially approved, **not** independently clinically/source audited or merge-authorized.
+
+**Next:** Author Lesson 38 **Supporter** in Chat as a full proposal for project-lead review. Keep the existing approved Callum Person/Clinician sections unchanged and do not commit unapproved Lesson 38 prose. End Module 12 with a distinct, genuinely difficult case of **continuing consent, treatment fit and communication access**. Retain Callum's father only in a role that Callum authorizes; avoid repeating Person's exact therapy-room dialogue, Nadia's causal-misunderstanding conflict or Graham's forum device. Bring in one or two existing verifiable community voices (see Lesson 38 research brief and the November 21 forum language selections). Follow a concrete supporter-viewpoint dilemma with accessible, evidence-qualified *advice-over-coffee* explanation; preserve distinctions among challenging treatment, a mismatched task, consent, functional speech variability and changes to medical symptoms. Do not present an aid as universally harmful or universally appropriate. Do not suggest positive outcomes unobserved by the fictional case.
+
+---
+
 ## 1. First task for the new Chat thread
 
 1. Read this entire handoff and the companion [Module 12 authoring prompt](module-12-human-authoring-prompt-2026-11-17.md).
