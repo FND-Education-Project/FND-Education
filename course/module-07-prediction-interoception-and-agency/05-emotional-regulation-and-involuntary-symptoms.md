@@ -725,9 +725,9 @@ If you still wanted to take part, what would you want others to understand? What
 
 ### One small step
 
-For an activity or conversation that matters, consider one arrangement that might help: more time, a quieter place, one question at a time, or another way to communicate or participate.
+Think about Leah's angry message to her relative. Without asking her to stop feeling angry, try one sentence she could send that tells the relative what she needs.
 
-You don't have to control every feeling for that experience to matter.
+You can think it, say it or write it. Choosing how to respond doesn't mean choosing whether an involuntary FND symptom happens.
 
 In our next lesson, we'll explore the difference between **intending an action**, **feeling in control of it**, and **what your body actually does**.
 
