@@ -362,9 +362,9 @@ If someone couldn't see or feel what made that situation difficult, what would y
 
 ### One small step
 
-Think of a place you'd like to enjoy more comfortably. Consider one helpful change, such as softer light, a quieter place to talk or a safer route.
+Choose one example from this lesson—or an experience of your own—and describe what the person noticed in one clear sentence. You might say: **"I can see where my foot is, but it doesn't feel like it's in the right place."**
 
-You don't have to explain the cause of a sensation to ask for an arrangement that helps.
+You can think it, say it or write it. You don't need to know the cause or test a sensation.
 
 In our next lesson, we'll explore why some information becomes particularly important to the brain—and why certain sensations, sounds or demands can become so difficult to ignore.
 
