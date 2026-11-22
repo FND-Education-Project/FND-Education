@@ -3538,7 +3538,7 @@ Higson L, Chen Z, Rayner G, Alpitsis R, Knayfati S, O’Brien TJ, Winton-Brown T
 
 ## FND-CIT-0351
 
-Goldstein LH, Robinson EJ, Mellers JDC, et al. Cognitive–behavioural therapy compared with standardised medical care for adults with dissociative non-epileptic seizures: the CODES RCT. *Health Technology Assessment*. 2021;25(43). https://www.ncbi.nlm.nih.gov/books/NBK571629/
+Goldstein LH, Robinson EJ, Pilecka I, et al. Cognitive–behavioural therapy compared with standardised medical care for adults with dissociative non-epileptic seizures: the CODES RCT. *Health Technology Assessment*. 2021;25(43). https://www.ncbi.nlm.nih.gov/books/NBK571629/
 
 **Evidence type:** Trial methods and results. CODES treatment delivery, therapist training and eligibility. Author-deposited report: https://eprints.whiterose.ac.uk/id/eprint/212117/1/CODES%20FDS%20CBT%20RCT%20.pdf .
 
