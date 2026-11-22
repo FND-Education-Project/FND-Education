@@ -280,9 +280,9 @@ We don't yet have all the answers, but we now have a better understanding of wha
 
 ### Something to think about
 
-Think about a time when something didn't happen as you expected. Perhaps a familiar movement became difficult, your words wouldn't come, a memory slipped away or a sound seemed unusually loud.
+Remember the staircase where someone's foot lifted for another step but found empty air. What had their nervous system prepared for, and what happened instead?
 
-What did you expect, and what happened instead?
+They hadn't consciously decided there was another step. How is that automatic preparation different from worrying in advance that you might stumble?
 
 ### How might that feel?
 
