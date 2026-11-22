@@ -97,6 +97,18 @@ The approved story features Graham reading an FND forum and remembering a public
 
 ---
 
+## November 22 — Lesson 38 Supporter approved and committed (completes Module 12 Supporter authoring)
+
+**Approval and commits.** The project lead expressly approved the latest user-edited Lesson 38 Supporter draft and requested a commit. Committed the full approved section in `01fff5fba226c5a8d296489f7799c8e9951a2c46`, followed by a formatting-only restoration of the Supporter shareable heading attribute in `5c0454077be632283a5ea245efe479fefd387dc5`. The user's final edit includes the classroom line **“Ms., that's enough. We need to get on with the lesson.”** (do not silently revert to an earlier draft). The complete approved Supporter prose is about 2,019 words. No Person or Clinician prose was touched. PR #210 remains draft.
+
+**Approved story and educational lesson.** Callum is seventeen, with variable functional speech and an essential phone-based way to communicate when speaking is unavailable. In second class, he talks with Asha about an upcoming dance, unaware a substitute has entered; later Mrs. Carter hears no spoken answer, takes the phone despite classmates protesting, and cites an ordinary no-phones rule. Callum feels simultaneously grateful for and embarrassed by Asha's defence. The class falls uncomfortably quiet; he is effectively invisible for the rest of the lesson. After class Mrs. Carter recalls a previous student whose stutter improved with confidence and familiarity. Callum recognizes that situational effects can be real without explaining his own current speech. He decides not to spend another ten minutes persuading a substitute. A brief later conversation with Asha contrasts the classroom event with the **approved Person story's** CBT exercise, which he and his psychologist reworked together while retaining communication access. No extended father conversation remains.
+
+**Structure and evidence.** The Supporter section expressly invites readers to read Callum's Person section first and thereafter assumes familiarity. A conversational *advice-over-coffee* explanation separates observation from psychological causal inference, individualized expert concern about some communication aids from unproven claims that withdrawing an aid would restore functional speech, and therapeutic consent from classroom accommodation. Preserves community quotes about loneliness during speech loss and an adult child's report of whiteboard use, with their anecdotal limitations. The source context for these quotations was previously recorded in the Lesson 38 research brief; original-source and clinical verification are still tasks for the formal audit.
+
+**Editorial status.** The Person, Supporter and Clinician sections of Lessons 36–38 have each received human editorial review and approval as drafts. This is **not** an independent evidence/source audit, external clinical review, assistive-technology acceptance, or permission to merge. The project lead retains merge authority. Audit citations, links, heading/navigation integration, and any unresolved style or clinical accuracy items before recommending publication. Preserve approved prose and user edits rather than rewriting from historical handoff proposals.
+
+---
+
 ## 1. First task for the new Chat thread
 
 1. Read this entire handoff and the companion [Module 12 authoring prompt](module-12-human-authoring-prompt-2026-11-17.md).
