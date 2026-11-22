@@ -107,7 +107,7 @@ When your capacity is limited, what part of your day would you most like to prot
 
 **Activity** (source heading: *One small step*)
 
-Think about a familiar situation and complete these statements if they fit:
+Think about a familiar situation. If useful, complete **just one** of these statements—or more if you want:
 
 **"An early sign I sometimes notice is ___."**
 
@@ -126,7 +126,7 @@ If you have no reliable warning sign, your plan can begin with what helps when s
 
 **Thought** (source heading: *Something to think about*)
 
-If your clinician showed you a positive sign of FND, what did they observe? What did they explain that finding might show about your nervous system?
+Choose a positive sign described in this lesson—or one your clinician has explained to you. What did the clinician observe, and why must that finding be considered alongside the rest of the examination?
 
 **Heart** (source heading: *How might that feel?*)
 
@@ -134,10 +134,9 @@ What would help you feel comfortable asking questions about your diagnosis, espe
 
 **Activity** (source heading: *One small step*)
 
-Try separating the explanation into two parts: **what the clinician found** and **what the finding means**.
+Try separating a positive-sign example from this lesson—or an explanation you were given—into two parts: **what was observed** and **what the clinician thinks it shows**.
 
-You can ask for either part to be explained again. There's no need to repeat neurological tests yourself; they require professional training and interpretation.
-
+If your own diagnosis hasn't been explained, you could instead think of one question you'd like to ask. Don't repeat neurological tests yourself; they need professional training and interpretation.
 
 ### Lesson 6 — Tests, Diagnostic Uncertainty, and Coexisting Conditions
 
@@ -433,9 +432,9 @@ Notice whether it becomes easier or more comfortable. Keep the aids and safety m
 
 **Thought** (source heading: *Something to think about*)
 
-Think about a time when something didn't happen as you expected. Perhaps a familiar movement became difficult, your words wouldn't come, a memory slipped away or a sound seemed unusually loud.
+Remember the staircase where someone's foot lifted for another step but found empty air. What had their nervous system prepared for, and what happened instead?
 
-What did you expect, and what happened instead?
+They hadn't consciously decided there was another step. How is that automatic preparation different from worrying in advance that you might stumble?
 
 **Heart** (source heading: *How might that feel?*)
 
@@ -448,7 +447,6 @@ Think of a familiar activity you enjoy. Is there an arrangement that makes it ea
 You may already have found something that helps. There's no need to provoke a symptom to test a prediction.
 
 In our next lesson, we'll meet the different kinds of information your brain receives from your body and surroundings. That will help us understand what predictions are being compared *with*.
-
 
 ### Lesson 19 — Interoception, Proprioception, and Outside Senses
 
@@ -466,12 +464,11 @@ If someone couldn't see or feel what made that situation difficult, what would y
 
 **Activity** (source heading: *One small step*)
 
-Think of a place you'd like to enjoy more comfortably. Consider one helpful change, such as softer light, a quieter place to talk or a safer route.
+Choose one example from this lesson—or an experience of your own—and describe what the person noticed in one clear sentence. You might say: **"I can see where my foot is, but it doesn't feel like it's in the right place."**
 
-You don't have to explain the cause of a sensation to ask for an arrangement that helps.
+You can think it, say it or write it. You don't need to know the cause or test a sensation.
 
 In our next lesson, we'll explore why some information becomes particularly important to the brain—and why certain sensations, sounds or demands can become so difficult to ignore.
-
 
 ### Lesson 20 — Salience, Arousal, and Feedback Loops
 
@@ -479,9 +476,9 @@ In our next lesson, we'll explore why some information becomes particularly impo
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine talking with a friend in a busy café while music, movement, pain or tiredness compete for your attention.
+In the café story, the grinder makes it harder to hear. The person tries harder to follow the conversation, becomes tired, and then finds listening even harder.
 
-Which demand would be hardest to set aside?
+Which changes keep affecting one another? What makes this a **feedback loop**, rather than just a noisy room?
 
 **Heart** (source heading: *How might that feel?*)
 
@@ -489,12 +486,11 @@ When several demands pile up, what part of the activity do you most want to keep
 
 **Activity** (source heading: *One small step*)
 
-Consider whether one demand could be reduced without losing the part you value: a quieter seat, a television turned off or fewer questions at once.
+Using the café example, choose **one part of the loop** that could change—perhaps the noise, the effort needed to listen or a chance to rest. How might that affect what happens next?
 
-If a similar adjustment already works elsewhere, it might be useful here too. There's no need to deliberately create overload.
+You can simply think it through. There's no need to create overload or test what happens to your symptoms.
 
 Next, we'll explore cognitive difficulties: why questions, words and familiar information sometimes seem to disappear, and how this relates to—but isn't the same as—a diagnosis of FCD.
-
 
 ### Lesson 21 — Cognitive Difficulties in FND
 
@@ -502,9 +498,9 @@ Next, we'll explore cognitive difficulties: why questions, words and familiar in
 
 **Thought** (source heading: *Something to think about*)
 
-Think about someone losing their place during a task, forgetting a conversation or reaching for a familiar word. Was the information lost while they were using it, or was it hard to bring back later?
+Imagine someone losing their place during a task or struggling to find a familiar word. Paying attention, keeping information available and finding it again are different abilities.
 
-If you've experienced something similar, which fits best?
+Which abilities **might** be involved? Why can't one lapse tell us for certain?
 
 **Heart** (source heading: *How might that feel?*)
 
@@ -522,7 +518,6 @@ What if you want to explain something important, but the information you need su
 
 And what if that difficulty itself becomes frightening or frustrating?
 
-
 ### Lesson 22 — Emotional Regulation and Involuntary Symptoms
 
 [Source lesson](../../../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md) · Module 7
@@ -539,12 +534,11 @@ If you still wanted to take part, what would you want others to understand? What
 
 **Activity** (source heading: *One small step*)
 
-For an activity or conversation that matters, consider one arrangement that might help: more time, a quieter place, one question at a time, or another way to communicate or participate.
+Think about Leah's angry message to her relative. Without asking her to stop feeling angry, try one sentence she could send that tells the relative what she needs.
 
-You don't have to control every feeling for that experience to matter.
+You can think it, say it or write it. Choosing how to respond doesn't mean choosing whether an involuntary FND symptom happens.
 
 In our next lesson, we'll explore the difference between **intending an action**, **feeling in control of it**, and **what your body actually does**.
-
 
 ### Lesson 23 — Agency, Learning, and Your Own Adaptations
 
@@ -600,9 +594,7 @@ Or perhaps your symptoms really have improved, and that's what you want to share
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine receiving a normal medical test result while the symptom that prompted it remains real.
-
-What question did the test answer? Does that result rule out every possible explanation?
+When Natalie stood up during her appointment, the clinician measured a drop in her blood pressure. What did that finding show? What would they still need to find out before deciding whether it explained her unfamiliar faint feeling?
 
 **Heart** (source heading: *How might that feel?*)
 
@@ -610,12 +602,9 @@ What difference would it make if a clinician understood your FND diagnosis while
 
 **Activity** (source heading: *One small step*)
 
-If a test or explanation leaves you uncertain, consider asking:
+Use Natalie's example to finish **one sentence**: **"The clinician measured ___, but still needs to find out ___."**
 
-**"What does this result tell us, and what does it leave unanswered?"**
-
-You can also ask what the next step is intended to clarify. You don't need to investigate every possibility yourself.
-
+You can use the story even if you haven't had a similar experience. This is about understanding what a finding can—and cannot—tell us, not testing yourself or deciding on a diagnosis.
 
 ### Lesson 26 — Finding Your Way Through the Reference Library
 
