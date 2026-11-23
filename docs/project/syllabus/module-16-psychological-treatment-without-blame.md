@@ -61,7 +61,7 @@ The reader can consider psychological support on its actual evidence and goals, 
 
 ---
 
-[← Module 15: Pacing, Activity, and the Boom-and-Bust Cycle](module-15-pacing-activity-and-the-boom-and-bust-cycle.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 17: Daily Living, Accessibility, and Equipment →](module-17-daily-living-accessibility-and-equipment.md)
+[← Module 11: Recognizing Progress and Navigating Healthcare](module-11-recognizing-progress-and-navigating-healthcare.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 13: Daily Living, Accessibility, and Equipment →](module-17-daily-living-accessibility-and-equipment.md)
 
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
