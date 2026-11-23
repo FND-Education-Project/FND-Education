@@ -1,12 +1,12 @@
-# Module 16 — Psychological Treatment Without Blame
+# Module 12 — Psychological Treatment Without Blame
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 16 — Psychological Treatment Without Blame**
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 12 — Psychological Treatment Without Blame**
 <!-- NAV-BREADCRUMB:END -->
 
 [← Course syllabus](../detailed-course-syllabus.md)
 
-**Part Four: Treatment and Rehabilitation**
+**Part Four: Treatment and Living With FND**
 
 ## Purpose
 
@@ -14,11 +14,11 @@ Explain why psychological treatment can be relevant without defining FND as imag
 
 ## Focused lesson split
 
-- [Why Psychological Treatment Does Not Mean Imaginary](../../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md)
-- [Choose a Therapy and Set Goals](../../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
-- [Consent, Trauma, and Recognizing Harm](../../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md)
+- [Why Psychological Treatment Does Not Mean Imaginary](../../../course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md)
+- [Choose a Therapy and Set Goals](../../../course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
+- [Consent and Changing the Treatment Plan](../../../course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md)
 
-Consent, trauma and treatment harm have their own page so they are not compressed into a general list of therapy choices.
+The approved Lesson 38 uses Callum’s CBT exercise and communication access to examine consent and changing a treatment plan. Trauma and treatment harm remain relevant clinical context.
 
 ## Essential knowledge
 
@@ -61,7 +61,7 @@ The reader can consider psychological support on its actual evidence and goals, 
 
 ---
 
-[← Module 15: Pacing, Activity, and the Boom-and-Bust Cycle](module-15-pacing-activity-and-the-boom-and-bust-cycle.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 17: Daily Living, Accessibility, and Equipment →](module-17-daily-living-accessibility-and-equipment.md)
+[← Module 11: Recognizing Progress and Navigating Healthcare](module-11-recognizing-progress-and-navigating-healthcare.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 13: Daily Living, Accessibility, and Equipment →](module-17-daily-living-accessibility-and-equipment.md)
 
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)

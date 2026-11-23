@@ -9,6 +9,7 @@ on:
     branches:
       - main
       - migrate-to-pages
+      - editorial/module-12-psychological-treatment-handoff-20261117
   workflow_dispatch:
 
 permissions:

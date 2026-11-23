@@ -81,10 +81,10 @@ Rehabilitation and pacing come directly after the concepts and symptom-navigatio
 
 ## Part Four — Treatment and Living With FND
 
-The approved Module 11 care-navigation sequence now has a current syllabus and public titles; later modules still use their earlier planning material until separately reviewed. The canonical course URLs and lesson numbers remain unchanged.
+The approved Module 11 care-navigation and Module 12 psychological-treatment sequences now have current syllabus descriptions and public titles; later modules still use their earlier planning material until separately reviewed. The canonical course URLs and lesson numbers remain unchanged.
 
 11. [**Recognizing Progress and Navigating Healthcare**](syllabus/module-11-recognizing-progress-and-navigating-healthcare.md) — Value of understanding FND before symptom improvement, collaborative conversations about referral purpose and separate medical needs, and realistic healthcare access. *Approved lessons 33–35; former treatment-team outline superseded for the current course.*
-12. **Psychological Treatment Without Blame** — Therapy options, consent, evidence and the difference between mental-health support and assigning a cause to FND. [Existing Module 16 syllabus](syllabus/module-16-psychological-treatment-without-blame.md).
+12. **Psychological Treatment Without Blame** — Therapy options, consent, evidence and the difference between mental-health support and assigning a cause to FND. [Module 12 syllabus](syllabus/module-16-psychological-treatment-without-blame.md).
 13. **Daily Living, Accessibility, and Equipment** — Adapt tasks and surroundings; fit mobility and communication aids; protect current access. [Existing Module 17 syllabus](syllabus/module-17-daily-living-accessibility-and-equipment.md).
 14. **Relationships, Identity, and Grief** — Changing roles, boundaries, shared life, supporter wellbeing and meaningful connection. [Existing Module 18 syllabus](syllabus/module-18-relationships-identity-and-grief.md).
 15. **Healthcare Communication and Self-Advocacy** — Appointments, records, memory aids, decisions and follow-up. [Existing Module 19 syllabus](syllabus/module-19-healthcare-communication-and-self-advocacy.md).

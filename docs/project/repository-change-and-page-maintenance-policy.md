@@ -46,6 +46,12 @@ Use this checklist whenever a course or reference page is added, removed, rename
 
 </details>
 
+## Person lesson reflections and activities
+
+For **every newly authored or revised** `For the Person With FND` section, follow the [Thought, Heart, and Activity authoring standard](../../reference/_internal/course/thought-heart-activity-authoring-standard.md). Review the [course-wide inventory](../../reference/_internal/course/thought-heart-activity-inventory.md) for prior lessons so the new Thought, Heart and Activity reinforce the lesson's central learning without repeating generic questions.
+
+**Same-PR maintenance is required:** Once a Person section and its end prompts are approved, regenerate the inventory with `python tools/course/build_thought_heart_activity_inventory.py` and commit it alongside the lesson. Run `python tools/course/build_thought_heart_activity_inventory.py --check` as a consistency check from a checkout containing the current approved base branch and the proposed changes. When the project lead deliberately defers end prompts (as in Module 12), document that decision in the editorial handoff and preserve the missing items in the inventory until they are approved. The generated record is not a clinical or editorial approval.
+
 ## Reference pages
 
 <details>
