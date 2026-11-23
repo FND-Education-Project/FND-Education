@@ -903,15 +903,7 @@ If it's safe and manageable, you might try that change and notice what happens. 
 
 [Source lesson](../../../course/module-13-daily-living-accessibility-and-equipment/01-adapting-personal-care-and-household-tasks.md) · Module 13
 
-**Earlier questions** (source heading: *Questions*)
-
-#### Which daily task costs you more than other people can see?
-
-#### If one part became easier, what would you want to keep doing for yourself?
-
-**Activity** (source heading: *One small thing you can do*)
-
-Choose one task. Write four words: **barrier — risk — current workaround — possible change**. Stop there. Ask for professional assessment if transfers, falls, burns, choking, injury or another person's safety may be involved.
+**No matching reflection/activity headings in this Person section.**
 
 ### Lesson 40 — Mobility Aids, Wheelchairs, Seating, and Fall Safety
 
