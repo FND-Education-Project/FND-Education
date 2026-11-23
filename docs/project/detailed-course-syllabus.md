@@ -81,7 +81,7 @@ Rehabilitation and pacing come directly after the concepts and symptom-navigatio
 
 ## Part Four — Treatment and Living With FND
 
-The approved Module 11 care-navigation sequence now has a current syllabus and public titles; later modules still use their earlier planning material until separately reviewed. The canonical course URLs and lesson numbers remain unchanged.
+The approved Module 11 care-navigation and Module 12 psychological-treatment sequences now have current syllabus descriptions and public titles; later modules still use their earlier planning material until separately reviewed. The canonical course URLs and lesson numbers remain unchanged.
 
 11. [**Recognizing Progress and Navigating Healthcare**](syllabus/module-11-recognizing-progress-and-navigating-healthcare.md) — Value of understanding FND before symptom improvement, collaborative conversations about referral purpose and separate medical needs, and realistic healthcare access. *Approved lessons 33–35; former treatment-team outline superseded for the current course.*
 12. **Psychological Treatment Without Blame** — Therapy options, consent, evidence and the difference between mental-health support and assigning a cause to FND. [Module 12 syllabus](syllabus/module-16-psychological-treatment-without-blame.md).
