@@ -87,17 +87,19 @@ For some, these experiences are an important part of understanding their health 
 
 **A person does not need to have experienced anxiety, significant stress or trauma to develop FND or receive the diagnosis.** (*citations* [2](#citation-2), [3](#citation-3), [5](#citation-5))
 
-### Questions to reflect on
+### Something to think about
 
-How would you explain your FND diagnosis to someone else?
+How would you explain your FND diagnosis to someone else? What would you most want them to understand about symptoms that are real and involuntary, even when they change?
+
+### How might that feel?
+
+When someone understands that your symptoms are real, what difference might that make to you? Is there something you wish people understood without needing an explanation?
 
 ### One small step
 
-Write down how you would explain your FND diagnosis to someone else.
+Try explaining FND in one or two sentences using your own words. You could write them, say them to someone you trust or simply think them through.
 
-You might include what FND means, how it affects the nervous system, why symptoms can change, and what you want the other person to understand about your experience.
-
-Use your own words. This is not a test, and your explanation can change as you learn more.
+This isn't a test, and your explanation can change as you learn more.
 
 ### Optional learning activity
 

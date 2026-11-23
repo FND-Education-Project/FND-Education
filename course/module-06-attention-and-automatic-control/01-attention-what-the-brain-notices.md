@@ -114,26 +114,21 @@ When you return, those few words might help you pick up the thread. If noise is 
 
 ### Something to think about
 
-In Module 5, we looked at things that help when you go somewhere or need support.
+Imagine visiting someone while trying to follow a conversation, manage a headache and ignore other people talking nearby.
 
-Imagine you've planned a visit. You know where to sit and how you'll get home if you need to leave early. But once you're there, you're trying to follow a conversation while other people are talking and your head hurts.
-
-Which part of the visit takes the most attention? What else is competing for it?
+Which part takes the most attention? What else is competing for it?
 
 ### How might that feel?
 
-You went because you wanted to enjoy someone's company, not spend the afternoon struggling to keep up. What would you most like to pay attention to if some of those other demands were smaller?
+You went because you wanted to enjoy someone's company. What would you most like to pay attention to if some of those competing demands were smaller?
 
 ### One small step
 
-Think of one familiar activity where you sometimes lose your place.
+Choose one familiar activity where you sometimes lose your place. Try one small change that makes room for your attention, such as a short reminder, fewer interruptions or a quieter place.
 
-Choose **one small change** that makes more room for your attention. You might leave two words about your next step, keep a useful browser tab open, or ask for a little quiet while you finish.
-
-See whether returning to the activity feels easier. You can keep the support that works for you, change it, or save this idea for another day.
+Notice whether returning to the activity feels easier. You can keep, change or set aside the idea.
 
 Next, we'll look at how your brain handles familiar actions with less step-by-step conscious direction.
-
 
 ### Further reading in the Reference Library
 

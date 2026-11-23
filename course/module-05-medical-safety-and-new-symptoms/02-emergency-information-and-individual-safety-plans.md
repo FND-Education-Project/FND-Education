@@ -174,33 +174,21 @@ There's no one-size-fits-all set of instructions for FND.
 
 ### Something to think about
 
-Look back at the safety needs you identified on your symptom map.
+Is there a situation in which your symptoms could make it difficult to explain what help you need?
 
-Has one particular difficulty come up more than once?
+What information would be most important for someone helping you to know?
 
-Maybe you've repeatedly found yourself wishing you had something with you.
+### How might that feel?
 
-Or perhaps there's a situation where you'd feel more comfortable knowing someone understood how to help.
+What everyday activity might feel more manageable if you knew essential safety information and arrangements were already in place?
 
-What small change might make that situation easier next time?
+### One small step
 
-You may already have a solution in place.
+Choose one safety need you've identified. Consider whether the people who might help you have the information they need, or whether something in your existing plan should be reviewed.
 
-If so, that's part of your safety planning too.
+One useful addition or question is enough. Medical safety instructions should follow your individual care plan.
 
-### One small thing you can do
-
-Choose **one safety need** you've already identified.
-
-Rather than writing it down all over again, think about what might help with it.
-
-Perhaps there's something you could prepare, a change to your surroundings worth exploring, or a question you'd like to ask an occupational therapist or another clinician.
-
-You can add that next step to your existing map, if you want.
-
-And if you've already made an adaptation that helps, take a moment to recognise it.
-
-You've been doing some safety planning already.
+If you don't have a specific safety need, you can simply think about what helps you explain your health at an appointment.
 
 ### Two handouts that have been especially helpful to us
 

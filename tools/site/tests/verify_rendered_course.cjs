@@ -19,6 +19,10 @@ process.on('exit', () => server.kill());
   await page.route('**/*', route => route.request().url().startsWith('http://127.0.0.1:4174/') ? route.continue() : route.abort());
   const reports=[];
   const paths=['/course/','/course/m6/1/','/course/m6/2/','/course/m6/3/','/course/m7/','/course/m7/1/','/course/m7/2/','/course/m7/3/','/course/m7/4/','/course/m7/5/','/course/m7/6/','/course/m8/','/course/m8/1/','/course/m8/2/','/course/m8/3/','/course/m9/','/course/m9/1/','/course/m9/2/','/course/m9/3/','/course/m10/','/course/m10/1/','/course/m10/2/','/course/m10/3/','/course/m11/','/course/m11/1/','/course/m11/2/','/course/m11/3/','/course/m12/','/course/m12/1/','/course/m12/2/','/course/m12/3/','/course/m19/2/'];
+  // Include every earlier lesson changed by the approved THA harmonization.
+  for (const [module, count] of [[1,4],[2,2],[3,3],[4,2],[5,3]]) {
+    for (let lesson=1; lesson<=count; lesson++) paths.push(`/course/m${module}/${lesson}/`);
+  }
   for(const width of [1280,360]) {
     await page.setViewportSize({width,height:900});
     for(const path of paths) {
@@ -27,6 +31,25 @@ process.on('exit', () => server.kill());
       const detail=await page.evaluate(()=>({title:document.querySelector('h1')?.textContent.trim(), width:innerWidth, scrollWidth:document.documentElement.scrollWidth, citations:document.querySelectorAll('[id^="citation-"]').length, context:document.querySelector('.page-context')?.textContent.replace(/\s+/g,' ').trim()}));
       if(detail.scrollWidth>width+1) throw new Error('Horizontal page overflow: '+path+' '+JSON.stringify(detail));
       reports.push({path,width,...detail});
+      // Reflection structure is checked on actual rendered HTML at both widths.
+      if (/^\/course\/m(?:[1-9]|11|12)\/\d+\/$/.test(path)) {
+        const reflection = await page.evaluate(() => {
+          // Scope the invariant to Person content: Supporter sections may reuse a heading.
+          const headings = Array.from(document.querySelectorAll('h2, h3'));
+          const start = headings.findIndex(h => h.id === 'for-the-person-with-fnd');
+          if (start < 0) throw new Error('Missing Person section');
+          const next = headings.findIndex((h, i) => i > start && h.tagName === 'H2');
+          const titles = headings.slice(start + 1, next < 0 ? undefined : next)
+            .filter(h => h.tagName === 'H3').map(h => h.textContent.trim());
+          return ['Something to think about','How might that feel?','One small step']
+            .map(title => titles.filter(value => value === title).length);
+        });
+        if (reflection.some(count => count !== 1)) throw new Error('THA headings: '+path);
+        const heading = page.getByRole('heading', {name:'Something to think about', exact:true}).first();
+        await heading.scrollIntoViewIfNeeded();
+        await page.screenshot({path:output+'/reflections-'+width+'-'+path.split('/').filter(Boolean).join('-')+'.png'});
+      }
+
       // Audit reviewed Modules 6, 7, 8, 9 and 10 lessons at both widths using built HTML.
       // Local anchors and PDF affordances must survive Markdown conversion.
       if(/^\/course\/m(?:[6789]|10|11|12)\/\d+\/$/.test(path)) {

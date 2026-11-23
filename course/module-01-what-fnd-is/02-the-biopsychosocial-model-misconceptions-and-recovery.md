@@ -134,35 +134,27 @@ No. A treatment helping does not establish what caused the original condition.
 
 No. Some people notice patterns, while others do not. Neither experience makes their FND less real.
 
-### Questions to reflect on
+### Something to think about
 
-How do you think having a good support group around you could improve your ability to manage everyday life?
+Have you noticed anything physical, psychological or social that affects your symptoms or daily activities? Are there also times when no pattern is apparent?
 
-Have you noticed anything that repeatedly affects your symptoms, whether physical, psychological or social? Or are your symptoms sometimes unpredictable?
+How is noticing something that affects you different from knowing what caused your FND?
+
+### How might that feel?
+
+What would you want someone to understand about the different things affecting your life, without assuming that you're responsible for your symptoms?
 
 ### One small step
 
-If you're able and find it useful, you might write down what was happening around a change in your symptoms.
+Think of one familiar difficulty using three possible headings: **Body and brain**, **Thoughts and feelings**, and **Life and surroundings**.
 
-Try three headings:
-
-- **Body and brain**
-- **Thoughts and feelings**
-- **Life and surroundings**
-
-You can leave any heading blank if you don't know what belongs there.
-
-This isn't about proving why you have FND. It is simply a way of looking for patterns that might help you make everyday life a little easier.
+You can leave any heading blank. If something suggests a small change that might make daily life easier, consider it. You don't need to keep a journal or find an explanation for every symptom.
 
 **Don't worry if you can't journal!**
 
 Personally, my functional symptoms affect my memory, and I've found journaling nearly impossible. Over time, I have still been able to notice some patterns in my own symptoms.
 
 Your experience may be different. Not finding a pattern is useful information too.
-
-If keeping notes is difficult, you might instead choose one small practical change, such as reducing noise, asking for help with an activity or allowing more time to recover after an appointment.
-
-You don't need to keep records or perform exercises to prove that you are trying.
 
 ### Optional learning activity
 

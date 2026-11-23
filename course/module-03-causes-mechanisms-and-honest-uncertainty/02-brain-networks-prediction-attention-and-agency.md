@@ -95,26 +95,23 @@ A finding shared by a group may fit some people closely and others only a little
 
 This work is already helping clinicians ask better questions and shape rehabilitation around what they observe. In the next lesson, we will look at how physical health, emotions, and surroundings can join the picture in everyday life.
 
-### Questions to reflect on
+### Something to think about
 
-Which part of your nervous system experience would you most like to understand?
+Researchers sometimes measure differences in brain activity or networks, then propose explanations for what those differences might mean.
 
-You might choose movement, awareness, memory, seizures, sensation, speech, pain, fatigue, or something else.
+Can you recognize the difference between a finding they measured and an explanation they're still investigating?
 
-As you think back over this lesson, can you spot one measured research finding and one idea that scientists are still testing?
+### How might that feel?
 
-If you feel comfortable, you might also ask: how does it feel to hear what researchers have found and what they are still exploring?
-
-You can leave that question for another day.
+What interests you most about this research? Does learning about both the discoveries and the uncertainty change how you understand your own experience?
 
 ### One small step
 
-At your next appointment, you could ask:
+The next time you encounter an explanation of FND, ask yourself:
 
-> “What have researchers measured about symptoms like mine, and which ideas are they still exploring?”
+**"Did researchers measure this, or is it an idea they're still testing?"**
 
-Your job is to share what you notice, at a pace that works for you. Your clinician can help connect those experiences with the examination and the growing research.
-
+You don't need to investigate every claim. Simply recognizing the difference is useful.
 
 ### Optional learning activity
 

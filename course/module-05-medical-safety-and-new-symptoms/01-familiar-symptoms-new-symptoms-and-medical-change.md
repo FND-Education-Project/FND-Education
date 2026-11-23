@@ -206,33 +206,19 @@ A good description of what's happening is a great place to start.
 
 ### Something to think about
 
-Think of a symptom or episode you've experienced before.
+Think of a familiar symptom that has already been medically assessed. What makes it recognizable to you?
 
-What makes it familiar to you?
+If something important about it changed, what would make you seek medical advice rather than assume it was the same experience?
 
-Now imagine something important about it changes.
+### How might that feel?
 
-Would you know who to ask for medical advice?
+What would help you feel taken seriously when describing a symptom that is new, different or difficult to explain?
 
-If you're unsure, that's a useful question to bring to your next appointment.
+### One small step
 
-### One small thing you can do
+If useful, describe one familiar, medically assessed symptom in a short sentence about what usually happens.
 
-Remember your symptom map?
-
-If you'd like, choose one familiar, medically assessed symptom and add a short description of what usually happens.
-
-For example:
-
-"My usual episodes involve shaking and difficulty speaking. Afterwards, I generally need some quiet time to recover."
-
-Already have something like that written down? Great. You can leave it as it is.
-
-You could also ask your clinician which changes would mean getting more medical help.
-
-And if writing or remembering feels like too much today, this activity can wait.
-
-**The idea is to make getting care easier, not give yourself another chore.**
+You can add it to your symptom map. If something new or concerning is happening now, seek the appropriate medical advice rather than waiting to complete an activity.
 
 Next, we'll use what you've learned to help prepare your individual safety plan.
 

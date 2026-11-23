@@ -340,15 +340,19 @@ We can make reasonable choices about care, safety and meaningful activities whil
 
 ### Something to think about
 
-Remember Amira reaching for her glass and Daniel wanting to walk into the garden. Is there something you want to do that your body doesn't always cooperate with? What are you trying to do, and what actually happens? You don't need to work out which part of the brain is involved.
+Remember Amira reaching for her glass and Daniel wanting to walk into the garden.
+
+Is there something you want to do that your symptoms sometimes get in the way of? What are you trying to do, and what actually happens?
 
 ### How might that feel?
 
-If the symptom stayed for now, what part of the activity would you still want in your life? Perhaps it's enjoying a drink at the table, getting outside, or spending time with someone. Would doing it a different way still feel like progress to you?
+If the symptom stayed for now, what part of the activity would you still want in your life? Would doing it a different way still feel like progress?
 
 ### One small step
 
-Think about one way to keep that important activity within reach. A stable place for a cup, a suitable mobility aid, more time, or a question for your therapist could be a start. You may already have found a change that helps. It still counts, even if your symptoms haven't improved.
+Think about one way to keep that important activity within reach: an appropriate aid, a safer arrangement, more time or a question for your therapist.
+
+You may already have found something that helps. **It still counts, even if your symptoms haven't improved.**
 
 ### Where do we go next?
 

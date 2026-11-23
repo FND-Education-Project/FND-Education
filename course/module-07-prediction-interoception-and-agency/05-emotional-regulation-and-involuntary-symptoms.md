@@ -715,15 +715,19 @@ And when an involuntary neurological symptom interrupts an important conversatio
 
 ### Something to think about
 
-Think about a conversation that became harder than you expected. Perhaps you lost the question halfway through, couldn't find a word, or had several questions coming at once. Did frustration arrive before the difficulty, or did it begin because you couldn't answer? It's fine if you can't tell which came first.
+Think about a conversation or activity that became harder than expected. Perhaps you lost a question, couldn't find a word, felt overwhelmed by noise or couldn't do something you'd planned.
+
+Did frustration arrive before the difficulty, or because of it? You might not know.
 
 ### How might that feel?
 
-If you still wanted to take part in the conversation, what would you most want the other person to understand? Would more time, fewer questions or a different way to answer help you feel included?
+If you still wanted to take part, what would you want others to understand? What kind of space or support would help you feel included?
 
 ### One small step
 
-For a conversation that matters—perhaps planning a visit or explaining something at an appointment—make room for your answer. One question at a time, a quieter place, or a note you can point to may help. An arrangement that already makes another task easier could be useful here too. You don't have to control every feeling for the conversation to matter.
+Think about Leah's angry message to her relative. Without asking her to stop feeling angry, try one sentence she could send that tells the relative what she needs.
+
+You can think it, say it or write it. Choosing how to respond doesn't mean choosing whether an involuntary FND symptom happens.
 
 In our next lesson, we'll explore the difference between **intending an action**, **feeling in control of it**, and **what your body actually does**.
 

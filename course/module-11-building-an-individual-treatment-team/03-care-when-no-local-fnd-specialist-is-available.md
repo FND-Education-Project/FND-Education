@@ -262,19 +262,21 @@ In the next module, we'll return to Nadia as she attends her psychological asses
 
 ### Something to think about
 
-What is one thing about getting healthcare that you wish were easier?
+Is there something about getting healthcare you wish were easier? It might involve travel, cost, waiting or communication. If care is working well for you, what helps?
 
 ### How might that feel?
 
-How might it feel if a healthcare professional understood how difficult accessing care can be and helped you find a realistic way forward?
+How might it feel if a healthcare professional understood the barrier and worked with you on a realistic way forward?
 
 ### One small step
 
-Complete this sentence, even if only in your thoughts:
+Think about a real or imagined barrier to accessing care. Complete these sentences if useful:
 
-"The help I'd most like with my health right now is ______."
+**"What's getting in the way is ___."**
 
-You don't need an upcoming appointment or a treatment plan to do this.
+**"One possibility worth asking about is ___."**
+
+You don't need to arrange an appointment or solve the problem today.
 
 ### Optional crossword
 

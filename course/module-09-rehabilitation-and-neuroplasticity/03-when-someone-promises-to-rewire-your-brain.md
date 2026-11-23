@@ -179,22 +179,25 @@ Natalie's two questions are simple:
 
 ### Something to think about
 
-Imagine a treatment advert that names a brain process you recognize. What would you ask to find out whether the treatment—not just its explanation—has helped people?
+Imagine a treatment advert that names a brain process you recognize.
+
+What would you ask to find out whether the treatment—not just its explanation—has helped people?
 
 ### How might that feel?
 
-How might you feel knowing that some people have regained important abilities through rehabilitation, even though researchers can't predict exactly what will happen for you?
+A promising treatment might bring hope, but also uncertainty about the time, energy or money it could require.
+
+What would help you feel able to make a careful choice without giving up hope?
 
 ### One small step
 
 If someone recommends a treatment, you could ask:
 
-**“Has this been tested for symptoms like mine, and what improved?”**
+**"Has this been tested for symptoms like mine, and what improved?"**
 
-You don't need to read the studies yourself. Someone recommending a treatment should be able to explain what is known, what isn't and how that information relates to you.
+You don't have to read the studies yourself. Someone recommending treatment should be able to explain what is known, what remains uncertain and how it relates to you.
 
 Next, we'll explore how everyday activities use up the energy and attention we have available—and what that means for living with FND.
-
 
 ### Optional crossword
 

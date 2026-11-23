@@ -276,15 +276,19 @@ In the next lesson, we'll explore what happens when you bring that understanding
 
 ### Something to think about
 
-What did you relate to in Callum's story? Perhaps struggling to communicate, recognizing a familiar mechanism, finding another way to do something, or explaining FND to someone else.
+What did you relate to in Callum's story? Perhaps struggling to communicate, recognizing a familiar mechanism or finding another way to do something.
+
+Is there something you understand now that was confusing earlier in the course?
 
 ### How might that feel?
 
-How does it feel to have a better understanding of the processes that might be affecting you?
+What difference does understanding more about your experience make to you, even if your symptoms haven't improved?
 
 ### One small step
 
-If something you've learned about FND comes to mind during everyday life, try explaining it in a sentence or two to someone you trust. Or simply enjoy recognizing it yourself.
+If something you've learned about FND comes to mind during everyday life, try explaining it in a sentence or two to someone you trust.
+
+Or simply enjoy recognizing it yourself.
 
 ### Optional crossword
 

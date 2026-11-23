@@ -180,29 +180,17 @@ Her health is important. It doesn't have to occupy every waking moment.
 
 ### Something to think about
 
-Imagine being told that a medical test was normal, even though the symptom that prompted it was very real.
-
-The result might be reassuring, but what would it help you understand? Consider the difference between learning that a particular problem wasn't found during an examination and learning that every possible explanation has been ruled out.
-
-Those are not necessarily the same thing.
+When Natalie stood up during her appointment, the clinician measured a drop in her blood pressure. What did that finding show? What would they still need to find out before deciding whether it explained her unfamiliar faint feeling?
 
 ### How might that feel?
 
-Imagine explaining a new experience to a clinician who already knows about your FND. Instead of asking you to defend your diagnosis or dismissing the change, they listen and explain what they can investigate.
-
-What difference might it make to feel that your existing diagnosis is understood while your new question is taken seriously?
+What difference would it make if a clinician understood your FND diagnosis while also taking a new or unfamiliar symptom seriously?
 
 ### One small step
 
-If you receive a test result or an explanation that leaves you curious, you might ask:
+Use Natalie's example to finish **one sentence**: **"The clinician measured ___, but still needs to find out ___."**
 
-"What does this result tell us, and what does it leave unanswered?"
-
-You could also ask what the next step is intended to clarify.
-
-You don't need to investigate every possibility yourself or remember every detail of the conversation. An explanation in ordinary language, or a brief written summary when helpful, may be enough.
-
-The goal is to understand the information that matters to your care, one question at a time.
+You can use the story even if you haven't had a similar experience. This is about understanding what a finding can—and cannot—tell us, not testing yourself or deciding on a diagnosis.
 
 ### Optional crossword
 

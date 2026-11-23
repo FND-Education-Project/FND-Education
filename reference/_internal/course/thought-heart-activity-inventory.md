@@ -30,41 +30,39 @@ The section between the markers below is extracted from course files and may be 
 
 [Source lesson](../../../course/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) · Module 1
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-How would you explain your FND diagnosis to someone else?
+How would you explain your FND diagnosis to someone else? What would you most want them to understand about symptoms that are real and involuntary, even when they change?
+
+**Heart** (source heading: *How might that feel?*)
+
+When someone understands that your symptoms are real, what difference might that make to you? Is there something you wish people understood without needing an explanation?
 
 **Activity** (source heading: *One small step*)
 
-Write down how you would explain your FND diagnosis to someone else.
+Try explaining FND in one or two sentences using your own words. You could write them, say them to someone you trust or simply think them through.
 
-You might include what FND means, how it affects the nervous system, why symptoms can change, and what you want the other person to understand about your experience.
-
-Use your own words. This is not a test, and your explanation can change as you learn more.
+This isn't a test, and your explanation can change as you learn more.
 
 ### Lesson 2 — The Biopsychosocial Model and Misconceptions
 
 [Source lesson](../../../course/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) · Module 1
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-How do you think having a good support group around you could improve your ability to manage everyday life?
+Have you noticed anything physical, psychological or social that affects your symptoms or daily activities? Are there also times when no pattern is apparent?
 
-Have you noticed anything that repeatedly affects your symptoms, whether physical, psychological or social? Or are your symptoms sometimes unpredictable?
+How is noticing something that affects you different from knowing what caused your FND?
+
+**Heart** (source heading: *How might that feel?*)
+
+What would you want someone to understand about the different things affecting your life, without assuming that you're responsible for your symptoms?
 
 **Activity** (source heading: *One small step*)
 
-If you're able and find it useful, you might write down what was happening around a change in your symptoms.
+Think of one familiar difficulty using three possible headings: **Body and brain**, **Thoughts and feelings**, and **Life and surroundings**.
 
-Try three headings:
-
-- **Body and brain**
-- **Thoughts and feelings**
-- **Life and surroundings**
-
-You can leave any heading blank if you don't know what belongs there.
-
-This isn't about proving why you have FND. It is simply a way of looking for patterns that might help you make everyday life a little easier.
+You can leave any heading blank. If something suggests a small change that might make daily life easier, consider it. You don't need to keep a journal or find an explanation for every symptom.
 
 **Don't worry if you can't journal!**
 
@@ -72,69 +70,49 @@ Personally, my functional symptoms affect my memory, and I've found journaling n
 
 Your experience may be different. Not finding a pattern is useful information too.
 
-If keeping notes is difficult, you might instead choose one small practical change, such as reducing noise, asking for help with an activity or allowing more time to recover after an appointment.
-
-You don't need to keep records or perform exercises to prove that you are trying.
-
 ### Lesson 3 — Remission, Recovery, and What Improvement Can Mean
 
 [Source lesson](../../../course/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) · Module 1
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-If one part of your health or everyday life could improve, which change would mean the most to you?
+If one part of your health or everyday life could improve, which change would mean the most to you? What might recovery mean if some symptoms remained?
 
-What would recovery mean to you if some of your symptoms remained?
+**Heart** (source heading: *How might that feel?*)
+
+What would that improvement give you more room for—perhaps comfort, independence, enjoyment, time with someone or a feeling of safety?
 
 **Activity** (source heading: *One small step*)
 
 Choose one sign of improvement that would make a meaningful difference to your life.
 
-It might be something related directly to your symptoms, such as shorter episodes or less pain.
+It could involve symptoms, but it might also mean preparing a meal, spending time with someone or returning to your usual activities more easily after an episode.
 
-Or it could be something else:
-
-- Feeling safer during an everyday activity.
-- Preparing part of a meal.
-- Spending more time with someone you care about.
-- Becoming more comfortable asking for help.
-- Returning to your usual level more easily after an episode.
-
-If you wish, write down one sentence describing that improvement.
-
-You don't need to track it every day. It's simply a way to recognize something that matters to you.
+You can remember that possibility without tracking it every day.
 
 ### Lesson 4 — Available Capacity, Spoons, and Early Action
 
 [Source lesson](../../../course/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) · Module 1
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-When your available capacity starts to drop, what changes do you notice first?
+When your available capacity starts to drop, what changes do you notice first? Are there times when you receive no useful warning?
 
-Is there something you already do that helps make the situation more manageable?
+**Heart** (source heading: *How might that feel?*)
+
+When your capacity is limited, what part of your day would you most like to protect? What makes that activity important to you?
 
 **Activity** (source heading: *One small step*)
 
-Think about a familiar situation in which your capacity sometimes becomes limited.
+Think about a familiar situation. If useful, complete **just one** of these statements—or more if you want:
 
-Try completing these three sentences:
+**"An early sign I sometimes notice is ___."**
 
-- **My early sign:** "One change I sometimes notice is..."
+**"One adjustment that may help is ___."**
 
-- **My first adjustment:** "One thing I could change is..."
+**"If ___ happens, I need to stop or get help."**
 
-- **My safety limit:** "If this happens, I need to stop or get help..."
-
-If you have no reliable early sign, you can say so. Your plan can focus on what helps when symptoms occur.
-
-You don't have to write the answers down if that is difficult.
-
-You can think about the questions on your own. You could talk them through with someone you trust. Or you could ask a supporter to help you remember.
-
-And if a flare happens despite your plan, that doesn't mean the plan was worthless or that you did something wrong.
-
-Sometimes a plan can't stop a flare. It can still help keep you safer or make it easier to get help when you need it.
+If you have no reliable warning sign, your plan can begin with what helps when symptoms occur. You can use your existing supports, and a flare doesn't mean you've failed.
 
 
 ## Module 2
@@ -143,35 +121,41 @@ Sometimes a plan can't stop a flare. It can still help keep you safer or make it
 
 [Source lesson](../../../course/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md) · Module 2
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-Which part of the explanation made the most sense to you? Which part would you like explained again?
+Choose a positive sign described in this lesson—or one your clinician has explained to you. What did the clinician observe, and why must that finding be considered alongside the rest of the examination?
 
-If your clinician showed you a positive sign, how would you explain what it showed about your nervous system?
+**Heart** (source heading: *How might that feel?*)
+
+What would help you feel comfortable asking questions about your diagnosis, especially if part of the explanation is difficult to understand?
 
 **Activity** (source heading: *One small step*)
 
-Write down or talk through the explanation in two parts: **the sign that was found** and **what the clinician believes it shows**. You can bring a note or ask someone to help you remember it at your next appointment. Ask for any part to be explained again.
+Try separating a positive-sign example from this lesson—or an explanation you were given—into two parts: **what was observed** and **what the clinician thinks it shows**.
 
-Use the positive sign as information from your clinician rather than as a test to repeat by yourself. Hoover’s sign, tremor tests, and other neurological tests need training and context to interpret. At home, focus on the strategies recommended by your care team and note any changes you want to discuss with them.
+If your own diagnosis hasn't been explained, you could instead think of one question you'd like to ask. Don't repeat neurological tests yourself; they need professional training and interpretation.
 
 ### Lesson 6 — Tests, Diagnostic Uncertainty, and Coexisting Conditions
 
 [Source lesson](../../../course/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) · Module 2
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-Take your time with these. Any answer you have is a good starting point.
+A medical test can answer an important question without answering every question about someone's health.
 
-Which part of the explanation for your diagnosis makes sense to you?
+Can you distinguish what a result tells you from what it leaves uncertain?
 
-Is there one question you would still like your clinician to answer?
+**Heart** (source heading: *How might that feel?*)
+
+What would help you feel that your FND diagnosis and your other health concerns were both being taken seriously?
 
 **Activity** (source heading: *One small step*)
 
-Choose one question to bring to your next appointment. You can write it down, record a voice note or ask someone to help you remember it. For example: “What findings support my FND diagnosis, and is there anything else we still need to check?”
+Choose one unanswered question you would like clarified.
 
-Your care team is there to explain test results with you. You can ask for explanations in a form that works for you, with support whenever you want it.
+For example: **"What does this result tell us, and is there anything else that needs assessment?"**
+
+You can remember the question, write it down or ask someone to help you bring it to an appointment.
 
 
 ## Module 3
@@ -180,61 +164,67 @@ Your care team is there to explain test results with you. You can ask for explan
 
 [Source lesson](../../../course/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md) · Module 3
 
+**Thought** (source heading: *Something to think about*)
+
+What, if anything, do you remember about when your FND began? Is that different from what seems to affect your symptoms or daily activities now?
+
+You may have no clear answer to either question.
+
+**Heart** (source heading: *How might that feel?*)
+
+How does it feel to have some answers about your health while other questions remain uncertain? Would understanding what might help now still matter if the original cause stayed unclear?
+
 **Activity** (source heading: *One small step*)
 
-Choose one question to ask your clinician:
+Keep these two questions separate:
 
-> “What do we understand about how my symptoms began, and what are we still learning?”
+**"What may have contributed when my symptoms began?"**
 
-One question is enough to begin. New or very different symptoms are also important to have medically assessed.
+**"What might make life easier now?"**
+
+You can leave either unanswered. If the distinction raises a question for your clinician, you can bring it to a future appointment.
 
 ### Lesson 8 — Brain Networks, Prediction, Attention, and Agency
 
 [Source lesson](../../../course/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) · Module 3
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-Which part of your nervous system experience would you most like to understand?
+Researchers sometimes measure differences in brain activity or networks, then propose explanations for what those differences might mean.
 
-You might choose movement, awareness, memory, seizures, sensation, speech, pain, fatigue, or something else.
+Can you recognize the difference between a finding they measured and an explanation they're still investigating?
 
-As you think back over this lesson, can you spot one measured research finding and one idea that scientists are still testing?
+**Heart** (source heading: *How might that feel?*)
 
-If you feel comfortable, you might also ask: how does it feel to hear what researchers have found and what they are still exploring?
-
-You can leave that question for another day.
+What interests you most about this research? Does learning about both the discoveries and the uncertainty change how you understand your own experience?
 
 **Activity** (source heading: *One small step*)
 
-At your next appointment, you could ask:
+The next time you encounter an explanation of FND, ask yourself:
 
-> “What have researchers measured about symptoms like mine, and which ideas are they still exploring?”
+**"Did researchers measure this, or is it an idea they're still testing?"**
 
-Your job is to share what you notice, at a pace that works for you. Your clinician can help connect those experiences with the examination and the growing research.
+You don't need to investigate every claim. Simply recognizing the difference is useful.
 
 ### Lesson 9 — Physical, Psychological, and Social Factors—and How to Judge Claims
 
 [Source lesson](../../../course/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) · Module 3
 
-**Earlier questions** (source heading: *Questions to reflect on*)
+**Thought** (source heading: *Something to think about*)
 
-How could a change to someone's physical health, feelings or surroundings make an everyday activity easier?
+Imagine someone whose everyday activity becomes harder because of pain, worry and a noisy room.
 
-What would you most like your treatment and support to make possible in your own life?
+Could changes to any of those difficulties help the activity become easier, without proving what caused their FND?
+
+**Heart** (source heading: *How might that feel?*)
+
+If one difficulty became more manageable, what part of life would you most want to enjoy or participate in?
 
 **Activity** (source heading: *One small step*)
 
-Think of something you enjoy or value that has become difficult.
+Think of something you enjoy that has become difficult. Consider one manageable change to your surroundings, support or care that might make it easier.
 
-What might make it a little easier?
-
-Maybe there's a health concern you could discuss with your clinician, a change you could make to your surroundings or some help you could ask for.
-
-Choose one possibility that feels manageable.
-
-Sometimes a small change can make room for something important.
-
-If you experience a new symptom or a major change in an existing one, your healthcare team can help assess it.
+You don't have to explain your FND to recognize a useful adjustment. New or significantly changed medical symptoms still need appropriate assessment.
 
 
 ## Module 4
@@ -243,7 +233,21 @@ If you experience a new symptom or a major change in an existing one, your healt
 
 [Source lesson](../../../course/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md) · Module 4
 
-**No matching reflection/activity headings in this Person section.**
+**Thought** (source heading: *Something to think about*)
+
+Imagine explaining your health to a new doctor. You have an FND diagnosis, another health condition and a symptom that hasn't been assessed yet.
+
+Why might it help to keep those three things separate?
+
+**Heart** (source heading: *How might that feel?*)
+
+What would you want someone to understand about your health without assuming that every difficulty must be part of FND?
+
+**Activity** (source heading: *One small step*)
+
+Choose one important detail about your health: something already diagnosed or a question still needing assessment.
+
+Write or remember one sentence about it. That's enough to begin a personal symptom map.
 
 ### Lesson 11 — Building and Using Your Personal Symptom Map
 
@@ -251,13 +255,21 @@ If you experience a new symptom or a major change in an existing one, your healt
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine showing your map to someone who knows very little about your health.
+Imagine showing your symptom map to someone who knows very little about your health. What's the first thing you'd want them to understand? What unanswered question would you most like help with?
 
-What is the first thing you'd want them to understand?
+**Heart** (source heading: *How might that feel?*)
 
-And what one unanswered question would you most like help with?
+What would it mean to have your difficulties, remaining abilities and helpful adaptations recognized together, rather than having someone notice only your symptoms?
 
-Those two thoughts could be a good place to start.
+**Activity** (source heading: *One small step*)
+
+Make or update three short entries on your symptom map:
+
+**One diagnosed condition. One question you still have. One thing that helps.**
+
+A few words are enough. You can use paper, your phone or help from someone you trust. Your map doesn't need to become a diary.
+
+**Your health story is much bigger than a page of notes. The map simply helps you carry the important pieces when you need them.**
 
 
 ## Module 5
@@ -268,33 +280,19 @@ Those two thoughts could be a good place to start.
 
 **Thought** (source heading: *Something to think about*)
 
-Think of a symptom or episode you've experienced before.
+Think of a familiar symptom that has already been medically assessed. What makes it recognizable to you?
 
-What makes it familiar to you?
+If something important about it changed, what would make you seek medical advice rather than assume it was the same experience?
 
-Now imagine something important about it changes.
+**Heart** (source heading: *How might that feel?*)
 
-Would you know who to ask for medical advice?
+What would help you feel taken seriously when describing a symptom that is new, different or difficult to explain?
 
-If you're unsure, that's a useful question to bring to your next appointment.
+**Activity** (source heading: *One small step*)
 
-**Activity** (source heading: *One small thing you can do*)
+If useful, describe one familiar, medically assessed symptom in a short sentence about what usually happens.
 
-Remember your symptom map?
-
-If you'd like, choose one familiar, medically assessed symptom and add a short description of what usually happens.
-
-For example:
-
-"My usual episodes involve shaking and difficulty speaking. Afterwards, I generally need some quiet time to recover."
-
-Already have something like that written down? Great. You can leave it as it is.
-
-You could also ask your clinician which changes would mean getting more medical help.
-
-And if writing or remembering feels like too much today, this activity can wait.
-
-**The idea is to make getting care easier, not give yourself another chore.**
+You can add it to your symptom map. If something new or concerning is happening now, seek the appropriate medical advice rather than waiting to complete an activity.
 
 ### Lesson 13 — Emergency Information and Individual Safety Plans
 
@@ -302,33 +300,21 @@ And if writing or remembering feels like too much today, this activity can wait.
 
 **Thought** (source heading: *Something to think about*)
 
-Look back at the safety needs you identified on your symptom map.
+Is there a situation in which your symptoms could make it difficult to explain what help you need?
 
-Has one particular difficulty come up more than once?
+What information would be most important for someone helping you to know?
 
-Maybe you've repeatedly found yourself wishing you had something with you.
+**Heart** (source heading: *How might that feel?*)
 
-Or perhaps there's a situation where you'd feel more comfortable knowing someone understood how to help.
+What everyday activity might feel more manageable if you knew essential safety information and arrangements were already in place?
 
-What small change might make that situation easier next time?
+**Activity** (source heading: *One small step*)
 
-You may already have a solution in place.
+Choose one safety need you've identified. Consider whether the people who might help you have the information they need, or whether something in your existing plan should be reviewed.
 
-If so, that's part of your safety planning too.
+One useful addition or question is enough. Medical safety instructions should follow your individual care plan.
 
-**Activity** (source heading: *One small thing you can do*)
-
-Choose **one safety need** you've already identified.
-
-Rather than writing it down all over again, think about what might help with it.
-
-Perhaps there's something you could prepare, a change to your surroundings worth exploring, or a question you'd like to ask an occupational therapist or another clinician.
-
-You can add that next step to your existing map, if you want.
-
-And if you've already made an adaptation that helps, take a moment to recognise it.
-
-You've been doing some safety planning already.
+If you don't have a specific safety need, you can simply think about what helps you explain your health at an appointment.
 
 ### Lesson 14 — Using Your Safety Plan and Deciding When to Get Urgent Help
 
@@ -336,37 +322,19 @@ You've been doing some safety planning already.
 
 **Thought** (source heading: *Something to think about*)
 
-Think about a place you visit regularly.
+Think of a place you visit regularly. Are there arrangements that already help you manage it safely? If someone supports you, do those arrangements also work for them?
 
-Is there anything you've already changed to make it safer or easier to manage?
+**Heart** (source heading: *How might that feel?*)
 
-Perhaps you've found somewhere comfortable to sit, arranged accessible transport or learned to carry something useful.
+If you felt more prepared, what would you most want to enjoy—on your own or with someone helping you?
 
-Now consider someone who helps you.
+**Activity** (source heading: *One small step*)
 
-Do you both feel comfortable with the arrangements you've made?
+Before a familiar outing, consider one practical question:
 
-Is there something that would make helping safer or easier for them?
+**"If I needed help here, what would make things easier and safer for everyone involved?"**
 
-These can be valuable conversations to have when you're both feeling up to them.
-
-**Activity** (source heading: *One small thing you can do*)
-
-The next time you're preparing to go somewhere, think about **one practical safety question**.
-
-For example:
-
-"If I needed help here, what would make things easier?"
-
-You might already know the answer.
-
-Perhaps you need to bring something, choose a more accessible route or have a quick conversation with someone accompanying you.
-
-And if you've already worked out a solution, there's no need to start again.
-
-You've been using your safety plan.
-
-**The goal is to help everyone involved feel more prepared, so there's more room to enjoy everyday life.**
+You may already have the answer. If something needs changing, discuss it with the relevant people before relying on the new arrangement.
 
 
 ## Module 6
@@ -377,23 +345,19 @@ You've been using your safety plan.
 
 **Thought** (source heading: *Something to think about*)
 
-In Module 5, we looked at things that help when you go somewhere or need support.
+Imagine visiting someone while trying to follow a conversation, manage a headache and ignore other people talking nearby.
 
-Imagine you've planned a visit. You know where to sit and how you'll get home if you need to leave early. But once you're there, you're trying to follow a conversation while other people are talking and your head hurts.
-
-Which part of the visit takes the most attention? What else is competing for it?
+Which part takes the most attention? What else is competing for it?
 
 **Heart** (source heading: *How might that feel?*)
 
-You went because you wanted to enjoy someone's company, not spend the afternoon struggling to keep up. What would you most like to pay attention to if some of those other demands were smaller?
+You went because you wanted to enjoy someone's company. What would you most like to pay attention to if some of those competing demands were smaller?
 
 **Activity** (source heading: *One small step*)
 
-Think of one familiar activity where you sometimes lose your place.
+Choose one familiar activity where you sometimes lose your place. Try one small change that makes room for your attention, such as a short reminder, fewer interruptions or a quieter place.
 
-Choose **one small change** that makes more room for your attention. You might leave two words about your next step, keep a useful browser tab open, or ask for a little quiet while you finish.
-
-See whether returning to the activity feels easier. You can keep the support that works for you, change it, or save this idea for another day.
+Notice whether returning to the activity feels easier. You can keep, change or set aside the idea.
 
 ### Lesson 16 — Automatic Control and Conscious Effort
 
@@ -401,23 +365,19 @@ See whether returning to the activity feels easier. You can keep the support tha
 
 **Thought** (source heading: *Something to think about*)
 
-When you do something familiar, such as getting dressed or reaching for a cup, do you usually think about the goal or about every little movement along the way?
+When you do something familiar, such as getting dressed or reaching for a cup, do you usually think about the goal or every little movement along the way?
 
 **Heart** (source heading: *How might that feel?*)
 
-Think about something you used to do without paying much attention to the movements, such as getting dressed, reaching for a cup or walking across a room.
-
-If it now takes a lot more effort, what part of that activity do you miss most? What would help you enjoy that part again, even if you still need equipment or help?
+If a familiar activity now requires much more effort, what part do you miss most? What would help you enjoy it again, even if you still needed equipment or support?
 
 **Activity** (source heading: *One small step*)
 
-Choose a familiar, **safe** activity you can already do, such as sorting a few lightweight objects into a box while seated securely.
+Choose a familiar, safe activity you can already do, such as sorting a few lightweight objects while securely seated.
 
-Think about the goal—getting the objects where they belong—rather than giving yourself instructions for each movement.
+Think about the goal rather than instructing yourself through each movement. Keep your usual supports and stop whenever you need to.
 
-Keep your usual supports. Try it only for as long as it feels comfortable, and rest when you need to.
-
-If an activity brings a risk of falling or injury, you can describe it to your physiotherapist or occupational therapist instead. They can help you explore a safe version together.
+If doing an activity isn't suitable, you can imagine how the approach might work instead. If it could cause a fall or injury, discuss a safe approach with your rehabilitation clinician rather than trying it alone.
 
 ### Lesson 17 — Distraction, External Focus, and Context
 
@@ -425,25 +385,19 @@ If an activity brings a risk of falling or injury, you can describe it to your p
 
 **Thought** (source heading: *Something to think about*)
 
-Have you noticed a familiar task becoming easier or harder depending on how you're doing it?
-
-Perhaps putting a book on a shelf feels different from being asked to lift your arm just to show someone you can. Or perhaps the difference involves where you are, who is watching or how you're given instructions.
+Have you noticed a familiar task becoming easier or harder depending on where you are, what you're trying to accomplish or how someone gives instructions?
 
 What changed between those situations?
 
 **Heart** (source heading: *How might that feel?*)
 
-When something works better in one situation than another, what would you most want the people around you to understand? Would it help if they were interested in what made the activity easier, rather than expecting you to repeat it whenever they asked?
+When something works better in one situation than another, what would you most want others to understand? Would you prefer curiosity about what helped rather than pressure to repeat the result?
 
 **Activity** (source heading: *One small step*)
 
-Choose one familiar, safe activity and **one small change** to the setting or support around it.
+Choose one familiar, safe activity and one small change to the surroundings, instructions or support.
 
-Maybe you'd like more time to answer during a conversation. Perhaps a clear place to put things would help with a task, or you'd prefer one agreed reminder instead of several instructions at once.
-
-See whether the activity feels easier or more comfortable. Your symptoms might change, or they might stay the same.
-
-Keep the supports and safety measures you already need. If exploring a movement could involve falling or injury, you can bring the idea to your rehabilitation clinician instead.
+Notice whether it becomes easier or more comfortable. Keep the aids and safety measures you need, and don't use risky movements to test the idea.
 
 
 ## Module 7
@@ -454,15 +408,19 @@ Keep the supports and safety measures you already need. If exploring a movement 
 
 **Thought** (source heading: *Something to think about*)
 
-Think about a time when your body didn't do what you expected. Perhaps a familiar step suddenly felt difficult, your words wouldn't come, or a sound seemed much louder than you expected. What did you expect to happen, and what happened instead?
+Remember the staircase where someone's foot lifted for another step but found empty air. What had their nervous system prepared for, and what happened instead?
+
+They hadn't consciously decided there was another step. How is that automatic preparation different from worrying in advance that you might stumble?
 
 **Heart** (source heading: *How might that feel?*)
 
-When something familiar becomes unpredictable, what bothers you most? Is it the surprise, not knowing what will happen next, or missing out on something you wanted to do? What might make the situation feel more manageable?
+When something familiar becomes unpredictable, what bothers you most: the surprise, the uncertainty or missing out on something important?
 
 **Activity** (source heading: *One small step*)
 
-Remember the ways you've already made places safer or easier to use? The same thinking can help with an activity you enjoy. Keeping things where you expect to find them, or choosing a route you know well, may make that activity more comfortable. A familiar arrangement that's already helping is worth keeping.
+Think of a familiar activity you enjoy. Is there an arrangement that makes it easier to know what to expect, such as keeping useful objects in the same place or choosing a familiar accessible route?
+
+You may already have found something that helps. There's no need to provoke a symptom to test a prediction.
 
 ### Lesson 19 — Interoception, Proprioception, and Outside Senses
 
@@ -470,15 +428,19 @@ Remember the ways you've already made places safer or easier to use? The same th
 
 **Thought** (source heading: *Something to think about*)
 
-Picture walking on uneven ground, sitting in a bright room, or noticing an uncomfortable feeling inside your body. Which information seems most important in that moment: where your body is, what is happening around you, or what you're feeling inside? You don't need to work out the cause to describe the experience.
+Picture walking on uneven ground, sitting in a bright room or noticing an uncomfortable feeling inside your body.
+
+Which information matters most in that moment: where your body is, what's happening around you or what you're feeling inside?
 
 **Heart** (source heading: *How might that feel?*)
 
-If someone couldn't see or feel what was making that situation difficult, what would you want them to understand? Would having better words for it make asking for help a little easier?
+If someone couldn't see or feel what made that situation difficult, what would you most want them to understand?
 
 **Activity** (source heading: *One small step*)
 
-Think of a place you'd like to enjoy more comfortably. Softer light for reading, a quieter place to talk, or a safer route across uneven ground might help. The useful change may be something you've already arranged; what matters is whether it helps you take part.
+Choose one example from this lesson—or an experience of your own—and describe what the person noticed in one clear sentence. You might say: **"I can see where my foot is, but it doesn't feel like it's in the right place."**
+
+You can think it, say it or write it. You don't need to know the cause or test a sensation.
 
 ### Lesson 20 — Salience, Arousal, and Feedback Loops
 
@@ -486,15 +448,19 @@ Think of a place you'd like to enjoy more comfortably. Softer light for reading,
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine trying to talk with a friend in a busy café. There's music, people moving around, and perhaps pain or tiredness competing for your attention. Which demands would be hardest for you to set aside? Does something similar happen during another ordinary activity?
+In the café story, the grinder makes it harder to hear. The person tries harder to follow the conversation, becomes tired, and then finds listening even harder.
+
+Which changes keep affecting one another? What makes this a **feedback loop**, rather than just a noisy room?
 
 **Heart** (source heading: *How might that feel?*)
 
-When several demands pile up, what part of the activity do you most want to keep enjoying? Perhaps it's the conversation, being out with someone, or simply having enough energy to stay a little longer.
+When several demands pile up, what part of the activity do you most want to keep enjoying?
 
 **Activity** (source heading: *One small step*)
 
-See whether one demand could be made smaller without losing the part you enjoy. A quieter seat, the television turned off during a conversation, or fewer instructions at once may be enough. If a change to your surroundings already helps, it may also be useful in another activity. There's no need to provoke symptoms to find out.
+Using the café example, choose **one part of the loop** that could change—perhaps the noise, the effort needed to listen or a chance to rest. How might that affect what happens next?
+
+You can simply think it through. There's no need to create overload or test what happens to your symptoms.
 
 ### Lesson 21 — Cognitive Difficulties in FND
 
@@ -502,15 +468,19 @@ See whether one demand could be made smaller without losing the part you enjoy. 
 
 **Thought** (source heading: *Something to think about*)
 
-Remember losing your place while cooking, forgetting what was agreed during a telephone call, or reaching for a word you know? Which comes closest to your experience? Did the information disappear while you were using it, or was it hard to bring back later?
+Imagine someone losing their place during a task or struggling to find a familiar word. Paying attention, keeping information available and finding it again are different abilities.
+
+Which abilities **might** be involved? Why can't one lapse tell us for certain?
 
 **Heart** (source heading: *How might that feel?*)
 
-When something important goes missing, what would you want the person beside you to understand? What kind of help would let you continue without feeling rushed or questioned?
+If you or someone else has trouble finding important information, what kind of help would let them continue without feeling tested or rushed?
 
 **Activity** (source heading: *One small step*)
 
-If an interruption makes it hard to finish something you enjoy, a simple place-marker may help: a tick beside the last recipe step or a short note about what was agreed on a call. A reminder that's already working is just as useful. The point is to make the activity easier, not test your memory.
+If an interruption makes it hard to finish something you enjoy, try a simple place-marker, such as a tick beside the last step or a short reminder. An existing reminder is just as useful.
+
+If this isn't a difficulty you have, you can think about how that support might help someone else. The point is to make an activity easier, not test anyone's memory.
 
 ### Lesson 22 — Emotional Regulation and Involuntary Symptoms
 
@@ -518,15 +488,19 @@ If an interruption makes it hard to finish something you enjoy, a simple place-m
 
 **Thought** (source heading: *Something to think about*)
 
-Think about a conversation that became harder than you expected. Perhaps you lost the question halfway through, couldn't find a word, or had several questions coming at once. Did frustration arrive before the difficulty, or did it begin because you couldn't answer? It's fine if you can't tell which came first.
+Think about a conversation or activity that became harder than expected. Perhaps you lost a question, couldn't find a word, felt overwhelmed by noise or couldn't do something you'd planned.
+
+Did frustration arrive before the difficulty, or because of it? You might not know.
 
 **Heart** (source heading: *How might that feel?*)
 
-If you still wanted to take part in the conversation, what would you most want the other person to understand? Would more time, fewer questions or a different way to answer help you feel included?
+If you still wanted to take part, what would you want others to understand? What kind of space or support would help you feel included?
 
 **Activity** (source heading: *One small step*)
 
-For a conversation that matters—perhaps planning a visit or explaining something at an appointment—make room for your answer. One question at a time, a quieter place, or a note you can point to may help. An arrangement that already makes another task easier could be useful here too. You don't have to control every feeling for the conversation to matter.
+Think about Leah's angry message to her relative. Without asking her to stop feeling angry, try one sentence she could send that tells the relative what she needs.
+
+You can think it, say it or write it. Choosing how to respond doesn't mean choosing whether an involuntary FND symptom happens.
 
 ### Lesson 23 — Agency, Learning, and Your Own Adaptations
 
@@ -534,15 +508,19 @@ For a conversation that matters—perhaps planning a visit or explaining somethi
 
 **Thought** (source heading: *Something to think about*)
 
-Remember Amira reaching for her glass and Daniel wanting to walk into the garden. Is there something you want to do that your body doesn't always cooperate with? What are you trying to do, and what actually happens? You don't need to work out which part of the brain is involved.
+Remember Amira reaching for her glass and Daniel wanting to walk into the garden.
+
+Is there something you want to do that your symptoms sometimes get in the way of? What are you trying to do, and what actually happens?
 
 **Heart** (source heading: *How might that feel?*)
 
-If the symptom stayed for now, what part of the activity would you still want in your life? Perhaps it's enjoying a drink at the table, getting outside, or spending time with someone. Would doing it a different way still feel like progress to you?
+If the symptom stayed for now, what part of the activity would you still want in your life? Would doing it a different way still feel like progress?
 
 **Activity** (source heading: *One small step*)
 
-Think about one way to keep that important activity within reach. A stable place for a cup, a suitable mobility aid, more time, or a question for your therapist could be a start. You may already have found a change that helps. It still counts, even if your symptoms haven't improved.
+Think about one way to keep that important activity within reach: an appropriate aid, a safer arrangement, more time or a question for your therapist.
+
+You may already have found something that helps. **It still counts, even if your symptoms haven't improved.**
 
 
 ## Module 8
@@ -553,35 +531,23 @@ Think about one way to keep that important activity within reach. A stable place
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine someone who can now enjoy an hour with a friend, although their symptoms are much the same as before.
+Imagine someone who can enjoy an hour with a friend even though their symptoms haven't changed much.
 
-What has improved?
-
-Think about how the answer might change if the conversation became easier, if it took less effort, or if the person simply began looking forward to visits again.
-
-Each possibility tells us something different about their progress.
+What has improved: their symptoms, participation, comfort, enjoyment or something else?
 
 **Heart** (source heading: *How might that feel?*)
 
-Imagine having a wonderful afternoon, then hearing someone say, "You must be getting better!"
+Imagine enjoying a wonderful afternoon, then hearing someone say, "You must be getting better!"
 
-You might be pleased they noticed something good. You might also wish they understood how much effort it took, or how difficult the rest of your week can be.
-
-What would help you enjoy being recognized for your progress while still feeling understood about the difficulties that remain?
+You might appreciate their encouragement while wishing they understood the effort involved. What would you want them to know about both your progress and your remaining difficulties?
 
 **Activity** (source heading: *One small step*)
 
-When someone asks how you're doing, you might try describing one particular part of your life rather than answering for your health as a whole.
+The next time someone asks how you're doing, you might describe one particular part of life rather than your health as a whole.
 
-For example:
+For example: **"I'm enjoying visits again, although my symptoms are still difficult."**
 
-"I'm enjoying having visitors again. My symptoms are still severe, but I've found ways to make those afternoons easier."
-
-Or perhaps your symptoms really have improved, and that's what you'd most like to share.
-
-You don't need to measure every change or keep another record.
-
-Sometimes, understanding **what has improved, what hasn't, and what matters most to you** can make a conversation much more useful.
+Or perhaps your symptoms really have improved, and that's what you want to share. Both experiences deserve accurate words.
 
 ### Lesson 25 — When the Familiar Explanation Doesn't Quite Fit
 
@@ -589,29 +555,17 @@ Sometimes, understanding **what has improved, what hasn't, and what matters most
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine being told that a medical test was normal, even though the symptom that prompted it was very real.
-
-The result might be reassuring, but what would it help you understand? Consider the difference between learning that a particular problem wasn't found during an examination and learning that every possible explanation has been ruled out.
-
-Those are not necessarily the same thing.
+When Natalie stood up during her appointment, the clinician measured a drop in her blood pressure. What did that finding show? What would they still need to find out before deciding whether it explained her unfamiliar faint feeling?
 
 **Heart** (source heading: *How might that feel?*)
 
-Imagine explaining a new experience to a clinician who already knows about your FND. Instead of asking you to defend your diagnosis or dismissing the change, they listen and explain what they can investigate.
-
-What difference might it make to feel that your existing diagnosis is understood while your new question is taken seriously?
+What difference would it make if a clinician understood your FND diagnosis while also taking a new or unfamiliar symptom seriously?
 
 **Activity** (source heading: *One small step*)
 
-If you receive a test result or an explanation that leaves you curious, you might ask:
+Use Natalie's example to finish **one sentence**: **"The clinician measured ___, but still needs to find out ___."**
 
-"What does this result tell us, and what does it leave unanswered?"
-
-You could also ask what the next step is intended to clarify.
-
-You don't need to investigate every possibility yourself or remember every detail of the conversation. An explanation in ordinary language, or a brief written summary when helpful, may be enough.
-
-The goal is to understand the information that matters to your care, one question at a time.
+You can use the story even if you haven't had a similar experience. This is about understanding what a finding can—and cannot—tell us, not testing yourself or deciding on a diagnosis.
 
 ### Lesson 26 — Finding Your Way Through the Reference Library
 
@@ -619,33 +573,23 @@ The goal is to understand the information that matters to your care, one questio
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine reading a description of a functional symptom you've been diagnosed with and discovering that it describes an experience you've struggled to explain for years.
+Imagine finding a description of a functional symptom you've already been diagnosed with and recognizing something you've struggled to explain.
 
-What might it mean to discover that this experience is recognized and that other people have reported something similar?
-
-Perhaps it would help you feel less alone. Or perhaps it would give you a better understanding of the diagnosis you've been living with.
+How might that help you understand your own experience?
 
 **Heart** (source heading: *How might that feel?*)
 
-Imagine learning that your symptoms have been described in medical research and that different treatment or rehabilitation approaches have been developed for them.
+Learning that an experience is recognized by clinicians and researchers might bring relief, hope, caution or frustration.
 
-You might feel hopeful, cautious or even frustrated that you hadn't heard about some of these possibilities before.
-
-What difference might it make to feel more informed about your condition and more involved in decisions about your care?
+What would being better informed mean to you?
 
 **Activity** (source heading: *One small step*)
 
-If you'd like to understand one of your **previously diagnosed FND symptoms** better, you could visit the [Reference Library](../../README.md).
+If you'd like to learn more about a **previously diagnosed FND symptom**, choose its page in the [Reference Library](../../README.md).
 
-Start with its **Understanding and Diagnosis** page. See whether the descriptions help you recognize your experience and learn how clinicians assess that particular presentation.
+You can begin with how it's understood and assessed, then explore the matching recovery information if useful. One question to bring to a suitable care professional is enough.
 
-If you'd like to explore possibilities for improvement, follow the link to the matching **Recovery Techniques** page. You can bring a question about anything that interests you to the appropriate care professional.
-
-Perhaps you want to understand what findings supported your diagnosis. Perhaps you'd like to know whether a treatment or rehabilitation approach might be suitable for you.
-
-Or perhaps simply discovering that your experience is recognized and understood would be enough for today.
-
-**You don't need to become an expert in FND to take a more informed part in your care.**
+You don't need to become an expert, and you don't need to search for unfamiliar symptoms.
 
 
 ## Module 9
@@ -656,25 +600,19 @@ Or perhaps simply discovering that your experience is recognized and understood 
 
 **Thought** (source heading: *Something to think about*)
 
-Since developing FND, have you learned to recognize a body signal, respond differently to a symptom, or adapt an everyday activity?
-
-**Can you recognize how neuroplastic learning might have contributed to that change?**
+Think of something you've learned or adapted, in everyday life or while living with FND. How might learning and neuroplasticity be involved, without assuming that you know exactly what changed in your brain?
 
 **Heart** (source heading: *How might that feel?*)
 
-How might you feel if rehabilitation helped you regain an ability or made something important easier, even while other symptoms remained difficult?
+What ability or activity would you most value making easier through rehabilitation, even if some symptoms remained?
 
 **Activity** (source heading: *One small step*)
 
-If you're receiving rehabilitation, you could ask your therapist:
+If you're receiving rehabilitation, you could ask:
 
-"What might my nervous system be learning through this activity, and how would we recognize that learning outside therapy?"
+**"What might my nervous system be learning through this activity, and how would we recognize that learning outside therapy?"**
 
-Perhaps the goal is to make an action more automatic, use sensory information differently or develop a more reliable response to a familiar difficulty.
-
-You don't need to practise anything new or test your symptoms to complete this lesson.
-
-Understanding the connection between **neuroplastic learning, a rehabilitation activity and something meaningful in your life** can help you take a more informed part in your rehabilitation.
+You can also simply consider how an activity connects to something meaningful in your life. You don't need to practise anything new to complete the reflection.
 
 ### Lesson 28 — Choosing Practice That Fits Your Life
 
@@ -682,21 +620,21 @@ Understanding the connection between **neuroplastic learning, a rehabilitation a
 
 **Thought** (source heading: *Something to think about*)
 
-Which of these rehabilitation experiences surprised you, or reminded you of something you've experienced yourself?
+Think about a rehabilitation activity that felt useful, difficult or especially tiring. If you haven't received rehabilitation, choose one of the experiences described in this lesson.
+
+What part of that experience would help someone decide whether the practice fitted the person's abilities and goals?
 
 **Heart** (source heading: *How might that feel?*)
 
-How might you feel if you began noticing small improvements without knowing how much further you might progress?
+When progress is uncertain, what might help someone stay connected to their goal, rather than measuring the experience only by that day's result?
 
 **Activity** (source heading: *One small step*)
 
-If you're receiving rehabilitation, think about one experience you'd like your care professional to understand better.
+If you already have rehabilitation activities, choose one experience you'd like your care professional to understand better.
 
-Perhaps an activity felt easier, the appointment was particularly tiring, or you noticed a change when you got home.
+You might describe what felt manageable, what was too demanding or what changed afterwards. You don't need to explain why it happened or add new practice.
 
-You could describe what happened without needing to explain why.
-
-In Lesson 29, we'll examine what treatment studies have found about different FND symptoms and how to judge claims about recovery and neuroplasticity.
+If you're not receiving rehabilitation, you can think through one of the lesson's examples instead.
 
 ### Lesson 29 — When Someone Promises to Rewire Your Brain
 
@@ -704,19 +642,23 @@ In Lesson 29, we'll examine what treatment studies have found about different FN
 
 **Thought** (source heading: *Something to think about*)
 
-Imagine a treatment advert that names a brain process you recognize. What would you ask to find out whether the treatment—not just its explanation—has helped people?
+Imagine a treatment advert that names a brain process you recognize.
+
+What would you ask to find out whether the treatment—not just its explanation—has helped people?
 
 **Heart** (source heading: *How might that feel?*)
 
-How might you feel knowing that some people have regained important abilities through rehabilitation, even though researchers can't predict exactly what will happen for you?
+A promising treatment might bring hope, but also uncertainty about the time, energy or money it could require.
+
+What would help you feel able to make a careful choice without giving up hope?
 
 **Activity** (source heading: *One small step*)
 
 If someone recommends a treatment, you could ask:
 
-**“Has this been tested for symptoms like mine, and what improved?”**
+**"Has this been tested for symptoms like mine, and what improved?"**
 
-You don't need to read the studies yourself. Someone recommending a treatment should be able to explain what is known, what isn't and how that information relates to you.
+You don't have to read the studies yourself. Someone recommending treatment should be able to explain what is known, what remains uncertain and how it relates to you.
 
 
 ## Module 10
@@ -748,15 +690,19 @@ You don't need to read the studies yourself. Someone recommending a treatment sh
 
 **Thought** (source heading: *Something to think about*)
 
-What did you relate to in Callum's story? Perhaps struggling to communicate, recognizing a familiar mechanism, finding another way to do something, or explaining FND to someone else.
+What did you relate to in Callum's story? Perhaps struggling to communicate, recognizing a familiar mechanism or finding another way to do something.
+
+Is there something you understand now that was confusing earlier in the course?
 
 **Heart** (source heading: *How might that feel?*)
 
-How does it feel to have a better understanding of the processes that might be affecting you?
+What difference does understanding more about your experience make to you, even if your symptoms haven't improved?
 
 **Activity** (source heading: *One small step*)
 
-If something you've learned about FND comes to mind during everyday life, try explaining it in a sentence or two to someone you trust. Or simply enjoy recognizing it yourself.
+If something you've learned about FND comes to mind during everyday life, try explaining it in a sentence or two to someone you trust.
+
+Or simply enjoy recognizing it yourself.
 
 ### Lesson 34 — Working With Your Healthcare Professionals
 
@@ -764,15 +710,19 @@ If something you've learned about FND comes to mind during everyday life, try ex
 
 **Thought** (source heading: *Something to think about*)
 
-Can you agree to a referral while still having questions about the explanation behind it or another health concern that needs attention?
+Can you agree to a referral while still having questions about the explanation behind it, or another health concern needing attention?
 
 **Heart** (source heading: *How might that feel?*)
 
-How might it feel to disagree with a doctor you trust, especially when you depend on that doctor for care?
+How might it feel to disagree with a doctor you trust, especially when you depend on that doctor for care? What would help you express your concern?
 
 **Activity** (source heading: *One small step*)
 
-The next time you notice a familiar symptom, consider which nervous-system processes might be involved. If useful, write down a few words so you can explain your thinking at a healthcare appointment.
+Imagine needing to clarify two different parts of your healthcare. Try completing:
+
+**"I understand this referral is for ___. I still need help with ___."**
+
+You can keep that sentence in mind for a future conversation if it becomes useful.
 
 ### Lesson 35 — Finding Your Way Through Healthcare Barriers
 
@@ -780,19 +730,21 @@ The next time you notice a familiar symptom, consider which nervous-system proce
 
 **Thought** (source heading: *Something to think about*)
 
-What is one thing about getting healthcare that you wish were easier?
+Is there something about getting healthcare you wish were easier? It might involve travel, cost, waiting or communication. If care is working well for you, what helps?
 
 **Heart** (source heading: *How might that feel?*)
 
-How might it feel if a healthcare professional understood how difficult accessing care can be and helped you find a realistic way forward?
+How might it feel if a healthcare professional understood the barrier and worked with you on a realistic way forward?
 
 **Activity** (source heading: *One small step*)
 
-Complete this sentence, even if only in your thoughts:
+Think about a real or imagined barrier to accessing care. Complete these sentences if useful:
 
-"The help I'd most like with my health right now is ______."
+**"What's getting in the way is ___."**
 
-You don't need an upcoming appointment or a treatment plan to do this.
+**"One possibility worth asking about is ___."**
+
+You don't need to arrange an appointment or solve the problem today.
 
 
 ## Module 12

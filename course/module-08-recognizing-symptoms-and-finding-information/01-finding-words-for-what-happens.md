@@ -242,35 +242,23 @@ For now, she sends Leah a message thanking her for the visit—and asking whethe
 
 ### Something to think about
 
-Imagine someone who can now enjoy an hour with a friend, although their symptoms are much the same as before.
+Imagine someone who can enjoy an hour with a friend even though their symptoms haven't changed much.
 
-What has improved?
-
-Think about how the answer might change if the conversation became easier, if it took less effort, or if the person simply began looking forward to visits again.
-
-Each possibility tells us something different about their progress.
+What has improved: their symptoms, participation, comfort, enjoyment or something else?
 
 ### How might that feel?
 
-Imagine having a wonderful afternoon, then hearing someone say, "You must be getting better!"
+Imagine enjoying a wonderful afternoon, then hearing someone say, "You must be getting better!"
 
-You might be pleased they noticed something good. You might also wish they understood how much effort it took, or how difficult the rest of your week can be.
-
-What would help you enjoy being recognized for your progress while still feeling understood about the difficulties that remain?
+You might appreciate their encouragement while wishing they understood the effort involved. What would you want them to know about both your progress and your remaining difficulties?
 
 ### One small step
 
-When someone asks how you're doing, you might try describing one particular part of your life rather than answering for your health as a whole.
+The next time someone asks how you're doing, you might describe one particular part of life rather than your health as a whole.
 
-For example:
+For example: **"I'm enjoying visits again, although my symptoms are still difficult."**
 
-"I'm enjoying having visitors again. My symptoms are still severe, but I've found ways to make those afternoons easier."
-
-Or perhaps your symptoms really have improved, and that's what you'd most like to share.
-
-You don't need to measure every change or keep another record.
-
-Sometimes, understanding **what has improved, what hasn't, and what matters most to you** can make a conversation much more useful.
+Or perhaps your symptoms really have improved, and that's what you want to share. Both experiences deserve accurate words.
 
 ### Optional crossword
 

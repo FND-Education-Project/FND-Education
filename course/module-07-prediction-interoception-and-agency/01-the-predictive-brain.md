@@ -280,15 +280,19 @@ We don't yet have all the answers, but we now have a better understanding of wha
 
 ### Something to think about
 
-Think about a time when your body didn't do what you expected. Perhaps a familiar step suddenly felt difficult, your words wouldn't come, or a sound seemed much louder than you expected. What did you expect to happen, and what happened instead?
+Remember the staircase where someone's foot lifted for another step but found empty air. What had their nervous system prepared for, and what happened instead?
+
+They hadn't consciously decided there was another step. How is that automatic preparation different from worrying in advance that you might stumble?
 
 ### How might that feel?
 
-When something familiar becomes unpredictable, what bothers you most? Is it the surprise, not knowing what will happen next, or missing out on something you wanted to do? What might make the situation feel more manageable?
+When something familiar becomes unpredictable, what bothers you most: the surprise, the uncertainty or missing out on something important?
 
 ### One small step
 
-Remember the ways you've already made places safer or easier to use? The same thinking can help with an activity you enjoy. Keeping things where you expect to find them, or choosing a route you know well, may make that activity more comfortable. A familiar arrangement that's already helping is worth keeping.
+Think of a familiar activity you enjoy. Is there an arrangement that makes it easier to know what to expect, such as keeping useful objects in the same place or choosing a familiar accessible route?
+
+You may already have found something that helps. There's no need to provoke a symptom to test a prediction.
 
 In our next lesson, we'll meet the different kinds of information your brain receives from your body and surroundings. That will help us understand what predictions are being compared *with*.
 

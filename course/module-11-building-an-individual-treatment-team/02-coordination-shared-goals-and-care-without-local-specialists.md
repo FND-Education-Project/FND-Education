@@ -240,15 +240,19 @@ In the next lesson, we'll explore another challenge: what happens when you know 
 
 ### Something to think about
 
-Can you agree to a referral while still having questions about the explanation behind it or another health concern that needs attention?
+Can you agree to a referral while still having questions about the explanation behind it, or another health concern needing attention?
 
 ### How might that feel?
 
-How might it feel to disagree with a doctor you trust, especially when you depend on that doctor for care?
+How might it feel to disagree with a doctor you trust, especially when you depend on that doctor for care? What would help you express your concern?
 
 ### One small step
 
-The next time you notice a familiar symptom, consider which nervous-system processes might be involved. If useful, write down a few words so you can explain your thinking at a healthcare appointment.
+Imagine needing to clarify two different parts of your healthcare. Try completing:
+
+**"I understand this referral is for ___. I still need help with ___."**
+
+You can keep that sentence in mind for a future conversation if it becomes useful.
 
 ### Optional crossword
 

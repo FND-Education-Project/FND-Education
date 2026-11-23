@@ -121,29 +121,21 @@ The goal is not to convince yourself that difficult symptoms don't matter.
 
 It's to recognize that **your wellbeing matters even when those symptoms remain.**
 
-### Questions to reflect on
+### Something to think about
 
-If one part of your health or everyday life could improve, which change would mean the most to you?
+If one part of your health or everyday life could improve, which change would mean the most to you? What might recovery mean if some symptoms remained?
 
-What would recovery mean to you if some of your symptoms remained?
+### How might that feel?
+
+What would that improvement give you more room for—perhaps comfort, independence, enjoyment, time with someone or a feeling of safety?
 
 ### One small step
 
 Choose one sign of improvement that would make a meaningful difference to your life.
 
-It might be something related directly to your symptoms, such as shorter episodes or less pain.
+It could involve symptoms, but it might also mean preparing a meal, spending time with someone or returning to your usual activities more easily after an episode.
 
-Or it could be something else:
-
-- Feeling safer during an everyday activity.
-- Preparing part of a meal.
-- Spending more time with someone you care about.
-- Becoming more comfortable asking for help.
-- Returning to your usual level more easily after an episode.
-
-If you wish, write down one sentence describing that improvement.
-
-You don't need to track it every day. It's simply a way to recognize something that matters to you.
+You can remember that possibility without tracking it every day.
 
 ### Optional learning activity
 
