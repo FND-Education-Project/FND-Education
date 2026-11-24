@@ -4,7 +4,7 @@
 
 # Mobility Aids, Wheelchairs, Seating, and Fall Safety
 
-> **Editorial status:** The Person narrative is human-authored and approved for editorial preservation; its Thought–Heart–Activity reflections and clinical/source audit remain pending. Supporter and Clinician sections remain working drafts seeking review.
+> **Editorial status:** The Person narrative and its Thought–Heart–Activity reflections are lead-approved for editorial preservation. Clinical/source audit remains pending. Supporter and Clinician sections remain working drafts seeking review.
 
 There is no honest rule that says every person with FND should use an aid—or that no person with FND should.
 
@@ -244,9 +244,21 @@ That is why equipment decisions are best understood as individualized choices th
 
 *These are individual community experiences, not proof that a particular aid is suitable for everyone; original wording and context require verification before publication.*
 
-### Thought, Heart, and Activity — editorial review pending
+### Something to think about
 
-*The project lead has approved the Person narrative for editorial preservation. Three personal Thought–Heart–Activity reflections will be developed against the course-wide progression and reviewed separately; the older generated questions have not been adopted.*
+Have you ever felt you needed to prove how much you could do before someone would believe how much you struggle? How did that affect your decisions, and what might you have chosen if you hadn't felt that pressure?
+
+### How might that feel?
+
+What feelings have you experienced when someone was genuinely trying to help, but needing their help was difficult for you?
+
+### One small step
+
+Think of something you'd like to do but find difficult or unsafe without support. Try finishing this sentence:
+
+*“I'd like to be able to ___, and having ___ available might help me take part.”*
+
+You don't need to request or try anything today. Thinking about what would make the activity possible is enough.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
