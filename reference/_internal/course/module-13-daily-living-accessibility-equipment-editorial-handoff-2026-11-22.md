@@ -1,7 +1,7 @@
 # Module 13 — Daily Living, Accessibility, and Equipment: editorial and human-authoring handoff
 
 **Prepared:** November 22, 2026  
-**Status (updated November 23, 2026):** The **Lesson 39 Person narrative about Aliyah and Beth has been human-reviewed and committed for editorial preservation**, while its Thought–Heart–Activity questions remain **pending lead approval**. All other Module 13 audience sections remain generated working drafts with quotation seeds; no independent clinical or quotation review is implied. This handoff defines voice, lesson boundaries, source candidates and approved decisions.  
+**Status (updated November 24, 2026):** The **Lesson 39 Aliyah/Beth Person narrative and its lead-selected Thought–Heart–Activity reflections are committed**. The **Lesson 40 Callum/father Person narrative has now also been approved for editorial preservation and committed**, with its THA reflections still pending. The Lesson 40 Supporter concept is separately committed as an unapproved *handoff seed*, not published as completed human-authored prose. All other Module 13 audience sections remain generated working drafts. No independent clinical or quotation review is implied.  
 **Working PR:** [Module 13 PR #215](https://github.com/FND-Education-Project/FND-Education/pull/215), branch `editorial/module-13-daily-living-handoff-20261122`, currently based on `main`. Parent [Module 12 PR #210](https://github.com/FND-Education-Project/FND-Education/pull/210) and [THA PR #214](https://github.com/FND-Education-Project/FND-Education/pull/214) were merged before this human-authoring commit. Preserve their approved prose and reflections.
 
 ## 1. Sources reviewed and editorial authority
@@ -247,4 +247,17 @@ The appointment paperwork was on the kitchen table. His father caught himself re
 
 **Revision priorities:** Find the father's individual voice and grounded details rather than stacking generalizations. Preserve slow accumulation of worry, ordinary parent–teen boundaries, and specific uncertainty about school transfers. Avoid melodrama, making caregiver injury inevitable, depicting a successful lift as a transferable skill, claiming the application was refused, assuming friends have already transferred Callum, or casting the clinician/school as an automatic villain. Consider how to make the scene distinct from the Person narrative rather than recapping the same transfer and appointment. It is permissible to replace most of this draft while keeping its insight.
 
-**Next step:** The project lead requested to **try the Lesson 40 Person scene in chat**. The Person narrative is **not** yet authorized for commitment in this direction. Keep the live Lesson 40 pages unchanged until separately approved.
+**Superseded by the November 24 approval below:** The lead subsequently reviewed the Lesson 40 Person story, edited two expressions, and authorized its editorial preservation after paragraph consolidation. The original seed text above remains historical planning context.
+
+
+## November 24 — Lesson 40 Person approved and committed after paragraph consolidation
+
+The project lead judged the Lesson 40 Callum/father Person story **ready for commitment**, with the narrow request to combine overly frequent one-sentence paragraphs. The human-authored narrative was committed to `course/module-13-daily-living-accessibility-and-equipment/02-mobility-aids-wheelchairs-seating-and-fall-safety.md`, commit `bfbd94baeba67bfe968695c1bf8c59d5b97123e7`, on PR #215.
+
+**Preserve the lead's inline edits** to Callum's humor ("made jokes that hopefully people laughed at") and the father's reaction ("that was way harder than I expected"). The editor consolidated **89 adjacent prose paragraphs**, reducing 193 original draft paragraph blocks to 104 without cutting the plot, character dialogue, or clinical reasoning. The core narrative remains about **3,024 words**—longer than the usual target; any later reduction requires the lead's separate approval, prioritizing lived reality and advanced reasoning over an arbitrary quota.
+
+**Story progression:** Five months of worsened functional walking; public irregular steps, embarrassment and mixed peer reactions; near-collapse during a home transfer and safety considerations for the father; bathroom access as a necessary rather than optional transfer; informal unsafe peer assistance at school; Callum's own idea to request wheelchair access; an OT genuinely questioning fit, rehabilitation opportunity, and transfers; a properly assessed **four-wheeled seated rollator** recommended for **supervised trial** with individual limits and a separate plan for times Callum cannot bear weight. Wheelchair access remains a possible future option, not categorically excluded. Avoid treating a rollator seat as a transport chair or a solution to full loss of transfers.
+
+**Editorial status:** Person narrative **lead-approved for preservation**, not final publication readiness. Community quotations remain unverified candidates; the existing relevant reference illustration remains; original Supporter and Clinician auto-drafts and research/sources remain unchanged. The old autogenerated Person reflection questions have not been carried over: three personalized **Thought–Heart–Activity** questions must be developed and approved using the internal progression. Course-wide inventory now notes the temporary absence of matching approved prompts.
+
+**Next lesson:** Lesson 41 covers **sensory, home and communication access**; no character choice or story has been authorized yet.
