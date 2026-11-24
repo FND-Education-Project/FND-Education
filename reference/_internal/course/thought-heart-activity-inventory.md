@@ -903,7 +903,21 @@ If it's safe and manageable, you might try that change and notice what happens. 
 
 [Source lesson](../../../course/module-13-daily-living-accessibility-and-equipment/01-adapting-personal-care-and-household-tasks.md) · Module 13
 
-**No matching reflection/activity headings in this Person section.**
+**Thought** (source heading: *Something to think about*)
+
+Have you ever pushed yourself to finish something because you felt you *should* be able to do it? What were you thinking at the time, and might there have been another way to handle the situation?
+
+**Heart** (source heading: *How might that feel?*)
+
+When someone else does more than you're able to do, what feelings have you experienced? Can you appreciate their help while also feeling frustrated, guilty or sad about needing it?
+
+**Activity** (source heading: *One small step*)
+
+Think of an ordinary situation where accepting help might be difficult. Try completing this sentence:
+
+*“I'd like to keep doing ___ because ___ matters to me, but I could change or get help with ___.”*
+
+You can simply think about your answer. You don't need to have someone available to help.
 
 ### Lesson 40 — Mobility Aids, Wheelchairs, Seating, and Fall Safety
 
