@@ -217,3 +217,34 @@ An **appropriately assessed wheelchair for selected school distances, outings or
 - **~250–350 words:** Apply knowledge from previous course lessons to meaningful access-versus-risk reasoning; introduce distinct clinical concepts once, rather than repeating narrative already understood. End with 3 genuinely personal Thought–Heart–Activity questions, not quiz questions.
 
 This is a **planning brief**, not human-approved finished Lesson 40 prose or a commitment to a specific device. The word allocations are flexible, and meaningful scene/dialogue outweigh arbitrary quotas. The Supporter section should give the father a **distinct interior perspective on cumulative health-related strain**, and the Clinician section a **separate real decision with tradeoffs and limitations** rather than retell the same events. Lessons 41–42 remain unassigned until the lead supplies their ideas.
+
+
+## November 24 — Lesson 40 Supporter scene seed, saved for revision
+
+**Project-lead instruction:** Commit the earlier **Supporter scene idea** because it is a worthwhile starting point, **not because its final wording has been approved**. This is a **working seed** for the public Supporter section, not an instruction to paste it unchanged or a completed Supporter lesson. It must be revisited after the Person narrative is shaped.
+
+### Earlier concept explicitly preserved
+
+> Callum's father has spent almost two years worrying about his son's future, going to appointments, helping at home and watching his son lose ordinary teenage experiences. He isn't necessarily upset by one application form.
+>
+> He may be worn down by the prospect of explaining the same problems again, especially when those problems vary from day to day.
+>
+> Perhaps he even finds himself rehearsing how to answer questions before the assessment. Not because he intends to exaggerate, but because he's afraid that an unusually good day will leave the assessor with an incomplete picture.
+
+The supporter perspective must take seriously **the hidden accumulation of health-related fear, disappointing encounters, practical responsibility and interrupted normal life**. The recent five-month worsening of gait and a physically difficult transfer give the father a *specific* problem to act upon, but should not be presented as the whole cause of his concern. He is still a father, not just an unpaid lifting service; Callum is still his teenage son, not a problem to be managed.
+
+### Rough opening to test in a later Supporter draft — **unapproved**
+
+Callum's father had spent nearly two years learning to ask useful questions about FND. He knew his son might walk across the living room in the morning and struggle to reach the kitchen later. Lately, though, there had been more difficult days than usual. For five months he had tried not to use words like *permanent*, even in his own thoughts.
+
+Helping Callum change seats that afternoon left him unexpectedly short of breath. His son was seventeen and nearly grown. For a moment, when Callum's legs stopped holding his weight as expected, his father had felt his own back protest. They stopped and got Callum safely seated, but the effort stayed with him long after his breathing returned to normal.
+
+He had held his son as a baby, carried him upstairs when he fell asleep, and once lifted him out of a swimming pool because he refused to leave. Those memories made Callum's weight a surprise, but not an inconvenience. The frightening part was realizing that loving his son didn't give him the strength—or the training—to keep doing this safely.
+
+That evening he found himself thinking about school rather than the sofa. Who was nearby if Callum couldn't stand between classes? Did anyone know how to help without hurting him? Had he asked his friends to lift him, assuming they could manage? He wanted to ask without sounding like a detective. Callum was seventeen, not seven.
+
+The appointment paperwork was on the kitchen table. His father caught himself rehearsing what to say if Callum walked well when the assessor watched him. He'd seen that happen before: a good hour could make months of difficulty sound unlikely. But he also knew Callum didn't want to be described only by his worst moments. He set the form aside until they could fill it in together.
+
+**Revision priorities:** Find the father's individual voice and grounded details rather than stacking generalizations. Preserve slow accumulation of worry, ordinary parent–teen boundaries, and specific uncertainty about school transfers. Avoid melodrama, making caregiver injury inevitable, depicting a successful lift as a transferable skill, claiming the application was refused, assuming friends have already transferred Callum, or casting the clinician/school as an automatic villain. Consider how to make the scene distinct from the Person narrative rather than recapping the same transfer and appointment. It is permissible to replace most of this draft while keeping its insight.
+
+**Next step:** The project lead requested to **try the Lesson 40 Person scene in chat**. The Person narrative is **not** yet authorized for commitment in this direction. Keep the live Lesson 40 pages unchanged until separately approved.
