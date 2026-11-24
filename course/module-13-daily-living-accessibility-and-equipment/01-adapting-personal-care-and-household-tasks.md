@@ -502,9 +502,21 @@ Aliyah took her tea. "We'll discuss it."
 
 *Quotation candidates carried forward from the generated draft. Their relevance and exact original wording must be reviewed before publication.*
 
-### Thought, Heart, and Activity — editorial review pending
+### Something to think about
 
-*The end-of-lesson reflections are awaiting project-lead approval against the course-wide Thought–Heart–Activity progression. The previously generated questions have not been adopted as the reflections for this human-authored story.*
+Have you ever pushed yourself to finish something because you felt you *should* be able to do it? What were you thinking at the time, and might there have been another way to handle the situation?
+
+### How might that feel?
+
+When someone else does more than you're able to do, what feelings have you experienced? Can you appreciate their help while also feeling frustrated, guilty or sad about needing it?
+
+### One small step
+
+Think of an ordinary situation where accepting help might be difficult. Try completing this sentence:
+
+*“I'd like to keep doing ___ because ___ matters to me, but I could change or get help with ___.”*
+
+You can simply think about your answer. You don't need to have someone available to help.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
