@@ -923,7 +923,21 @@ You can simply think about your answer. You don't need to have someone available
 
 [Source lesson](../../../course/module-13-daily-living-accessibility-and-equipment/02-mobility-aids-wheelchairs-seating-and-fall-safety.md) · Module 13
 
-**No approved Thought–Heart–Activity reflection headings yet in this Person section.** The human-authored narrative is saved for editorial preservation; the previous generated questions were not adopted.
+**Thought** (source heading: *Something to think about*)
+
+Have you ever felt you needed to prove how much you could do before someone would believe how much you struggle? How did that affect your decisions, and what might you have chosen if you hadn't felt that pressure?
+
+**Heart** (source heading: *How might that feel?*)
+
+What feelings have you experienced when someone was genuinely trying to help, but needing their help was difficult for you?
+
+**Activity** (source heading: *One small step*)
+
+Think of something you'd like to do but find difficult or unsafe without support. Try finishing this sentence:
+
+*“I'd like to be able to ___, and having ___ available might help me take part.”*
+
+You don't need to request or try anything today. Thinking about what would make the activity possible is enough.
 
 ### Lesson 41 — Sensory, Home, and Communication Access
 
