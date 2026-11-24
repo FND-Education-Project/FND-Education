@@ -923,15 +923,7 @@ You can simply think about your answer. You don't need to have someone available
 
 [Source lesson](../../../course/module-13-daily-living-accessibility-and-equipment/02-mobility-aids-wheelchairs-seating-and-fall-safety.md) · Module 13
 
-**Earlier questions** (source heading: *Questions*)
-
-#### Where would a mobility aid give you access that you do not have now?
-
-#### What fear or judgement has made this decision harder for you?
-
-**Activity** (source heading: *One small thing you can do*)
-
-Name one journey or task and the barrier within it. If falls, transfers, pressure, pain or fitting are involved, take that goal to an occupational therapist, physiotherapist or suitable equipment service rather than borrowing or buying blindly.
+**No approved Thought–Heart–Activity reflection headings yet in this Person section.** The human-authored narrative is saved for editorial preservation; the previous generated questions were not adopted.
 
 ### Lesson 41 — Sensory, Home, and Communication Access
 
