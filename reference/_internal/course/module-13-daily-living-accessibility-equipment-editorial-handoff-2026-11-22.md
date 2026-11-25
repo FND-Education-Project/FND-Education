@@ -340,3 +340,18 @@ The project lead approved Nadia's **Lesson 41 Person narrative** after requestin
 - **Activity:** Imagine an activity you share with someone else. Think about what each of you needs to feel comfortable and safe. What's one small change that might make the activity easier for both of you? You can simply imagine the possibilities. There's no need to arrange anything today.
 
 These three reflections were committed to the public Person section of Lesson 41 and synchronized with `reference/_internal/course/thought-heart-activity-inventory.md`. The narrative remains lead-approved for editorial preservation; evidence/quotations and clinical/assistive-technology review remain pending. The Elise Supporter seed is still unapproved public prose.
+
+
+## November 25 — Lesson 42 Person narrative approved, committed; THA pending
+
+The project lead approved the **second revised version** of Lesson 42 Person, **Try and Review Equipment as Needs Change**, and requested committing it before reviewing Thought–Heart–Activity choices. Committed as `c2c2517c1d25e661a7560f2fd015ea75d94eb45a` to `course/module-13-daily-living-accessibility-and-equipment/04-trying-and-reviewing-equipment-as-needs-change.md` in PR #215. The Person section is approximately **1,766 whitespace-delimited words including the preserved illustration, quote candidates and pending THA notice**; final approved questions will add modest length.
+
+**User-approved editorial decisions:**
+- Educational prose carries the teaching, with short familiar examples: **Callum's rollator at school and follow-up OT appointment**, **Aliyah's laundry routine**, and **Nadia's kitchen, earplugs and lighting**. Do not replace the hybrid with another full character narrative.
+- The first longer educational draft was rejected for **too many lists**, heavy working-memory demands for people with FCD, and too much negative framing. The lead approved the shorter, positively framed revision with connected paragraphs; maintain its slower cognitive pacing and accessible language for readers **aged 14 and up**.
+- Define **equipment trial** and **review** briefly. Teach one idea at a time: a goal stated as something the person wants to do; benefits alongside problems to solve; ordinary life and different kinds of days over a single clinical snapshot; participation as a valid benefit without requiring symptom reduction; review as a supportive look at fit and changing needs rather than automatic removal; prompt attention to unsafe equipment or new symptoms; and practical access/funding barriers.
+- Preserve Callum's "Mostly" opening and his question **"If I say I'm walking better, are you going to take it away?"**. Preserve the positive answer, rehabilitation and school access as compatible goals, and a practical **museum trip still needing its own plan**. No invented successful museum outcome.
+- Close the module by connecting the three characters and the refrain **"What do I want to be able to do?"**. Avoid multiple lists or repetitive recap.
+- Existing illustration and **unverified** community quotation candidates remain in Person, with existing Supporter, Clinician, numbered research and navigation preserved unchanged. Independent evidence, community quotation, medical and accessibility review remain pending.
+
+**THA:** new Thought–Heart–Activity prompts will be selected by project lead; the earlier machine-generated questions are not approved. Keep them short, one idea at a time, positively framed, and optional without remembering a detailed timeline, owning aids, logging symptoms or taking an unsafe action. The lesson is editorially preserved, not final publication cleared.
