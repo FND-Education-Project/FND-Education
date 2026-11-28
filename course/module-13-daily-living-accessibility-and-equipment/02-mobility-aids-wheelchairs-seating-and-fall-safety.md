@@ -289,25 +289,125 @@ Do not hide an aid to make someone “try harder,” or insist on it when they h
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### When walking practice meets the school corridor
 
-**Option 1 — Nicholson et al., 2020**
+Callum is seventeen and has lived with FND for nearly two years. His walking has become substantially less reliable over the past five months. At times, one foot appears to stick while the rest of his body continues moving. His knees may give way unexpectedly, and his steps can become unusually wide.
 
-> “independence in activities of daily living”
+His physiotherapist has been working with him on walking and movement. During some appointments, Callum manages short distances reasonably well. At school, however, he has experienced several near-falls, and his ability to reach the next classroom has become unpredictable.
 
-**Option 2 — Mohammadi et al., 2026**
+An occupational therapist assessing his daily mobility has been asked about a wheelchair.
 
-> “a multidimensional approach to falls assessment”
+The physiotherapist understands why the request has arisen. She also wants to preserve opportunities for Callum to practise walking safely, particularly while his medical team investigates the sustained deterioration.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+The occupational therapist has a related concern. Walking practice may be worthwhile, but Callum needs a dependable way to reach his classes now.
 
-### Prescribe for function, not ideology
+The two professionals are not necessarily recommending incompatible approaches. They are trying to address different parts of Callum's situation.
 
-Assess the person's chosen task, gait or transfer pattern, variability, falls, injuries, strength, pain, fatigue, cognition, sensory or vestibular factors, home and community setting, transport and coexisting conditions. Consider immediate access and safety alongside conditioning and rehabilitation goals.
+Callum puts the immediate problem more plainly.
 
-FND occupational-therapy guidance includes cautious, goal-led equipment use, but comparative trials of aid strategies are lacking. Document the indication, fitting and training, benefit, burden, maintenance and review point. Avoid both blanket prohibition and automatic prescription. (*citation* [1](#citation-1))
+"I can practise walking in therapy. But what am I supposed to do when I can't get to my next class?"
 
-Persistent disability deserves continued equipment, pressure, pain, bone-health, falls and participation review even when symptom improvement is limited.
+His question makes the purpose of an aid particularly important. The decision is not simply whether Callum retains the ability to walk. It concerns which forms of mobility he can use safely in different circumstances and how those choices might affect his rehabilitation.
+
+*For Callum's experience at school and his first equipment assessment, see [the Person section](#for-the-person-with-fnd).*
+
+### What does the evidence support?
+
+Occupational therapy consensus recommendations for FND, published by Nicholson and colleagues in 2020, discuss rehabilitation, independence in daily activities and individualized consideration of equipment. The recommendations reflect concern that equipment may sometimes become unhelpful, particularly when it replaces movement that a person could otherwise practise safely. (*citation* [1](#citation-1))
+
+That concern has a plausible clinical basis. A device changes how someone moves through the environment and may change their opportunities for physical activity. Poorly matched equipment can also introduce difficulties with balance, transfers and other activities.
+
+Whether those effects occur depends on the person, the equipment and how it is used.
+
+The consensus document does not establish that wheelchair use causes persistent disability in FND, or that avoiding a wheelchair improves long-term walking outcomes. Those questions would require suitable comparative research.
+
+The evidence about falls raises a related issue.
+
+Mohammadi and colleagues' 2026 study examined falls and associated factors in people with FND. (*citation* [2](#citation-2)) It contributes to understanding falls as an important clinical concern in the studied population, rather than treating unusual walking patterns as merely an appearance of instability.
+
+Its findings cannot determine Callum's individual fall risk, however, and the study was not a comparison of rollators, wheelchairs or other mobility strategies.
+
+The publications therefore inform different parts of the decision. Rehabilitation guidance provides a rationale for considering how equipment may affect movement practice. Falls research supports taking safety seriously. Neither selects Callum's equipment for him.
+
+The clinical question remains what his walking permits in the circumstances that matter, and what risks accompany each proposed alternative.
+
+### What is the aid expected to accomplish?
+
+The occupational therapist asks Callum about the wheelchair he has requested.
+
+He explains that some days he can walk between classrooms, although he may need additional time. On more difficult days, his legs become unreliable before he reaches his destination. He is particularly worried about busy corridors, where an unexpected movement could cause him to collide with another student.
+
+His initial request was for a wheelchair because he wanted another way to get around when walking became unsafe.
+
+That does not establish whether a wheelchair is the best option. It does establish the problem the equipment needs to address.
+
+The clinicians consider what Callum can manage while walking with support. His ability to control a device matters as much as whether it provides physical support. A wheeled aid could become hazardous if his irregular steps cause it to move beyond his control.
+
+A seated rollator offers one possibility. It may allow him to continue walking when he has sufficient control, with an available place to rest before continuing.
+
+During a supervised assessment, Callum manages the device sufficiently well to make a trial reasonable. He practises controlling its movement and using the brakes before sitting. His walking remains irregular, and the clinicians recognize that success during an appointment cannot establish safety on every school day.
+
+The rollator has another important limitation. If Callum suddenly becomes unable to bear weight, he may not be able to reach its seat or transfer onto it safely. It is not designed to transport him while seated.
+
+Callum understands that the aid could make some journeys easier without providing an answer for every episode of unreliable walking.
+
+The clinicians agree that a supervised trial is worth considering within the situations where he can use it safely.
+
+A wheelchair remains an option if his walking cannot reliably support activities that matter to him, or if the rollator proves unsuitable. That decision would bring its own assessment questions, including transfers, seating, propulsion and the environments in which it would be used.
+
+### The problem that equipment hasn't solved
+
+A separate difficulty becomes apparent when Callum's father describes a recent transfer at home.
+
+Callum had been unable to rise from the sofa. His father offered assistance, but Callum's legs unexpectedly yielded, transferring much more of his weight onto his father than either anticipated. They managed to stop the attempt without an injury, although his father struggled to support him.
+
+Similar difficulties have arisen at school. On one occasion, classmates physically helped Callum rise from a bench when he could not stand.
+
+The immediate concern is not whether those people were trying to help. They were responding to a genuine problem without a reliable plan.
+
+Neither a rollator nor a wheelchair automatically resolves unsafe transfers. A wheelchair may provide an alternative to walking between rooms, but Callum would still need to move between seating surfaces. The safety of those movements cannot be inferred from his ability to stand during a better period.
+
+This is where the physiotherapist's and occupational therapist's contributions become particularly complementary.
+
+The physiotherapist may examine what movement Callum can reliably produce under different circumstances and what assistance is safe within her professional competence. The occupational therapist can consider the transfers required at home and school, the available surroundings and whether equipment changes those demands.
+
+Their shared concern is a practical one: what happens when Callum cannot stand safely at the moment he needs to move?
+
+A school plan cannot depend on classmates improvising a lift. Nor should his father be expected to manage unpredictable weight-bearing simply because he has helped Callum on previous occasions.
+
+A suitable arrangement may involve trained assistance, environmental changes, equipment or another response appropriate to the assessed circumstances. The particular solution depends on information that is not yet available.
+
+Meanwhile, Callum's worsening mobility remains a reason for continued medical assessment. An established FND diagnosis should inform that assessment without automatically accounting for every change in his ability to walk or transfer.
+
+### One device, several environments
+
+Callum's supervised rollator trial is encouraging. He can sometimes walk with support and finds the possibility of sitting when needed appealing.
+
+The school environment introduces further demands. Corridors can be crowded, turning spaces limited, and periods between classes relatively short. A device that works in an uncluttered assessment room may behave differently around other students.
+
+The school also has an upcoming science museum visit.
+
+Callum would like to attend with his classmates, but the museum requires more than moving between classrooms. There may be longer distances, extended periods away from familiar seating and transport arrangements that affect which equipment is practical.
+
+Success with the rollator at school would not necessarily settle whether it is suitable for that outing.
+
+The clinicians can approach the museum visit as a separate access question, informed by the demands of the trip and Callum's actual mobility. Additional support or a wheelchair assessment might be appropriate without invalidating the rollator's usefulness elsewhere.
+
+This also offers a way to preserve rehabilitation opportunities without making access conditional upon walking.
+
+Callum may be able to practise walking in suitable circumstances while using other assistance when walking is unsafe or insufficient for the activity. Decisions about rehabilitation intensity and mobility equipment can inform one another without requiring a single device to serve every purpose.
+
+### A decision that can be reconsidered
+
+The team proceeds with a supervised rollator trial for the situations where Callum demonstrates sufficient control to use it safely. They also identify the unresolved need for safe transfer arrangements and involve the school in planning appropriate assistance.
+
+The wheelchair question is not closed. It remains available for further assessment if Callum cannot safely manage important activities with the chosen arrangement.
+
+The clinicians have not established whether his walking will improve, what equipment he may need in the longer term or how he will manage the museum trip. Those questions require additional information.
+
+They have, however, avoided allowing uncertainty about future rehabilitation to leave Callum without a practical response to his present difficulties.
+
+**Equipment can support participation while rehabilitation continues. The clinical task is to establish where each form of support is useful, where it may introduce risk, and which needs remain unmet.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -334,8 +434,8 @@ Persistent disability deserves continued equipment, pressure, pain, bone-health,
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Mohammadi Z, Keyvanfar A, Higgins R, et al. Falls in Functional Neurological Disorder: Prevalence, Risk Factors and Clinical Implications. *European Journal of Neurology*. 2026;33(6):e70665. [FND-CIT-0085](../../research/citation-index.md#fnd-cit-0085). [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665) |
+| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | — | Mohammadi Z, Keyvanfar A, Higgins R, et al. Falls in Functional Neurological Disorder: Prevalence, Risk Factors and Clinical Implications. *European Journal of Neurology*. 2026;33(6):e70665. [FND-CIT-0085](../../research/citation-index.md#fnd-cit-0085). [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665) |
 
 This page still needs review by mobility-aid users, wheelchair users, occupational therapists, physiotherapists and seating or falls specialists.
 
