@@ -65,6 +65,16 @@ Before submission: ask whether a clinician could say what was observed, which re
 
 After editorial approval: an independent research/source audit should check original-study relevance, comparison, outcomes, quotations, citation/source index mapping, clinical accuracy, possible omissions, and scope of claims. Editorial approval is **not** independent clinical review, accessibility acceptance, final CI or merge authorization.
 
+## Additional course-wide editorial safeguards — project-lead approved November 28, 2026
+
+The following three refinements are **course-wide writing requirements** drawn from the human review of the Lesson 39 Clinician draft. Apply them alongside the reasoning/evidence/voice method above:
+
+1. **Do not manufacture trivial limitations to sound evidence-conscious.** Explain a study's limits only where the distinction matters to a real clinical inference. Avoid absurdly specific examples such as claiming an OT consensus document did not prove the efficacy of moving a laundry basket. Be concrete about research design and implications, without adding defensive qualifications that a knowledgeable reader does not need.
+2. **Trust the case to teach what it already shows.** Do not present a narrative, then restate its entire point in commentary, then repeat it in the conclusion. Analysis should advance the decision through new information, competing interpretations or research—not explain the immediately obvious. Remove redundant recap and overlong endings.
+3. **Use natural, varied language.** Avoid overusing the noun *distinction* and recurring academic templates such as “this raises the question,” “the outcome remains open” or “this changes how we understand.” Prefer precise sentences that name the actual professional problem and what would affect the decision. Do not replace these tics with new repetitive formulas.
+
+**Approved example:** Lesson 39 Clinician, *Adapt Personal Care and Household Tasks*, uses Aliyah's laundry and Callum's bathroom to develop two different clinical questions. This is editorial approval only, not independent evidence or clinical validation.
+
 ## 6. Module 13 application — planning, not approved clinician prose
 
 The module moves from **task analysis** (Lesson 39) through **mobility/transfer and equipment trade-offs** (Lesson 40) and **interacting sensory/home/communication access** (Lesson 41) to **reviewing a real-world aid over time** (Lesson 42). OT, physiotherapy, speech-language, medical and equipment services enter where relevant to a specific decision rather than being represented by a roll-call of occupations. Clinical consensus about FND adaptations and aids must not be presented as proof of specific long-term equipment efficacy or harms.
