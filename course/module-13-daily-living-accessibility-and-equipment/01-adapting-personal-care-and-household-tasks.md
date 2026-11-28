@@ -550,25 +550,145 @@ Notice your own safety too. Get advice for lifting and transfers; do not improvi
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### When the task is possible, but the day isn't
 
-**Option 1 — Nicholson et al., 2020**
+Aliyah is twenty-one and has lived with FND since she was seventeen. She experiences unreliable walking, persistent dizziness and fatigue. She works from home as a bookkeeper and shares an apartment with Beth, a friend who provides occasional practical assistance.
 
-> “rehabilitation within functional activity”
+During a home visit, an occupational therapist observes Aliyah managing her laundry.
 
-**Option 2 — Rezaei and Stanley, 2025**
+Aliyah has arranged much of the routine around her abilities. She sorts clothes while seated, slides a lightweight basket along the hallway and uses her walker between rooms. Her washing machine sits beneath a stacked dryer, making the transfer of wet clothes particularly demanding.
 
-> “disruptions in daily life due to symptoms”
+She demonstrates the process carefully and explains the changes she's made.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+"You've worked out quite a good system," the therapist observes.
 
-### Begin with the person's activity
+"I have," Aliyah replies. "It's the third trip that gets me."
 
-Assess what the person needs or wants to do, the task sequence, symptom variability, cognition, sensory load, pain, fatigue, strength, the environment and available help. Separate FND-related difficulty from injury, joint problems, cardiopulmonary limits, visual or vestibular conditions and other coexisting causes. More than one can be present.
+She explains that she can usually begin the laundry comfortably in the morning. Later, her dizziness takes longer to settle, and she has to concentrate more on controlling her steps. Completing several loads can leave her struggling with the bookkeeping work she needs to finish that afternoon.
 
-Agree the goal before suggesting equipment. Trial the smallest useful change, teach safe use and record what changed: safety, assistance, time, effort, participation or recovery afterward. Consensus guidance is useful, but strong comparative evidence for specific daily-living adaptations in FND is limited. (*citation* [1](#citation-1))
+The therapist has seen Aliyah perform part of the task successfully. She now has reason to examine something broader: how much of Aliyah's day the complete routine demands.
 
-When improvement is limited, accessibility and continuing care remain valid goals. Review after falls, skin problems, pain, unsafe transfers, caregiver injury, a major functional change or equipment no longer fitting.
+*For more of Aliyah's experience, see [the Person section](#for-the-person-with-fnd).*
+
+### What is the assessment trying to establish?
+
+Observing Aliyah move the basket and operate the washing machine provides useful information about her movement, balance and existing adaptations. It also shows how effectively she has learned to manage certain difficulties.
+
+Yet her greatest problem may not be the movements themselves.
+
+A morning demonstration cannot reproduce the demands of successive laundry loads, ordinary household activities and several hours of concentrated work. The therapist can learn more by examining how those demands interact than by asking Aliyah to repeat movements she has already performed.
+
+This also makes the goal worth examining.
+
+Aliyah wants to contribute to caring for her home. She takes pride in managing household responsibilities and doesn't want Beth returning from work to another collection of chores. But she also wants to remain capable of doing her paid work and enjoying their evenings together.
+
+If the therapist measures success by whether Aliyah completes the laundry independently, an adaptation might appear successful while leaving her broader difficulty unresolved.
+
+The International Classification of Functioning, Disability and Health provides a useful conceptual framework here. Activity performance and participation in everyday roles are related, but the demands of a particular task are only part of someone's experience of disability.
+
+Nicholson and colleagues' 2020 occupational therapy consensus recommendations for FND support individualized assessment and rehabilitation within meaningful activity. (*citation* [1](#citation-1)) Their guidance helps frame the therapist's approach without supplying a predetermined answer for Aliyah.
+
+Rezaei and Stanley's 2025 qualitative research examines people's lived experiences of FND. (*citation* [2](#citation-2)) Such research complements clinical observation by bringing attention to how people experience disability in daily life. Its contribution is to understanding those experiences rather than comparing specific interventions.
+
+Neither source replaces the information Aliyah provides about her own circumstances. Together, professional guidance and relevant research give the therapist reasons to examine the complete activity and its consequences.
+
+### Finding the useful change
+
+The therapist returns to the third journey Aliyah mentioned.
+
+The stacked dryer could be an important part of the problem. Repeatedly transferring wet clothes upwards requires movements that become more demanding as Aliyah tires. But changing the machines' arrangement might not address every difficulty.
+
+They explore how the laundry fits around her work and which parts she particularly wants to manage herself.
+
+Aliyah already knows how to divide jobs into stages. Another general recommendation to take breaks would add little to her understanding.
+
+An assessment might instead identify an environmental change that reduces demanding transfers. Alternatively, Aliyah and Beth might agree on a different division of household work while preserving the responsibilities Aliyah values.
+
+These choices have different practical implications. Moving appliances may be expensive or impossible in a rented apartment. Sharing the task depends on Beth's availability and what both women consider fair. Neither arrangement should be judged solely by how much physical work Aliyah performs without assistance.
+
+The therapist and Aliyah can select a realistic change to explore, then consider whether it makes household participation more manageable alongside paid work.
+
+The relevant result may be improved participation, even if Aliyah's underlying walking difficulties remain much the same.
+
+### Callum — when standing isn't enough
+
+A second case presents a more immediate problem.
+
+Callum is seventeen and has FND affecting his walking and speech. His walking has become increasingly unpredictable over the previous five months. His knees sometimes give way, and he occasionally requires his father's assistance with transfers.
+
+Until recently, he has generally managed showering independently.
+
+One afternoon, Callum steps into the shower over the family bathtub. He starts washing and reaches for his shampoo. His right leg suddenly gives way, and he falls onto the floor of the tub.
+
+He doesn't think he's injured, but when he tries to work out how to get up, he realizes he cannot do so safely.
+
+His father hears the noise.
+
+"Callum? You okay?"
+
+"I fell."
+
+"Are you hurt?"
+
+"I don't think so."
+
+His father asks whether he needs help. Callum hesitates, embarrassed at the thought of his father entering while he's undressed.
+
+Eventually, he admits that he cannot get up. His father helps arrange assistance without attempting an unsafe lift.
+
+At a subsequent occupational therapy appointment, Callum describes the incident.
+
+The therapist has previously observed him standing and walking short distances. His account now reveals difficulties that examination alone could not adequately establish.
+
+### A different set of physical demands
+
+Callum can sometimes stand and walk with reasonable control. His shower requires more.
+
+He must step over the bathtub edge, remain upright on a wet surface and move his arms while washing. When he reaches for something, he may lose a point of support. Getting out requires another transfer, potentially when his walking has become less reliable.
+
+These demands make the actual bathroom essential to the assessment.
+
+A shower seat might reduce the amount of standing Callum needs to do, but the therapist would still need to understand how he could reach it safely. A seat placed inside the bathtub would not necessarily resolve the difficulty of stepping across its edge.
+
+A handheld showerhead, suitably positioned supplies and secure supports may improve the practicality of seated washing. Whether these are appropriate depends on the whole arrangement, including getting into position and leaving afterward.
+
+Occupational therapy bathing guidance addresses transfer safety, environmental barriers and equipment suitability. These considerations are relevant to Callum regardless of whether his unpredictable movements arise from FND or another condition.
+
+His fall also raises a medical question. Callum describes leg buckling consistent with difficulties he has experienced while walking, but the clinician would want to establish whether this episode had any new features. Loss of awareness, faintness, injury or a changing pattern of collapse could warrant further assessment.
+
+The bathroom difficulty deserves attention now, alongside appropriate consideration of the cause of the fall.
+
+### What independence means to Callum
+
+The occupational therapist asks Callum what he most wants to preserve.
+
+"Showering on my own," he replies.
+
+As they discuss the incident, his concern becomes more specific.
+
+"I don't mind Dad helping me get there. I just don't want him coming in while I'm showering."
+
+His father's assistance with other activities has been valuable, but Callum wants privacy during personal care. That preference affects which arrangements would be acceptable to him.
+
+The therapist explores how Callum could obtain assistance without someone routinely remaining in the bathroom. They discuss whether he can reliably communicate when he needs help, how someone might reach him in an emergency and what assistance his father can safely provide.
+
+His variable speech is relevant. A plan that depends entirely on calling out may be less reliable on a day when speaking becomes difficult.
+
+The possibility of further equipment or bathroom modifications remains open. A properly assessed seat, transfer arrangement or accessible shower entrance might allow Callum to retain more independence, although the family's circumstances may limit what can be changed.
+
+For the present, his bathing arrangements need to account for the recent fall. The therapist and family can consider a safer interim way for him to wash while the bathroom and transfer requirements are assessed, without asking Callum to demonstrate another hazardous shower.
+
+His preferences remain central to that discussion. Independence may mean being able to wash privately with suitable equipment and assistance available when required, rather than managing every movement entirely alone.
+
+### Bringing the assessment back to everyday life
+
+Aliyah's problem is not simply whether she can complete the laundry. It is whether the task can fit into a day that also includes work, household responsibilities and the life she wants with Beth.
+
+Callum's problem involves a different consequence of variable movement: an activity he has generally managed independently has become unsafe in circumstances where privacy matters deeply to him.
+
+Their occupational therapists have useful clinical observations, but neither decision can be made from those observations alone. The person's account, the actual environment and the purpose of the activity determine what further information is needed.
+
+**A meaningful functional assessment connects what someone can do with what they need to do in everyday life—and uses that understanding to identify what might genuinely help.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -589,8 +709,8 @@ When improvement is limited, accessibility and continuing care remain valid goal
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Rezaei O, Stanley M. Understanding the lived experiences of individuals with functional neurological disorder in Australia: an interpretative phenomenological analysis. *Disability and Rehabilitation*. 2025;47(24):6408–6415. [FND-CIT-0081](../../research/citation-index.md#fnd-cit-0081). [https://doi.org/10.1080/09638288.2025.2481986](https://doi.org/10.1080/09638288.2025.2481986) |
+| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | — | Rezaei O, Stanley M. Understanding the lived experiences of individuals with functional neurological disorder in Australia: an interpretative phenomenological analysis. *Disability and Rehabilitation*. 2025;47(24):6408–6415. [FND-CIT-0081](../../research/citation-index.md#fnd-cit-0081). [https://doi.org/10.1080/09638288.2025.2481986](https://doi.org/10.1080/09638288.2025.2481986) |
 
 This page still needs review by people needing help with daily activities, occupational therapists and accessibility reviewers.
 
